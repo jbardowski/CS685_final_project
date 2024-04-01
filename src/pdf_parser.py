@@ -5,29 +5,31 @@ import PyPDF2
 def extract(file_path):
     text = ""
     with open(file_path, 'rb') as f:
-        reader = PyPDF2.PdfFileReader(f)
-        num_pages = reader.numPages
+        reader = PyPDF2.PdfReader(f)
+        num_pages = len(reader.pages)
         for page_num in range(num_pages):
-            page = reader.getPage(page_num)
-            text += page.extractText()  # adding to string... may be better to append str to list?
+            page = reader.pages[page_num]
+            text += page.extract_text()  # adding to string... may be better to append str to list?
     return text
 
 
-def save_text_to_file(text, filename):
-    txt_filename = filename[:-4] + ".txt"  # Change extension to .txt
-    with open(txt_filename, 'w') as file:
-        file.write(text)
+# def save_text_to_file(file_path):
+#     with open(file_path, 'w') as file:
+#         file.write(text)
 
 
-def main_extract(dir='./pdf_docs_raw'):
+def main_extract(raw_dir='./raw_docs', parsed_dir='./parsed_docs'):
     # loop all pdf files in pdf_docs_raw, call extract function, then save to txt file in pdf_docs_parsed
-    for filename in os.listdir(dir):
+    for filename in os.listdir(raw_dir):
         if filename.endswith(".pdf"):
             print(f"About to parse {filename}...")
-            f_path = os.path.join(dir, filename)
+            f_path = os.path.join(raw_dir, filename)
             text = extract(f_path)
-            print("Parsed successfully, saving pdf_docs_parsed...")
-            save_text_to_file(text, filename)
+
+            print(f" Success, saving to txt...")
+            s_path = os.path.join(parsed_dir, filename.replace('pdf', 'txt'))
+            with open(s_path, 'w') as file:
+                file.write(text)
 
 
 if __name__ == "__main__":
