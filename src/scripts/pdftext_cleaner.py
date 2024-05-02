@@ -115,7 +115,7 @@ if __name__ == "__main__":
     final_data = [""]
 
     # Get the current script directory
-    script_dir = os.path.dirname(os.path.abspath(__file__))
+    script_dir = os.path.dirname(os.path.abspath(__file__+ "\\.."))
 
     # Path to the raw documents folder
     raw_docs_path = os.path.join(script_dir, "raw_docs")
@@ -127,8 +127,8 @@ if __name__ == "__main__":
     os.makedirs(parsed_docs_path, exist_ok=True)
 
     # Get a list of PDF files in the raw documents folder
-    pdf_files = [f for f in os.listdir(raw_docs_path) if f.endswith(".pdf")]
-
+    pdf_files = [f for f in os.listdir(raw_docs_path) if f.endswith(".pdf") and f[:-len(".pdf")]+"_parsed.txt" not in os.listdir(parsed_docs_path)]
+    print("Processing: ", pdf_files)
     for pdf_file in pdf_files:
         # Print log statement for the current file
         print(f"Processing file: {pdf_file}")
