@@ -1,0 +1,6303 @@
+Global Impact 
+Report
+
+2021
+
+FPO?Introduction
+
+2
+
+Workflow a better world
+
+A global pandemic. Standing up against racial injustice. 
+Ongoing climate change. We’re living through 
+unprecedented experiences that are forever changing 
+how we think, live, and work.
+
+Such profound change always 
+brings tremendous opportunity:
+
+•  To bring our company together 
+
+and dream big
+
+•  To lean into our purpose of 
+making the world of work, 
+work better for people 
+
+•  To support our customers in their 
+digital transformation journeys 
+
+•  To show empathy and support 
+
+for our employees as they 
+adapt to a fully digital work 
+environment
+
+•  To unite all of our employees 
+around the challenges of 
+the day by creating positive, 
+lasting impact
+
+Our aspirations are high, and 
+our plans are big. We’re fully 
+committed to becoming the 
+defining enterprise software 
+company of the 21st century:
+
+•  One that helps our employees, 
+customers, shareholders, and 
+communities thrive
+
+•  One that leads with our core 
+
+business, our Now Platform®, and 
+solutions to workflow a world 
+that’s more sustainable, more 
+equitable, and more ethical
+
+The stories from this past year 
+demonstrate the power of our 
+employees and our workflow 
+solutions to change the world—
+helping our business, our 
+customers, and our communities 
+achieve the boldest of goals. 
+
+Section TitleServiceNow Global Impact Report 2021About this report
+
+3
+
+Our Global Impact Report marks the first time we’ve publicly reported on 
+
+our environmental, social, and governance (ESG) programs and initiatives 
+
+in a comprehensive way. Although much of this work isn’t new, we’re just 
+
+beginning our ESG reporting journey. This report covers our efforts to 
+
+identify our most material ESG issues, articulate our global impact strategy, 
+
+and establish a baseline from which we’ll enhance both our performance 
+
+and disclosure in the coming years. It details our efforts and aspirations 
+
+across our global impact strategy.
+
+We’ll drive oversight of our global impact strategy through a newly 
+
+established ESG steering committee, under the guidance of our board 
+
+of directors’ nominating and governance committee. (You can see our 
+
+full chain of oversight here.) When preparing our report, we considered 
+
+recommended disclosures from the Global Reporting Initiative (GRI) and the 
+
+Sustainability Accounting Standards Board (SASB) Software and IT Services 
+
+Standard. For more information on our ESG materiality issues, see our data 
+
+annex at the end of this report.
+
+Unless otherwise noted, the data reflected in this report covers ServiceNow’s 
+
+global operations for fiscal year 2020, representing Jan. 1 through Dec. 31, 
+
+2020. This report contains figures that have been rounded or approximated. 
+
+Certain reclassifications of data from previous public disclosures may be 
+
+made to conform to current period presentation.
+
+ServiceNow Global Impact Report 2021IntroductionLetter from our CEO
+
+4
+
+ServiceNow’s purpose centers on people—dreaming, innovating, and 
+creating a better world for everyone. So, when the events of 2020 turned 
+the world upside down, we stepped up to make a difference. We listened, 
+we learned and, most importantly, we supported our customers, employees, 
+and communities through a series of interconnected crises. We’ve always 
+stayed true to our purpose of making the world of work, work better 
+for people. This purpose guides us and inspires us as we tackle this 
+once-in-a-generation opportunity to change the way the world works. 
+
+In 2020, we brought together our environmental, social, and governance 
+(ESG) initiatives under one strategy to use the collective strength of our 
+employees, our Now Platform and workflows, our partnerships, and our 
+financial resources. Our global impact efforts are becoming part of our 
+DNA here at ServiceNow. We have a bold overarching vision: to workflow 
+a better world. We will harness the reach of our business and power of our 
+Now Platform to help our customers and stakeholders workflow positive 
+ESG outcomes. We are on a mission to help everyone succeed.  
+
+We’re proud to share with you our first Global Impact Report to give you 
+insights into the ESG issues most important to the success of our business 
+and our stakeholders. We’ll do this by focusing on three strategic pillars:   
+
+• 
+
+Sustaining our planet—by championing a resource-efficient, net zero 
+carbon environment
+
+•  Creating equitable opportunity—by making work more equitable, 
+
+accessible, and rewarding for all people  
+
+•  Acting with integrity—by building trust through ethical, transparent, 
+
+and secure business practices
+
+Here’s to making incredible progress in 2021 and beyond! 
+
+With gratitude, 
+
+Bill McDermott 
+President and Chief Executive Officer 
+ServiceNow
+
+Our ambition is to become 
+the defining enterprise 
+software company of the 
+21st century—one that 
+helps our employees, 
+customers, shareholders, 
+and communities thrive 
+and create positive impact 
+on the world.
+
+ServiceNow Global Impact Report 2021Introduction 
+Contents
+
+Our vision
+
+Workflow a
+better world
+
+Environment
+
+Sustaining
+our planet
+
+Social
+
+Creating equitable
+opportunity
+
+Governance
+
+Acting with 
+integrity
+
+Data
+
+Annex
+
+5
+
+10
+
+19
+
+29
+
+42
+
+51
+
+ServiceNow Global Impact Report 2021IntroductionUse of forward-looking 
+statements
+
+6
+
+This report contains “forward-looking statements” that are based on our 
+
+management’s beliefs and assumptions and on information currently 
+
+available to management. Such forward-looking statements include 
+
+information concerning our possible or assumed global impact strategy 
+
+relating to future operations, potential growth opportunities, and plans 
+
+and objectives of management. Forward-looking statements include all 
+
+statements that are not historical facts and can be identified by terms 
+
+such as “anticipates,” “believes,” “could,” “seeks,” “estimates,” “targets,” 
+
+“expects,” “intends,” “may,” “plans,” “potential,” “predicts,” “prospects,” 
+
+“projects,” “should,” “will,” “would,” or similar expressions and the negatives 
+
+of those terms, although not all forward-looking statements contain these 
+
+identifying words. Forward-looking statements involve known and unknown 
+
+risks, uncertainties, assumptions, and other factors that may cause our 
+
+actual results, performance, or achievements to be materially different 
+
+from any future results, performance, or achievements expressed or implied 
+
+by the forward-looking statements. Factors that may cause actual results 
+
+to differ materially from those in any forward-looking statements include, 
+
+without limitation, changes in global economic conditions; unexpected 
+
+delays, difficulties, and expenses in executing against our ESG goals set 
+
+forth in this report; and changes in the environmental regulatory landscape. 
+
+Further information on factors that could cause or contribute to such 
+
+differences include, but are not limited to, those discussed in the section 
+titled “Risk Factors” in our most recent Annual Report on Form 10-K and 
+
+our most recent Quarterly Report on Form 10-Q filed with the Securities 
+
+and Exchange Commission (SEC) and in our other SEC filings. We cannot 
+
+guarantee that we’ll achieve the plans, intentions, or expectations disclosed 
+
+in our forward-looking statements, and you should not place undue 
+
+reliance on our forward-looking statements. Forward-looking statements 
+
+represent our management’s beliefs and assumptions only as of the date 
+
+of this report. We undertake no obligation, and do not intend to update the 
+
+forward-looking statements. 
+
+ServiceNow Global Impact Report 2021IntroductionAbout ServiceNow
+
+We make the world of work, 
+work better for people
+
+We believe that behind every great experience is 
+
+a great workflow. Our company, platform, products, 
+
+and brand are built with the knowledge that the future 
+
+of work is getting smarter, and we can improve people’s 
+
+lives by making work more meaningful and fulfilling. 
+
+Our solutions create great experiences, unlock 
+
+productivity, and strengthen economies, societies, 
+
+and the environment.
+
+The platform of platforms for 
+the workflow revolution
+
+7
+
+13,000+
+
+employees
+
+73
+
+offices
+
+30
+
+datacenters
+
+29
+
+countries
+
+$4.286B
+
+subscription revenues
+
+32%
+
+YoY growth
+
+~6,900
+
+enterprise customers
+
+~80%
+
+of Fortune 500 use ServiceNow
+
+98%
+
+renewal rate
+
+#1 on FORTUNE® Future 50 2020
+
+FORTUNE® World’s Most Admired 
+Companies™ 2021
+
+Great Place to Work® certified 
+
+Forbes Just 100, #77
+
+© 2021 FORTUNE Media IP Limited. All rights reserved. Used under license. Future 
+50 and World’s Most Admired Companies are trademarks of FORTUNE Media IP 
+Limited and are used under license. FORTUNE and FORTUNE Media IP Limited 
+are not affiliated with, and do not endorse products or services of, ServiceNow.
+
+Silicon Valley Business Journal Top 50 
+
+Philanthropists, #26
+
+ServiceNow Global Impact Report 2021IntroductionNow, more than ever
+
+8
+
+The challenges of 2020 forever changed the way people 
+
+Throughout this report, you’ll see again and again 
+
+work—validating our purpose to make the world of work, 
+
+how we’re capitalizing on the collective strengths of 
+
+work better for people. In doing so, we can make the 
+
+ServiceNow to create positive change in the world. 
+
+world work better, too. 
+
+As we consider the progress we’ve made and look ahead 
+
+to what’s next, we know there’s much more work to do. 
+
+This report outlines the three key pillars of our global 
+
+impact strategy and shares our goals, metrics, progress, 
+
+and aspirations for each.
+
+Building off the ESG materiality assessment we 
+conducted with third-party sustainability adviser BSR, 
+
+we’ve set an ambitious course for the future, including 
+
+our bold new environmental goals. We’ll set additional 
+
+goals and commitments in the coming year. 
+
+Our strong employee engagement, the power of 
+
+the Now Platform and our market-leading product 
+
+workflows, our broad industry partnerships, and our 
+
+commitment to giving our time, money, and resources 
+
+to issues we care about demonstrate the breadth and 
+
+depth of our resolve. We’ll workflow a better world by 
+
+addressing climate change, empowering our employees 
+
+and communities to create more inclusive opportunities 
+
+for everyone, and building trust and partnership with 
+
+our stakeholders.
+
+Global impact strategy
+
+Workflow a better world
+Changing the world one workflow at a time
+
+Environment
+Sustaining our planet
+
+Social
+Creating equitable opportunity
+
+Governance
+Acting with integrity
+
+Championing a resource efficient, 
+net-zero carbon planet.
+
+Making work more equitable, 
+accessible, and rewarding for people.
+
+Building trust through ethical, transparent, 
+and secure business practices.
+
+y
+t
+i
+r
+o
+i
+r
+p
+G
+S
+E
+
+s
+e
+u
+s
+s
+i
+
+•  Climate and energy
+
+• 
+
+Talent
+
+• 
+
+Future of work
+
+•  Data security and privacy
+
+• 
+
+Sustainable procurement
+
+•  Diversity, 
+
+•  Digital divide
+
+•  Governance and ethics
+
+•  Waste
+
+inclusion, and 
+belonging
+
+•  Community 
+engagement
+
+• 
+
+Business continuity
+
+ServiceNow Global Impact Report 2021Introduction 
+ 
+Our 2020 global impact
+
+9
+
+1,859
+unique organizations globally 
+
+100%
+met our commitment to no layoffs in 
+
+82%
+employee engagement, in 
+
+have used ServiceNow 
+
+2020, including workplace services 
+
+line with leading benchmark 
+
+Emergency Response apps, 
+with 11,246 installations
+
+support staff 
+
+companies driving high growth 
+
+and high engagement*
+
+937
+unique organizations globally have 
+
+used ServiceNow Safe Workplace 
+apps, with 9,570 installations
+
+~2,500
+new employees and ~360 interns 
+hired and onboarded during the 
+
+pandemic, all virtually
+
+$5M+
+in cash grants and matching gifts 
+to nonprofits, including $1.2+ million 
+in COVID-19 relief
+
+94%
+of our employees recommend 
+ServiceNow as a great place to work*
+
+Set bold environmental goals
+
+100% renewable 
+energy by end 
+of 2021
+
+Carbon neutral
+by end of 2021
+
+Net zero
+before 2050
+
+*2020 Employee Voice Survey: 8,992 employees responded/91% participation.
+
+ServiceNow Global Impact Report 2021IntroductionOur vision
+
+Workflow a
+better world
+
+Changing the world 
+one workflow at a time
+
+11
+
+Workflow a better world is one of our guiding 
+
+principles and has been since our founding. It’s 
+
+ingrained in our corporate strategy and a bold vision 
+
+for our global impact. We aspire to deeply embed 
+
+ESG into the Now Platform, enabling change in the 
+
+world one workflow at a time.
+
+But it’s more than making work more productive. 
+
+It’s about creating great experiences that make 
+
+work more meaningful. The Now Platform is intelligent, 
+
+agile, secure, reliable, and deeply trusted. This makes 
+
+it a powerful and flexible platform to create positive 
+
+change—be it more equitable communities, better 
+
+governance, or a more sustainable planet. 
+
+We know that as a leader in the workflow revolution, 
+
+we can help make the world work better—not only 
+
+through our own internal operations, but also by 
+
+helping our customers, partners, and communities 
+
+achieve their sustainability goals. Whether delivering 
+
+better citizen services, managing climate and 
+
+security risks, responding quickly to emergencies, 
+
+or tackling the UN Sustainable Development Goals, 
+
+we and our customers are already using the 
+
+Now Platform to do good in the world.  
+
+There is no better  
+experience than giving 
+someone a piece of  
+technology that lets them  
+do something they never 
+thought they could do.
+
+Fred Luddy
+Founder and Chairman of the Board 
+ServiceNow
+
+ServiceNow Global Impact Report 2021Our vision Workflow a better worldWorkflow for today and tomorrow
+
+12
+
+The world is experiencing a workflow revolution. Today, 
+
+The benefits extend further. In addition to helping all 
+
+work can happen anywhere, anytime—proving that 
+
+of our customers create efficiencies that reduce costs, 
+
+working in a digital, distributed environment works. 
+
+increase resiliency and agility, and engage employees, 
+
+Digital workflows will continue to power the future of 
+
+work, and ServiceNow is uniquely positioned to lead the 
+
+way. We know that the more we connect people and 
+
+processes across organizations and digitize mundane 
+
+tasks, the more people can focus on the meaningful 
+
+and creative parts of their jobs. 
+
+our workflows help contribute to positive social and 
+
+environmental outcomes. 
+
+The smarter way to workflow
+
+Providing the platform of platforms that connects people, 
+
+functions, and systems to drive innovation, increase 
+
+business agility, and unlock productivity.
+
+Unlocking opportunity and enabling 
+
+people to focus on the meaningful 
+
+and creative parts of their jobs. This 
+includes using information about climate, 
+
+people, security, compliance, and 
+
+other risks to drive business decisions, 
+
+as well as powering our customers’ 
+
+global impact efforts and resiliency by 
+
+identifying high-impact risks.
+
+Engaging people and transforming the 
+
+employee experience, especially in times 
+
+of disruption. This ranges from virtually 
+
+onboarding new hires to making going 
+
+back to work, work safely for everyone. 
+
+Delivering solutions to reimagine 
+
+the customer experience and help 
+
+customers meet the challenges of our 
+time—whether it’s streamlining customer 
+
+service or monitoring and managing 
+
+critical infrastructure.  
+
+Giving organizations low-code 
+
+development tools that enable 
+
+developers of every skill level across 
+
+the enterprise to quickly and easily 
+
+build workflow applications that 
+
+power their own global impact efforts. 
+
+ServiceNow Global Impact Report 2021Our vision Workflow a better world13
+
+The power of the Now Platform to address  
+environmental, social, and governance issues
+
+Environment
+Sustaining our planet
+
+Social
+Creating equitable opportunity
+
+Governance
+Acting with integrity
+
+Vendor Risk Management 
+Monitor supply chain sustainability
+
+Vendor Risk Management 
+Monitor supply chain’s social impact
+
+Vendor Risk Management 
+Monitor vendor data privacy
+
+Asset Management 
+Circular economy, e-waste management
+
+Emergency Response apps 
+COVID-19 response
+
+Integrated Risk Management 
+Governance, ethics, and privacy
+
+Safe Workplace Suite  
+Safe return to workplace
+
+Business Continuity Management 
+Safety, recovery, and resilience
+
+Vaccine Administration Management 
+Manage distributing, administering, and 
+
+Security Operations 
+Security incident response, 
+
+monitoring COVID-19 vaccinations
+
+vulnerability response
+
+HR Service Delivery 
+Employee experience, retention, and 
+
+satisfaction
+
+Creator workflow 
+Custom-built apps for environmental issues
+
+Creator workflow 
+Custom-built apps for social issues
+
+Creator workflow 
+Custom-built apps for governance issues
+
+ServiceNow Global Impact Report 2021Our vision Workflow a better worldWhatever your organization is facing, 
+let’s workflow it
+
+14
+
+In 2020, we released several new app suites, including 
+
+our Emergency Response apps and our Safe Workplace 
+
+Suite, to help our customers maintain business 
+
+continuity and keep their employees safely working in 
+
+new environments. We’re continuing to innovate to help 
+
+our customers through the pandemic with our Vaccine 
+
+Administration Management solutions released in 
+
+early 2021. 
+
+Combined with our Risk Management apps and 
+
+Creator Workflows, these solutions make it possible for 
+
+our customers and communities to workflow their way 
+
+through the pandemic’s business challenges—either by 
+
+deploying existing ServiceNow workflow solutions or by 
+
+building custom applications.
+
+Digital transformation is the only way 
+out, the only way forward.
+
+Bill McDermott
+President and CEO
+
+ServiceNow Global Impact Report 2021Our vision Workflow a better worldEmergency Response apps 
+and Safe Workplace Suite
+
+15
+
+ServiceNow and our customers are 
+
+confirming employee safety and location, 
+
+innovating quickly in response to the 
+
+enabling employees to report illnesses and 
+
+COVID-19 pandemic. The Now Platform 
+
+readiness to return to work, and quickly 
+
+enables our customers to quickly react and 
+
+identifying exposure risk when an employee 
+
+build apps that address use 
+
+is diagnosed with an illness. 
+
+cases such as streamlining testing 
+
+operations and digitizing operational 
+
+processes for emergency response.
+
+In March 2020, we released our Emergency 
+Response Management apps at no charge 
+to customers through September 2020. 
+
+“The City of Los Angeles came to 
+
+ServiceNow and Cask to ask how they could 
+
+coordinate and streamline testing,” said 
+
+Cask Vice President Jason Rosenfeld. “We 
+
+built an app that supports drive-through 
+
+testing so Angelinos can drive up, have 
+
+The apps were installed by more than 
+
+their appointment to get tested, and then 
+
+1,800 organizations, helping them navigate 
+
+COVID-19 crisis management—including 
+
+move on versus having to wait in the line.” 
+Read more. 
+
+Toronto District School Board: 
+
+Responding to an unprecedented crisis
+
+The Toronto District School Board 
+
+(TDSB) is one of the largest and most 
+
+diverse school boards in Canada. It 
+
+serves approximately 246,000 students 
+
+in 582 schools throughout Toronto, 
+
+and more than 130,000 lifelong 
+
+learners in its Adult and Continuing 
+
+Education programs. Following Toronto 
+
+Public Health guidelines, the school 
+
+board used ServiceNow to create an 
+ambitious health screening app. Within 
+
+a month of launch, the app was being 
+
+used by 51,000 students and staff each 
+day. Read more about TDSB’s use of 
+our Safe Workplace Suite. 
+
+Washington State’s Department of Health 
+
+A safe return to the workplace requires 
+
+used the Now Platform from ServiceNow to 
+
+cross-functional collaboration among IT,  
+
+develop an app to digitize processes that 
+
+legal, facilities, human resources, and more. 
+
+allowed officials to quickly resource critical 
+
+In May 2020, as the world looked ahead to 
+
+positions on the incident management 
+
+ensuring employee health and workplace 
+
+team. They created an Emergency Response 
+Operations app on the Now Platform to 
+manage their own COVID-19 situation, 
+
+and they donated it for use by other 
+
+safety, we released four apps to make going 
+back to work, work for everyone. Our Safe 
+Workplace Suite now includes nine apps 
+that do everything from health screening 
+
+organizations and public agencies. This 
+
+to gauging employee readiness to return. 
+
+app helps optimize resources and staff in 
+
+This includes managing personal protective 
+
+critical locations. It also supports operational 
+
+equipment (PPE) inventory, contact tracing, 
+
+processes of emergency response and 
+
+COVID-19 testing, and employee vaccination 
+
+preparedness at the state and local 
+government levels. Read more.
+
+status tracking. More than 900 organizations 
+
+have installed the Safe Workplace Suite.
+
+ServiceNow Global Impact Report 2021Our vision Workflow a better worldVaccine Administration 
+Management solution
+
+16
+
+With 7.9 billion people across the globe 
+
+Before any vaccines were even approved, 
+
+needing a COVID-19 vaccination, 
+
+we started developing solutions to address 
+
+administering billions of shots in the arm 
+
+vaccine management. Building on our 
+
+as soon as humanly possible presents an 
+
+Customer Service Management solution 
+
+enormous workflow challenge. The sheer size 
+
+and following CDC and WHO guidelines, 
+
+of vaccine rollout and its need for speed is 
+
+we brought multiple workflow use cases 
+
+almost incomprehensible. 
+
+together to develop a solution that makes it 
+
+ServiceNow CEO Bill McDermott said it best: 
+
+“Distributing, administering, and monitoring 
+
+COVID-19 vaccines is the greatest workflow 
+
+challenge of our time.” And we’ve risen to 
+meet that challenge. 
+
+easier to tackle the last-mile challenges of 
+
+getting the world’s population vaccinated—
+
+from distributing and administering 
+
+vaccines to monitoring vaccine outcomes. 
+
+The solution needed to be able to confirm 
+
+eligibility, manage consent forms, schedule 
+
+appointments, send reminders, manage 
+
+distribution, and track second doses. 
+
+We released our Vaccine Administration 
+
+Management solution in January 2021 during 
+
+the early stages of vaccine rollout. 
+Read more.
+
+The vaccine 
+management tools 
+provided by ServiceNow 
+have been vital to 
+expediting Scotland’s 
+vaccine efforts as we 
+enter what we hope 
+will be the final stages 
+of the fight against 
+COVID-19.
+
+Deryck Mitchelson
+Director of Digital and Chief Security Officer  
+NHS National Service Scotland 
+
+ServiceNow Global Impact Report 2021Our vision Workflow a better worldRisk Management app
+
+ServiceNow is named a 
+leader in The Forrester 
+Wave™: Governance, 
+Risk, and Compliance 
+Platforms, Q1, 2020.
+
+Risk management is an underlying part 
+
+Companies across industries use our risk 
+
+17
+
+of our global impact strategy, especially 
+within governance and ethics. Our Risk 
+Management app has the potential to 
+address environmental, social, and 
+
+governance issues, helping our customers 
+
+manage their suppliers’ commitment to 
+
+environmental sustainability, human rights, 
+
+security, and data privacy. It also helps 
+
+our customers ensure business continuity 
+
+in their processes, technology, facilities, 
+
+personnel, and supply chain during natural 
+
+and human-made disasters. 
+
+Regardless of industry, our risk solutions 
+
+help businesses easily track their efforts, 
+
+measure their success, and see the 
+
+impact of meeting—or not meeting— 
+
+their sustainability goals. 
+
+solutions in various ways:
+
+• 
+
+• 
+
+Pharmaceutical: To continuously monitor, 
+detect, assess, mitigate, and remediate 
+
+risks in their supply chains
+
+Financial services: To more resiliently 
+deliver critical services to customers in the 
+
+face of unforeseen events
+
+•  Manufacturing: To demonstrate important 
+compliance in ethical and responsible 
+
+supply chains
+
+•  Cosmetics: To help ensure customers’ 
+personal information in the various 
+
+countries in which they operate is used 
+
+responsibly and safely
+
+• 
+
+Retail: To help ensure resiliency in the 
+face of adverse events so people have 
+
+access to food and clean water in times 
+
+of disaster
+
+Fairview Health: Guarding against disruption 
+
+Fairview Health Services depends heavily on its IT infrastructure to connect patient 
+
+systems and enhance patient care experiences. With more than 1,500 live applications, 
+
+many of which are mission-critical, these applications must be highly available, 
+including in the event of a disaster. The organization uses ServiceNow Business 
+Continuity Management (BCM) to unify disaster recovery, business continuity, and 
+IT service management into a complete business resilience solution. “ServiceNow will 
+
+give us complete visibility and control of our IT disaster recovery processes,” said 
+
+Maria Rothstein, DR analyst and ITSM office manager, Fairview Health.
+
+ServiceNow Global Impact Report 2021Our vision Workflow a better worldOur COVID-19 response 
+workflows at work
+
+18
+
+1,859
+
+937
+
+51,000
+
+Emergency Response app 
+
+Safe Workplace Suite unique 
+
+famillies in the Toronto School District use 
+
+unique organizations worldwide
+
+organizations worldwide
+
+Safe Workplace app daily
+
+11,246
+
+installations
+
+9,570
+
+installations
+
+72 hours
+
+for the city of Los Angeles to develop 
+
+a custom COVID-19 testing app on the 
+
+Now Platform 
+
+ServiceNow Global Impact Report 2021Our vision Workflow a better worldEnvironment
+
+Sustaining our
+planet
+
+Championing a resource-efficient, 
+net zero carbon environment
+
+20
+
+Every ServiceNow colleague 
+recognizes our individual 
+and collective responsibility 
+to prioritize the planet’s 
+health. For us, sustainability 
+and environmental 
+protection are more than 
+just priorities; they are core 
+to our vision and strategy.
+
+Nick Tzitzon
+Chief Strategy Officer
+ServiceNow
+
+As climate change continues to advance, we see the 
+
+companies set science-based reduction targets. We’ll 
+
+devasting effects of rising temperatures and extreme 
+
+draft and validate a plan in 2021 for our goal of net zero. 
+
+weather events all around us. We’ve set ambitious 
+
+By committing to SBTi, we’re signaling our intent 
+
+goals to do our part to accelerate decarbonization 
+
+to provide full transparency into our net zero journey. 
+
+and to advance the circular economy.
+
+Our efforts and reporting are grounded in science. 
+
+early in our reporting journey. We’re developing long-
+
+We’re focusing on initiatives that are material to us and 
+
+term strategies and plans for our priority environmental 
+
+will result in real outcomes and a positive impact on our 
+
+issues, including climate and energy, sustainable 
+
+environment. In 2021, we’re committing to the Science 
+
+procurement and waste, and other impact areas, 
+
+Based Targets initiative (SBTi), which drives ambitious 
+
+such as water consumption.
+
+Our environmental efforts are relatively new, and we’re 
+
+climate action in the private sector by helping 
+
+ServiceNow Global Impact Report 2021Environment Sustaining our planetOur bold environmental goals
+
+21
+
+Use 100% renewable energy by 
+the end of 2021 for office and 
+datacenter operations.
+
+Be carbon neutral by the end 
+of 2021 across our office and 
+datacenter operations, and 
+corporate travel.
+
+Achieve net zero before 2050 
+across our entire value chain in 
+accordance with SBTi criteria.
+
+Bold goals like these require a big effort across our 
+
+Our work will have a multiplier effect. As we develop 
+
+company and our entire value chain. It’s a challenge 
+
+and implement ServiceNow sustainable workflow 
+
+we’re ready to tackle. By using science as our 
+
+solutions in our own operations, we’ll make them 
+
+guide, we’ve laid the groundwork to achieve these 
+
+available to our customers.
+
+goals, focusing on increasing energy efficiency in 
+
+our datacenters and office buildings, sourcing fewer 
+
+carbon-intensive materials for our operations, and 
+
+traveling more sustainably.
+
+ServiceNow Global Impact Report 2021Environment Sustaining our planetClimate and energy
+
+22
+
+Our road to clean power. We’re committed to driving 
+resource efficiency wherever possible. In our effort to 
+
+Improving datacenter efficiency. Two of our greatest 
+opportunities to reduce our environmental impact 
+
+increase our renewable energy footprint, we sourced 
+
+include using our datacenter resources more efficiently 
+
+renewable energy for our Santa Clara headquarters 
+
+and increasing capacity across our global cloud. 
+
+campus, which covered 100% of our energy 
+
+consumption. In San Diego, we bought solar power 
+
+from the panels on our campus roofs, which accounts 
+
+for approximately 13% of our annual power use. In 2021, 
+
+we’ll start buying high-quality, certified, and localized 
+
+renewable energy credits (RECs) to offset the “dirty grid” 
+
+power consumed by the company in locations around 
+
+the world. These initial steps will put us on track to meet 
+
+our 100% renewable energy goal by the end of 2021.
+
+To help make sure we’re meeting our future demand for 
+
+renewable energy, and that we’re adding renewable 
+
+energy sources to the global grid, we’ll also enter into 
+
+virtual power purchasing agreements (VPPAs) by the 
+
+end of 2021. We’ll explore an aggregated market VPPA 
+
+and opportunities to do this with our partners and 
+
+customers, too.
+
+We’ve made lifecycle management improvements 
+
+throughout our cloud infrastructure that allow us to 
+
+optimize power efficiency, reduce our datacenter 
+
+footprint, and select the most efficient equipment to 
+
+meet our business requirements. When sourcing our 
+
+hardware and our co-location providers, our RFPs 
+
+include a set of environmental criteria to ensure they 
+
+meet our business requirements.
+
+In 2021, we’ll work with independent, industry-
+
+leading consultants to advise us on sustainable site 
+
+selection, help us create further efficiencies, and 
+
+lower our environmental impact. We’ll also expand our 
+
+datacenter operations team to ensure we create and 
+
+incorporate global sustainability standards to achieve 
+
+our net zero aspirations.
+
+Our key deliverables for 2021
+
+Capture and analyze real-time 
+environmental data in our ServiceNow 
+
+platform, establish baseline measurements, 
+
+and improve year-over-year.
+
+Implement scalable datacenter 
+infrastructure designs that future-proof 
+
+multiple network lifecycle generations.
+
+Reduce material packaging and site 
+deliveries for all new datacenter builds and 
+
+ongoing cloud scaling projects.
+
+ServiceNow Global Impact Report 2021Environment Sustaining our planet23
+
+Our commitment to net-zero carbon emissions. In 2021, 
+we’ll set our target year to achieve net zero carbon in 
+
+The carbon impact of our Future of Work initiative. 
+COVID-19 drastically altered the work landscape. In 
+
+accordance with SBTi. We’ll use 2019 as our baseline 
+
+response, we created our Future of Work (FoW) initiative 
+
+year and commit to a much more aggressive schedule 
+
+to reimagine the way we work at ServiceNow. A key 
+
+than the 2050 timeline set by the Paris Agreement.  
+
+consideration in this initiative is how our employees 
+
+In 2020, we worked with a third-party firm, Anthesis 
+
+prefer to work.  
+
+Group, to conduct greenhouse gas (GHG) inventory 
+
+In 2020, we collected feedback from employees on 
+
+validation work, including the in-depth Scope 3 
+
+their work preferences for a post-pandemic world, 
+
+baseline assessment, which will inform our future 
+
+and we’ll continue to do so throughout 2021 to inform 
+
+net zero efforts across our value chain. We also 
+
+our decisions and actions. Post-COVID, we expect 
+
+began structuring our cross-functional efforts internally 
+
+approximately 20% of our workforce to work from home 
+
+to ensure our business is aligned for the long-term 
+
+full time, with the majority of employees working from 
+
+success of our net zero efforts. 
+
+the office three or fewer days per week. Whether our 
+
+In 2021, we’ll start purchasing high-quality offsets 
+
+from projects that permanently remove carbon from 
+
+the atmosphere. We’ll invest primarily in solutions that 
+
+employees decide to work from home, at the office, or a 
+
+hybrid of the two, the option of working closer to home 
+
+could have a direct impact on our environmental efforts.
+
+capture and/or store carbon and, where possible, 
+
+We’ll continue to collect all necessary inputs for our 
+
+ensure there are social benefits as well.  
+
+FoW initiative during 2021. At the same time, we’ll 
+
+generate a roadmap for our commitment to net zero 
+
+carbon as per SBTi (including Scope 3 emissions). Once 
+
+both of those activities have matured, we’ll be able to 
+
+better assess their impact on our carbon footprint.
+
+Due to the pandemic, 2020 was not a representative 
+
+year for corporate travel. We’ve started to rethink 
+
+the future of travel and, in 2021, we’ll roll out our new 
+
+corporate travel program, which will focus on the 
+absolute reduction of our Scope 3 emissions. We’ll 
+
+prioritize video calls over air travel and will increase 
+
+travel approval thresholds. We’ll also educate our 
+
+employees on the carbon impact of their travel and 
+
+offer less-carbon-intensive alternatives when available.
+
+ServiceNow Global Impact Report 2021Environment Sustaining our planetEnvironment Sustaining our planet
+
+Our focus areas
+
+24
+
+Built environment
+
+Supply chain
+
+We design our workplaces following LEED (Leadership in Energy and 
+Environmental Design) or similar sustainability frameworks, and we 
+
+We select vendors and partners that agree to adhere to our 
+sustainability practices and requirements, where practical.
+
+achieve certification when practical.
+
+We select buildings that have achieved a recognized sustainability 
+certification (e.g., LEED, BREEAM) when practical.
+
+We prioritize buildings that have access to public transportation, 
+are bicycle-friendly, and provide EV chargers.
+
+We operate our buildings responsibly by monitoring and controlling 
+for greenhouse gas emissions; self-generating our own power 
+
+where practical; ensuring efficient use of water; and managing our 
+
+waste stream to minimize what goes into landfills.
+
+We prioritize sustainable products—including organics in our food 
+programs—where practical.
+
+We recycle, reuse, or responsibly dispose of retired equipment and 
+fixtures used in service of our operations.
+
+Travel
+
+We require advanced approval and business justification for all air 
+and rail travel.
+
+We widely employ collaboration tools such as video conferencing, 
+including for remote employees, to help provide a viable alternative 
+
+to travel.
+
+We monitor and report internally our greenhouse gas emissions 
+related to air travel.
+
+We provide carpooling or company-sponsored shuttles in key 
+concentrated markets.
+
+We offer flexible work arrangements to many employees, a 
+byproduct of which is reduced commuting.
+
+Datacenters
+
+We select datacenter operations and facilities that have 
+demonstrable sustainability practices where practical.
+
+We utilize energy-efficient equipment (servers, etc.) and 
+architecture in our datacenter operations.
+
+We monitor our energy consumption at the rack level, and we report 
+internally material changes to greenhouse gas emissions across our 
+
+datacenter portfolio.
+
+We recycle, reuse, or responsibly dispose of retired equipment 
+(servers, etc.) used in our datacenter operations.
+
+ServiceNow Global Impact Report 2021
+
+Environment Sustaining our planet
+
+25
+
+Our path to a healthier planet
+
+Reducing our energy use
+
+Stage 1
+
+2021: Buy direct renewable 
+energy and RECs
+
+Stage 2
+
+Stage 3
+
+2022: Enter into aggregated 
+VPPA partnership(s)
+
+2023 and beyond: Expand our 
+VPPA partnerships
+
+Note: From 2022 onward, we will continue to use direct renewable energy where possible and buy RECs where 
+
+required to help ensure our 100% renewable status is achieved each fiscal year.
+
+Eliminating our carbon emissions
+
+Carbon reduction
+
+Carbon offsetting
+
+Carbon removal
+
+Make decisions with lower carbon impact 
+
+Neutralize our carbon emmissions with 
+
+Invest in projects that remove carbon from 
+
+across our value chain.
+
+high-quality offset program.
+
+the atmosphere.
+
+ServiceNow Global Impact Report 2021
+
+Environment Sustaining our planet
+
+Measuring our environmental impact in 2020
+
+Carbon intensity of electricity1 (gCO2/kWh)
+
+Global average: 479
+
+2019
+
+2020
+
+26
+
+354
+
+367
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+Greenhouse gas emissions2 (in mtCO2e)
+
+Emissions by source3
+
+Emissions by region (offices and datacenters)
+
+2019
+
+2020
+
+11,206
+
+7,061
+
+26,466
+
+9,914 1,150
+
+7,203
+
+44,733
+
+2019
+
+18,267
+
+10,388
+
+10,022
+
+3,928
+
+10,707
+
+2,025
+
+7,678
+
+24,338
+
+2020
+
+20,410
+
+0
+
+10,000
+
+20,000
+
+30,000
+
+40,000
+
+50,000
+
+0
+
+5,000
+
+10,000
+
+15,000
+
+20,000
+
+25,000
+
+Offices
+
+Datacenters
+
+Corporate travel
+
+AMER
+
+EMEA
+
+APJ
+
+Energy management4 (in MWh)
+
+Electricity by source5
+
+Electricity by region
+
+2019
+
+2020
+
+19,520
+
+41,990
+
+40,721
+
+12,707
+
+8,083
+
+61,511
+
+2019
+
+61,511
+
+18,907
+
+50,489
+
+43,413
+
+16,824
+
+9,159
+
+69,396
+
+2020
+
+69,396
+
+0
+
+15,000
+
+30,000
+
+45,000
+
+60,000
+
+75,000
+
+0
+
+15,000
+
+30,000
+
+45,000
+
+60,000
+
+75,000
+
+Offices
+
+Datacenters
+
+AMER
+
+EMEA
+
+APJ
+
+1
+ Data follows location-based methodologies. 2019 source: IEA Global Energy & CO2 Status Report 2019. 2020 source: IEA Emissions Factors 2020. Our 2019 location-based emissions data was updated 
+from our Global Impact ESG Fact Sheet published in June 2020 as follows: 2019 Scope 2 emissions data adjusted as a result of updated utility data and corrective data from datacenter feeds; 2019 
+Scope 3 emissions data (travel data) restated due to change in methodology.
+2
+
+ Calculations consistent with Greenhouse Gas (GHG) Protocol and The Climate Registry’s General Reporting Protocol. Where actual energy bills were not available, emissions were estimated using the 
+Commercial Buildings Energy Consumption Survey (CBECS) database. Data follows market-based methodology. See location-based data here.
+3
+
+ Office and datacenter emissions include electricity and natural gas. Corporate travel emissions data provided by third-party travel vendor and measured per flights using DEFRA estimation methods.
+
+4
+
+ Calculations consistent with Greenhouse Gas (GHG) Protocol and The Climate Registry’s General Reporting Protocol. Where actual energy bills were not available, emissions were estimated using the 
+Commercial Buildings Energy Consumption Survey (CBECS) database. In 2020, due to the increase in our datacenter operations globally, our energy consumption for datacenters increased compared to 
+2019. Also in 2020, while we continued to grow our office portfolio globally, most of our office locations were closed due to COVID-19, which resulted in a slight decrease in our energy use.
+5
+
+ Numbers for 2019 are rounded for purpose of the graph.
+
+ServiceNow Global Impact Report 2021
+
+Sustainable procurement
+
+27
+
+Strengthening opportunities for investing in more 
+sustainable supplier relationships. Suppliers are key 
+to our business success. To reinforce our commitment 
+to responsible procurement, we have a strong supplier 
+code of conduct, and we select suppliers who share our 
+values and help us fulfill our purpose.
+
+We’re currently developing a framework to better 
+
+understand our suppliers’ baselines for diversity, 
+
+sustainability, and financial health. By assessing where 
+
+we are today, we can better position ourselves for 
+
+continuous improvement over time.
+
+We spent time in 2020 evaluating our operations 
+
+to identify the biggest opportunities to drive 
+
+accountability across our supplier ecosystem. To reduce 
+
+supplier risk while furthering responsible procurement, 
+
+we’re acquiring data about our suppliers from third-
+
+Going green, from bricks to BREEAM
+
+Our newly leased office building at 8 Salisbury Square in 
+
+London was designed and built to meet BREEAM Excellent 
+
+certifications, putting its environmental, social, and economic 
+
+performance in the top 10% of buildings worldwide. Our office 
+
+space was delivered with various prominent circular elements, 
+
+such as reclaimed bricks and wood, recycled upholstery and 
+
+laminates, energy-efficient lighting, and large amounts of 
+
+biophilic elements. This project is an example of the kind of 
+
+work environments we want to build. It was featured in our 
+first sustainability and wellness prospectus, which is available 
+for our employees and customers. We’ll continue to develop 
+
+programs for our built environment, including capturing metrics 
+
+for energy, water, and waste for all of our future projects.
+
+• 
+
+• 
+
+100% of the 44+ tonnes of construction waste diverted from 
+landfill, with 2% going to refuse-derived fuel (RDF)
+
+100% recyclable vinyl and highly sustainable carpet flooring 
+from Interface 
+
+party providers and conducting third-party, point-
+
+• 
+
+40% recycled materials in the laminate used for joinery 
+
+in-time risk assessments of our complete supplier 
+
+ecosystem. This will help us develop a programmatic 
+
+plan for year-over-year improvements. In 2021, we’ll 
+
+establish baselines for measuring our sustainable 
+
+procurement practices. We look forward to disclosing 
+
+more on these efforts in next year’s report.
+
+ServiceNow Global Impact Report 2021Environment Sustaining our planet28
+
+Waste
+
+Nothing to waste. Everything to gain. Although early 
+in our journey, we’re exploring all possible ways to 
+
+avoid the take, make, waste approach and promote 
+
+more sustainable and circular practices that have 
+
+environmental and social benefit. 
+
+In 2020, we established a technology donation program 
+
+for our electronic waste using our IT Asset Management 
+
+(ITAM) solution to identify employee IT resources, 
+
+including computers, that are at the end of life. We 
+
+collect the equipment and use our software to wipe 
+
+it clean, certify it, and donate it to organizations in our 
+
+local communities—in an almost no-touch manner. In 
+
+our first year of the program, we donated more than 
+
+350 laptops to be repurposed by those in need. 
+Read more about our technology donation program. 
+
+When equipment can’t be repurposed, we responsibly 
+
+recycle or dispose of it through our recycling partners.  
+
+In 2021, we’ll be building out programs across the 
+
+enterprise with the focus on avoiding and reducing 
+
+waste from various streams coming from our operations.
+
+E-waste reused, resold, or recycled
+
+Retired corporate IT equipment  reused/recycled
+
+Retired datacenter equipment 100% resold/recycled6
+
+12%
+
+8%
+
+9%
+
+10%
+
+Reused
+
+Recycled
+
+13%
+
+12%
+
+Servers
+
+Switches
+
+PDUs
+
+88%
+
+92%
+
+78%
+
+78%
+
+2019
+
+2020
+
+2019
+
+2020
+
+2019: 2,833 pieces | 16,749 lbs.
+
+2020: 4,567 pieces | 19,305 lbs.
+
+2019: 2,389 servers  |  396 switches  |  277 PDUs
+
+2020: 2,751 servers  |  411 switches  |  338 PDUs 
+
+6
+
+ Data for retired datacenter equipment from June 2020 ESG Fact Sheet represented from Jan. 1, 2019 through May 31, 2020; we now provide full-year 2019 and 2020 data.
+
+ServiceNow Global Impact Report 2021Environment Sustaining our planetSocial
+
+Creating equitable
+opportunity
+
+FPO?Making work more equitable, 
+accessible, and rewarding for all
+
+30
+
+The future of work must 
+mean more opportunities 
+for more people. Everyone 
+has a right to belong, 
+to participate, and to 
+reach their full potential. 
+Companies have a critical 
+role to play in helping to 
+build a more inclusive world.
+
+Gina Mastantuono
+Chief Financial Officer 
+ServiceNow
+
+In the midst of a pandemic, the resulting economic 
+
+disruption, and ongoing racial injustice and civil unrest, 
+
+we’re being tested to our core. This has accelerated our 
+
+efforts in creating equitable opportunity for all—not only 
+
+by further cultivating diversity, inclusion, and belonging, 
+
+but also by keeping our employees safe, supported, 
+
+and engaged; closing the digital skills gap to enhance 
+
+our ecosystem talent pipeline; and making the future of 
+
+work more accessible and rewarding to all.
+
+ServiceNow Global Impact Report 2021Social Creating equitable opportunity31
+
+Everything we do is about people, 
+and our people are everything to us
+
+To continue making the world of work, work better for 
+
+people, we must attract, develop, and retain the best 
+
+In April 2020, we made a no layoff pledge to protect the 
+jobs of all our employees globally, promising no layoffs in 
+
+talent. That’s why we keep our people at the center of 
+
+2020. With the economic uncertainty stemming from the 
+
+everything we do—from distributed and digitally enabled 
+
+pandemic, we didn’t want our employees worrying about 
+
+work environments that help us do our best work to 
+
+their jobs. By focusing them on supporting our customers, 
+
+benefits and a culture that encourage employees to stay 
+
+we did our part to help get the US and global economy 
+
+healthy, happy, engaged, and growing. 
+
+working again. We also continued to pay contractors 
+
+When COVID-19 forced us to shut down our workplaces, 
+
+and support staff while our offices were closed.
+
+we successfully transitioned 100% of our workforce to 
+
+At the same time, we announced we would quickly pivot 
+
+be fully digital with minimal disruption—one of the many 
+
+to an all-digital global intern program for the class of 
+
+advantages of being a born-in-the-cloud, digitally 
+
+2020. We welcomed approximately 360 college interns 
+
+from around the world to work across our business 
+
+during the summer, and we provided these students 
+
+with valuable career experience—all from a safe and 
+
+productive home environment.
+
+transformed company.
+
+As we navigated this new environment, our focus shifted 
+
+to providing ongoing support that helped employees 
+
+feel safe, supported, and engaged. This included 
+
+keeping employees informed of the latest guidance 
+
+on working from home, travel, and technology usage, 
+
+and providing resources to help them in their new world 
+
+of work. Most importantly, we developed programs, 
+
+communications, and activities focused on engagement 
+
+and wellness to ensure employees stayed inspired by 
+
+our purpose, connected to our cultural values, and 
+
+motivated by their work. 
+
+I’m thankful I get to experience what 
+it is like to work at a company that 
+prioritizes its people because I now 
+understand the impact of work culture.
+
+Astyr Ko
+2020 Intern
+ServiceNow
+
+ServiceNow Global Impact Report 2021Social Creating equitable opportunity32
+
+We gave every full-time employee a perk allowance to 
+
+use for wellness items and technology, such as tutoring 
+
+for their kids, laptops for distance learning, exercise 
+
+equipment, and more. We led ongoing wellness sessions 
+
+focused on mental health, issues facing working families, 
+
+and topics of racial equity brought forward by the 
+
+pandemic. We also initiated regular wellness check-
+
+ins with employees on top of our regular biannual 
+
+Employee Voice Surveys.
+
+We had to rethink our learning and development 
+
+curriculum and delivery. Using our Now Platform, we 
+
+pivoted quickly, digitizing our programs, launching new 
+
+ones, and accelerating what we already had in place.
+
+Here are some of the ways we focused on creating great employee experiences in 2020:
+
+Launched our Manager Commitments 
+Program, featuring 10 commitments that 
+serve as guideposts for effective and 
+
+Pivoted our Lead at Now leadership 
+development program for senior directors 
+and above to be completely virtual, 
+
+Continued our Power of 10 leadership 
+program for women in director positions and 
+above, with more than 60% participation, 
+
+inclusive people leaders. We had 90% of 
+
+achieving the same satisfaction scores 
+
+to bring groups of 10 women together from 
+
+managers participate with more than 90% 
+
+as when it was conducted in person.
+
+across the company in a safe space to 
+
+saying it was valuable.
+
+network, learn, and share experiences.
+
+Integrated WalkMe software into our core 
+talent processes to interrupt patterns 
+
+and help managers assess employee 
+
+Rolled out the company’s first 
+Dream Big goal-setting program to 
+encourage employees to set personal 
+
+performance and make compensation 
+
+and professional goals.
+
+decisions with less bias.
+
+ServiceNow Global Impact Report 2021Social Creating equitable opportunityThe future of work
+
+33
+
+We’re committed to helping employees and 
+
+Our workplaces will continue to be spaces where we 
+
+communities prepare for the future of work that’s 
+
+connect, collaborate, celebrate our culture, and come 
+
+being shaped by digital transformation, AI, and 
+
+together for the moments that matter. We’ll champion 
+
+distributed work.
+
+Inside and outside ServiceNow, how we work and where 
+
+we work have been decoupled—forever. The workflow 
+
+employee engagement and provide an unmatched 
+
+employee experience that helps everyone feel they 
+
+belong and can achieve their full potential.
+
+revolution is here, and the world is experiencing 
+
+We’ll continue to create a sustainable work culture that 
+
+the power of workflows to enable work to happen 
+
+embraces business outcomes, focusing on how work 
+
+anywhere, anytime.
+
+As the world reopens, we’ll innovate, observe, learn, 
+
+and adapt together. We’ll explore and test new 
+
+ways of working and staying connected in a primarily 
+
+gets done, not where. We’ll encourage collaboration, 
+
+strong teams, and diversity, inclusion, and belonging. 
+
+And we’ll foster career development, a growth mindset, 
+
+and customer success.
+
+distributed model. ServiceNow will continue to lead 
+
+We’ll also continue to focus on safety, flexibility, and 
+
+the digital workflow revolution through a flexible 
+
+engagement. We’ll open our world of work to a more 
+
+work model. We’ll stay connected in a primarily 
+
+diverse talent pool by recruiting different types of roles 
+
+flexible model with some teams coming into the 
+
+and recruiting in new areas to execute against our 
+
+workplace more often due to roles, responsibilities, 
+
+commitment to diversity, inclusion, and belonging, 
+
+and business priorities. 
+
+and to creating equitable opportunity.
+
+ServiceNow Global Impact Report 2021Social Creating equitable opportunityAll in on diversity, inclusion, and belonging
+
+34
+
+We stand united with 13,000 employees who believe in 
+
+We formed our DIBs community and introduced seven 
+
+our purpose to make the world of work, work better for 
+
+new employee-led Belonging Groups, our version of 
+
+people. It’s our responsibility to ensure our collective 
+
+employee resource groups. Alongside their members, 
+
+voice represents that world. 
+
+we expanded our existing diversity and inclusion 
+
+We’ve been on a mission to create change for our 
+
+employees, customers, and communities. In 2020, the 
+
+world experienced a pandemic, racial injustice, and 
+
+civil unrest—and no one was exempt. Since we couldn’t 
+
+change the situation, we focused on changing our 
+
+mindset. 2020 deepened our commitment to do more, 
+
+accelerate our diversity, inclusion, and belonging (DIBs) 
+
+journey, and make greater progress across broader 
+
+areas. We leaned in.  
+
+programs that have been a cornerstone of the culture 
+
+at ServiceNow. Part of that involved the co-creation of 
+
+our “DIBs 5-point plan,” which aims to advance our work 
+
+and create meaningful, sustainable change with an 
+
+emphasis on certain actions:
+
+1 Workforce training: Building inclusive skills and mindsets for 
+
+our employees
+
+2 Equity for all: Creating and evolving our equitable processes, 
+
+policies, and practices
+
+3 Giving employees a voice: Fostering a sense of belonging 
+
+and space for dialogue
+
+4 Lobbying for good: Advocating for change with support and 
+
+direct action, both locally and systematically
+
+5 Recruiting and career advancement: Increasing 
+
+representation and inclusion across all levels
+
+ServiceNow Global Impact Report 2021Social Creating equitable opportunity35
+
+Diversity, inclusion, and belonging are intentionally 
+
+integrated throughout our business operations, talent 
+
+strategies, and leadership behaviors and expectations. 
+
+Our entire portfolio of programs is interconnected. By 
+
+looking at our people programs holistically, we build fair 
+
+systems of opportunity and treatment for everyone in 
+
+our company. 
+
+Because pay equity is so dynamic, especially in a high-
+
+growth company like ours, we manage it on an ongoing 
+
+basis and perform regular analyses and adjustments. 
+
+This approach has led us to achieve systematic pay 
+
+equity company-wide and ensures we maintain that 
+
+pay equity.
+
+What happened in 2020 will not stay in 2020. It will drive 
+
+us forward every day, toward new outcomes. We have 
+
+been changed—forever. This change will guide us as we 
+
+create a space for belonging where all people can thrive. 
+
+You can learn more about how we’re creating change in 
+our Diversity, Inclusion, and Belonging Report 2021.
+
+2020 diversity metrics
+
+Global gender
+2020 Global gender
+
+29.2%
+
+Male
+
+Female
+
+Race and ethnicity in the US
+2020 representation of race and ethnicity
+in the US
+
+0.3%
+
+0.3%
+
+2.5%
+
+2.7%
+
+6.2%
+
+70.8%
+
+55.8%
+
+32.2%
+
+American Indian or 
+Alaska Native
+
+Native Hawaiian or 
+Pacific Islander
+
+Two or more races
+
+Black or African 
+American
+
+Hispanic or Latino
+
+Asian
+
+White
+
+ServiceNow Global Impact Report 2021Social Creating equitable opportunityClosing the digital divide, 
+opening doors to opportunity
+
+36
+
+The true impact of our efforts to increase digital skills 
+
+hits home when we see how lives are transformed as 
+
+a result. For example, Ebony A. had $2 in her pocket 
+
+and was struggling to support her family. But, thanks 
+
+to all the people who believed in her and our nonprofit 
+
+partnership with TechBridge, she’s now a ServiceNow 
+
+system administrator at Wellstar Health System. 
+Read Ebony’s story.
+
+Jayden P. felt he’d hit a dead end. He was working in 
+
+retail and unhappy with the direction of his life 
+
+when he met our NextGen degree program architect. 
+
+Today, he’s a junior ServiceNow developer at Methods. 
+Read Jayden’s story.
+
+These are only two examples of how our NextGen 
+Professionals Program is putting people in our 
+communities on a path to more rewarding and 
+
+sustainable careers in the digital workforce. Launched 
+
+in early 2019, the NextGen program invests in digital 
+
+skills training and employment for marginalized and 
+
+underserved populations. It’s working to create a 
+
+diverse talent pipeline by teaching digital literacy skills 
+
+and helping those whose skills are no longer relevant in 
+
+today’s digital world. Even more important is the focus 
+
+on helping participants find meaningful employment.
+
+NextGen has been the best program 
+we’ve ever participated in during our 
+five years with ServiceNow. We’ve 
+onboarded 16 new students in an 
+extremely well-coordinated, well-
+planned program—in less than seven 
+weeks. The same onboarding usually 
+takes six months, with a bigger dropout 
+rate due to attention, focus, and other 
+reasons.
+
+Idan Harel
+Chief Executive Officer 
+Do It Wise
+
+ServiceNow Global Impact Report 2021Social Creating equitable opportunity37
+
+NextGen is extremely targeted, partnering with 
+
+MIT Solve Digital Workforce Challenge
+
+employers in our ecosystem to understand the specific, 
+
+early-in-career talent needs in a given community. 
+
+Then, the program develops those skills in participants 
+
+so that, within a year, our graduates get rewarding jobs 
+
+that lead to financial security. 
+
+Looking forward, we hope to scale the program, placing 
+
+8,000 participants in jobs over the next few years while 
+
+focusing on the talent needed across our three focus 
+
+areas: degree, reskilling, and government programs.
+
+Degree program: In partnership with Northeastern 
+University in London, we’ve integrated ServiceNow 
+
+technology into their curriculum, helping to develop 
+
+the digital, business, and leadership skills needed to 
+
+succeed in today’s workplace. The degree is free to the 
+
+learner and employer, providing equal opportunity to 
+
+all. We launched our first cohort of students in October 
+
+2020, which included Jayden, and plan to scale the 
+program to five countries by 2023. Learn more about 
+our degree program.
+
+Reskilling program: We’re working to help veterans, 
+women returning to the workplace, and those with 
+
+technology-transferable skills transition into today’s 
+
+digital workforce. “I once had a rich professional career 
+
+in IT until I became a mother and lost my subject 
+
+matter expertise,” said one participant in the program. 
+“The collaboration between ServiceNow, DXC, and 
+
+the University of St. Gallen has created an amazing 
+
+opportunity … to learn skills that are in high demand,” 
+she added. Read more about our Women Back to 
+Business program.
+
+Government program: We’re collaborating with 
+national and regional governments and workforce 
+
+development agencies to build and execute digital 
+
+skills initiatives for underrepresented minorities, women, 
+
+the less-abled sector, and indigenous populations.
+
+*Estimated based on employer feedback.
+
+In January 2020, we asked the world a question: How 
+
+can underserved populations access opportunity 
+
+and fully participate in the technology-enabled and 
+
+digitally literate workforces of the future?
+
+It was part of our Digital Workforce Challenge, which 
+we sponsored with MIT Solve. Participants were 
+
+challenged to come up with innovative, scalable, and 
+
+sustainable solutions that aim to solve the growing 
+
+skills and job vacancies gap by increasing access to 
+
+opportunity in underserved populations. 
+
+The grand prize winner was ChargerHelp!, a female, 
+minority-owned social enterprise that partners with 
+
+local workforce development agencies to train and 
+
+employ electric vehicle (EV) charging station technicians 
+
+and increase electric vehicle adoption. After receiving 
+
+an in-kind donation of our Field Service Management 
+
+workflow solution, ChargerHelp! doubled its service 
+contracts in 2020. Read more about the winners and 
+their inspiring stories.
+
+NextGen: Teaching today’s skills for tomorrow’s jobs
+
+35+
+
+employment 
+partners
+
+15
+
+countries
+
+~1,300*
+
+participants
+
+~70%
+
+of participants 
+landed jobs
+
+MIT Solve: A call for innovation
+
+150+
+
+entries
+
+44
+
+countries
+
+9
+
+finalist teams
+
+$100K $10K
+
+grand prize
+
+employee 
+
+choice prize
+
+ServiceNow Global Impact Report 2021Social Creating equitable opportunity38
+
+Advancing our cause through 
+community engagement
+
+Creating equitable opportunity extends beyond our 
+
+digital transformation. In 2020, we focused on digital 
+
+employees. We’re working to make the communities 
+
+literacy and skills, food security, and employee giving 
+
+in which we live and work more equitable, too. Living 
+
+and volunteering. All efforts included an emphasis on 
+
+our purpose means ensuring the wider community can 
+
+diversity and inclusion in underrepresented communities.
+
+benefit from and participate in the opportunities of 
+
+ServiceNow Global Impact Report 2021Social Creating equitable opportunityFighting hunger before, 
+during, and after COVID-19
+
+39
+
+College students who struggle with food 
+
+We stepped up with an additional $100,000 
+
+insecurity face a tough road to successful 
+
+in support, and we’re in the early stages 
+
+degree completion. That’s why, in 2019, 
+
+of implementing an in-kind donation of 
+
+we announced a three-year, $1.5 million 
+
+our Workplace Service Delivery and Safe 
+
+partnership with Second Harvest of 
+
+Workplace solutions to help Second Harvest 
+
+Silicon Valley. Our objective is to help raise 
+
+increase efficiencies, reduce costs, and 
+
+awareness of the urgent issue of student 
+
+ensure the health and safety of its staff 
+
+hunger and support 1 million healthy, 
+
+and volunteers. 
+
+nutritious meals per year for three years.  
+Read more.
+
+Given the economic impact of COVID-19 
+
+and the number of families around the world 
+
+When COVID-19 hit, it exacerbated 
+
+who are struggling to put food on the table, 
+
+an already urgent need by doubling 
+
+we expanded our support of food security 
+
+Second Harvest’s client base from 
+
+nonprofits with an additional $650,000 in 
+
+250,000 to 500,000 people per month. 
+
+grants benefiting Feeding America, World 
+
+The organization’s operating costs also 
+
+Food Program, and UNICEF.
+
+skyrocketed with the loss of volunteers. 
+
+We’ve always said that 
+we can’t solve hunger 
+alone. ServiceNow has 
+consistently provided 
+vital volunteer and 
+funding support to help 
+us offer relief to those 
+in our community who 
+needed it most.
+
+Leslie Bacho
+Chief Executive Officer 
+Second Harvest of Silicon Valley
+
+ServiceNow Global Impact Report 2021Social Creating equitable opportunity40
+
+As a purpose-driven company, we 
+
+for most of 2020, yet we still logged more 
+
+encourage our employees to live their 
+
+than 10,000 volunteer hours—often through 
+
+passion and leverage their time, talent, 
+
+innovative digital approaches such as 
+
+and resources to support the causes most 
+
+recording audio books for children who 
+
+important to them. And we give them the 
+
+are visually impaired or in the hospital. We 
+
+means to do so, with up to 20 hours of time 
+
+expanded our definition of volunteering, 
+
+off per year for volunteer activities and a 
+
+allowing employees to track time spent 
+
+1-to-1 match of their charitable donations 
+
+donating blood, shopping for elderly 
+
+up to $1,000 per year. 
+
+COVID-19 and the resulting work-from-
+
+home mandate made volunteering difficult 
+
+neighbors, making face masks, and more. 
+
+And we piloted new skills-based volunteer 
+
+opportunities with organizations such as 
+
+UK-based Matchable.
+
+Taking suicide awareness to new heights
+
+After losing his brother to suicide, Damien D. channeled his grief into climbing the three 
+
+highest peaks in England, Scotland, and Wales to raise £15,000 to increase awareness of 
+
+depression and suicide prevention. His ServiceNow colleagues stepped in to show support, 
+donating through our Giving at Now platform with an automatic company match. 
+Learn more about Damien’s inspiring story.
+
+Empowering our employees 
+to live their purpose— 
+and give back
+
+$5M+
+
+in cash grants and 
+matching gifts to 
+nonprofits, including:
+
+$1.2M+ 
+
+in COVID-19 relief
+
+$1.1M+ 
+
+in food security
+
+$1.6M+ 
+
+in employee 
+donations
+
+25%
+
+employee donation 
+participation
+
+2,600+
+
+causes supported
+
+10,000+
+
+volunteer hours
+
+~300
+
+organizations 
+served
+
+ServiceNow Global Impact Report 2021Social Creating equitable opportunityMaking the world work better 
+for Black communities
+
+41
+
+As 2020 came to a close, we laid the 
+
+The fund is managed by RBC Capital 
+
+groundwork for an exciting new initiative 
+
+Markets on behalf of ServiceNow. We’re 
+
+that will help build equitable opportunities 
+
+starting in communities where we have 
+
+within Black communities across the 
+
+significant operations and community 
+
+United States. We were proud to 
+
+presence and where RBC has identified the 
+
+begin 2021 with the announcement of our 
+$100 million Racial Equity Fund, which 
+will facilitate sustainable wealth creation 
+
+greatest needs: Boston, Chicago, Dallas, 
+
+Houston, New York, Orlando, San Diego, 
+
+the San Francisco Bay Area, Seattle, and 
+
+through homeownership, entrepreneurship, 
+
+Washington, D.C.
+
+and neighborhood revitalization.
+
+We look forward to sharing more in 2021 
+
+about the opportunities created for families, 
+
+small businesses, and communities.
+
+$100M
+Racial Equity Fund 
+implemented in 2021
+
+ServiceNow Global Impact Report 2021Social Creating equitable opportunityGovernance
+
+Acting with
+integrity
+
+FPOBuilding trust through ethical, 
+transparent, and secure 
+business practices
+
+43
+
+Doing the right thing is at 
+the center of everything 
+we do each and every day. 
+Our code of ethics embodies 
+our values. Acting with 
+ethics and integrity is core 
+to how we stay hungry 
+and humble and deliver 
+customer success.
+
+Russ Elmer
+General Counsel 
+ServiceNow
+
+Earning the trust of our customers, employees, and 
+
+other stakeholders is paramount to our operations and 
+
+a cornerstone of our long-term success. We’ve pledged 
+
+to build on the trust we’ve established over our 17-year 
+
+history and to lead with transparency and disclosure in 
+
+all we do. We aim to provide the utmost data security 
+
+and privacy, foster ethical use of data, and ensure 
+
+business continuity—not only for ourselves, but also for 
+
+our customers.
+
+ServiceNow Global Impact Report 2021Governance Acting with integrityOur commitment to governance
+
+44
+
+We’ve always believed in strong corporate governance. 
+
+disclosure. This Global Impact Report is one more way 
+
+Our governance practices provide an important 
+
+we’re enhancing our stakeholder disclosure and sharing 
+
+framework within which our board of directors 
+
+our aspirations for creating a better future.
+
+and management team can pursue our strategic 
+
+objectives for the benefit of our shareholders. 
+
+And this starts with listening.
+
+Our Governance, Risk, and Compliance (GRC) 
+
+portfolio of workflow applications ensures strong 
+
+governance across our organization, helping us embed 
+
+We conduct shareholder outreach tours twice a year 
+
+governance, risk, and resilience management into 
+
+with more than 30% of our shareholders, where we 
+
+our daily operations. We’re also rigorously audited by 
+
+learn what’s top of mind for them and provide business 
+
+independent third-party companies and government 
+
+updates. We also strive to be a leader in disclosure, 
+
+both in what we disclose and how we disclose it. Our 
+Diversity, Inclusion, and Belonging Report 2021, now in 
+its fourth year, is a prime example of our commitment to 
+
+bodies to ensure we comply with various global and 
+regional standards. Learn more about our corporate 
+governance.
+
+Government relations, advocacy, and opportunity
+
+In September, we established our government relations 
+
+department, which reports to our general counsel. Our goal is 
+
+to build relationships with policymakers all over the world and 
+
+educate them about ServiceNow’s mission and efforts to make 
+
+the world of work, work better for people. More specifically, we’re 
+
+expanding brand awareness about how our innovative Now 
+
+Platform helps enterprises, communities, and governments deliver 
+
+services in an efficient, interoperable, safe, and secure way.
+
+Everything comes down to trust. I 
+believe trust is the ultimate human 
+currency. You gain trust in drops, and 
+you can lose trust in buckets—and it’s 
+so important to do it the right way.
+
+Bill McDermott
+President and CEO
+
+ServiceNow Global Impact Report 2021Governance Acting with integrityHigh ethics, high expectations
+
+45
+
+We show up every day with our purpose leading 
+
+All of our training and education campaigns are 
+
+the way. We do the right thing by keeping integrity, 
+
+targeted to the right people with the right messaging 
+
+teamwork, trust, and our core values at the forefront of 
+
+for their line of work, in clear and simple language— 
+
+our minds. We recognize that decisions aren’t always 
+
+not legalese.
+
+clear-cut. Our Code of Ethics provides a framework to 
+
+help us navigate areas of uncertainty and apply our 
+
+values to all situations so our customers can trust us 
+
+to make their work, work better for them. In 2020, we 
+
+refreshed our Code of Ethics, making it more accessible 
+and relatable. Review our Code of Ethics.
+
+We’re committed to fostering an environment in which 
+
+open, honest communication is the expectation, 
+
+not the exception. We want our employees to be 
+
+comfortable raising a concern, so we created the 
+
+Speak Up program, which encourages employees to 
+
+say something when they see something, through a 
+
+We provide all our employees—from our executive 
+
+variety of reporting options. The program clearly states 
+
+officers to new hires—with ethics and compliance 
+
+what they can expect from us in terms of response 
+
+training. New employees are required to complete 
+
+and action. This will continue to be a top priority for 
+
+this training within 45 days of joining the company. 
+
+us in 2021.
+
+Our training content is also covered in our Code of 
+
+Ethics and our anti-corruption, anti-harassment, and 
+
+whistleblowing policies. 
+
+Our values
+
+Stay hungry and humble
+
+Innovate and execute
+
+Deliver customer success
+
+Win as a team
+
+Embrace diversity, create belonging
+
+Enjoy the journey
+
+ServiceNow Global Impact Report 2021Governance Acting with integrityEmerging technology and ethics
+
+46
+
+We aim to foster responsible and ethical use of data 
+
+and emerging technologies, especially artificial 
+
+intelligence (AI). For us, AI is a means to help people 
+
+focus on the more creative and productive parts of their 
+
+work. That’s why we made one of the most significant 
+
+acquisitions in our history last year with Element AI. 
+
+It will be key to helping us build an AI-first platform, 
+
+become the defining enterprise software company of 
+
+the 21st century, and truly make the world of work, work 
+
+better for people. 
+
+The more we provide intelligent and intuitive experiences, 
+
+the more we can help people feel engaged and 
+
+empowered to do their best work. But with more 
+
+intelligence comes more responsibility, so we established 
+
+our Data Ethics Council in 2020, composed of senior 
+
+executives from IT, data security and privacy, AI, and 
+
+legal. The council meets monthly to discuss new and 
+
+innovative uses of data that are consistent with our 
+
+values. It also looks at current data privacy and security 
+
+issues, from our approach to customer data to emerging 
+
+laws and regulations.
+
+2020 was a defining year for us in terms 
+of emerging technology and ethics.
+
+Vijay Narayanan
+Chief AI Officer 
+ServiceNow
+
+ServiceNow Global Impact Report 2021Governance Acting with integrityRelentlessly protecting data security and privacy
+
+47
+
+As caretakers of our customers’ data, we have an 
+
+As cybersecurity is often the No. 1 operational risk 
+
+immense responsibility to protect it. We’re laser-focused 
+
+for companies, we’re committed to meeting security, 
+
+on—and invest heavily in—security, compliance, and 
+
+compliance, and privacy requirements, especially those 
+
+privacy to meet industry and regulatory expectations 
+
+mandated by our highly regulated commercial and 
+
+to secure our customers’ data. That includes our 
+
+federal customers. We’re proud to report that in 2020, 
+
+dedicated, 200-person data security team. 
+
+we met our financial services security requirements—
+
+demonstrating our commitment to security, risk, and 
+
+We focus on continuous education and training 
+
+to constantly hone our detection and response 
+
+business continuity.
+
+capabilities. During the COVID-19 pandemic, our 
+
+For more information on our commitment to building 
+
+workflows automated resiliency-based efforts, such as 
+
+secure remote workforce onboarding and provisioning 
+
+trust through data security and privacy, refer to our 
+Trust and Compliance Center.
+
+at scale. Furthermore, we’re always testing the 
+
+robustness of our platform via internal and external 
+
+security assessments.  
+
+The pandemic and regulatory changes 
+have increased our focus on security 
+and privacy. Just as attackers quickly 
+adapt to any crisis, CISOs are also 
+opportunistic, accelerating remote 
+security initiatives and investments to 
+boost resiliency.
+
+Ben de Bont
+SVP and Chief Information Security Officer 
+ServiceNow
+
+Actions and achievements in 2020
+
+•  Created a robust, gamified training program for our 
+
+employees
+
+• 
+
+• 
+
+BSIMM-verified application security standard
+
+Exceeded NIST moderate-impact control requirements
+
+•  Achieved numerous security certifications, including:
+
+– SOC 2
+
+– ISO 27001, 27017, 27018, 27701
+
+– FedRAMP JAB High P-ATO
+
+ServiceNow Global Impact Report 2021Governance Acting with integrity 
+ 
+ 
+Working nonstop for business continuity
+
+48
+
+Being 100% remote during the pandemic is a testament 
+
+As we start bringing employees back to our locations, 
+
+to our own digital transformation and use of the Now 
+
+we’ll use our own solutions to ensure their safe return 
+
+Platform. The experience put our purpose to the test 
+
+and manage risks to avoid business disruptions. 
+
+and motivated us to help our customers achieve faster 
+
+time to value via digital transformation.
+
+Managing risk is not only our responsibility; it’s also our 
+
+opportunity. In 2019, we acquired Fairchild Resiliency 
+
+The pandemic tested—and validated—our business 
+
+Systems to complement our risk portfolio. The first 
+
+resilience and our ability to work anywhere, anytime.
+
+product from that acquisition, our Business Continuity 
+
+• 
+
+In March 2020, we shifted 100% of global employees 
+
+to work from home with very little disruption—all in a 
+
+matter of days.
+
+•  During the pandemic, we hired and onboarded 
+
+~2,500 new employees and ~360 interns, all virtually.
+
+Management solution, was launched in late 2020. It will 
+
+help us, as well as our customers, be more resilient in 
+
+the face of future adverse events. 
+
+The lessons learned during 2020 are helping us better 
+
+understand the potential impacts of future systemic 
+
+disruptions and how to engage our workforce differently 
+
+•  We shifted our product development efforts to 
+
+as we move to a new distributed work model that 
+
+focus on workflow solutions that could solve the 
+
+will be more sustainable and benefit our workforce 
+
+pandemic’s most pressing challenges, such as 
+
+and planet.
+
+contact tracing, back-to-work programs, and 
+
+vaccine administration management.
+
+•  We accelerated our risk assessment of our suppliers’ 
+
+financial health and resiliency.
+
+99.996%
+
+average uptime 
+
+(99.8% SLA)
+
+30
+
+global datacenters 
+
+with Tier 1 providers
+
+24/7
+
+site reliability
+
+ServiceNow Global Impact Report 2021Governance Acting with integrityNow, the real work begins
+Conclusion
+
+49
+
+Now, the real work begins
+
+We’ve identified our ESG priority issues, developed our 
+global impact strategy, set ambitious goals, published 
+our inaugural Global Impact Report, and built a 
+governance model to guide this work going forward. 
+With the foundational work done, we’re inspired and 
+dreaming big about what the future holds.
+
+Our plans for 2021 include scaling our 
+global impact initiatives across our 
+overarching vision and strategic pillars 
+to maximize impact:
+
+Creating equitable opportunity
+
+•  We’ll continue to accelerate and scale our diversity, 
+inclusion, and belonging strategies and the impact 
+we’re having both internally and externally.
+
+Our vision: Workflow a better world 
+
+•  We’ll deliver on our global impact vision by helping 
+
+our customers and partners achieve and accelerate 
+their ESG goals through the Now Platform and our 
+workflow solutions. No matter what your business 
+is facing, “let’s workflow it” to create a better 
+business outcome. 
+
+•  We’ll investigate and quantify ESG value creation 
+
+of ServiceNow workflows, such as reduced 
+environmental impact. 
+
+Sustaining our planet
+
+•  We’ll achieve our 100% renewable energy and 
+carbon-neutral goals by the end of 2021.
+
+•  We’ll decarbonize our operations through formally 
+
+committing to the Science Based Target initiative on 
+our path to net zero.
+
+•  We’ll build a robust waste diversion program across 
+
+our entire organization.
+
+•  We’ll amplify our support of the communities we touch 
+and serve by increasing our community investments 
+(grants and matching gifts) by 50%.
+
+•  We’ll track the impact of our $100 million Racial 
+
+Equity Fund.
+
+•  We’ll contribute to closing the digital divide by reaching 
+3,000 beneficiaries through our NextGen Professional 
+digital skills programs.
+
+•  We’ll strengthen ServiceNow employee engagement 
+
+on global impact through increased volunteerism and 
+giving opportunities and ESG educational sessions.
+
+Acting with integrity
+
+•  We’ll gather stakeholder feedback on our first Global 
+Impact Report to make next year’s report even better.
+
+•  We’ll hold ourselves accountable to ESG performance 
+
+and transparency through our ESG Steering Committee.
+
+•  We’ll continue to focus on world-class data security and 
+privacy for ServiceNow, our customers, and our partners.
+
+•  We’ll continue to leverage our Data Ethics Committee 
+to analyze new use cases in data, including AI and 
+machine learning (ML).
+
+Section TitleServiceNow Global Impact Report 2021Now, the real work begins
+
+50
+
+When we bring our whole company together—uniting our 
+collective expertise, our Now Platform and workflows, our 
+partnerships and financial resources, and our purpose-
+driven culture and values—the impact we can create for 
+employees, customers, shareholders, and communities 
+worldwide is unlimited. So are the possibilities. 
+
+In 2021 and beyond, we’ll continue to set more goals, 
+scale our initiatives, and launch new programs that 
+will help us, our customers, and communities, make the 
+world of work, work better for people. 
+
+Together, we’ll help 
+workflow a better world.
+
+Section TitleServiceNow Global Impact Report 2021Data
+
+Annex
+
+ESG governance
+
+52
+
+ServiceNow ESG governance
+
+Nominating and governance committee  
+of the board of directors
+
+Charter includes advising the board 
+on environmental, social responsibility, 
+and corporate governance matters
+
+Executive management team 
+Gina Mastantuono, CFO (ESG executive sponsor)
+
+Incorporating ESG into our vision  
+to become the defining enterprise 
+software company of the 21st century
+
+ESG steering committee
+Corporate strategy 
+Customer & partner 
+Finance 
+
+IT 
+Legal  
+Marketing
+
+Product 
+Sales 
+Talent
+
+Oversee ServiceNow’s global impact 
+(ESG) strategy, goals, progress
+
+ESG initiative business owners
+
+Lead ServiceNow’s top global impact 
+initiatives across strategy pillars
+
+Our vision Workflow a better world 
+
+Environment
+
+Sustaining our  
+planet
+
+Social
+
+Creating equitable 
+opportunity
+
+Governance
+
+Acting with 
+ integrity
+
+ServiceNow Global Impact Report 2021Data Annex53
+
+ESG materiality
+
+In 2020, we partnered with a third-party sustainability adviser, BSR, to update our ESG materiality assessment 
+
+to prioritize the most important near-term and long-term emerging environmental, social, and governance (ESG) 
+
+topics to our business and stakeholders.
+
+The priority topics that emerged are reflected as Tier 1, 2, or 3 issues and guide the content of this report. Our 
+
+tier 1 issues are those in which we have the greatest opportunity to create value. They will inform the ongoing 
+
+development of our sustainability strategy.
+
+ESG materiality
+
+Tier 1 issues
+
+(High importance to stakeholders and 
+
+high importance to business success)
+
+Data security and privacy 
+
+Diversity, inclusion and belonging 
+
+Future of work 
+
+Corporate governance and business ethics 
+
+Business continuity risks  
+
+Climate and energy 
+
+Digital divide 
+
+Talent 
+
+Emerging technology and ethics
+
+Tier 2 issues
+
+Workflow for good  
+
+(High importance to stakeholders or 
+
+high importance to business success) 
+
+Employee and workplace health and safety 
+
+Community engagement
+
+Tier 3 issues
+
+Sustainable procurement  
+
+(Moderate importance to stakeholders and 
+
+moderate importance to business success) 
+
+Waste 
+
+Water
+
+ServiceNow Global Impact Report 2021Data Annex54
+
+Stakeholders
+
+Internal stakeholders
+
+To provide insights into where there is meaningful business value at stake for ServiceNow and where integration 
+
+with the business strategy is most critical, we engaged via interviews with teams in marketing and communications; 
+
+global real estate workplace and sustainability; and diversity, inclusion, and belonging; and global impact.
+
+External stakeholders
+
+To provide insights into which topics have relevance for external stakeholders, we interviewed a select group of 
+
+ServiceNow customers, partners, and environmental non-governmental organizations (NGOs). 
+
+Stakeholders
+
+Employees
+
+How we engage
+
+•  Annual employee kickoff
+
+•  Twice-quarterly Now Live all-employee event
+
+•  Quarterly managers forum 
+
+•  Biannual global leaders summit
+
+•  Biannual global leaders sync
+
+• 
+
+Employee resource groups
+
+•  Annual Diversity, Inclusion, and Belonging leadership summit
+
+•  Annual employee voice survey (EVS) first half of year
+
+• 
+
+EVS check-in survey second half of year
+
+•  Now at Work communications channel
+
+•  Quarterly growth conversations
+
+•  Advisory panels and focus groups 
+
+•  Annual Knowledge conference
+
+•  Now at Work regional events
+
+•  Customer 1:1 meetings/calls
+
+•  Customer surveys
+
+•  Usability studies 
+
+•  Research forums 
+
+•  Customer service inquires
+
+•  Training and certification programs
+
+•  Best practice sharing via Now Create and Customer Success Center
+
+•  Global partner ecosystem summit
+
+•  Regional partner summits
+
+•  Quarterly partner webinars
+
+•  Biannual partner advisory council
+
+• 
+
+1:1 partner meetings, bidirectional communications
+
+Customers
+
+Partners
+
+ServiceNow Global Impact Report 2021Data Annex55
+
+Stakeholders
+
+Investors 
+
+How we engage
+
+•  Year-round investor outreach
+
+•  Annual shareholder meeting
+
+•  Annual financial analyst day
+
+• 
+
+• 
+
+Investor roadshows
+
+Investor bus tours
+
+•  Quarterly earnings calls
+
+•  Shareholder proposals
+
+Communities
+
+• 
+
+• 
+
+• 
+
+Investor conferences
+
+Investor Relations website
+
+Engage with civil society and nonprofit organizations on topics ranging from  
+
+environmental sustainability to food security to disaster response to digital literacy
+
+•  Collaborative partnerships
+
+•  Philanthropic efforts 
+
+• 
+
+• 
+
+ESG conferences
+
+Employee giving and volunteering activities
+
+ServiceNow Global Impact Report 2021Data AnnexMemberships and recognitions
+
+56
+
+Memberships and associations
+
+•  AnitaB.org
+
+•  BSA | The Software Alliance
+
+•  DIAN, DIAN India
+
+•  Everywoman UK
+
+•  BSR
+
+•  Hispanic IT Executive Council (HITEC)
+
+•  Congressional Black Caucus Foundation
+
+• 
+
+Information Technology Industry Council (ITI)
+
+•  Congressional Hispanic Caucus Institute
+
+•  Renewable Energy Buyers Alliance (REBA)
+
+•  Coqual (formerly Center for Talent Innovation) 
+
+•  Stanford VMware Women’s Leadership Innovation Lab 
+
+Recognitions
+
+• 
+
+• 
+
+ FORTUNE® World’s Most Admired CompaniesTM 2021 list
+
+•  Great Place to Work-certified
+
+ FORTUNE® World’s Most Admired CompaniesTM 2020 list
+
+• 
+
+Forbes Just 100, #77
+
+•  #1 on FORTUNE® Future 50 2020 list
+
+•  Silicon Valley Business Journal Top 50 Philanthropists 
+
+(in Silicon Valley), #26
+
+ServiceNow Global Impact Report 2021Data AnnexData tables
+
+57
+
+Greenhouse gas emissions (mtCO2e) 
+
+Calculations are consistent with Green House Gas (GHG) Protocol and The Climate Registry’s General Reporting 
+
+Protocol. Where actual energy bills were not available, emissions were estimated using the Commercial Buildings 
+
+Energy Consumption Survey (CBECS) database.  
+
+Greenhouse gas emissions (mtCO2e) 
+
+GHG emissions (mtCO2e)
+
+Scope 1
+
+Scope 2—Location-based
+
+Scope 2—Market-based
+
+Scope 3—Business travel
+
+TOTAL EMISSIONS (Location-based)
+
+TOTAL EMISSIONS (Market-based)
+
+2019 (baseline)
+
+ 1,322.75 
+
+24,452.99
+
+16,944.27
+
+26,466.00
+
+52,241.74
+
+44,733.02
+
+Other greenhouse gas emissions (mtCO2e) 
+
+GHG emissions
+
+2019 (baseline)
+
+Emissions by region (offices and datacenters)
+
+AMER (Location-based)
+
+AMER (Market-based)
+
+EMEA (Location-based)
+
+EMEA (Market-based)
+
+APJ (Location-based)
+
+APJ (Market-based)
+
+Emissions by source
+
+Offices (Location-based)
+
+Offices (Market-based)
+
+Datacenters (Location-based)
+
+Datacenters (Market-based)
+
+13,916.61 
+
+9,914.34
+
+4,477.91
+
+1,149.46 
+
+7,381.21
+
+7,203.22
+
+11,108.66 
+
+11,206.14 
+
+14,667.08
+
+7,060.88
+
+2020
+
+1,018.23
+
+28,457.85
+
+19,391.51
+
+3,928.00
+
+33,404.08
+
+24,337.74
+
+2020
+
+15,623.31 
+
+10,706.59
+
+5,846.84
+
+2,024.99 
+
+8,005.92
+
+7,678.16
+
+10,883.56
+
+10,388.01
+
+18,592.52
+
+10,021.73
+
+Note: For both GHG tables above, our 2019 location-based emissions data was updated from our Global Impact ESG Fact Sheet published in June 2020 as follows: 2019 Scope 2 emissions data 
+
+adjusted as a result of updated utility data and corrective data from datacenter feeds; 2019 Scope 3 emissions data (travel data) restated due to change in methodology.
+
+ServiceNow Global Impact Report 2021Data AnnexEmissions intensity
+
+GHG emissions normalized by revenue 
+(mtCO2e/$ millions)
+
+Scope 1
+
+Scope 2—Location-based
+
+Scope 2—Market-based
+
+Scope 3—Business travel
+
+GHG emissions normalized by employee 
+(mtCO2e/# of employees)
+
+Scope 1
+
+Scope 2—Location-based
+
+Scope 2—Market-based
+
+Scope 3—Business travel
+
+Total energy use
+
+Energy use (in MWh)
+
+Total energy use
+
+Electricity1
+
+% of total
+
+Other fuels1 
+
+% of total
+
+Nonrenewable
+
+% of total
+
+Renewable
+
+% of total
+
+2019 (baseline)
+
+0.38
+
+7.07
+
+4.90
+
+7.65
+
+2019 (baseline)
+
+0.14
+
+2.50
+
+1.73
+
+2.70
+
+2019 (baseline)
+
+78,679.76 
+
+61,510.55
+
+78%
+
+17,169.21 
+
+22%
+
+62,515.31 
+
+79%
+
+16,164.45
+
+21%
+
+58
+
+2020
+
+0.23
+
+6.30
+
+4.30
+
+0.87
+
+2020
+
+0.09
+
+2.44
+
+1.66
+
+0.34
+
+2020
+
+85,974.90
+
+69,396.04
+
+81%
+
+16,578.86
+
+19%
+
+63,118.83
+
+73%
+
+22,856.07
+
+27%
+
+Energy use by region and source
+
+Energy management (in MWh)
+
+2019 (baseline)
+
+2020
+
+Electricity use by region (office and datacenter)7
+
+Total electricity consumed by region
+
+AMER
+
+EMEA
+
+APJ
+
+Electricity use by source
+
+Offices
+
+Datacenters*
+
+40,720.63 
+
+12,707.28 
+
+8,082.65
+
+19,520.42 
+
+41,990.14 
+
+43,413.35
+
+16,823.63 
+
+9,159.06
+
+18,906.67
+
+50,489.37
+
+* Note: In 2020, due to the increase in our datacenter operations globally, our energy consumption for datacenters has increased compared to 2019. In the same year, while most of our office 
+
+locations were closed due to COVID-19, ServiceNow continued to grow our office portfolio globally, which has resulted in a slight decrease in our energy use.
+
+7 Other fuels include natural gas.
+
+ServiceNow Global Impact Report 2021Data AnnexHuman capital
+
+Employees
+
+Total number of employees
+
+New hires
+
+Voluntary turnover rate
+
+Gender
+
+Global % female
+
+Global leaders % female
+
+Global tech % female
+
+Global non-tech % female
+
+Race and ethnicity in the US
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Hispanic or Latino
+
+Native Hawaiian or Pacific Islander
+
+Two or more races
+
+White
+
+Race and ethnicity in the US—leadership (dir+)
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Hispanic or Latino
+
+Native Hawaiian or Pacific Islander
+
+Two or more races
+
+White
+
+Race and ethnicity in the US—tech
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Hispanic or Latino
+
+Native Hawaiian or Pacific Islander
+
+Two or more races
+
+White
+
+Race and ethnicity in the US—non-tech
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Hispanic or Latino
+
+Native Hawaiian or Pacific Islander
+
+Two or more races
+
+White
+
+2018
+
+8,154
+
+2,659
+
+10.1%
+
+27.2%
+
+25.5%
+
+21.8%
+
+30.8%
+
+0.3%
+
+29.9%
+
+2.0%
+
+6.0%
+
+0.4%
+
+2.0%
+
+59.5%
+
+0.0%
+
+19.2%
+
+1.4%
+
+4.0%
+
+0.0%
+
+0.9%
+
+74.5%
+
+0.1%
+
+52.9%
+
+1.5%
+
+5.7%
+
+0.3%
+
+1.7%
+
+37.9%
+
+0.4%
+
+15.8%
+
+2.3%
+
+6.2%
+
+0.4%
+
+2.2%
+
+72.7%
+
+2019
+
+10,371
+
+3,216
+
+10.7%
+
+29.0%
+
+28.2%
+
+22.8%
+
+33.7%
+
+0.3%
+
+31.4%
+
+2.1%
+
+6.2%
+
+0.3%
+
+2.3%
+
+57.4%
+
+0.0%
+
+22.9%
+
+1.3%
+
+3.5%
+
+0.1%
+
+1.3%
+
+70.9%
+
+0.0%
+
+52.4%
+
+1.5%
+
+5.5%
+
+0.3%
+
+2.1%
+
+38.2%
+
+0.5%
+
+16.4%
+
+2.5%
+
+6.7%
+
+0.4%
+
+2.4%
+
+71.7%
+
+59
+
+2020
+
+13,096
+
+3,551
+
+7.0%
+
+29.2%
+
+27.6%
+
+22.9%
+
+34.5%
+
+0.3%
+
+32.2%
+
+2.7%
+
+6.2%
+
+0.3%
+
+2.5%
+
+55.8%
+
+0.0%
+
+24.3%
+
+2.1%
+
+3.9%
+
+0.1%
+
+1.0%
+
+68.6%
+
+0.0%
+
+52.5%
+
+1.9%
+
+5.3%
+
+0.3%
+
+2.2%
+
+37.9%
+
+0.5%
+
+16.5%
+
+3.3%
+
+6.9%
+
+0.4%
+
+2.8%
+
+69.6%
+
+ServiceNow Global Impact Report 2021Data AnnexCommunity engagement
+
+Community engagement8
+
+Total giving (grants & employee match)
+
+Corporate grants
+
+Corporate employee match*
+
+Employee donations
+
+Employee donation participation
+
+Charitable causes supported
+
+Employee volunteer hours
+
+2019
+
+$1,554,115 
+
+$955,182 
+
+$598,933 
+
+$810,520 
+
+17.5%
+
+1,777
+
+5,467
+
+* ServiceNow provides 1:1 matching up to $1,000 USD per full-time employee annually.
+
+60
+
+2020
+
+$5,035,127
+
+$3,801,665
+
+$1,233,462
+
+$1,605,134 
+
+25.3%
+
+2,626
+
+10,165
+
+8 Program was founded in 2019.
+
+ServiceNow Global Impact Report 2021Data Annex61
+
+Sustainability Accounting  
+Standards Board (SASB)
+
+ServiceNow is committed to transparently disclosing material sustainability information for our investors and other 
+
+stakeholders. The table below references SASB’s Software and IT Services Standard, Version 2018–10, which is most 
+
+relevant to our operations. Unless otherwise specified, the data and descriptions are current as of year-end 2020.  
+
+We will continue to evaluate additional topics and metrics for inclusion in future reports.
+
+Sustainability accounting standards
+
+Metric code
+
+Metric
+
+Response
+
+Environmental footprint of hardware infrastructure
+
+TC-SI-130a.1
+
+TC-SI-130a.1
+
+TC-SI-130a.1
+
+(1) Total energy consumed, (2) percentage grid electricity,  
+(3) percentage renewable
+
+Total energy use
+
+(1) Total water withdrawn, (2) total water consumed, percentage of 
+each in regions with High or Extremely High Baseline Water Stress
+
+ServiceNow does not currently report on water consumption but 
+plans to assess this further in the future. 
+
+Discussion of the integration of environmental considerations into 
+strategic planning for datacenter needs
+
+Improving datacenter efficiency
+
+Data privacy and freedom of expression
+
+TC-SI-220a.1
+
+Description of policies and practices relating to behavioral 
+advertising and user privacy
+
+ServiceNow® privacy statement
+
+TC-SI-220a.2
+
+Number of users whose information is used for secondary purposes Since ServiceNow primarily operates in a B2B environment and 
+
+is not focused on secondary utilization, this information is not 
+relevant to this report.
+
+TC-SI-220a.3
+
+TC-SI-220a.4
+
+TC-SI-220a.5
+
+Data security
+
+TC-SI-230a.2
+
+Total amount of monetary losses as a result of legal proceedings 
+associated with user privacy
+
+In 2020, ServiceNow did not have any significant fines or losses as 
+a result of legal proceedings with user privacy.
+
+(1) Number of law enforcement requests for user information, 
+(2) number of users whose information was requested, 
+(3) percentage resulting in disclosure
+
+Since ServiceNow primarily operates in a B2B environment and 
+such requests are more likely to be requested from our customers 
+directly, this information is not relevant to this report.
+
+List of countries where core products or services are subject 
+to government-required monitoring, blocking, content filtering, 
+or censoring
+
+ServiceNow complies with any necessary obligations, including, 
+but not limited to, requirements under the Foreign Corrupt  
+Practices Act and Export Control Regulations.
+
+Description of approach to identifying and addressing  
+data security risks, including use of third-party 
+cybersecurity standards
+
+Relentlessly protecting data security and privacy
+
+ServiceNow exceeds NIST moderate-impact control requirements, 
+and our application security standard is verified by BSIMM.
+
+Recruiting and managing a global, diverse, and skilled workforce
+
+TC-SI-330a.1
+
+Percentage of employees who are (1) foreign nationals 
+(2) located offshore
+
+TC-SI-330a.2
+
+Employee engagement as a percentage
+
+ServiceNow headquarters are in Santa Clara, California. At the 
+end of 2020, 14.6% of full-time employees in the United States were 
+foreign nationals and 0.20% of US employees were located outside 
+of the US.
+
+Results from ServiceNow’s 2020 Employee Voice Survey found 
+82% of employees are engaged, in line with leading benchmark 
+companies driving high growth and high engagement.
+
+TC-SI-330a.3
+
+Percentage of gender and racial/ethnic groups as a  
+representation for (1) management, (2) technical staff, 
+(3) all other employees
+
+Human capital
+
+2021 Diversity, Inclusion, and Belonging Report
+
+Intellectual property protection and competitive behavior
+
+TC-SI-520a.1
+
+Total amount of monetary losses as a result of legal proceedings 
+associated with anti-competitive behavior regulations
+
+In 2020, ServiceNow did not have any significant fines or 
+losses as a result of legal proceedings associated with 
+anti-competitive behavior.
+
+Managing systemic risks from technology disruptions
+
+TC-SI-550a.2
+
+Description of business continuity risks related to disruptions 
+of operations
+
+2020 Form 10-K
+
+ServiceNow Global Impact Report 2021Data AnnexGRI Index
+
+We considered recommended disclosures from the Global Reporting Initiative (GRI), unless otherwise noted, data 
+
+reported covers Jan. 1, 2020-Dec. 31, 2020, ServiceNow’s fiscal year.
+
+62
+
+Disclosure number
+
+Disclosure title
+
+Response
+
+General disclosures
+
+102-1
+
+102-2
+
+102-3
+
+102-4
+
+102-5
+
+102-6
+
+102-7
+
+Name of the organization
+
+Activities, brands, products, and services
+
+Location of headquarters
+
+Location of operations
+
+ServiceNow, Inc. 
+
+2020 Form 10-K
+
+Santa Clara, California
+
+Our global headquarters are in Santa Clara, California, with 73 
+offices and 30 datacenters in 29 countries. Here is a list of all  
+ServiceNow locations.
+
+Ownership and legal form
+
+Publicly traded Delaware US corporation
+
+Markets served
+
+Scale of the organization
+
+2020 Form 10-K
+
+2020 Form 10-K
+
+2020 Form 10-K
+
+13,096 full-time employees at the end of 2020 
+
+About ServiceNow
+
+102-8
+
+Information on employees and other workers
+
+13,096 total full-time employees
+
+Globally, 29.2% of all full-time employees are women.
+
+27.6% of global leaders (directors and above)* are women.
+
+Human capital
+
+2020 Form 10-K
+
+ServiceNow does not have a significant portion of the company’s 
+activities performed by workers who are not employees. 
+
+ServiceNow does not have a significant seasonal variation 
+in employees.
+
+102-9
+
+102-10
+
+102-11
+
+102-12
+
+102-13
+
+102-14
+
+102-15
+
+102-16
+
+Supply chain
+
+Sustainable procurement
+
+Significant changes to the organization and its supply chain
+
+Precautionary principle or approach
+
+Not applicable, 2021 Global Impact Report is ServiceNow’s 
+first report.
+
+We consider the precautionary principle in the introduction of a 
+new product or process whose ultimate effects are disputed or 
+unknown should be resisted.
+
+External initiatives
+
+Membership of associations
+
+Memberships and recognitions
+
+Memberships and recognitions
+
+Statement from senior decision-maker
+
+CEO letter
+
+Key impacts, risks, and opportunities
+
+Values, principles, standards, and norms of behavior
+
+ESG materiality 
+
+Now, more than ever
+
+2020 Form 10-K
+
+Code of Ethics 
+
+High ethics, high expectations
+
+ServiceNow Global Impact Report 2021Data AnnexDisclosure number
+
+Disclosure title
+
+Response
+
+General disclosures
+
+63
+
+Governance structure
+
+See 2021 Proxy Statement on the Investor Relations page.
+
+Delegating authority
+
+Corporate Governance
+
+About this report
+
+Executive-level responsibility for economic, environmental, and 
+social topics
+
+Our head of global impact reports to our chief financial officer.
+
+Composition of the board and its committees
+
+See 2021 Proxy Statement on the Investor Relations page.
+
+Whether the chair of the board is also an executive officer
+
+We post select information about our board of directors on our 
+website.
+
+Frederic B. Luddy is chairman of the board of directors and is not 
+an executive officer.
+
+Nominating and selecting the board and its committees
+
+Nominating and Governance Committee Charter
+
+Role of board in setting purpose, values, and strategy
+
+See 2021 Proxy Statement (Nominations Process and Director 
+Qualifications) on the Investor Relations page.
+
+See 2021 Proxy Statement (Nominations Process and Director 
+Qualifications) on the Investor Relations page.
+
+Annual total compensation ratio
+
+See 2021 Proxy Statement on the Investor Relations page.
+
+List of stakeholder groups
+
+Stakeholders
+
+Collective bargaining agreements
+
+102-42
+
+Identifying and selecting stakeholders
+
+Approach to stakeholder engagement
+
+Key topics and concerns raised
+
+None of our US employees are represented by a labor union. 
+Employees in certain European countries are represented 
+by workers’ councils and may have the benefits of collective 
+bargaining arrangements at the national level. 
+
+ServiceNow engages with stakeholders who have impact and 
+interest in issues important to ServiceNow.
+
+ESG materiality 
+
+Stakeholders
+
+Stakeholders
+
+ESG materiality 
+
+Stakeholders
+
+See 2021 Proxy Statement on the Investor Relations page.
+
+Entities included in the consolidated financial statements
+
+2020 Form 10-K
+
+Defining report content and topic boundaries
+
+List of material topics
+
+About this report
+
+ESG materiality 
+
+ESG materiality 
+
+Restatements of information
+
+Not applicable since this is our first Global Impact Report.
+
+Changes in reporting
+
+Not applicable since this is our first Global Impact Report.
+
+Reporting period
+
+About this report
+
+Jan. 1, 2020–Dec. 31, 2020
+
+Date of most recent previous report
+
+This is ServiceNow’s first Global Impact Report.
+
+Reporting cycle
+
+Annual
+
+Contact point for questions regarding the report
+
+global.impact@servicenow.com
+
+GRI content index
+
+External assurance
+
+GRI content index
+
+Not applicable; we plan to assure our environmental data in 
+future reports.
+
+102-18
+
+102-19
+
+102-20
+
+102-22
+
+102-23
+
+102-24
+
+102-26
+
+102-38
+
+102-40
+
+102-41
+
+102-43
+
+102-44
+
+102-45
+
+102-46
+
+102-47
+
+102-48
+
+102-49
+
+102-50
+
+102-51
+
+102-52
+
+102-53
+
+102-55
+
+102-56
+
+ServiceNow Global Impact Report 2021Data Annex64
+
+Disclosure number
+
+Disclosure title
+
+Response
+
+Economic disclosures
+
+Management approach
+
+103-1
+
+103-2
+
+103-3
+
+Explanation of the material topic and its boundaries
+
+2020 Form 10-K
+
+Management approach and its components
+
+Evaluation of the management approach
+
+2020 Form 10-K
+
+2020 Form 10-K
+
+Economic performance
+
+201-1
+
+201-2
+
+201-3
+
+Indirect economic impact
+
+Direct economic value generated and distributed
+
+2020 Form 10-K
+
+Financial implications and other risks and opportunities due to 
+climate change
+
+Defined benefit plan obligations and other retirement plans
+
+Championing a resource-efficient, net zero carbon environment
+
+ServiceNow does not have pensions or non-qualified deferred 
+compensation. Here is a full list of benefits for US employees.
+
+203-2
+
+Significant indirect economic impacts
+
+Advancing our cause through community engagement
+
+Anti-corruption
+
+205-2
+
+Anti-competitive behavior
+
+206-1
+
+Tax
+
+ 207-1 
+
+ 207-2 
+
+Environmental disclosures
+
+Management approach
+
+103-1
+
+103-2
+
+103-3
+
+Energy
+
+302-1
+
+302-2
+
+302-4
+
+Communication and training about anti-corruption policies and 
+procedures
+
+High ethics, high expectations
+
+All new hires are required to complete a Code of Ethics training 
+within 45 days of joining the company.
+
+Legal actions for anti-competitive behavior, anti-trust, and 
+monopoly practices
+
+In 2020, ServiceNow did not have any significant fines or losses as 
+a result of legal actions associated with anti-competitive behavior, 
+anti-trust, or monopoly practices.
+
+Approach to tax including tax strategy, oversight of tax strategy
+
+ServiceNow approach to tax 
+
+The governance body or executive-level position within the  
+organization accountable for compliance with the tax strategy
+
+ServiceNow approach to tax  
+
+ServiceNow’s vice president of tax is accountable for compliance 
+with the company’s tax strategy. 
+
+Explanation of the material topic and its boundaries
+
+Now, more than ever
+
+Management approach and its components
+
+Climate and energy
+
+Waste
+
+Evaluation of the management approach
+
+Climate and energy
+
+Waste
+
+Energy consumption within the organization 
+
+GHG emissions and energy use
+
+Energy consumption outside of the organization
+
+Reduction of energy consumption
+
+ServiceNow does not currently track energy consumption outside 
+the organization but may do so in the future. 
+
+ServiceNow does not currently track the reductions in energy 
+consumption directly related to efficiency initiatives but may do 
+so in the future.
+
+ServiceNow does not sell hardware and, therefore, does not  
+currently track the reduction in energy requirements of products. 
+
+302-5
+
+Reduction in energy requirements of products and services
+
+Emissions
+
+305-1
+
+305-2
+
+Direct (Scope 1) GHG emissions
+
+Greenhouse gas emissions (mtCO2e)
+
+Energy indirect (Scope 2) GHG emissions
+
+Greenhouse gas emissions (mtCO2e)
+
+ServiceNow Global Impact Report 2021Data Annex65
+
+Disclosure number
+
+Disclosure title
+
+Response
+
+Emissions (cont’d)
+
+305-3
+
+305-4
+
+305-5
+
+305-6
+
+305-7
+
+Waste
+
+306-4
+
+Environmental compliance
+
+Other indirect (Scope 3) GHG emissions
+
+Greenhouse gas emissions (mtCO2e)
+
+GHG emissions intensity
+
+Reduction of GHG emissions
+
+Emissions intensity
+
+Greenhouse gas emissions (mtCO2e)
+
+Emissions of ozone-depleting substances (ODS)
+
+ServiceNow does not currently track emissions of ozone-depleting 
+substances.
+
+Nitrogen oxides (NOX), sulfur oxides (SOX), and other significant 
+air emissions
+
+ServiceNow does not currently track emissions of ozone-depleting 
+substances.
+
+Waste diverted from disposal
+
+Nothing to waste. Everything to gain.
+
+ServiceNow does not currently track operational waste metrics.
+
+307-1
+
+Noncompliance with environmental laws and regulations
+
+In 2020, there were no findings of noncompliance with 
+environmental laws and regulations. 
+
+Employment
+
+Management approach
+
+103-1
+
+103-2
+
+103-3
+
+Employment
+
+401-1
+
+401-2
+
+Explanation of the material topic and its boundaries
+
+Making work more equitable, accessible, and rewarding for all
+
+Management approach and its components
+
+Making work more equitable, accessible, and rewarding for all
+
+Evaluation of the management approach
+
+Making work more equitable, accessible, and rewarding for all
+
+New employee hires and employee turnover
+
+In 2020, there were 3,552 new employees hired globally, and there 
+was a 7% global voluntary attrition rate. We do not currently report 
+new employee hires and turnover by gender and age group.
+
+Benefits provided to full-time employees that are not provided to 
+temporary or part-time employees
+
+ServiceNow operates globally and, therefore, benefits vary 
+between countries of operation. 
+
+401-3
+
+Parental leave
+
+Occupational health and safety
+
+403-1
+
+Occupational health and safety management system
+
+US employees working more than 20 hours a week are eligible 
+to participate in ServiceNow’s benefits plan, which includes 
+healthcare, life insurance, disability, parental leave, and 401(k), 
+among others. A full list of benefits for US employees can be 
+found on our Benefits page.
+
+We offer employees around the world generous family leave, 
+including 12–20 weeks of fully paid parental leave in the US for  
+welcoming a new child through birth, adoption, foster placement, 
+or surrogacy. We intend to report more details on those  
+participating in parental leave in the 2022 Global Impact Report 
+for reporting Jan. 1, 2021,-Dec. 31, 2021.
+
+ServiceNow has implemented an occupational health and safety 
+system as outlined in our Environmental, Health, and Safety Policy; 
+Contractor Environmental, Health, and Safety Policy; and US Injury 
+and Illness Prevention Program Policy. Our EH&S policy defines  
+ServiceNow’s commitment to ensuring the occupational health 
+and safety of its employees, providing a safe environment for  
+contractors and visitors to our sites, and complying with 
+environmental, health, and safety legislation as a minimum 
+standard. ServiceNow recognizes the importance of environmental, 
+health, and safety best practices in providing optimal workspaces 
+for its employees, contractors, and visitors. 
+
+ServiceNow Global Impact Report 2021Data AnnexDisclosure number
+
+Disclosure title
+
+Response
+
+66
+
+Occupational health and safety (cont’d)
+
+403-2
+
+Hazard identification, risk assessment, and incident investigation
+
+403-3
+
+Occupational health services
+
+403-5
+
+Worker training on occupational health, and safety
+
+These issues are addressed in ServiceNow's Environmental, 
+Health, and Safety Policy; Contractor Environmental, Health, and 
+Safety Policy; US Injury and Illness Prevention Program Policy; 
+and Ergonomics Policy. Our EH&S policy defines ServiceNow’s 
+commitment to ensuring the occupational health and safety of 
+its employees, providing a safe environment for contractors and 
+visitors to our sites, and complying with environmental, health, and 
+safety legislation as a minimum standard. ServiceNow recognizes 
+the importance of environmental, health, and safety best practices 
+in providing optimal workspaces for its employees, contractors, 
+and visitors. 
+
+ServiceNow’s Workplace Security and Safety Team, within 
+Workplace Services, is responsible for this area. These issues are 
+addressed in ServiceNow's Environmental, Health, and Safety 
+Policy; Contractor Environmental, Health, and Safety Policy; US 
+Injury and Illness Prevention Program Policy; and Ergonomics Policy. 
+Our EH&S policy defines ServiceNow’s commitment to ensuring the 
+occupational health and safety of its employees, providing a safe 
+environment for contractors and visitors to our sites, and complying 
+with environmental, health, and safety legislation as a minimum 
+standard. ServiceNow recognizes the importance of environmental, 
+health, and safety best practices in providing optimal workspaces 
+for its employees, contractors, and visitors. 
+
+We provide our employees with information, training and, where 
+needed, equipment to foster a culture of health and safety and 
+to support safe work practices. These issues are addressed in 
+ServiceNow’s Environmental, Health, and Safety Policy; Contractor 
+Environmental, Health, and Safety Policy; US Injury and Illness 
+Prevention Program Policy; and Ergonomics Policy. Our EH&S policy 
+defines ServiceNow’s commitment to ensuring the occupational 
+health and safety of its employees, providing a safe environment 
+for contractors and visitors to our sites, and complying with 
+environmental, health, and safety legislation as a minimum 
+standard. ServiceNow recognizes the importance of environmental, 
+health, and safety best practices in providing optimal workspaces 
+for its employees, contractors, and visitors.
+
+403-8
+
+Workers covered by an occupational health, and safety  
+management system
+
+All employees are covered by ServiceNow's Environmental, Health, 
+and Safety Policy.
+
+Trainings and education
+
+404-1
+
+404-2
+
+404-3
+
+Average hours of training per year per employee
+
+Programs for upgrading employee skills and transition  
+assistance programs
+
+The average hours of training per employee in 2020 was 58 for 
+job-specific training, not including HR and compliance training, 
+and 20 hours for technical training.
+
+ServiceNow offers a variety of programs for upgrading employees’ 
+skills, including Lead at Now, Manager Journey, BetterUp Coaching, 
+and WalkMe. 
+
+Percentage of employees receiving regular performance and 
+career development reviews
+
+All employees receive regular performance and career 
+development reviews.
+
+Diversity and equal opportunity
+
+405-1
+
+Diversity of governance bodies and employees 
+
+405-2
+
+Ratio of basic salary and remuneration of women to men
+
+We disclose gender and ethnicity data for leadership level. 
+Leadership is defined as director level and above. 
+
+Human capital
+
+Diversity, Inclusion, and Belonging Report 2021
+
+Because pay equity is so dynamic, especially in a high-growth 
+company like ours, we manage it on an ongoing basis and do 
+regular analyses and adjustments. This approach has led us to 
+achieve systematic pay equity company-wide and ensures we 
+maintain that pay equity on an ongoing basis.
+
+Diversity, Inclusion, and Belonging Report 2021
+
+ServiceNow Global Impact Report 2021Data Annex67
+
+Disclosure number
+
+Disclosure title
+
+Response
+
+Local communities
+
+413-1
+
+Operations with local community engagement, impact  
+assessments, and development programs
+
+Employees are encouraged to dedicate up to 20 hours/year of 
+working time toward volunteerism.
+
+Advancing our cause through community engagement
+
+Global Impact ESG Fact Sheet
+
+415-1
+
+Political contributions
+
+ServiceNow did not make any political contributions in 2020.
+
+Marketing and labeling
+
+417-2
+
+417-3
+
+Customer privacy
+
+418-1
+
+Incidents of noncompliance concerning product and  
+service information and labeling
+
+Incidents of noncompliance concerning marketing  
+communications
+
+To date, the organization has not identified any noncompliance 
+with regulations or voluntary codes concerning marketing 
+communications.
+
+To date, the organization has not identified any noncompliance 
+with regulations or voluntary codes concerning marketing 
+communications.
+
+Substantiated complaints concerning breaches of customer  
+privacy and losses of customer data
+
+ServiceNow is committed to protecting its customers, and 
+we comply with all relevant legal and regulatory notification 
+requirements that are applicable to our business.
+
+Socioeconomic compliance
+
+419-1
+
+Noncompliance with laws and regulations in the social and 
+economic area
+
+In 2020, ServiceNow did not have any significant fines or 
+nonmonetary sanctions for noncompliance with laws or regulations  
+in the social and economic area.
+
+ServiceNow Global Impact Report 2021Data AnnexServiceNow is an Equal Employment Opportunity Employer. All qualified applicants will 
+
+receive consideration for employment without regard to race, color, religion, sex, sexual 
+
+orientation, national origin, age, disability, gender identity, or veteran status.
+
+©2021 ServiceNow, Inc. All rights reserved. ServiceNow, the ServiceNow logo, and other 
+
+ServiceNow marks are trademarks and/or registered trademarks of ServiceNow, Inc., in  
+
+the United States and/or other countries. Other company and product names may be 
+
+trademarks of the respective companies with which they are associated.
+
+©2021 FORTUNE Media IP Limited. All rights reserved. Used under license. FORTUNE,  
+
+FORTUNE World’s Most Admired Companies, and FORTUNE 100 Best Places to Work are 
+
+registered trademarks of FORTUNE Media IP Limited and are used under license. FORTUNE  
+is not affiliated with, and does not endorse the products or services of, ServiceNow.
+
+servicenow.com/global-impact
+
+We’re living through unprecedented experiences that are forever changing how we think, live, and work.
+
+To lean into our purpose of making the world of work, work better for people.
+
+To support our customers in their digital transformation journeys.
+
+To show empathy and support for our employees as they adapt to a fully digital work environment.
+
+To unite all of our employees around the challenges of the day by creating positive, lasting impact.
+
+One that helps our employees, customers, shareholders, and communities thrive.
+
+One that leads with our core business, our Now Platform , and solutions to workflow a world that’s more sustainable, more equitable, and more ethical.
+
+The stories from this past year demonstrate the power of our employees and our workflow solutions to change the world helping our business, our customers, and our communities achieve the boldest of goals.
+
+Our Global Impact Report marks the first time we’ve publicly reported on our environmental, social, and governance (ESG) programs and initiatives in a comprehensive way.
+
+Although much of this work isn’t new, we’re just beginning our ESG reporting journey.
+
+This report covers our efforts to identify our most material ESG issues, articulate our global impact strategy, and establish a baseline from which we’ll enhance both our performance and disclosure in the coming years.
+
+It details our efforts and aspirations across our global impact strategy.
+
+For more information on our ESG materiality issues, see our data annex at the end of this report.
+
+This report contains figures that have been rounded or approximated.
+
+Certain reclassifications of data from previous public disclosures may be made to conform to current period presentation.
+
+ServiceNow’s purpose centers on people dreaming, innovating, and creating a better world for everyone.
+
+So, when the events of 2020 turned the world upside down, we stepped up to make a difference.
+
+We listened, we learned and, most importantly, we supported our customers, employees, and communities through a series of interconnected crises.
+
+We’ve always stayed true to our purpose of making the world of work, work better for people.
+
+This purpose guides us and inspires us as we tackle this once in a generation opportunity to change the way the world works.
+
+In 2020, we brought together our environmental, social, and governance (ESG) initiatives under one strategy to use the collective strength of our employees, our Now Platform and workflows, our partnerships, and our financial resources.
+
+Our global impact efforts are becoming part of our DNA here at ServiceNow.
+
+We have a bold overarching vision: to workflow a better world.
+
+We will harness the reach of our business and power of our Now Platform to help our customers and stakeholders workflow positive ESG outcomes.
+
+We’re proud to share with you our first Global Impact Report to give you insights into the ESG issues most important to the success of our business and our stakeholders.
+
+Creating equitable opportunity by making work more equitable, accessible, and rewarding for all people.
+
+Acting with integrity by building trust through ethical, transparent, and secure business practices.
+
+Our ambition is to become the defining enterprise software company of the 21st century one that helps our employees, customers, shareholders, and communities thrive and create positive impact on the world.
+
+This report contains forward looking statements that are based on our management’s beliefs and assumptions and on information currently available to management.
+
+Such forward looking statements include information concerning our possible or assumed global impact strategy relating to future operations, potential growth opportunities, and plans and objectives of management.
+
+Forward looking statements involve known and unknown risks, uncertainties, assumptions, and other factors that may cause our actual results, performance, or achievements to be materially different from any future results, performance, or achievements expressed or implied by the forward looking statements.
+
+Factors that may cause actual results to differ materially from those in any forward looking statements include, without limitation, changes in global economic conditions unexpected delays, difficulties, and expenses in executing against our ESG goals set forth in this report and changes in the environmental regulatory landscape.
+
+Further information on factors that could cause or contribute to such differences include, but are not limited to, those discussed in the section titled Risk Factors in our most recent Annual Report on Form 10 K and our most recent Quarterly Report on Form 10 Q filed with the Securities and Exchange Commission (SEC) and in our other SEC filings.
+
+We cannot guarantee that we’ll achieve the plans, intentions, or expectations disclosed in our forward looking statements, and you should not place undue reliance on our forward looking statements.
+
+Forward looking statements represent our management’s beliefs and assumptions only as of the date of this report.
+
+We undertake no obligation, and do not intend to update the forward looking statements.
+
+We believe that behind every great experience is a great workflow.
+
+Our company, platform, products, and brand are built with the knowledge that the future of work is getting smarter, and we can improve people’s lives by making work more meaningful and fulfilling.
+
+Our solutions create great experiences, unlock productivity, and strengthen economies, societies, and the environment.
+
+Future 50 and World’s Most Admired Companies are trademarks of FORTUNE Media IP Limited and are used under license.
+
+FORTUNE and FORTUNE Media IP Limited are not affiliated with, and do not endorse products or services of, ServiceNow.
+
+Throughout this report, you’ll see again and again work validating our purpose to make the world of work, how we’re capitalizing on the collective strengths of work better for people.
+
+ServiceNow to create positive change in the world. world work better, too.
+
+As we consider the progress we’ve made and look ahead to what’s next, we know there’s much more work to do.
+
+This report outlines the three key pillars of our global impact strategy and shares our goals, metrics, progress, and aspirations for each.
+
+Building off the ESG materiality assessment we conducted with third party sustainability adviser BSR, we’ve set an ambitious course for the future, including our bold new environmental goals.
+
+We’ll set additional goals and commitments in the coming year.
+
+Our strong employee engagement, the power of the Now Platform and our market leading product workflows, our broad industry partnerships, and our commitment to giving our time, money, and resources to issues we care about demonstrate the breadth and depth of our resolve.
+
+We’ll workflow a better world by addressing climate change, empowering our employees and communities to create more inclusive opportunities for everyone, and building trust and partnership with our stakeholders.
+
+Championing a resource efficient, net zero carbon planet.
+
+Making work more equitable, accessible, and rewarding for people.
+
+Workflow a better world is one of our guiding principles and has been since our founding.
+
+It’s ingrained in our corporate strategy and a bold vision for our global impact.
+
+ESG into the Now Platform, enabling change in the world one workflow at a time.
+
+It’s about creating great experiences that make work more meaningful.
+
+The Now Platform is intelligent, agile, secure, reliable, and deeply trusted.
+
+This makes it a powerful and flexible platform to create positive change be it more equitable communities, better governance, or a more sustainable planet.
+
+We know that as a leader in the workflow revolution, we can help make the world work better not only through our own internal operations, but also by helping our customers, partners, and communities achieve their sustainability goals.
+
+There is no better experience than giving someone a piece of technology that lets them do something they never thought they could do.
+
+In addition to helping all work can happen anywhere, anytime proving that of our customers create efficiencies that reduce costs, working in a digital, distributed environment works.
+
+Digital workflows will continue to power the future of work, and ServiceNow is uniquely positioned to lead the way.
+
+We know that the more we connect people and processes across organizations and digitize mundane tasks, the more people can focus on the meaningful and creative parts of their jobs.
+
+Providing the platform of platforms that connects people, functions, and systems to drive innovation, increase business agility, and unlock productivity.
+
+Unlocking opportunity and enabling people to focus on the meaningful and creative parts of their jobs.
+
+This includes using information about climate, people, security, compliance, and other risks to drive business decisions, as well as powering our customers’ global impact efforts and resiliency by identifying high impact risks.
+
+Engaging people and transforming the employee experience, especially in times of disruption.
+
+This ranges from virtually onboarding new hires to making going back to work, work safely for everyone.
+
+Delivering solutions to reimagine the customer experience and help customers meet the challenges of our time whether it’s streamlining customer service or monitoring and managing critical infrastructure.
+
+Giving organizations low code development tools that enable developers of every skill level across the enterprise to quickly and easily build workflow applications that power their own global impact efforts.
+
+Suite, to help our customers maintain business continuity and keep their employees safely working in new environments.
+
+Administration Management solutions released in early 2021.
+
+Creator Workflows, these solutions make it possible for our customers and communities to workflow their way through the pandemic’s business challenges either by deploying existing ServiceNow workflow solutions or by building custom applications.
+
+Digital transformation is the only way out, the only way forward.
+
+The Now Platform readiness to return to work, and quickly enables our customers to quickly react and identifying exposure risk when an employee build apps that address use is diagnosed with an illness.
+
+In March 2020, we released our Emergency Response Management apps at no charge to customers through September 2020.
+
+COVID 19 crisis management including move on versus having to wait in the line.
+
+Public Health guidelines, the school board used ServiceNow to create an ambitious health screening app.
+
+Within a month of launch, the app was being used by 51,000 students and staff each day.
+
+Read more about TDSB’s use of our Safe Workplace Suite.
+
+In May 2020, as the world looked ahead to positions on the incident management ensuring employee health and workplace team.
+
+They created an Emergency Response Operations app on the Now Platform to manage their own COVID 19 situation, and they donated it for use by other safety, we released four apps to make going back to work, work for everyone.
+
+Our Safe Workplace Suite now includes nine apps that do everything from health screening organizations and public agencies.
+
+This includes managing personal protective critical locations.
+
+COVID 19 testing, and employee vaccination preparedness at the state and local government levels.
+
+More than 900 organizations have installed the Safe Workplace Suite.
+
+Before any vaccines were even approved, needing a COVID 19 vaccination, we started developing solutions to address administering billions of shots in the arm vaccine management.
+
+Customer Service Management solution enormous workflow challenge.
+
+The sheer size and following CDC and WHO guidelines, of vaccine rollout and its need for speed is we brought multiple workflow use cases almost incomprehensible.
+
+COVID 19 vaccines is the greatest workflow challenge of our time.
+
+The solution needed to be able to confirm eligibility, manage consent forms, schedule appointments, send reminders, manage distribution, and track second doses.
+
+Management solution in January 2021 during the early stages of vaccine rollout.
+
+ServiceNow is named a leader in The Forrester Wave : Governance, Risk, and Compliance Platforms, Q1, 2020.
+
+Our Risk Management app has the potential to address environmental, social, and governance issues, helping our customers manage their suppliers’ commitment to environmental sustainability, human rights, security, and data privacy.
+
+It also helps our customers ensure business continuity in their processes, technology, facilities, personnel, and supply chain during natural and human made disasters.
+
+Manufacturing: To demonstrate important compliance in ethical and responsible supply chains.
+
+Cosmetics: To help ensure customers’ personal information in the various countries in which they operate is used responsibly and safely.
+
+Fairview Health Services depends heavily on its IT infrastructure to connect patient systems and enhance patient care experiences.
+
+With more than 1,500 live applications, many of which are mission critical, these applications must be highly available, including in the event of a disaster.
+
+The organization uses ServiceNow Business Continuity Management (BCM) to unify disaster recovery, business continuity, and IT service management into a complete business resilience solution.
+
+Maria Rothstein, DR analyst and ITSM office manager, Fairview Health.
+
+Every ServiceNow colleague recognizes our individual and collective responsibility to prioritize the planet’s health.
+
+For us, sustainability and environmental protection are more than just priorities they are core to our vision and strategy.
+
+As climate change continues to advance, we see the companies set science based reduction targets.
+
+We’ll devasting effects of rising temperatures and extreme draft and validate a plan in 2021 for our goal of net zero.
+
+By committing to SBTi, we’re signaling our intent goals to do our part to accelerate decarbonization to provide full transparency into our net zero journey. and to advance the circular economy.
+
+Our efforts and reporting are grounded in science.
+
+We’re focusing on initiatives that are material to us and term strategies and plans for our priority environmental will result in real outcomes and a positive impact on our issues, including climate and energy, sustainable environment.
+
+Based Targets initiative (SBTi), which drives ambitious such as water consumption.
+
+Use 100% renewable energy by the end of 2021 for office and datacenter operations.
+
+Be carbon neutral by the end of 2021 across our office and datacenter operations, and corporate travel.
+
+Achieve net zero before 2050 across our entire value chain in accordance with SBTi criteria.
+
+It’s a challenge and implement ServiceNow sustainable workflow we’re ready to tackle.
+
+By using science as our solutions in our own operations, we’ll make them guide, we’ve laid the groundwork to achieve these available to our customers.
+
+We’re committed to driving resource efficiency wherever possible.
+
+Two of our greatest opportunities to reduce our environmental impact increase our renewable energy footprint, we sourced include using our datacenter resources more efficiently renewable energy for our Santa Clara headquarters and increasing capacity across our global cloud.
+
+In San Diego, we bought solar power from the panels on our campus roofs, which accounts for approximately 13% of our annual power use.
+
+In 2021, we’ll start buying high quality, certified, and localized renewable energy credits (RECs) to offset the dirty grid power consumed by the company in locations around the world.
+
+These initial steps will put us on track to meet our 100% renewable energy goal by the end of 2021.
+
+To help make sure we’re meeting our future demand for renewable energy, and that we’re adding renewable energy sources to the global grid, we’ll also enter into virtual power purchasing agreements (VPPAs) by the end of 2021.
+
+We’ll explore an aggregated market VPPA and opportunities to do this with our partners and customers, too.
+
+We’ve made lifecycle management improvements throughout our cloud infrastructure that allow us to optimize power efficiency, reduce our datacenter footprint, and select the most efficient equipment to meet our business requirements.
+
+When sourcing our hardware and our co location providers, our RFPs include a set of environmental criteria to ensure they meet our business requirements.
+
+In 2021, we’ll work with independent, industry leading consultants to advise us on sustainable site selection, help us create further efficiencies, and lower our environmental impact.
+
+We’ll also expand our datacenter operations team to ensure we create and incorporate global sustainability standards to achieve our net zero aspirations.
+
+Capture and analyze real time environmental data in our ServiceNow platform, establish baseline measurements, and improve year over year.
+
+Implement scalable datacenter infrastructure designs that future proof multiple network lifecycle generations.
+
+Reduce material packaging and site deliveries for all new datacenter builds and ongoing cloud scaling projects.
+
+The carbon impact of our Future of Work initiative.
+
+We’ll use 2019 as our baseline response, we created our Future of Work (FoW) initiative year and commit to a much more aggressive schedule to reimagine the way we work at ServiceNow.
+
+A key than the 2050 timeline set by the Paris Agreement.
+
+In 2020, we worked with a third party firm, Anthesis prefer to work.
+
+In 2020, we collected feedback from employees on validation work, including the in depth Scope 3 their work preferences for a post pandemic world, baseline assessment, which will inform our future and we’ll continue to do so throughout 2021 to inform net zero efforts across our value chain.
+
+Post COVID, we expect began structuring our cross functional efforts internally approximately 20% of our workforce to work from home to ensure our business is aligned for the long term full time, with the majority of employees working from success of our net zero efforts.
+
+In 2021, we’ll start purchasing high quality offsets from projects that permanently remove carbon from the atmosphere.
+
+We’ll invest primarily in solutions that employees decide to work from home, at the office, or a hybrid of the two, the option of working closer to home could have a direct impact on our environmental efforts.
+
+We’ll continue to collect all necessary inputs for our ensure there are social benefits as well.
+
+At the same time, we’ll generate a roadmap for our commitment to net zero carbon as per SBTi (including Scope 3 emissions).
+
+Once both of those activities have matured, we’ll be able to better assess their impact on our carbon footprint.
+
+Due to the pandemic, 2020 was not a representative year for corporate travel.
+
+We’ve started to rethink the future of travel and, in 2021, we’ll roll out our new corporate travel program, which will focus on the absolute reduction of our Scope 3 emissions.
+
+We’ll prioritize video calls over air travel and will increase travel approval thresholds.
+
+We’ll also educate our employees on the carbon impact of their travel and offer less carbon intensive alternatives when available.
+
+We select vendors and partners that agree to adhere to our sustainability practices and requirements, where practical. achieve certification when practical.
+
+We select buildings that have achieved a recognized sustainability certification (e.g., LEED, BREEAM) when practical.
+
+We prioritize buildings that have access to public transportation, are bicycle friendly, and provide EV chargers.
+
+We operate our buildings responsibly by monitoring and controlling for greenhouse gas emissions self generating our own power where practical ensuring efficient use of water and managing our waste stream to minimize what goes into landfills.
+
+We prioritize sustainable products including organics in our food programs where practical.
+
+We recycle, reuse, or responsibly dispose of retired equipment and fixtures used in service of our operations.
+
+We require advanced approval and business justification for all air and rail travel.
+
+We widely employ collaboration tools such as video conferencing, including for remote employees, to help provide a viable alternative to travel.
+
+We monitor and report internally our greenhouse gas emissions related to air travel.
+
+We provide carpooling or company sponsored shuttles in key concentrated markets.
+
+We offer flexible work arrangements to many employees, a byproduct of which is reduced commuting.
+
+We select datacenter operations and facilities that have demonstrable sustainability practices where practical.
+
+We utilize energy efficient equipment (servers, etc.) and architecture in our datacenter operations.
+
+We monitor our energy consumption at the rack level, and we report internally material changes to greenhouse gas emissions across our datacenter portfolio.
+
+We recycle, reuse, or responsibly dispose of retired equipment (servers, etc.) used in our datacenter operations.
+
+Note: From 2022 onward, we will continue to use direct renewable energy where possible and buy RECs where required to help ensure our 100% renewable status is achieved each fiscal year.
+
+Invest in projects that remove carbon from across our value chain. high quality offset program. the atmosphere.
+
+Our 2019 location based emissions data was updated from our Global Impact ESG Fact Sheet published in June 2020 as follows: 2019 Scope 2 emissions data adjusted as a result of updated utility data and corrective data from datacenter feeds 2019 Scope 3 emissions data (travel data) restated due to change in methodology.
+
+Calculations consistent with Greenhouse Gas (GHG) Protocol and The Climate Registry’s General Reporting Protocol.
+
+Where actual energy bills were not available, emissions were estimated using the Commercial Buildings Energy Consumption Survey (CBECS) database.
+
+Office and datacenter emissions include electricity and natural gas.
+
+Corporate travel emissions data provided by third party travel vendor and measured per flights using DEFRA estimation methods.
+
+Calculations consistent with Greenhouse Gas (GHG) Protocol and The Climate Registry’s General Reporting Protocol.
+
+Where actual energy bills were not available, emissions were estimated using the Commercial Buildings Energy Consumption Survey (CBECS) database.
+
+In 2020, due to the increase in our datacenter operations globally, our energy consumption for datacenters increased compared to 2019.
+
+Also in 2020, while we continued to grow our office portfolio globally, most of our office locations were closed due to COVID 19, which resulted in a slight decrease in our energy use.
+
+Numbers for 2019 are rounded for purpose of the graph.
+
+Strengthening opportunities for investing in more sustainable supplier relationships.
+
+To reinforce our commitment to responsible procurement, we have a strong supplier code of conduct, and we select suppliers who share our values and help us fulfill our purpose.
+
+We’re currently developing a framework to better understand our suppliers’ baselines for diversity, sustainability, and financial health.
+
+By assessing where we are today, we can better position ourselves for continuous improvement over time.
+
+We spent time in 2020 evaluating our operations to identify the biggest opportunities to drive accountability across our supplier ecosystem.
+
+London was designed and built to meet BREEAM Excellent certifications, putting its environmental, social, and economic performance in the top 10% of buildings worldwide.
+
+Our office space was delivered with various prominent circular elements, such as reclaimed bricks and wood, recycled upholstery and laminates, energy efficient lighting, and large amounts of biophilic elements.
+
+This project is an example of the kind of work environments we want to build.
+
+It was featured in our first sustainability and wellness prospectus, which is available for our employees and customers.
+
+We’ll continue to develop programs for our built environment, including capturing metrics for energy, water, and waste for all of our future projects.
+
+This will help us develop a programmatic plan for year over year improvements.
+
+In 2021, we’ll establish baselines for measuring our sustainable procurement practices.
+
+We look forward to disclosing more on these efforts in next year’s report.
+
+Although early in our journey, we’re exploring all possible ways to avoid the take, make, waste approach and promote more sustainable and circular practices that have environmental and social benefit.
+
+We collect the equipment and use our software to wipe it clean, certify it, and donate it to organizations in our local communities in an almost no touch manner.
+
+When equipment can’t be repurposed, we responsibly recycle or dispose of it through our recycling partners.
+
+In 2021, we’ll be building out programs across the enterprise with the focus on avoiding and reducing waste from various streams coming from our operations.
+
+Data for retired datacenter equipment from June 2020 ESG Fact Sheet represented from Jan. 1, 2019 through May 31, 2020 we now provide full year 2019 and 2020 data.
+
+The future of work must mean more opportunities for more people.
+
+Everyone has a right to belong, to participate, and to reach their full potential.
+
+Companies have a critical role to play in helping to build a more inclusive world.
+
+In the midst of a pandemic, the resulting economic disruption, and ongoing racial injustice and civil unrest, we’re being tested to our core.
+
+This has accelerated our efforts in creating equitable opportunity for all not only by further cultivating diversity, inclusion, and belonging, but also by keeping our employees safe, supported, and engaged closing the digital skills gap to enhance our ecosystem talent pipeline and making the future of work more accessible and rewarding to all.
+
+In April 2020, we made a no layoff pledge to protect the jobs of all our employees globally, promising no layoffs in talent.
+
+With the economic uncertainty stemming from the everything we do from distributed and digitally enabled pandemic, we didn’t want our employees worrying about work environments that help us do our best work to their jobs.
+
+By focusing them on supporting our customers, benefits and a culture that encourage employees to stay we did our part to help get the US and global economy healthy, happy, engaged, and growing.
+
+We welcomed approximately 360 college interns from around the world to work across our business during the summer, and we provided these students with valuable career experience all from a safe and productive home environment.
+
+As we navigated this new environment, our focus shifted to providing ongoing support that helped employees feel safe, supported, and engaged.
+
+This included keeping employees informed of the latest guidance on working from home, travel, and technology usage, and providing resources to help them in their new world of work.
+
+Most importantly, we developed programs, communications, and activities focused on engagement and wellness to ensure employees stayed inspired by our purpose, connected to our cultural values, and motivated by their work.
+
+I’m thankful I get to experience what it is like to work at a company that prioritizes its people because I now understand the impact of work culture.
+
+We gave every full time employee a perk allowance to use for wellness items and technology, such as tutoring for their kids, laptops for distance learning, exercise equipment, and more.
+
+We led ongoing wellness sessions focused on mental health, issues facing working families, and topics of racial equity brought forward by the pandemic.
+
+We had to rethink our learning and development curriculum and delivery.
+
+Using our Now Platform, we pivoted quickly, digitizing our programs, launching new ones, and accelerating what we already had in place.
+
+Continued our Power of 10 leadership program for women in director positions and above, with more than 60% participation, inclusive people leaders.
+
+We had 90% of achieving the same satisfaction scores to bring groups of 10 women together from managers participate with more than 90% as when it was conducted in person.
+
+Rolled out the company’s first Dream Big goal setting program to encourage employees to set personal performance and make compensation and professional goals. decisions with less bias.
+
+Our workplaces will continue to be spaces where we communities prepare for the future of work that’s connect, collaborate, celebrate our culture, and come being shaped by digital transformation, AI, and together for the moments that matter.
+
+Inside and outside ServiceNow, how we work and where we work have been decoupled forever.
+
+The workflow employee engagement and provide an unmatched employee experience that helps everyone feel they belong and can achieve their full potential.
+
+We’ll continue to create a sustainable work culture that the power of workflows to enable work to happen embraces business outcomes, focusing on how work anywhere, anytime.
+
+As the world reopens, we’ll innovate, observe, learn, and adapt together.
+
+We’ll explore and test new ways of working and staying connected in a primarily gets done, not where.
+
+We’ll encourage collaboration, strong teams, and diversity, inclusion, and belonging.
+
+And we’ll foster career development, a growth mindset, and customer success.
+
+We’ll also continue to focus on safety, flexibility, and the digital workflow revolution through a flexible engagement.
+
+We’ll open our world of work to a more work model.
+
+We’ll stay connected in a primarily diverse talent pool by recruiting different types of roles flexible model with some teams coming into the and recruiting in new areas to execute against our workplace more often due to roles, responsibilities, commitment to diversity, inclusion, and belonging, and business priorities.
+
+We formed our DIBs community and introduced seven our purpose to make the world of work, work better for new employee led Belonging Groups, our version of people.
+
+It’s our responsibility to ensure our collective employee resource groups.
+
+Alongside their members, voice represents that world.
+
+We’ve been on a mission to create change for our employees, customers, and communities.
+
+In 2020, the world experienced a pandemic, racial injustice, and civil unrest and no one was exempt.
+
+Since we couldn’t change the situation, we focused on changing our mindset.
+
+Diversity, inclusion, and belonging are intentionally integrated throughout our business operations, talent strategies, and leadership behaviors and expectations.
+
+Our entire portfolio of programs is interconnected.
+
+By looking at our people programs holistically, we build fair systems of opportunity and treatment for everyone in our company.
+
+Because pay equity is so dynamic, especially in a high growth company like ours, we manage it on an ongoing basis and perform regular analyses and adjustments.
+
+This approach has led us to achieve systematic pay equity company wide and ensures we maintain that pay equity.
+
+It will drive us forward every day, toward new outcomes.
+
+This change will guide us as we create a space for belonging where all people can thrive.
+
+You can learn more about how we’re creating change in our Diversity, Inclusion, and Belonging Report 2021.
+
+The true impact of our efforts to increase digital skills hits home when we see how lives are transformed as a result.
+
+For example, Ebony A. had 2 in her pocket and was struggling to support her family.
+
+But, thanks to all the people who believed in her and our nonprofit partnership with TechBridge, she’s now a ServiceNow system administrator at Wellstar Health System.
+
+He was working in retail and unhappy with the direction of his life when he met our NextGen degree program architect.
+
+Today, he’s a junior ServiceNow developer at Methods.
+
+These are only two examples of how our NextGen Professionals Program is putting people in our communities on a path to more rewarding and sustainable careers in the digital workforce.
+
+Launched in early 2019, the NextGen program invests in digital skills training and employment for marginalized and underserved populations.
+
+It’s working to create a diverse talent pipeline by teaching digital literacy skills and helping those whose skills are no longer relevant in today’s digital world.
+
+Even more important is the focus on helping participants find meaningful employment.
+
+NextGen has been the best program we’ve ever participated in during our five years with ServiceNow.
+
+We’ve onboarded 16 new students in an extremely well coordinated, well planned program in less than seven weeks.
+
+The same onboarding usually takes six months, with a bigger dropout rate due to attention, focus, and other reasons.
+
+MIT Solve Digital Workforce Challenge employers in our ecosystem to understand the specific, early in career talent needs in a given community.
+
+Then, the program develops those skills in participants so that, within a year, our graduates get rewarding jobs that lead to financial security.
+
+Degree program: In partnership with Northeastern University in London, we’ve integrated ServiceNow technology into their curriculum, helping to develop the digital, business, and leadership skills needed to succeed in today’s workplace.
+
+The degree is free to the learner and employer, providing equal opportunity to all.
+
+Reskilling program: We’re working to help veterans, women returning to the workplace, and those with technology transferable skills transition into today’s digital workforce.
+
+I once had a rich professional career in IT until I became a mother and lost my subject matter expertise, said one participant in the program.
+
+The collaboration between ServiceNow, DXC, and the University of St. Gallen has created an amazing opportunity to learn skills that are in high demand, she added.
+
+Read more about our Women Back to Business program.
+
+Government program: We’re collaborating with national and regional governments and workforce development agencies to build and execute digital skills initiatives for underrepresented minorities, women, the less abled sector, and indigenous populations.
+
+It was part of our Digital Workforce Challenge, which we sponsored with MIT Solve.
+
+Participants were challenged to come up with innovative, scalable, and sustainable solutions that aim to solve the growing skills and job vacancies gap by increasing access to opportunity in underserved populations.
+
+The grand prize winner was ChargerHelp , a female, minority owned social enterprise that partners with local workforce development agencies to train and employ electric vehicle (EV) charging station technicians and increase electric vehicle adoption.
+
+After receiving an in kind donation of our Field Service Management workflow solution, ChargerHelp doubled its service contracts in 2020.
+
+Read more about the winners and their inspiring stories.
+
+Creating equitable opportunity extends beyond our digital transformation.
+
+We’re working to make the communities literacy and skills, food security, and employee giving in which we live and work more equitable, too.
+
+All efforts included an emphasis on our purpose means ensuring the wider community can diversity and inclusion in underrepresented communities.
+
+We stepped up with an additional 100,000 insecurity face a tough road to successful in support, and we’re in the early stages degree completion.
+
+Our objective is to help raise increase efficiencies, reduce costs, and awareness of the urgent issue of student ensure the health and safety of its staff hunger and support 1 million healthy, and volunteers.
+
+Food Program, and UNICEF. skyrocketed with the loss of volunteers.
+
+We’ve always said that we can’t solve hunger alone.
+
+ServiceNow has consistently provided vital volunteer and funding support to help us offer relief to those in our community who needed it most.
+
+As a purpose driven company, we for most of 2020, yet we still logged more encourage our employees to live their than 10,000 volunteer hours often through passion and leverage their time, talent, innovative digital approaches such as and resources to support the causes most recording audio books for children who important to them.
+
+And we give them the are visually impaired or in the hospital.
+
+COVID 19 and the resulting work from home mandate made volunteering difficult neighbors, making face masks, and more.
+
+After losing his brother to suicide, Damien D. channeled his grief into climbing the three highest peaks in England, Scotland, and Wales to raise 15,000 to increase awareness of depression and suicide prevention.
+
+His ServiceNow colleagues stepped in to show support, donating through our Giving at Now platform with an automatic company match.
+
+We look forward to sharing more in 2021 about the opportunities created for families, small businesses, and communities.
+
+Doing the right thing is at the center of everything we do each and every day.
+
+Acting with ethics and integrity is core to how we stay hungry and humble and deliver customer success.
+
+Earning the trust of our customers, employees, and other stakeholders is paramount to our operations and a cornerstone of our long term success.
+
+We’ve pledged to build on the trust we’ve established over our 17 year history and to lead with transparency and disclosure in all we do.
+
+We aim to provide the utmost data security and privacy, foster ethical use of data, and ensure business continuity not only for ourselves, but also for our customers.
+
+We’ve always believed in strong corporate governance.
+
+Our governance practices provide an important we’re enhancing our stakeholder disclosure and sharing framework within which our board of directors our aspirations for creating a better future. and management team can pursue our strategic objectives for the benefit of our shareholders.
+
+We conduct shareholder outreach tours twice a year governance, risk, and resilience management into with more than 30% of our shareholders, where we our daily operations.
+
+We’re also rigorously audited by learn what’s top of mind for them and provide business independent third party companies and government updates.
+
+We also strive to be a leader in disclosure, both in what we disclose and how we disclose it.
+
+Our Diversity, Inclusion, and Belonging Report 2021, now in its fourth year, is a prime example of our commitment to bodies to ensure we comply with various global and regional standards.
+
+In September, we established our government relations department, which reports to our general counsel.
+
+Our goal is to build relationships with policymakers all over the world and educate them about ServiceNow’s mission and efforts to make the world of work, work better for people.
+
+Platform helps enterprises, communities, and governments deliver services in an efficient, interoperable, safe, and secure way.
+
+You gain trust in drops, and you can lose trust in buckets and it’s so important to do it the right way.
+
+All of our training and education campaigns are the way.
+
+We do the right thing by keeping integrity, targeted to the right people with the right messaging teamwork, trust, and our core values at the forefront of for their line of work, in clear and simple language our minds.
+
+We recognize that decisions aren’t always not legalese.
+
+Our Code of Ethics provides a framework to help us navigate areas of uncertainty and apply our values to all situations so our customers can trust us to make their work, work better for them.
+
+In 2020, we refreshed our Code of Ethics, making it more accessible and relatable.
+
+We’re committed to fostering an environment in which open, honest communication is the expectation, not the exception.
+
+We provide all our employees from our executive variety of reporting options.
+
+The program clearly states officers to new hires with ethics and compliance what they can expect from us in terms of response training.
+
+New employees are required to complete and action.
+
+This will continue to be a top priority for this training within 45 days of joining the company.
+
+Ethics and our anti corruption, anti harassment, and whistleblowing policies.
+
+We aim to foster responsible and ethical use of data and emerging technologies, especially artificial intelligence (AI).
+
+For us, AI is a means to help people focus on the more creative and productive parts of their work.
+
+That’s why we made one of the most significant acquisitions in our history last year with Element AI.
+
+It will be key to helping us build an AI first platform, become the defining enterprise software company of the 21st century, and truly make the world of work, work better for people.
+
+The more we provide intelligent and intuitive experiences, the more we can help people feel engaged and empowered to do their best work.
+
+But with more intelligence comes more responsibility, so we established our Data Ethics Council in 2020, composed of senior executives from IT, data security and privacy, AI, and legal.
+
+The council meets monthly to discuss new and innovative uses of data that are consistent with our values.
+
+It also looks at current data privacy and security issues, from our approach to customer data to emerging laws and regulations.
+
+We’re laser focused for companies, we’re committed to meeting security, on and invest heavily in security, compliance, and compliance, and privacy requirements, especially those privacy to meet industry and regulatory expectations mandated by our highly regulated commercial and to secure our customers’ data.
+
+We’re proud to report that in 2020, dedicated, 200 person data security team.
+
+We focus on continuous education and training to constantly hone our detection and response business continuity.
+
+For more information on our commitment to building workflows automated resiliency based efforts, such as secure remote workforce onboarding and provisioning trust through data security and privacy, refer to our Trust and Compliance Center.
+
+Furthermore, we’re always testing the robustness of our platform via internal and external security assessments.
+
+The pandemic and regulatory changes have increased our focus on security and privacy.
+
+Just as attackers quickly adapt to any crisis, CISOs are also opportunistic, accelerating remote security initiatives and investments to boost resiliency.
+
+Created a robust, gamified training program for our employees.
+
+Achieved numerous security certifications, including:.
+
+The experience put our purpose to the test and manage risks to avoid business disruptions.
+
+Managing risk is not only our responsibility it’s also our opportunity.
+
+The first resilience and our ability to work anywhere, anytime.
+
+In March 2020, we shifted 100% of global employees to work from home with very little disruption all in a matter of days.
+
+It will help us, as well as our customers, be more resilient in the face of future adverse events.
+
+We shifted our product development efforts to as we move to a new distributed work model that focus on workflow solutions that could solve the will be more sustainable and benefit our workforce pandemic’s most pressing challenges, such as and planet. contact tracing, back to work programs, and vaccine administration management.
+
+We accelerated our risk assessment of our suppliers’ financial health and resiliency.
+
+We’ve identified our ESG priority issues, developed our global impact strategy, set ambitious goals, published our inaugural Global Impact Report, and built a governance model to guide this work going forward.
+
+With the foundational work done, we’re inspired and dreaming big about what the future holds.
+
+We’ll continue to accelerate and scale our diversity, inclusion, and belonging strategies and the impact we’re having both internally and externally.
+
+We’ll deliver on our global impact vision by helping our customers and partners achieve and accelerate their ESG goals through the Now Platform and our workflow solutions.
+
+No matter what your business is facing, let’s workflow it to create a better business outcome.
+
+We’ll investigate and quantify ESG value creation of ServiceNow workflows, such as reduced environmental impact.
+
+We’ll achieve our 100% renewable energy and carbon neutral goals by the end of 2021.
+
+We’ll decarbonize our operations through formally committing to the Science Based Target initiative on our path to net zero.
+
+We’ll build a robust waste diversion program across our entire organization.
+
+We’ll amplify our support of the communities we touch and serve by increasing our community investments (grants and matching gifts) by 50%.
+
+We’ll contribute to closing the digital divide by reaching 3,000 beneficiaries through our NextGen Professional digital skills programs.
+
+We’ll strengthen ServiceNow employee engagement on global impact through increased volunteerism and giving opportunities and ESG educational sessions.
+
+We’ll gather stakeholder feedback on our first Global Impact Report to make next year’s report even better.
+
+We’ll hold ourselves accountable to ESG performance and transparency through our ESG Steering Committee.
+
+We’ll continue to focus on world class data security and privacy for ServiceNow, our customers, and our partners.
+
+We’ll continue to leverage our Data Ethics Committee to analyze new use cases in data, including AI and machine learning (ML).
+
+When we bring our whole company together uniting our collective expertise, our Now Platform and workflows, our partnerships and financial resources, and our purpose driven culture and values the impact we can create for employees, customers, shareholders, and communities worldwide is unlimited.
+
+In 2021 and beyond, we’ll continue to set more goals, scale our initiatives, and launch new programs that will help us, our customers, and communities, make the world of work, work better for people.
+
+In 2020, we partnered with a third party sustainability adviser, BSR, to update our ESG materiality assessment to prioritize the most important near term and long term emerging environmental, social, and governance (ESG) topics to our business and stakeholders.
+
+The priority topics that emerged are reflected as Tier 1, 2, or 3 issues and guide the content of this report.
+
+Our tier 1 issues are those in which we have the greatest opportunity to create value.
+
+They will inform the ongoing development of our sustainability strategy.
+
+To provide insights into where there is meaningful business value at stake for ServiceNow and where integration with the business strategy is most critical, we engaged via interviews with teams in marketing and communications global real estate workplace and sustainability and diversity, inclusion, and belonging and global impact.
+
+ServiceNow customers, partners, and environmental non governmental organizations (NGOs).
+
+Annual Diversity, Inclusion, and Belonging leadership summit.
+
+Annual employee voice survey (EVS) first half of year.
+
+Best practice sharing via Now Create and Customer Success Center.
+
+Silicon Valley Business Journal Top 50 Philanthropists.
+
+Note: For both GHG tables above, our 2019 location based emissions data was updated from our Global Impact ESG Fact Sheet published in June 2020 as follows: 2019 Scope 2 emissions data adjusted as a result of updated utility data and corrective data from datacenter feeds 2019 Scope 3 emissions data (travel data) restated due to change in methodology.
+
+Note: In 2020, due to the increase in our datacenter operations globally, our energy consumption for datacenters has increased compared to 2019.
+
+In the same year, while most of our office locations were closed due to COVID 19, ServiceNow continued to grow our office portfolio globally, which has resulted in a slight decrease in our energy use.
+
+ServiceNow provides 1:1 matching up to 1,000 USD per full time employee annually.
+
+ServiceNow is committed to transparently disclosing material sustainability information for our investors and other stakeholders.
+
+The table below references SASB’s Software and IT Services Standard, Version 2018 10, which is most relevant to our operations.
+
+Unless otherwise specified, the data and descriptions are current as of year end 2020.
+
+We will continue to evaluate additional topics and metrics for inclusion in future reports.
+
+ServiceNow does not currently report on water consumption but plans to assess this further in the future.
+
+Number of users whose information is used for secondary purposes Since ServiceNow primarily operates in a B2B environment and is not focused on secondary utilization, this information is not relevant to this report.
+
+In 2020, ServiceNow did not have any significant fines or losses as a result of legal proceedings with user privacy.
+
+Since ServiceNow primarily operates in a B2B environment and such requests are more likely to be requested from our customers directly, this information is not relevant to this report.
+
+ServiceNow complies with any necessary obligations, including, but not limited to, requirements under the Foreign Corrupt Practices Act and Export Control Regulations.
+
+ServiceNow exceeds NIST moderate impact control requirements, and our application security standard is verified by BSIMM.
+
+ServiceNow headquarters are in Santa Clara, California.
+
+At the end of 2020, 14.6% of full time employees in the United States were foreign nationals and 0.20% of US employees were located outside of the US.
+
+Results from ServiceNow’s 2020 Employee Voice Survey found 82% of employees are engaged, in line with leading benchmark companies driving high growth and high engagement.
+
+In 2020, ServiceNow did not have any significant fines or losses as a result of legal proceedings associated with anti competitive behavior.
+
+We considered recommended disclosures from the Global Reporting Initiative (GRI), unless otherwise noted, data reported covers Jan. 1, 2020 Dec. 31, 2020, ServiceNow’s fiscal year.
+
+Our global headquarters are in Santa Clara, California, with 73 offices and 30 datacenters in 29 countries.
+
+Globally, 29.2% of all full time employees are women.
+
+ServiceNow does not have a significant portion of the company’s activities performed by workers who are not employees.
+
+ServiceNow does not have a significant seasonal variation in employees.
+
+Not applicable, 2021 Global Impact Report is ServiceNow’s first report.
+
+We consider the precautionary principle in the introduction of a new product or process whose ultimate effects are disputed or unknown should be resisted.
+
+See 2021 Proxy Statement on the Investor Relations page.
+
+Our head of global impact reports to our chief financial officer.
+
+See 2021 Proxy Statement on the Investor Relations page.
+
+We post select information about our board of directors on our website.
+
+Frederic B. Luddy is chairman of the board of directors and is not an executive officer.
+
+See 2021 Proxy Statement (Nominations Process and Director Qualifications) on the Investor Relations page.
+
+See 2021 Proxy Statement (Nominations Process and Director Qualifications) on the Investor Relations page.
+
+See 2021 Proxy Statement on the Investor Relations page.
+
+None of our US employees are represented by a labor union.
+
+Employees in certain European countries are represented by workers’ councils and may have the benefits of collective bargaining arrangements at the national level.
+
+ServiceNow engages with stakeholders who have impact and interest in issues important to ServiceNow.
+
+See 2021 Proxy Statement on the Investor Relations page.
+
+Not applicable since this is our first Global Impact Report.
+
+Not applicable since this is our first Global Impact Report.
+
+Not applicable we plan to assure our environmental data in future reports.
+
+ServiceNow does not have pensions or non qualified deferred compensation.
+
+All new hires are required to complete a Code of Ethics training within 45 days of joining the company.
+
+In 2020, ServiceNow did not have any significant fines or losses as a result of legal actions associated with anti competitive behavior, anti trust, or monopoly practices.
+
+ServiceNow’s vice president of tax is accountable for compliance with the company’s tax strategy.
+
+ServiceNow does not currently track energy consumption outside the organization but may do so in the future.
+
+ServiceNow does not currently track the reductions in energy consumption directly related to efficiency initiatives but may do so in the future.
+
+ServiceNow does not sell hardware and, therefore, does not currently track the reduction in energy requirements of products.
+
+ServiceNow does not currently track emissions of ozone depleting substances.
+
+ServiceNow does not currently track emissions of ozone depleting substances.
+
+ServiceNow does not currently track operational waste metrics.
+
+In 2020, there were no findings of noncompliance with environmental laws and regulations.
+
+In 2020, there were 3,552 new employees hired globally, and there was a 7% global voluntary attrition rate.
+
+We do not currently report new employee hires and turnover by gender and age group.
+
+ServiceNow operates globally and, therefore, benefits vary between countries of operation.
+
+US employees working more than 20 hours a week are eligible to participate in ServiceNow’s benefits plan, which includes healthcare, life insurance, disability, parental leave, and 401(k), among others.
+
+A full list of benefits for US employees can be found on our Benefits page.
+
+We offer employees around the world generous family leave, including 12 20 weeks of fully paid parental leave in the US for welcoming a new child through birth, adoption, foster placement, or surrogacy.
+
+We intend to report more details on those participating in parental leave in the 2022 Global Impact Report for reporting Jan. 1, 2021, Dec. 31, 2021.
+
+ServiceNow has implemented an occupational health and safety system as outlined in our Environmental, Health, and Safety Policy Contractor Environmental, Health, and Safety Policy and US Injury and Illness Prevention Program Policy.
+
+Our EH S policy defines ServiceNow’s commitment to ensuring the occupational health and safety of its employees, providing a safe environment for contractors and visitors to our sites, and complying with environmental, health, and safety legislation as a minimum standard.
+
+ServiceNow recognizes the importance of environmental, health, and safety best practices in providing optimal workspaces for its employees, contractors, and visitors.
+
+These issues are addressed in ServiceNow's Environmental, Health, and Safety Policy Contractor Environmental, Health, and Safety Policy US Injury and Illness Prevention Program Policy and Ergonomics Policy.
+
+Our EH S policy defines ServiceNow’s commitment to ensuring the occupational health and safety of its employees, providing a safe environment for contractors and visitors to our sites, and complying with environmental, health, and safety legislation as a minimum standard.
+
+ServiceNow recognizes the importance of environmental, health, and safety best practices in providing optimal workspaces for its employees, contractors, and visitors.
+
+ServiceNow’s Workplace Security and Safety Team, within Workplace Services, is responsible for this area.
+
+These issues are addressed in ServiceNow's Environmental, Health, and Safety Policy Contractor Environmental, Health, and Safety Policy US Injury and Illness Prevention Program Policy and Ergonomics Policy.
+
+Our EH S policy defines ServiceNow’s commitment to ensuring the occupational health and safety of its employees, providing a safe environment for contractors and visitors to our sites, and complying with environmental, health, and safety legislation as a minimum standard.
+
+ServiceNow recognizes the importance of environmental, health, and safety best practices in providing optimal workspaces for its employees, contractors, and visitors.
+
+We provide our employees with information, training and, where needed, equipment to foster a culture of health and safety and to support safe work practices.
+
+These issues are addressed in ServiceNow’s Environmental, Health, and Safety Policy Contractor Environmental, Health, and Safety Policy US Injury and Illness Prevention Program Policy and Ergonomics Policy.
+
+Our EH S policy defines ServiceNow’s commitment to ensuring the occupational health and safety of its employees, providing a safe environment for contractors and visitors to our sites, and complying with environmental, health, and safety legislation as a minimum standard.
+
+ServiceNow recognizes the importance of environmental, health, and safety best practices in providing optimal workspaces for its employees, contractors, and visitors.
+
+All employees are covered by ServiceNow's Environmental, Health, and Safety Policy.
+
+The average hours of training per employee in 2020 was 58 for job specific training, not including HR and compliance training, and 20 hours for technical training.
+
+ServiceNow offers a variety of programs for upgrading employees’ skills, including Lead at Now, Manager Journey, BetterUp Coaching, and WalkMe.
+
+All employees receive regular performance and career development reviews.
+
+We disclose gender and ethnicity data for leadership level.
+
+Leadership is defined as director level and above.
+
+Because pay equity is so dynamic, especially in a high growth company like ours, we manage it on an ongoing basis and do regular analyses and adjustments.
+
+This approach has led us to achieve systematic pay equity company wide and ensures we maintain that pay equity on an ongoing basis.
+
+Employees are encouraged to dedicate up to 20 hours year of working time toward volunteerism.
+
+ServiceNow did not make any political contributions in 2020.
+
+To date, the organization has not identified any noncompliance with regulations or voluntary codes concerning marketing communications.
+
+To date, the organization has not identified any noncompliance with regulations or voluntary codes concerning marketing communications.
+
+ServiceNow is committed to protecting its customers, and we comply with all relevant legal and regulatory notification requirements that are applicable to our business.
+
+In 2020, ServiceNow did not have any significant fines or nonmonetary sanctions for noncompliance with laws or regulations in the social and economic area.
+
+ServiceNow Global Impact Report 2021Data Annex ServiceNow is an Equal Employment Opportunity Employer.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity, or veteran status.
+
+ServiceNow marks are trademarks and or registered trademarks of ServiceNow, Inc., in the United States and or other countries.
+
+Other company and product names may be trademarks of the respective companies with which they are associated.
+
+FORTUNE World’s Most Admired Companies, and FORTUNE 100 Best Places to Work are registered trademarks of FORTUNE Media IP Limited and are used under license.
+
+FORTUNE is not affiliated with, and does not endorse the products or services of, ServiceNow.
