@@ -64,35 +64,39 @@ def pdftext2sents(lines, parse_overflow=False, debug=False):
                 buffer += "." if buffer[-1] != "." else ""
                 add_period = False
             ls = len(final_data)
-            res = re.search("(?<=[^A-Z].[.?]) +(?=[A-Z])", buffer)
-            if debug: print("raw", buffer, res)
-            if res:
-                sents = tokenizer.tokenize(buffer)
-                for s in sents:
-                    s = s.strip()
-                    if len(s) < 50: 
-                        buffer_overflow += " " + s
-                        continue
-                    if s[0].isalnum() and s[0].isupper() and s[-1] == ".":
-                        final_data.append(s)
-                    else: buffer_overflow += " " + s
-                if debug: print("sents: ", sents)
-            else:
-                buffer = buffer.strip()
-                if len(buffer) > 50 and buffer[0].isalpha() and buffer[0].isupper() and buffer[-1] == ".":
-                    final_data.append(buffer)
-                    if debug: print("add", buffer)
-                else:
-                    buffer_overflow += " " + buffer
+            # res = re.search("(?<=[^A-Z].[.?]) +(?=[A-Z])", buffer)
+            # if debug: print("raw", buffer, res)
+            # if res:
+            sents = tokenizer.tokenize(buffer)
+            for s in sents:
+                s = s.strip()
+                if len(s) < 50: 
+                    buffer_overflow += " " + s
+                    continue
+                if s[0].isalpha() and s[0].isupper() and s[-1] == ".":
+                    final_data.append(s)
+                else: buffer_overflow += " " + s
+            if debug: print("sents: ", sents)
+            # else:
+            #     buffer = buffer.strip()
+            #     if len(buffer) > 50 and buffer[0].isalpha() and buffer[0].isupper() and buffer[-1] == ".":
+            #         final_data.append(buffer)
+            #         if debug: print("add", buffer)
+            #     else:
+            #         buffer_overflow += " " + buffer
             
             buffer = ""
         else:
             if l.isupper(): continue
             orig = l.strip()
             l = re.sub("[^a-zA-Z0-9_'\(\)\.:,’%]+", ' ', l).strip()
+            # remove #.#: bullets (verizon)
+            l, needs_period = re.subn("^\d+\.\d+:", "", l)
+            l = l.strip()
+            
             ## CAN MODIFY BULLET POINT STYLE WHITELIST TO ADD/REMOVE
             ## PARSING SUPPORT
-            if orig and orig[0] in ["-", "•", ">"]:
+            if (orig and orig[0] in ["-", "•", ">"]) or needs_period:
                 add_period = True
             buffer += " " + l
     
