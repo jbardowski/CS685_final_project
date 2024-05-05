@@ -56,6 +56,7 @@ def pdftext2sents(lines, parse_overflow=False, debug=False):
     buffer = ""
     buffer_overflow = ""
     add_period = False
+    print("Raw Line Count: ", len(lines))
     for i, l in enumerate(lines):            
         if l == "\n":
             if i+1 < len(lines) and lines[i+1][0].islower():
@@ -112,14 +113,16 @@ def pdftext2sents(lines, parse_overflow=False, debug=False):
                 final_data.append(s)
         print("\n?: ".join(sents))
     if debug: print("\n\n\n===\n", "\n->".join(final_data))
+    print("Parsed Lines: ", len(final_data))
+    print("Extraction Percentage: ", len(lines)/len(final_data))
     return final_data, buffer_overflow
 if __name__ == "__main__":
     ## UNCOMMENT TO DOWNLOAD TOKENIZER:
-    # nltk.download("punkt")
+    nltk.download("punkt")
     final_data = [""]
 
     # Get the current script directory
-    script_dir = os.path.dirname(os.path.abspath(__file__+ "\\.."))
+    script_dir = os.path.dirname(os.path.abspath(__file__+ "/.."))
 
     # Path to the raw documents folder
     raw_docs_path = os.path.join(script_dir, "raw_docs")
@@ -134,6 +137,7 @@ if __name__ == "__main__":
     pdf_files = [f for f in os.listdir(raw_docs_path) if f.endswith(".pdf") and f[:-len(".pdf")]+"_parsed.txt" not in os.listdir(parsed_docs_path)]
     print("Processing: ", pdf_files)
     for pdf_file in pdf_files:
+        filename = os.path.splitext(pdf_file)[0]
         # Print log statement for the current file
         print(f"Processing file: {pdf_file}")
 
@@ -145,17 +149,19 @@ if __name__ == "__main__":
         print(f"Document parsed in {parse_time:.4f} seconds")
 
         # Save the parsed text to a file
-        output_filename = os.path.splitext(pdf_file)[0] + "_parsed.txt"
-        output_filepath = os.path.join(parsed_docs_path, output_filename)
-        with open(output_filepath, 'w', encoding="utf-8") as output_file:
+        raw_output_filename = filename + "_raw.txt"
+        raw_output_filepath = os.path.join(parsed_docs_path, raw_output_filename)
+        with open(raw_output_filepath, 'w', encoding="utf-8") as output_file:
             output_file.write(extracted_text)
 
-        # Open the output file to append the final parsed text
-        with open(output_filepath, 'r+', encoding="utf-8") as output_file:
-            lines = output_file.readlines()  # Read the existing content
+        # Open the output file to write the final parsed text
+        parsed_output_filepath = os.path.join(parsed_docs_path, filename + "_parsed.txt")
+        with open(raw_output_filepath, 'r', encoding="utf-8") as raw_output_file:
+            lines = raw_output_file.readlines()  # Read the existing content
             final, _ = pdftext2sents(lines, parse_overflow=False, debug=False)
-            output_file.writelines("\n\n".join(final))  # Write the final parsed text
-            print("\n\n".join(final))  # Print the final parsed text
+            with open(parsed_output_filepath, 'w', encoding="utf-8") as out:
+                out.writelines("\n\n".join(final))  # Write the final parsed text
+                # print("\n\n".join(final))  # Print the final parsed text
 
         # Print log statement for successful parsing and saving
-        print(f"Parsed text appended to: {output_filepath}\n")
+        print(f"Parsed text written to: {parsed_output_filepath}\n")
