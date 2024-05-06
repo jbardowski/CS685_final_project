@@ -1,0 +1,688 @@
+Processing:  ['2022 Environmental, Social & Governance Report.pdf', 'NASDAQ_AMAT_2022.pdf', 'NYSE_TTE_2022.pdf', 'PowerPoint Presentation.pdf', 'environment-social-governance-report-2022.pdf', 'pmi-integrated-report-2022.pdf', 'Building a Better Future Together 2022 Amazon Sustainability Report.pdf', 'Integrated Report 2022.pdf', 'NYSE_UNP_2022.pdf', 'Progressive 2022 Corporate Sustainability Report.pdf', '2022-tesla-impact-report-highlights.pdf', '2022 Health for Humanity Report.pdf', 'e-all_2022.pdf', 'NYSE_NEE_2022.pdf', '2022 Annual Report based on US GAAP.pdf', 'Unilever Annual Report and Accounts 2022.pdf', 'NASDAQ_CMCSA_2022.pdf', 'mastercard-esg-sustainabilty-report-2022.pdf', '360-Value-Report-2022.pdf', 'Blackstone_ESG_FINAL_AODA.pdf', 'NASDAQ_AAPL_2022.pdf', 'T-Mobile-2022-Corporate-Responsibility-Report.pdf', 'HDFC Bank - Integrated Annual Report 2021-22.pdf', 'Sustainability Report 2022.pdf', 'impact-report-2022.pdf', 'NYSE_UNH_2022.pdf', '2022 Netflix Environmental Social Governance Report.pdf', '2022 Corporate Social Responsibility Report.pdf', 'NYSE_RTX_2022.pdf', 'BAC_AR22_full_with3edits (003).pdf', '2022–2023 Our Purpose & Impact Report McDonald’s Corporation.pdf', 'NYSE_GE_2022.pdf', '2022 Corporate Citizenship Report (Rev. A).pdf', 'Annual Report and Accounts 2022.pdf', '2022-abbvie-esg-action-report.pdf', 'novartis-integrated-report-2022.pdf', 'ESG-Report-Novo-Nordisk-Pharmatech-2022.pdf', 'social-impact-report2022.pdf', 'servicenow-global-impact-report-2022 (1).pdf', 'Lam Research ESG Report.pdf', 'Wells Fargo Sustainability & Governance Report.pdf', 'NASDAQ_BKNG_2022.pdf', 'NYSE_COP_2022.pdf', '2022 SAP Sustainability Report.pdf', 'IBM 2022 ESG Report.pdf', '2022 Environmental Sustainability Report.pdf', 'The Coca-Cola Company 2022 Business & Sustainability Report.pdf', 'NYSE_HON_2022.pdf', 'Intel 2021-22 Corporate Responsibility Report.pdf', 'NYSE_MRK_2022.pdf', 'intuit-cr-report-2022-icom.pdf', 'NYSE_UBER_2022.pdf', 'NYSE_UPS_2022.pdf', 'AB InBev_2022 ESG Report_FINAL.pdf', '2022 Caterpillar Sustainability Report.pdf', 'NASDAQ_GOOG_2022.pdf', 'community-impact-report-5th-edition-090922.pdf', '2022-esg-summary-performance-metrics.pdf', 'Stryker 2022 Comprehensive Report.pdf', 'The Walt Disney Company_ 2022 Corporate Social Responsibility Report.pdf', 'NASDAQ_NVDA_2022.pdf', '2022 Corporate Sustainability Report.pdf', '2022 Corporate Responsibility Report-English.pdf', '2022 Environmental Social Governance Report.pdf', 'NYSE_SCHW_2022.pdf', '2022 Qualcomm Corporate Responsibility Report.pdf', 'NYSE_MS_2022.pdf', 'NYSE_GS_2022.pdf', 'NASDAQ_ISRG_2022.pdf', 'Abbott-2022-Global-Sustainability-Report-June-2023.pdf', 'NYSE_HD_2022.pdf', 'NASDAQ_BHLB_2022.pdf', '2022-ESG-Report.pdf', 'ExxonMobil Sustainability Report.pdf', 'NYSE_VZ_2022.pdf', 'NASDAQ_AMD_2022.pdf', 'LSE_AZN_2022.pdf', '2022-sustainable-development-report.pdf', 'eaton-sustainability-report.pdf', 'NYSE_DHR_2022.pdf', '1b2a839c-74d1-4e5c-b16a-3c290bf73ab7.pdf', 'ESG Report 2022 Final.pdf', '2022-micron-sustainabilityreport.pdf', 'NYSE_NKE_2022.pdf', 'NYSE_C_2022.pdf', '2022_Citizenship_Report.pdf', 'amgen-2022-esg-report.pdf', 'sr2022_en.pdf', '2022 Cisco Purpose Report.pdf', 'costco-2022-esg-report (1).pdf', 'ATT-Sustainability-Summary.pdf', 'NYSE_PFE_2022.pdf', 'Walmart FY2022 ESG Summary.pdf', 'NYSE_BABA_2022.pdf', 'Adobe Corporate Social Responsibility Report 2022.pdf']
+Processing file: 2022 Environmental, Social & Governance Report.pdf
+Document parsed in 5.5633 seconds
+Raw Line Count:  10601
+Parsed Lines:  776
+Extraction Percentage:  13.661082474226804
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 Environmental, Social & Governance Report_parsed.txt
+
+Processing file: NASDAQ_AMAT_2022.pdf
+Document parsed in 7.6427 seconds
+Raw Line Count:  8494
+Parsed Lines:  1055
+Extraction Percentage:  8.051184834123223
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NASDAQ_AMAT_2022_parsed.txt
+
+Processing file: NYSE_TTE_2022.pdf
+Document parsed in 10.8903 seconds
+Raw Line Count:  10781
+Parsed Lines:  1276
+Extraction Percentage:  8.449059561128527
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_TTE_2022_parsed.txt
+
+Processing file: PowerPoint Presentation.pdf
+Document parsed in 3.5288 seconds
+Raw Line Count:  4682
+Parsed Lines:  789
+Extraction Percentage:  5.934093789607098
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/PowerPoint Presentation_parsed.txt
+
+Processing file: environment-social-governance-report-2022.pdf
+Document parsed in 4.2449 seconds
+Raw Line Count:  4345
+Parsed Lines:  587
+Extraction Percentage:  7.402044293015332
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/environment-social-governance-report-2022_parsed.txt
+
+Processing file: pmi-integrated-report-2022.pdf
+Document parsed in 19.4928 seconds
+Raw Line Count:  35150
+Parsed Lines:  3246
+Extraction Percentage:  10.82871226124461
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/pmi-integrated-report-2022_parsed.txt
+
+Processing file: Building a Better Future Together 2022 Amazon Sustainability Report.pdf
+Document parsed in 5.2614 seconds
+Raw Line Count:  889
+Parsed Lines:  45
+Extraction Percentage:  19.755555555555556
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Building a Better Future Together 2022 Amazon Sustainability Report_parsed.txt
+
+Processing file: Integrated Report 2022.pdf
+Document parsed in 7.7261 seconds
+Raw Line Count:  15235
+Parsed Lines:  1767
+Extraction Percentage:  8.621958121109225
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Integrated Report 2022_parsed.txt
+
+Processing file: NYSE_UNP_2022.pdf
+Document parsed in 2.4995 seconds
+Raw Line Count:  3098
+Parsed Lines:  613
+Extraction Percentage:  5.053833605220229
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_UNP_2022_parsed.txt
+
+Processing file: Progressive 2022 Corporate Sustainability Report.pdf
+Document parsed in 3.2405 seconds
+Raw Line Count:  8052
+Parsed Lines:  679
+Extraction Percentage:  11.858615611192931
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Progressive 2022 Corporate Sustainability Report_parsed.txt
+
+Processing file: 2022-tesla-impact-report-highlights.pdf
+Document parsed in 20.7445 seconds
+Raw Line Count:  65
+Parsed Lines:  7
+Extraction Percentage:  9.285714285714286
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022-tesla-impact-report-highlights_parsed.txt
+
+Processing file: 2022 Health for Humanity Report.pdf
+Document parsed in 82.9580 seconds
+Raw Line Count:  15262
+Parsed Lines:  1861
+Extraction Percentage:  8.200967221923698
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 Health for Humanity Report_parsed.txt
+
+Processing file: e-all_2022.pdf
+Document parsed in 21.1738 seconds
+Raw Line Count:  38454
+Parsed Lines:  1834
+Extraction Percentage:  20.967284623773175
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/e-all_2022_parsed.txt
+
+Processing file: NYSE_NEE_2022.pdf
+Document parsed in 22.1572 seconds
+Raw Line Count:  7554
+Parsed Lines:  1142
+Extraction Percentage:  6.614711033274956
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_NEE_2022_parsed.txt
+
+Processing file: 2022 Annual Report based on US GAAP.pdf
+Document parsed in 1.1594 seconds
+Raw Line Count:  3103
+Parsed Lines:  376
+Extraction Percentage:  8.252659574468085
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 Annual Report based on US GAAP_parsed.txt
+
+Processing file: Unilever Annual Report and Accounts 2022.pdf
+Document parsed in 2.0676 seconds
+Raw Line Count:  4143
+Parsed Lines:  538
+Extraction Percentage:  7.700743494423792
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Unilever Annual Report and Accounts 2022_parsed.txt
+
+Processing file: NASDAQ_CMCSA_2022.pdf
+Document parsed in 32.7156 seconds
+Raw Line Count:  5205
+Parsed Lines:  364
+Extraction Percentage:  14.29945054945055
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NASDAQ_CMCSA_2022_parsed.txt
+
+Processing file: mastercard-esg-sustainabilty-report-2022.pdf
+Document parsed in 4.4237 seconds
+Raw Line Count:  11961
+Parsed Lines:  1159
+Extraction Percentage:  10.320103537532356
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/mastercard-esg-sustainabilty-report-2022_parsed.txt
+
+Processing file: 360-Value-Report-2022.pdf
+Document parsed in 5.5505 seconds
+Raw Line Count:  9761
+Parsed Lines:  1024
+Extraction Percentage:  9.5322265625
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/360-Value-Report-2022_parsed.txt
+
+Processing file: Blackstone_ESG_FINAL_AODA.pdf
+Document parsed in 2.1872 seconds
+Raw Line Count:  6437
+Parsed Lines:  506
+Extraction Percentage:  12.721343873517787
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Blackstone_ESG_FINAL_AODA_parsed.txt
+
+Processing file: NASDAQ_AAPL_2022.pdf
+Document parsed in 5.9013 seconds
+Raw Line Count:  10439
+Parsed Lines:  1489
+Extraction Percentage:  7.010745466756212
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NASDAQ_AAPL_2022_parsed.txt
+
+Processing file: T-Mobile-2022-Corporate-Responsibility-Report.pdf
+Document parsed in 6.0468 seconds
+Raw Line Count:  12794
+Parsed Lines:  1208
+Extraction Percentage:  10.591059602649006
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/T-Mobile-2022-Corporate-Responsibility-Report_parsed.txt
+
+Processing file: HDFC Bank - Integrated Annual Report 2021-22.pdf
+Document parsed in 2.6915 seconds
+Raw Line Count:  1388
+Parsed Lines:  230
+Extraction Percentage:  6.034782608695652
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/HDFC Bank - Integrated Annual Report 2021-22_parsed.txt
+
+Processing file: Sustainability Report 2022.pdf
+Document parsed in 9.2394 seconds
+Raw Line Count:  15502
+Parsed Lines:  1286
+Extraction Percentage:  12.05443234836703
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Sustainability Report 2022_parsed.txt
+
+Processing file: impact-report-2022.pdf
+Document parsed in 4.7512 seconds
+Raw Line Count:  8505
+Parsed Lines:  1008
+Extraction Percentage:  8.4375
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/impact-report-2022_parsed.txt
+
+Processing file: NYSE_UNH_2022.pdf
+Document parsed in 3.0035 seconds
+Raw Line Count:  7090
+Parsed Lines:  1028
+Extraction Percentage:  6.896887159533074
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_UNH_2022_parsed.txt
+
+Processing file: 2022 Netflix Environmental Social Governance Report.pdf
+Document parsed in 3.1829 seconds
+Raw Line Count:  5578
+Parsed Lines:  524
+Extraction Percentage:  10.645038167938932
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 Netflix Environmental Social Governance Report_parsed.txt
+
+Processing file: 2022 Corporate Social Responsibility Report.pdf
+Document parsed in 5.4689 seconds
+Raw Line Count:  8290
+Parsed Lines:  1055
+Extraction Percentage:  7.85781990521327
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 Corporate Social Responsibility Report_parsed.txt
+
+Processing file: NYSE_RTX_2022.pdf
+Document parsed in 3.7327 seconds
+Raw Line Count:  5551
+Parsed Lines:  909
+Extraction Percentage:  6.106710671067106
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_RTX_2022_parsed.txt
+
+Processing file: BAC_AR22_full_with3edits (003).pdf
+Document parsed in 0.1156 seconds
+Raw Line Count:  286
+Parsed Lines:  57
+Extraction Percentage:  5.017543859649122
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/BAC_AR22_full_with3edits (003)_parsed.txt
+
+Processing file: 2022–2023 Our Purpose & Impact Report McDonald’s Corporation.pdf
+Document parsed in 7.5757 seconds
+Raw Line Count:  9120
+Parsed Lines:  1163
+Extraction Percentage:  7.841788478073947
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022–2023 Our Purpose & Impact Report McDonald’s Corporation_parsed.txt
+
+Processing file: NYSE_GE_2022.pdf
+Document parsed in 11.7145 seconds
+Raw Line Count:  13164
+Parsed Lines:  2413
+Extraction Percentage:  5.455449647741401
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_GE_2022_parsed.txt
+
+Processing file: 2022 Corporate Citizenship Report (Rev. A).pdf
+Document parsed in 5.3384 seconds
+Raw Line Count:  9136
+Parsed Lines:  1140
+Extraction Percentage:  8.014035087719298
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 Corporate Citizenship Report (Rev. A)_parsed.txt
+
+Processing file: Annual Report and Accounts 2022.pdf
+Document parsed in 40.4758 seconds
+Raw Line Count:  101380
+Parsed Lines:  8622
+Extraction Percentage:  11.758292739503595
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Annual Report and Accounts 2022_parsed.txt
+
+Processing file: 2022-abbvie-esg-action-report.pdf
+Document parsed in 3.6113 seconds
+Raw Line Count:  7828
+Parsed Lines:  992
+Extraction Percentage:  7.891129032258065
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022-abbvie-esg-action-report_parsed.txt
+
+Processing file: novartis-integrated-report-2022.pdf
+Document parsed in 8.5744 seconds
+Raw Line Count:  19390
+Parsed Lines:  1500
+Extraction Percentage:  12.926666666666666
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/novartis-integrated-report-2022_parsed.txt
+
+Processing file: ESG-Report-Novo-Nordisk-Pharmatech-2022.pdf
+Document parsed in 0.6608 seconds
+Raw Line Count:  1358
+Parsed Lines:  94
+Extraction Percentage:  14.446808510638299
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/ESG-Report-Novo-Nordisk-Pharmatech-2022_parsed.txt
+
+Processing file: social-impact-report2022.pdf
+Document parsed in 10.2400 seconds
+Raw Line Count:  7402
+Parsed Lines:  493
+Extraction Percentage:  15.01419878296146
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/social-impact-report2022_parsed.txt
+
+Processing file: servicenow-global-impact-report-2022 (1).pdf
+Document parsed in 3.4121 seconds
+Raw Line Count:  8230
+Parsed Lines:  632
+Extraction Percentage:  13.022151898734178
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/servicenow-global-impact-report-2022 (1)_parsed.txt
+
+Processing file: Lam Research ESG Report.pdf
+Document parsed in 6.3433 seconds
+Raw Line Count:  8818
+Parsed Lines:  853
+Extraction Percentage:  10.337631887456038
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Lam Research ESG Report_parsed.txt
+
+Processing file: Wells Fargo Sustainability & Governance Report.pdf
+Document parsed in 2.6630 seconds
+Raw Line Count:  5635
+Parsed Lines:  777
+Extraction Percentage:  7.252252252252252
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Wells Fargo Sustainability & Governance Report_parsed.txt
+
+Processing file: NASDAQ_BKNG_2022.pdf
+Document parsed in 1.6215 seconds
+Raw Line Count:  2800
+Parsed Lines:  535
+Extraction Percentage:  5.233644859813084
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NASDAQ_BKNG_2022_parsed.txt
+
+Processing file: NYSE_COP_2022.pdf
+Document parsed in 13.8010 seconds
+Raw Line Count:  26437
+Parsed Lines:  2330
+Extraction Percentage:  11.346351931330473
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_COP_2022_parsed.txt
+
+Processing file: 2022 SAP Sustainability Report.pdf
+Document parsed in 0.0556 seconds
+Raw Line Count:  1
+Parsed Lines:  0
+Extraction Percentage cannot be calculated: Divide by Zero
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 SAP Sustainability Report_parsed.txt
+
+Processing file: IBM 2022 ESG Report.pdf
+Document parsed in 3.7452 seconds
+Raw Line Count:  9914
+Parsed Lines:  594
+Extraction Percentage:  16.69023569023569
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/IBM 2022 ESG Report_parsed.txt
+
+Processing file: 2022 Environmental Sustainability Report.pdf
+Document parsed in 27.0887 seconds
+Raw Line Count:  9815
+Parsed Lines:  1238
+Extraction Percentage:  7.9281098546042
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 Environmental Sustainability Report_parsed.txt
+
+Processing file: The Coca-Cola Company 2022 Business & Sustainability Report.pdf
+Document parsed in 24.1825 seconds
+Raw Line Count:  19336
+Parsed Lines:  1070
+Extraction Percentage:  18.07102803738318
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/The Coca-Cola Company 2022 Business & Sustainability Report_parsed.txt
+
+Processing file: NYSE_HON_2022.pdf
+Document parsed in 3.3179 seconds
+Raw Line Count:  5718
+Parsed Lines:  1012
+Extraction Percentage:  5.650197628458498
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_HON_2022_parsed.txt
+
+Processing file: Intel 2021-22 Corporate Responsibility Report.pdf
+Document parsed in 10.2017 seconds
+Raw Line Count:  15625
+Parsed Lines:  1957
+Extraction Percentage:  7.984159427695452
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Intel 2021-22 Corporate Responsibility Report_parsed.txt
+
+Processing file: NYSE_MRK_2022.pdf
+Document parsed in 13.0096 seconds
+Raw Line Count:  17696
+Parsed Lines:  2220
+Extraction Percentage:  7.9711711711711715
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_MRK_2022_parsed.txt
+
+Processing file: intuit-cr-report-2022-icom.pdf
+Document parsed in 45.8442 seconds
+Raw Line Count:  5075
+Parsed Lines:  783
+Extraction Percentage:  6.481481481481482
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/intuit-cr-report-2022-icom_parsed.txt
+
+Processing file: NYSE_UBER_2022.pdf
+Document parsed in 5.0410 seconds
+Raw Line Count:  9658
+Parsed Lines:  955
+Extraction Percentage:  10.113089005235603
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_UBER_2022_parsed.txt
+
+Processing file: NYSE_UPS_2022.pdf
+Document parsed in 0.2392 seconds
+Raw Line Count:  353
+Parsed Lines:  15
+Extraction Percentage:  23.533333333333335
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_UPS_2022_parsed.txt
+
+Processing file: AB InBev_2022 ESG Report_FINAL.pdf
+Document parsed in 8.0797 seconds
+Raw Line Count:  11548
+Parsed Lines:  1389
+Extraction Percentage:  8.313894888408928
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/AB InBev_2022 ESG Report_FINAL_parsed.txt
+
+Processing file: 2022 Caterpillar Sustainability Report.pdf
+Document parsed in 4.5445 seconds
+Raw Line Count:  5593
+Parsed Lines:  699
+Extraction Percentage:  8.001430615164521
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 Caterpillar Sustainability Report_parsed.txt
+
+Processing file: NASDAQ_GOOG_2022.pdf
+Document parsed in 1.2349 seconds
+Raw Line Count:  2127
+Parsed Lines:  197
+Extraction Percentage:  10.796954314720812
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NASDAQ_GOOG_2022_parsed.txt
+
+Processing file: community-impact-report-5th-edition-090922.pdf
+Document parsed in 8.6600 seconds
+Raw Line Count:  1855
+Parsed Lines:  179
+Extraction Percentage:  10.363128491620111
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/community-impact-report-5th-edition-090922_parsed.txt
+
+Processing file: 2022-esg-summary-performance-metrics.pdf
+Document parsed in 0.6090 seconds
+Raw Line Count:  1107
+Parsed Lines:  83
+Extraction Percentage:  13.337349397590362
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022-esg-summary-performance-metrics_parsed.txt
+
+Processing file: Stryker 2022 Comprehensive Report.pdf
+Document parsed in 7.4783 seconds
+Raw Line Count:  10808
+Parsed Lines:  854
+Extraction Percentage:  12.655737704918034
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Stryker 2022 Comprehensive Report_parsed.txt
+
+Processing file: The Walt Disney Company_ 2022 Corporate Social Responsibility Report.pdf
+Document parsed in 8.1031 seconds
+Raw Line Count:  8971
+Parsed Lines:  1076
+Extraction Percentage:  8.33736059479554
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/The Walt Disney Company_ 2022 Corporate Social Responsibility Report_parsed.txt
+
+Processing file: NASDAQ_NVDA_2022.pdf
+Document parsed in 3.3785 seconds
+Raw Line Count:  5643
+Parsed Lines:  912
+Extraction Percentage:  6.1875
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NASDAQ_NVDA_2022_parsed.txt
+
+Processing file: 2022 Corporate Sustainability Report.pdf
+Document parsed in 6.4713 seconds
+Raw Line Count:  10164
+Parsed Lines:  1063
+Extraction Percentage:  9.56161806208843
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 Corporate Sustainability Report_parsed.txt
+
+Processing file: 2022 Corporate Responsibility Report-English.pdf
+Document parsed in 4.4887 seconds
+Raw Line Count:  8915
+Parsed Lines:  578
+Extraction Percentage:  15.423875432525952
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 Corporate Responsibility Report-English_parsed.txt
+
+Processing file: 2022 Environmental Social Governance Report.pdf
+Document parsed in 5.8796 seconds
+Raw Line Count:  10734
+Parsed Lines:  1024
+Extraction Percentage:  10.482421875
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 Environmental Social Governance Report_parsed.txt
+
+Processing file: NYSE_SCHW_2022.pdf
+Document parsed in 5.2254 seconds
+Raw Line Count:  6934
+Parsed Lines:  779
+Extraction Percentage:  8.901155327342748
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_SCHW_2022_parsed.txt
+
+Processing file: 2022 Qualcomm Corporate Responsibility Report.pdf
+Document parsed in 4.1946 seconds
+Raw Line Count:  8474
+Parsed Lines:  1071
+Extraction Percentage:  7.912231559290383
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 Qualcomm Corporate Responsibility Report_parsed.txt
+
+Processing file: NYSE_MS_2022.pdf
+Document parsed in 8.1693 seconds
+Raw Line Count:  10159
+Parsed Lines:  1289
+Extraction Percentage:  7.881303335919317
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_MS_2022_parsed.txt
+
+Processing file: NYSE_GS_2022.pdf
+Document parsed in 4.4185 seconds
+Raw Line Count:  7759
+Parsed Lines:  1001
+Extraction Percentage:  7.751248751248752
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_GS_2022_parsed.txt
+
+Processing file: NASDAQ_ISRG_2022.pdf
+Document parsed in 6.2251 seconds
+Raw Line Count:  5444
+Parsed Lines:  913
+Extraction Percentage:  5.96276013143483
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NASDAQ_ISRG_2022_parsed.txt
+
+Processing file: Abbott-2022-Global-Sustainability-Report-June-2023.pdf
+Document parsed in 11.7538 seconds
+Raw Line Count:  22487
+Parsed Lines:  1943
+Extraction Percentage:  11.573340195573856
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Abbott-2022-Global-Sustainability-Report-June-2023_parsed.txt
+
+Processing file: NYSE_HD_2022.pdf
+Document parsed in 5.0319 seconds
+Raw Line Count:  15385
+Parsed Lines:  1052
+Extraction Percentage:  14.624524714828897
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_HD_2022_parsed.txt
+
+Processing file: NASDAQ_BHLB_2022.pdf
+Document parsed in 14.3106 seconds
+Raw Line Count:  4757
+Parsed Lines:  667
+Extraction Percentage:  7.131934032983509
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NASDAQ_BHLB_2022_parsed.txt
+
+Processing file: 2022-ESG-Report.pdf
+Document parsed in 8.9009 seconds
+Raw Line Count:  17620
+Parsed Lines:  1582
+Extraction Percentage:  11.137800252844501
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022-ESG-Report_parsed.txt
+
+Processing file: ExxonMobil Sustainability Report.pdf
+Document parsed in 3.3218 seconds
+Raw Line Count:  4543
+Parsed Lines:  811
+Extraction Percentage:  5.601726263871763
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/ExxonMobil Sustainability Report_parsed.txt
+
+Processing file: NYSE_VZ_2022.pdf
+Document parsed in 3.7794 seconds
+Raw Line Count:  10208
+Parsed Lines:  1295
+Extraction Percentage:  7.882625482625483
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_VZ_2022_parsed.txt
+
+Processing file: NASDAQ_AMD_2022.pdf
+Document parsed in 6.4898 seconds
+Raw Line Count:  8869
+Parsed Lines:  1146
+Extraction Percentage:  7.739092495636998
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NASDAQ_AMD_2022_parsed.txt
+
+Processing file: LSE_AZN_2022.pdf
+Document parsed in 4.2544 seconds
+Raw Line Count:  4728
+Parsed Lines:  594
+Extraction Percentage:  7.959595959595959
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/LSE_AZN_2022_parsed.txt
+
+Processing file: 2022-sustainable-development-report.pdf
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Data-loss while decompressing corrupted data
+Document parsed in 9.3784 seconds
+Raw Line Count:  12828
+Parsed Lines:  2133
+Extraction Percentage:  6.014064697609001
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022-sustainable-development-report_parsed.txt
+
+Processing file: eaton-sustainability-report.pdf
+Document parsed in 3.9423 seconds
+Raw Line Count:  9903
+Parsed Lines:  1121
+Extraction Percentage:  8.834076717216771
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/eaton-sustainability-report_parsed.txt
+
+Processing file: NYSE_DHR_2022.pdf
+Document parsed in 6.8078 seconds
+Raw Line Count:  13274
+Parsed Lines:  789
+Extraction Percentage:  16.82382762991128
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_DHR_2022_parsed.txt
+
+Processing file: 1b2a839c-74d1-4e5c-b16a-3c290bf73ab7.pdf
+Document parsed in 5.4221 seconds
+Raw Line Count:  7846
+Parsed Lines:  1054
+Extraction Percentage:  7.444022770398482
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/1b2a839c-74d1-4e5c-b16a-3c290bf73ab7_parsed.txt
+
+Processing file: ESG Report 2022 Final.pdf
+Document parsed in 17.5035 seconds
+Raw Line Count:  8252
+Parsed Lines:  1141
+Extraction Percentage:  7.23225241016652
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/ESG Report 2022 Final_parsed.txt
+
+Processing file: 2022-micron-sustainabilityreport.pdf
+Document parsed in 3.6113 seconds
+Raw Line Count:  9284
+Parsed Lines:  925
+Extraction Percentage:  10.036756756756757
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022-micron-sustainabilityreport_parsed.txt
+
+Processing file: NYSE_NKE_2022.pdf
+Document parsed in 13.2717 seconds
+Raw Line Count:  23893
+Parsed Lines:  2137
+Extraction Percentage:  11.180627047262517
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_NKE_2022_parsed.txt
+
+Processing file: NYSE_C_2022.pdf
+Document parsed in 10.2331 seconds
+Raw Line Count:  15755
+Parsed Lines:  1507
+Extraction Percentage:  10.454545454545455
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_C_2022_parsed.txt
+
+Processing file: 2022_Citizenship_Report.pdf
+Document parsed in 4.0043 seconds
+Raw Line Count:  2527
+Parsed Lines:  204
+Extraction Percentage:  12.387254901960784
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022_Citizenship_Report_parsed.txt
+
+Processing file: amgen-2022-esg-report.pdf
+Document parsed in 6.5315 seconds
+Raw Line Count:  8600
+Parsed Lines:  971
+Extraction Percentage:  8.85684860968074
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/amgen-2022-esg-report_parsed.txt
+
+Processing file: sr2022_en.pdf
+Document parsed in 15.6211 seconds
+Raw Line Count:  53683
+Parsed Lines:  3689
+Extraction Percentage:  14.552182163187856
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/sr2022_en_parsed.txt
+
+Processing file: 2022 Cisco Purpose Report.pdf
+Document parsed in 3.6875 seconds
+Raw Line Count:  4514
+Parsed Lines:  765
+Extraction Percentage:  5.900653594771242
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/2022 Cisco Purpose Report_parsed.txt
+
+Processing file: costco-2022-esg-report (1).pdf
+Document parsed in 6.0597 seconds
+Raw Line Count:  9187
+Parsed Lines:  1605
+Extraction Percentage:  5.72398753894081
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/costco-2022-esg-report (1)_parsed.txt
+
+Processing file: ATT-Sustainability-Summary.pdf
+Document parsed in 2.2340 seconds
+Raw Line Count:  3434
+Parsed Lines:  367
+Extraction Percentage:  9.356948228882834
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/ATT-Sustainability-Summary_parsed.txt
+
+Processing file: NYSE_PFE_2022.pdf
+Document parsed in 4.3655 seconds
+Raw Line Count:  8426
+Parsed Lines:  1080
+Extraction Percentage:  7.801851851851852
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_PFE_2022_parsed.txt
+
+Processing file: Walmart FY2022 ESG Summary.pdf
+Document parsed in 3.5221 seconds
+Raw Line Count:  7227
+Parsed Lines:  551
+Extraction Percentage:  13.116152450090745
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Walmart FY2022 ESG Summary_parsed.txt
+
+Processing file: NYSE_BABA_2022.pdf
+Document parsed in 8.3347 seconds
+Raw Line Count:  12436
+Parsed Lines:  1673
+Extraction Percentage:  7.43335325762104
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/NYSE_BABA_2022_parsed.txt
+
+Processing file: Adobe Corporate Social Responsibility Report 2022.pdf
+Document parsed in 5.3795 seconds
+Raw Line Count:  4845
+Parsed Lines:  262
+Extraction Percentage:  18.49236641221374
+Parsed text written to: /Users/tsplagounias/Desktop/clean_reports/Adobe Corporate Social Responsibility Report 2022_parsed.txt
