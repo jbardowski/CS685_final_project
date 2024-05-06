@@ -1,0 +1,751 @@
+ESG at a glance We aim to be a leader in sustainability, and to continue driving progress toward inclusive and sustainable growth for all.
+
+Our vision at ASML is to enable ground breaking technology that solves some of humanity’s toughest challenges.
+
+We want to contribute to expanding computing power but with minimal waste, energy use and emissions.
+
+That's why we focus on energy efficiency, climate action and circular economy.
+
+We want to ensure that responsible growth benefits all our stakeholders to have an attractive workplace for all and a responsible supply chain, to fuel innovation in our ecosystem and to be a valued partner in our communities.
+
+We commit to act on our responsibilities and fully anchor them in the way we do business through our focus on integrated governance, engaged stakeholders and transparent reporting.
+
+We aim to create long term value for our stakeholders and to shape a sustainable future.
+
+To achieve these aims, we must focus our strategy on the ESG sustainability topics that matter most.
+
+Our material topics represent our most significant impacts on the economy, environment and people, including their human rights.
+
+We update our materiality annually based on ongoing engagement with stakeholders, developments within ASML and the context in which we operate.
+
+The process for determining material topics consists of four steps which are based on the guidance provided by the Global Reporting Initiative (GRI).
+
+Our 2022 materiality assessment process is based on the standard GRI 3: Material Topics 2021’.
+
+Step 1: Understand the context Key to our materiality assessment process is understanding the stakeholders that are affected or could be affected by us.
+
+We have five stakeholder groups: shareholders, customers, employees, suppliers (including contractors) and society.
+
+We continuously engage with these stakeholders to understand their concerns and how we may impact their interests.
+
+Through stakeholder engagement we also identify improvement actions and receive feedback on our performance and progress.
+
+Read more in: Our business model Engaging with stakeholders.
+
+We also monitor the sustainability context of our activities and business relationships by reviewing relevant sources of information.
+
+These sources include international standards and (upcoming) legislation, industry and peers, media and ESG rating agencies.
+
+Step 2: Identify actual and potential impacts We identified an initial list of topics and impacts based on insights from stakeholder engagement and relevant sources of information.
+
+The list of topics includes positive and negative, actual and potential, and short and long term impacts.
+
+Actual impacts are those that have already occurred, and potential impacts are those that could occur but have not occurred yet.
+
+The assessment aims to cover all impacts likely to be relevant across our value chain and business relationships and considers the relevant GRI Topic Standards.
+
+While our 2022 list of topics includes topics from the 2021 materiality assessment, it also includes a number of changes, with some topics merging to bundle strongly connected impacts.
+
+The table on the previous page shows key movements across our material issues.
+
+Step 3: Assess the significance of the impacts We assessed the significance of actual negative impacts by their severity (scale, scope and irremediable character) and the significance of actual positive impacts by their scale and scope.
+
+For potential impacts we also assessed likelihood.
+
+Negative and positive impacts were assessed separately, as these cannot always be compared, and negative impacts cannot be offset by positive impacts.
+
+Based on ASML subject matter experts’ assessment, the topics were ranked, initially based on scale, scope, and remediability, and in case of an equal ranking also on likelihood.
+
+The ranking of topics was also subject to review by internal representatives of stakeholder groups, to ensure the concerns and interests of all stakeholders were sufficiently considered.
+
+Step 4: Prioritize the most significant impacts The most significant impacts are prioritized for strategy and reporting.
+
+The outcomes of the materiality assessment are used to shape our strategy and long term targets, with the aim of long term value creation for all our stakeholders.
+
+The table below shows the material topics, the impacts included in the definition of each topic, whether these impacts are positive or negative, actual or potential and where in the value chain they occur.
+
+Compared with 2021, the criteria for prioritizing topics in the GRI standards have changed, which affects comparability between the 2021 and 2022 material topics.
+
+Topic definition (impacts covered) a) Energy efficiency products (EUV, DUV) b) Energy consumption (EUV, DUV) c) Scope 3 downstream emissions a) Energy management supply chain b) Scope 3 upstream emissions a) Energy use within and management of own buildings and factories b) Reduction of energy consumption c) Use of renewable energy for our operations d) Resulting scope 1 and 2 GHG emissions a) Waste generated through operations (e.g.
+
+Although Biodiversity was added as a topic in the 2022 materiality assessment, our impact on this topic was assessed and in comparison to other topics it was not considered material.
+
+Adopted by all member states in 2013, the UN’s 2030 agenda for sustainable development provides a shared blueprint for peace and prosperity, for people and planet, now and in the future.
+
+We have developed the work streams of our ESG program to support the 2030 ambition as defined by the UN’s Sustainable Development Goals (SDGs), focusing on six particular SDGs where we can have the greatest impact.
+
+Our ambitions, commitment and programs for these SDGs are explained more fully at the start of each ESG chapter of this report.
+
+In our Environmental pillar, we focus on SDG 13 (Energy efficiency and climate action) by addressing our energy efficiency in our operations, and on SDG 12 (Responsible consumption and production) via our circular economy work streams.
+
+In our Social pillar, we focus on SDG 4 (Quality education) by developing our people and promoting lifelong learning opportunities for the communities where we operate.
+
+SDG 8 (Decent work and economic growth) is covered by our commitment to provide an attractive workplace that promotes sustained, inclusive growth, full and productive employment and decent work for all throughout our supply chain.
+
+Our support for SDG 9 (Industry, innovation and infrastructure) is demonstrated by our work to build a resilient ecosystem that fosters innovation while promoting inclusive and sustainable industrialization.
+
+We support SDG 11 (Sustainable cities and communities) by working with our community outreach partners to make cities and other human settlements inclusive, safe, resilient and sustainable.
+
+SDG 12 (Responsible consumption and production) is addressed by our work with suppliers and in our supply chain.
+
+In our Governance pillar, we focus on SDG 8 (Decent work and economic growth) by ensuring that we eradicate all types of forced labor, protect labor rights and promote a safe and secure working environment for everyone.
+
+In addition to being covered under our Environmental and Social pillars (see above), SDG 12 (Responsible consumption and production) is also supported under our Governance pillar by our work to achieve environmentally sound management of chemicals and all wastes throughout their life cycles, in accordance with agreed international frameworks.
+
+We believe that increasing digitalization opens the way to a society that is more environmentally and socially sustainable.
+
+Environmental at a glance We are committed to reducing our environmental footprint both from our operations and the use of our products and services.
+
+We develop lithography technology that enables manufacturers to make more energy efficient microchips.
+
+Reducing our environmental footprint and managing our waste both from our operations and in the use of our products and services is key to our ESG practices.
+
+As the world continues to increase its dependence on technology to solve some of its most pressing challenges, our role is to help make this happen by expanding the availability of the necessary computing power.
+
+Our ambition is to achieve carbon neutrality with net zero emissions in our operations (scope 1 and 2) by 2025.
+
+We aim to achieve net zero emissions in our supply chain (scope 3) by 2030, and net zero emissions from the use of our products by our customers (scope 3) by 2040.
+
+In addition, our goal is to have zero waste from operations to landfill or incineration by 2030.
+
+We focus on energy efficiency not only in our business but also by addressing the amount of energy that semiconductors require in operation.
+
+We are also working hard to manage our own waste streams and improve the circularity of our value chain.
+
+Our actions are closely aligned to two SDGs in particular SDG 13 (Energy efficiency and climate action) and SDG 12 (Circular economy).
+
+Energy efficiency and climate action We are committed to lowering our carbon footprint wherever we can to achieve net zero emissions across our operations and in our supply chain.
+
+As well as increasing the productivity of our products, we are also working toward reducing their absolute energy consumption.
+
+In this section, we will elaborate on our approach and explain how we aim to achieve our targets in the context of our focus areas.
+
+Alongside our efforts to lower our own carbon footprint, we are committed to using our innovations and digital technologies to enable the industry to reduce its environmental footprint.
+
+For example, our EUV systems allow customers to fabricate advanced chips more efficiently, using fewer process steps and fewer resources.
+
+Climate change is a global challenge that requires urgent action by everyone, including us.
+
+While the benefits our industry brings to society are considerable, these come at a cost, through the consumption of considerable energy and resources.
+
+We have identified energy management and carbon footprint as material topics for our business across three distinct areas in our own operations, throughout our supply chain and in the use of our products and downstream.
+
+In recognition of the importance of following a science based pathway to limit global warming to 1.5 C, we are signatories to the Science Based Targets initiative (near term SBTi).
+
+Our aim at ASML is to achieve net zero emissions along our value chain by 2040.
+
+We recognize that we cannot do any of this alone, which is why we collaborate closely with our employees, suppliers, customers, peers and society.
+
+We identify and assess the impact of climate related risks and opportunities using the assessment guidelines of the Task Force on Climate related Financial Disclosures (TCFD).
+
+Our TCFD Recommendations: climate related disclosure, available on www.asml.com.
+
+To measure our journey, we have an Environmental Management System (EMS) in place to help us monitor our energy use and emissions, improve performance and enhance efficiency.
+
+The EMS is integrated into our Environmental, Health and Safety (EHS) management system.
+
+All our facilities operate on the basis of this system and the HMI locations in Tainan (Taiwan) and San Jose (US) have now been successfully integrated.
+
+Our system is ISO 14001 certified and structured in accordance with ISO 45001 requirements.
+
+This certification gives our stakeholders confidence in our commitment to achieving our environmental goals.
+
+Our participation in the annual assessment by the Carbon Disclosure Project (CDP), a non profit global disclosure program, also helps steer our environmental initiatives.
+
+Our score in the most recent CDP Climate Change 2022 questionnaire is B, which is above the global average of C.
+
+The guidance from the Greenhouse Gas Protocol the organization that provides widely used international standards for emissions reporting is used for the calculation of the emission scope.
+
+Market based conversion factors are used to calculate the scope 1 and scope 2 CO2e emissions in kt.
+
+We report the market based emissions after purchase of EACs.
+
+ASML currently does not offset any of the remaining emissions, resulting in no differences between our gross and net emissions.
+
+In 2021 we started a new masterplan period for 2021 2025, with a target to achieve 100 TJ energy savings by the end of 2025.The figure from 2020 is related to the masterplan 2016 2020.
+
+The savings reported are cumulated compared with the base year therefore, they are not comparable.
+
+Read more in: Non financial statements Non financial indicators Energy efficiency and climate action.
+
+Scope 1 emissions Our main direct CO2 mainly natural gas in our operations.
+
+The vast majority of natural gas consumption is used for heating our buildings and the humidification of our cleanrooms.
+
+Purchased electricity accounts for 80% of the energy we use at ASML.
+
+Most of our electricity consumption relates to the manufacturing of chipmaking equipment from assembly to testing lithography and other systems and maintaining consistent climate conditions, such as constant temperature, humidity and air quality.
+
+Our target is to achieve net zero scope 1 and 2 emissions by 2025.
+
+This target is consistent with reductions required to keep global warming to 1.5 C and is approved by the SBTi under the near term’ category.
+
+Our gross scope 1 emissions decreased from 19.3 kt in 2021 to 17.3 kt in 2022, despite our sales growing by 13.8%.
+
+In 2022, our indirect emissions from energy consumption were 20.8 kt (20.1 kt in 2021).
+
+We report market based emissions after purchase of energy attribute certificates (EACs).
+
+ASML currently does not offset any of the remaining emissions, resulting in no differences between our gross and net emissions.
+
+Our electricity consumption has increased compared with 2021, along with our scope 2 emissions.
+
+The share of renewable electricity decreased slightly to 91% from 92% in 2021 due to higher electricity consumption in Taiwan (where we are currently not yet buying renewable electricity).
+
+One of the most important challenges for us in achieving our net zero emissions target is the procurement of credible renewable energy in Taiwan and South Korea.
+
+We aim to reduce our energy consumption through direct annual savings of 100 TJ (or 3 kt CO2e) by executing more than 80 projects in the energy saving masterplan which covers each of our five large industrial sites.
+
+The main components of this masterplan are reducing the use of natural gas and electricity, adding renewable production of energy on our sites, purchasing credible renewable electricity and optimizing the use of BREEAM (Building Research Establishment Environmental Assessment Method) certified offices.
+
+Out of over 80 projects, the six key projects and the expected annual energy savings are shown below.
+
+Energy savings are achieved mainly by using more energy efficient technical installations and improving our overall production processes.
+
+Our efforts have focused on recovery of exhaust heat and reduction of the energy consumption of our cleanrooms, where maintaining the right conditions is energy intensive.
+
+One of our goals is to reduce the use of natural gas.
+
+Based on our plans and calculations, we expect that the use of natural gas in Veldhoven will be reduced from around 4.4 million m3 to around 1.3 million m3 in the next three years, driven by the energy grid in combination with other energy saving measures.
+
+We have a multi year project to implement an energy grid to re use waste heat from our factories in offices on our site in Veldhoven, the Netherlands.
+
+The energy grid is a two pipe loop that makes waste heat available for heating in winter and energy efficient cooling in summer.
+
+As we grow as a company, we strive to optimize our real estate portfolio.
+
+As 95% of our scope 1 and 2 emissions are related to our buildings, optimizing the use of every square meter in our portfolio contributes to reducing our environmental footprint each square meter saved is one we do not need to heat, cool, ventilate or light up.
+
+When building new offices and manufacturing sites, we seize the opportunity to make them as environmentally sound as possible.
+
+Several of our existing buildings have been assessed for sustainability performance using BREEAM guidelines.
+
+We achieved a score of Excellent’ for our newly built logistics center.
+
+We expect to have the results of the assessment for the other buildings in early 2023.
+
+With an eye on future growth, our new campus in Veldhoven is also being designed with a strong focus on sustainability.
+
+For 2025, we strive to implement the most suitable green building certifications in new constructions such as BREEAM, LEED (Leadership in Energy and Environmental Design) and G SEED (Green Standard for Energy and Environmental Design) in the countries where we operate.
+
+Our ambition is to increase the share of direct green energy purchases (so called bundled renewable electricity) from renewable electricity produced close to our premises.
+
+In the Netherlands, we are now in the second year of a 10 year purchase agreement for green electricity for our installations which will enable us to achieve our goal of using 100% renewable electricity in the country.
+
+We also achieved 100% renewable energy in the US in 2022.
+
+For much of Asia, while our goal is to use renewable energy whenever possible, we faced challenges in Taiwan and South Korea procuring credible renewable energy.
+
+Compensating for CO2 emissions We aim to use renewable energy as much as possible.
+
+Where this is not feasible, we would purchase voluntary emission reduction certificates (VER).
+
+We will continue our work to procure renewable energy in Taiwan and South Korea and will make use of offsetting as a fallback option to reach our net zero target.
+
+We are on track and see no reason to adjust our current targets.
+
+In the coming years, we plan to expand the use of solar panels on our sites in EMEA, the US and Asia.
+
+Our scope 3 intensity for 2022 was 1,110 tonnes CO2e per million gross profit (similar to 2021).
+
+Our results indicate that the indirect scope 3 emissions from upstream and downstream value chains account for 11.9 Mt or 99.7% of the total emissions footprint (scope 1, 2 and 3).
+
+Of this 11.9 Mt, 7.4 Mt are indirect emissions downstream’ in the value chain (use of sold products at our customers’ sites) and 4.5 Mt are upstream’ emissions (mainly related to the goods and services we buy).
+
+We recognize that environmental impact goes beyond our operations.
+
+In general, most of the environmental impact in our value chain (scope 3) comes from the greenhouse gas (GHG) emissions of our suppliers (upstream) and the use of our products at our customers (downstream).
+
+Our overall scope 3 target is to reduce the intensity level (in line with our SBTi commitment) to 1,016 tons CO2e per million gross profit, by 2025.
+
+This represents a 35.3% intensity reduction by 2025 compared with 2019.
+
+The intensity is measured by the total scope 3 emissions (in tonnes CO2e) normalized to the total gross profit (in , millions).
+
+We are working toward reducing our upstream emissions toward net zero by 2030.
+
+An element of this target is business travel and commuting, for which we have set a net zero target by 2025.
+
+For example, with more than 50% of employees at our Veldhoven campus living less than 30 minutes away by bike, our Access Mobility (A M) program is focused on developing sustainable commuting options, and we are working with employees to encourage, incentivize and support changing commuting habits.
+
+We offer a mix of options, including cycling incentives, free public transport, car pooling and shuttle buses, all supported by various online apps.
+
+We remain on track to achieve our overall scope 3 target.
+
+Our Supplier Sustainability Program is a key enabler in our efforts to further reduce scope 3 emissions.
+
+We calculate our scope 3 emissions using guidance from the Greenhouse Gas Protocol the organization that provides widely used international standards for emissions reporting.
+
+We continuously seek to improve the data quality of our scope 3 calculations.
+
+In past years, we have reported scope 3 emission data with a one year lag, but in 2022 we made efforts to collect the emissions data in a more timely manner.
+
+For 2022, we are now able to report nine months of actual data and three months of estimated data.
+
+In the 2023 reporting year, we will adjust the 2022 figure reported with full year actual 2022 data.
+
+The next step in improving our data quality is to include actual supplier emissions data in our calculation for scope 3.
+
+This will enable us to obtain more reliable scope 3 emission data, because for supplier data we currently use the spend based methodology for calculating emissions.
+
+In 2022, we made progress by requesting CO2e emission data directly from our suppliers through our Supplier Sustainability Program.
+
+That data was not used in the emission calculations for 2022.
+
+Recognizing that we depend on our suppliers, we also encourage our value chain partners to work with us to jointly reduce our carbon footprint.
+
+As the demand for enhanced chip functionality grows, the complexity and energy consumption of the overall microchip patterning process, including from our lithography systems, is also increasing.
+
+The EUV light source is the key focus area of our current engineering efforts to reduce energy consumption because it requires the larger portion of an EUV system’s total energy consumption.
+
+Our roadmap includes optimizing the sequence of the CO2 laser to produce the plasma for creating EUV light, for example by turning the CO2 laser off when the system is in idle mode and reducing the firing intensity of the laser between exposures.
+
+Our longer term goal is to eventually stop the CO2 laser firing between exposures altogether.
+
+Following a feasibility study from our research team and our suppliers, we know that keeping the laser beam stable will require corrective hardware that will be part of the baseline configuration of the next generation (NXE:3800).
+
+Working with our suppliers, we have also identified ways to use cooling water of a higher temperature to remove the heat in the EUV source and electronics cabinets.
+
+To do this, we need to make sure that modules such as the drive laser can operate at a higher cooling water temperature this project is currently in development, in collaboration with our suppliers.
+
+By enabling EUV optics to deal with higher intensities, higher productivity can be achieved for the same energy input, thereby increasing efficiency.
+
+That is why we are developing materials and coatings that can deal with higher EUV intensities, and improving the heat management of optical components.
+
+This includes the wafer itself, which heats up through the exposure to EUV light during the production process.
+
+We recognize that tackling all these challenges requires ongoing innovation and collaboration within our innovation ecosystem of customers, suppliers and knowledge institutions.
+
+We have set a target to reduce the overall energy consumption of our future generation EUV systems by 10% compared with the 2018 baseline model (NXE:3400B) by 2025, while increasing productivity.
+
+We have also set a target of reducing the energy consumption per exposed wafer by 60%, compared with the 2018 baseline (NXE:3400B).
+
+We have been working on making the reduction of energy consumption an integral part of our product generation process (PGP).
+
+When designing new systems, reducing the use of energy is becoming an ever more important aspect, together with cost, performance and availability.
+
+In 2022, we continued working on energy efficiency improvements for future products, which require long lead times and take multiple years to achieve.
+
+Progress on these projects is monitored on a quarterly basis.
+
+In 2022, we proved the capability of the NXE:3600D system to reach productivity targeting 175 wph (as compared with the current specification of 160 wph).
+
+In 2023, this will be introduced to the market as the NXE:3600 PEP D package.
+
+We have begun to better assess the energy efficiency of our other product families in DUV, metrology and inspection, computational lithography and scanner and process control software solutions.
+
+Regarding our scope 3 product use initiative of net zero emissions in 2040, we are one of the founding members of and active contributor to the Semiconductor Climate Consortium, founded in November 2022 and focused on speeding up industry value chain efforts to reduce greenhouse gas emissions.
+
+In 2023, we will continue to work on the energy efficiency of our systems and other product families.
+
+We are still on track to achieve our overall scope 3 target.
+
+However, taking into account the change in product mix (an increase in the number of EUV systems sold) and the fact that our output in terms of product units manufactured is expected to increase, the overall emissions in the entire value chain are expected to rise.
+
+At the moment, we see no reason for adjusting our 2025 targets regarding the energy consumption of our systems.
+
+The table below provides an overview of the system achievements in terms of output and energy efficiency improvements to achieve this output.
+
+Dose energy in mJ refers to the energy required per expose per cm2.
+
+Creating EUV light The greatest portion of an EUV system’s energy is used to operate the laser produced plasma source to create EUV light.
+
+Molten tin droplets of around 25 microns in diameter are ejected from a generator.
+
+As they move, the droplets are hit first by a lower intensity laser pulse.
+
+Then a more powerful laser pulse vaporizes the flattened droplet and ionizes the vaporized tin atoms to create a plasma that emits EUV light.
+
+This conversion process from laser to EUV light using tin droplets takes place 50,000 times per second, and is the most energy intensive step.
+
+By increasing conversion efficiency, we can decrease an EUV system’s energy consumption at constant wafer output.
+
+Making this happen, while ensuring that this will not negatively affect other functionalities of the EUV system, is a key challenge for our R D teams.
+
+More advanced microchips mean smaller features, which need shorter wavelengths in lithography to manufacture them.
+
+With a single exposure of DUV light at 193 nm, for example, the smallest feature of the image of a microchip pattern reaches its physical limit around 40 nm.
+
+However, by using two or more exposures of the same pattern so called multiple patterning it is possible to image details at 20 nm with two exposures, or at 10 nm with four exposures and additional process steps.
+
+Over the past decades, multiple patterning with DUV has become mainstream in semiconductor manufacturing, at the cost of having to go through the same process steps multiple times, which increases production cycle time and environmental impact.
+
+Compared to DUV, EUV at 13.5 nm enables a more efficient chip manufacturing process.
+
+Because of the higher resolution of an EUV system, several exposures and process steps can be replaced by a single exposure and fewer process steps to pattern a certain layer of a chip.
+
+According to a study conducted by imec, EUV enables the number of non lithography processing steps for some critical layers to be reduced by up to three to five times and this significantly reduces production cycle time.
+
+The fab also benefits from reduced energy and water usage, resulting from the lower number of deposition, etching and cleaning steps.
+
+The increasing productivity of our EUV systems allows more advanced and more energy efficient microchips to be created faster.
+
+Energy consumption of the total patterning process per wafer will thus be lower using EUV lithography, compared with using the complex multi patterning strategies required for DUV only patterning.
+
+Our next generation EUV system, EUV 0.55 NA (High NA), will enable further shrink and partly eliminate double exposure schemes, again replacing multiple 0.33 NA exposures with a single 0.55 NA exposure.
+
+With EUV 0.55 NA, the number of non lithography processing steps can therefore again be kept within limits.
+
+This will effectively further limit the total energy consumption of the patterning process per wafer.
+
+Source: M. Garcia Bardon et al., DTCO including Sustainability: Power Performance Area Cost Environmental score (PPACE) Analysis for Logic Technologies, IEDM2020.
+
+At ASML, we believe the circular economy is vital to ensure the future success and competitiveness of the semiconductor industry.
+
+Our commitment to a circular economy is intended to ensure that any materials we use can retain and generate as much value as possible for us and for our partners in the ecosystem.
+
+Our strategy is to eliminate waste to avoid negative impacts on the planet and also to generate business value.
+
+While continuously innovating with our products, we work to ensure the increasingly sustainable use of materials across our processes and value chain.
+
+Our overarching goal is twofold: firstly, we aim to close the learning loop on our parts performance, and secondly, we aim to eliminate waste whether that’s the waste of energy or the materials we need in our operations at every level.
+
+This approach is part of the fabric of our company, and fully in line with our values and culture.
+
+Our impact on the use of materials and resources (in weight) was identified as a new material topic in our materiality assessment conducted in 2022 a process to formally manage this is currently under development.
+
+We learn to improve our understanding and data around resources and waste flows.
+
+We rethink designs and processes to avoid environmental impact.
+
+We extend the lifetime and productivity of systems to maximize resource value.
+
+We re use resources within our own value chain, to minimize our waste streams.
+
+We recycle materials to give resources a new life, if we can no longer re use those resources ourselves.
+
+The following diagram illustrates our circular economy approach.
+
+Re use rate of parts returned from field and factory Savings from re used parts ( , in millions)1,2 Value of scrapped parts and packaging ( , in millions)2 Total waste from operations (excl.
+
+For the re used parts, the value component has been modified from 100% standard cost price to 100% standard cost price less standard reconditioning costs.
+
+Due to the expansion in scope for this indicator, the comparative figures have been recalculated to reflect fair presentation.
+
+A limited portion of data is not readily available, therefore the figures in the table are best estimates that contain some uncertainty.
+
+Construction waste is excluded from the calculation of this indicator, because this waste is not resulting from the daily operations at ASML.
+
+The amount of construction waste tends to fluctuate over the years and can therefore make the trend of the indicator unclear.
+
+For more on our performance indicators (PIs) and related results, please read: Non financial statements Non financial indicators Circular economy.
+
+By 2030 we aim to send zero waste from operations to landfill or incineration.
+
+Managing waste from our operations is a complex issue and relies on the availability of detailed and accurate insights into waste streams to and from ASML.
+
+We manage our waste through proper classification, separation and safe disposal.
+
+Disposal is carried out by waste vendors, in compliance with local legislation.
+
+All our waste vendors are certified by local authorities for waste disposal, and in our contracts we state they need to comply with local legislation.
+
+We aim to further improve the way in which we monitor these vendors' compliance with local legislation.
+
+Waste data is managed through our myEHS system, whereby information from our waste vendors in our locations is entered into the system along with the relevant supporting documentation (invoices).
+
+The data entered is checked internally and by an independent party against the supporting documentation.
+
+In 2022, we generated 6,913 tonnes of waste from our operations overall (including construction waste), with 75% of this being recycled (77% in 2021).
+
+After a significant decrease in the recycling rate in 2021, the recycling rate decreased two percentage points in 2022.
+
+This slight decrease is largely due to the impact of improved data on our waste streams.
+
+Compared with 2021, the total amount of waste increased by nearly 18% (from 5,878 tonnes in 2021 to 6,913 tonnes in 2022).
+
+This is mainly due to more people working onsite worldwide, following the lifting of COVID 19 measures and our production increase.
+
+Total amount of waste (excluding construction) was 6,675, up 18% from 5,679 in 2021.
+
+Over the years 2019 2021, our waste intensity showed a downward trend.
+
+In 2022, our waste intensity was 315 kg per m revenue, slightly up from 305 kg per m revenue in 2021 but still below the waste intensity pre COVID 19 waste intensity (417 kg per m revenue in 2019, 360 kg per m revenue in 2020).
+
+However, to achieve our target of 209 kg per m revenue, we need to scale up our efforts to reduce our waste streams in absolute terms and improve our recycling rate.
+
+Our waste from operations to landfill or incineration was 25% of the total waste from operations (compared with 2021: 23%).
+
+We need to redouble our efforts in order to reach our ambitious target of zero waste from operations to landfill or incineration.
+
+The reduction of our waste is explained below in more detail, via the different waste streams.
+
+Non hazardous waste, such as packaging material, product related waste from parts resulting from upgrades or defects, and general waste.
+
+This category also includes construction waste, resulting from building activities.
+
+Hazardous waste, such as the chemicals we use in our manufacturing processes.
+
+Our non hazardous waste performance in 2022 Non hazardous waste accounted for 95% (2021: 93% (5,483 tonnes)) of our total waste in 2022, of which the vast majority was recycled (75%).
+
+Our hazardous waste performance in 2022 The production and operation of our products and systems requires the use of hazardous substances.
+
+Hazardous waste can include lamps, batteries, hazardous liquids, empty packaging from hazardous materials, and cleaning wipes and filters.
+
+Liquids, including acetone and sulfuric acid, comprise the majority of our hazardous waste streams.
+
+The use of hazardous substances means that we are subject to a variety of governmental regulations relating to environmental protection as well as employee and product health and safety.
+
+These include the transport, use, storage, discharge, handling, emission, generation and disposal of hazardous substances.
+
+In 2022, hazardous waste accounted for 5% (380 tonnes) of our total waste generated, compared with 7% (395 tonnes) in 2021.
+
+Cross sector re use program, which added 400 million of re usable parts value in our circular flows in 2022.
+
+Circular IT life cycle: After four years of use, we give all functioning computers and laptops used in our organization a second life.
+
+In the case of defective computers, we recycle clean, separated streams of recycled plastic, iron, steel, copper, aluminum, glass and precious metals.
+
+Flexible cleanrooms: These are cleanrooms that can be moved between locations and assembled quickly, while providing the same standards and performance as our current fixed cleanrooms.
+
+More than 95% of the materials used in the flexible cleanroom setup are re usable, with a lifespan of more than 30 years.
+
+Construction waste: As we expand our operations, we try to make sure that waste from ASML’s construction activities are recycled wherever possible.
+
+Construction waste accounted for 3% (238 tonnes) of our total waste generated in 2022 (compared with 3% in 2021), of which 67% was recycled.
+
+In our real estate portfolio management, we apply BREEAM standards that emphasize sustainability through the circular use of materials.
+
+In 2022, we made adjustments to our waste stream figures in Taiwan, as formal reporting was not in line with our own definition of waste streams.
+
+This has led to a decrease in our 2022 overall recycling rate (75%, from 77% in 2021).
+
+We improved the accuracy of our waste reporting by increasing actual measurements of the amounts of waste in our main production site in Veldhoven.
+
+We are also investigating ways to improve data quality in our sites in the US and Asia.
+
+In the context of improving data, in 2023 we aim to include ASML waste generated by third party warehouses as a first step toward including downstream waste we are already preparing the required processes to enable the relevant data collection for this.
+
+On our campuses we aim to ensure maximum waste separation onsite (in order for waste vendors to more easily recycle) and we are working on getting agreements included in contracts with waste vendors to maximize recycling.
+
+Despite our many waste reduction and or increasing recycling rate initiatives, we are still not on track to achieve our waste recycling goals.
+
+This is mainly due to data improvement processes and more reporting locations compared with 2020.
+
+In order to achieve our goals, we are currently investigating the impact of our waste on the environment, cooperating with suppliers and waste vendors, and ensuring that new contracts with waste vendors include sustainability requirements.
+
+In 2022, our re use rate of defective parts was 87% (85% in 2021).
+
+Our savings from re used parts amounted to 781 million and the value of scrapped parts and packaging was 232 million.
+
+We are committed to re using system parts, packaging and tools in our value chain to reduce and prevent waste while also reducing costs.
+
+We believe that re use is a learning opportunity: by re using, we learn more about the performance of parts and how existing processes affect them.
+
+By implementing those learnings in design and processes, we can then improve parts and system performance for all of us in the value chain.
+
+It is important that we continue to work closely on this with our customers and suppliers.
+
+Our overall target is to increase our rate of re use of defective parts in ASML factories and in the field to 95% by 2025.
+
+In 2022, we continued to further integrate re use into our existing design methodologies and tools, such as in our Product Generation Process (PGP).
+
+This key element of preventing waste will help us meet our long term goals.
+
+Re use requirements are now part of the core product design strategy and specifications.
+
+For example, through the modular design of our products and their components, we make sure that future upgrades, worn parts and components can be replaced as a single unit.
+
+By ensuring commonality in the parts design process, a part can be used in multiple contexts in a product and even in future product generations.
+
+In 2022, we set up a dedicated reverse logistics team to drive waste reduction in our reverse flows’ materials coming back to us or to our suppliers both from the field and from the factory.
+
+The goal of this team is to help support our drive to re use, reduce reverse logistics and repair lead times, and increase the overall re use rate.
+
+We are continuing to work to resolve bottlenecks in the execution of re use and to clarify direction, guidelines and re use rules across the business.
+
+When modules and systems are shipped, either from our suppliers to our factories or from our factories to our customers, many transportation materials are used such as packaging, locking and plug materials to ensure that the products arrive safely.
+
+Before these parts are returned for re use, they undergo an identification process and quality check, followed by the logistical and financial processes required to bring them back in the supply chain (either to the original module suppliers or to ASML).
+
+Our goal is to standardize these processes and create a network related solution to enable high flexibility and reduce transport, which also reduces our CO2e footprint.
+
+We are improving the re use of packaging, locking and transport materials from the field and factory, and aim to return and re use 80% or more in the next installation or relocation.
+
+We are extending the number of local repair centers for refurbishing, repairing or cleaning service parts, packaging and tools, and we are setting up global repair centers for factory materials.
+
+The value handled by our local repair centers increased fourfold in 2022, and we expect it will increase three times again in 2023.
+
+Our goal for 2025 is that 10% of our parts sent to the field should be repaired locally.
+
+Currently we have local repair centers in South Korea and China, and we are rolling out plans for all our customer regions to eventually have one or more in place.
+
+A global repair center has been opened in Linkou and additional global repair centers will be established at each of our factory hubs in Wilton and San Diego (US) and Veldhoven (the Netherlands).
+
+Our repair centers partner with local material suppliers and specialized repair partners, creating a local ecosystem.
+
+By enabling repair and re use activities and taking ownership of repairs in the field close to our customers, we are able to reduce logistics time, the costs of stocking parts and our environmental impact (by reducing scrap and waste and greenhouse gas emissions).
+
+Our customers benefit from reduced service costs and improved material availability.
+
+When a part is re used, our customers expect it to be as good as, or better than, the original new part.
+
+We have a single qualification standard and requirement in place that ensures that the same specifications, performance requirements, warranties, and so on, are applicable to both new and re used parts.
+
+We expect our suppliers to be fully engaged in meeting this standard as well.
+
+Firstly, every e scrap request is accompanied by a proposal from the re use team outlining which parts are still re usable, to be assessed by the initiator before the request is approved.
+
+Secondly, an automated validation step makes sure the right follow up actions are in place, which reduces the lead time in the scrap process.
+
+We have already implemented this process in Veldhoven and are creating a roll out plan for other locations.
+
+Re use is recognized as a key contributor in our ability to ramp up our capacity to cope with strong customer demand.
+
+By retrieving parts from inventory or through repair or harvesting, we have been able to execute a large amount of extra module build starts in our work centers, which in turn helps accelerate our efforts to embed re use across our company.
+
+For example, in 2022, we successfully demonstrated that our external interface module (EIM), built by our supplier Lamers (part of Aalberts Advanced Mechatronics) in the Netherlands, can be remanufactured, requalified and used again in a newly built system with as good as new or better than new quality.
+
+EIMs are used for regulating the flow or pressure of the gas supply into our TWINSCAN XT and NXT systems.
+
+In this case, re use saves around 200 kg of waste and between 40k and 50k per EIM.
+
+We have also created and implemented a process for re use of tin catch buckets, modules that are used in the light source of our EUV systems.
+
+We retrieve them, disassemble them and drain the tin for re use.
+
+After that, the cleaned module is as new, ready for re use in our EUV systems.
+
+Another pioneering re use example is the EUV reticle masking module (REMA) that blanks off not used parts of the reticle.
+
+Older versions of these modules that return from our customers are harvested for parts that are used to build new REMA modules.
+
+This has helped to lower the pressure on our supply chain, secure supplier output for these modules and reduce waste and carbon footprint.
+
+Learnings from this project are captured and embedded in our development way of working.
+
+We have also started re using electronic cabinets that we retrieved as leftovers from system upgrades in the field which would normally have been scrapped.
+
+A refurbished electronic cabinet has as new quality and can therefore be integrated into new systems for our customers.
+
+The Wilton EHS overseas CRE Re use program is another example of how re use can deliver key benefits.
+
+When an employee or department has a piece of equipment or furniture that is in good condition and can be re used onsite, a picture of the item is placed on the CRE Re use Wilton SharePoint page.
+
+If an ASML employee sees something they can use, they reach out to CRE EHS and our technicians will deliver the item.
+
+So instead of scrapping work benches, cabinets or machines, we are re using these items onsite.
+
+We further embedded our re use commitment by enhancing our Supplier Sustainability Program.
+
+In 2022, we continued to make good progress on re use and remain committed to further reducing our waste streams.
+
+Building a re use mindset and embedding it into normal ways of working is critical to achieving re use and preventing scrap.
+
+For example, by replacing scrap bins in our factories with what we now call re use collection corners’, we encourage employees to think of used parts as having potential rather than being seen as waste.
+
+As a next step, we have started building a dedicated global re use center in Veldhoven (Netherlands) that will facilitate various repairs and harvesting activities.
+
+We anticipate a bigger re use inflow from a bigger installed base.
+
+This is part of our strategy to move from re use activities as part of build work centers which can be very distracting and confusing for teams that are building modules to making dedicated re use centers, which will help us to create even more re use output.
+
+This year we determined our targets for 2025 in more detail.
+
+With the action plans above, we see no reason to adjust our 2025 target.
+
+Going forwards, we aim to also include packaging data to our 'Savings from re used parts' indicator.
+
+However, to fully embed our re use vision, we recognize that there are several challenges to overcome and processes to be defined.
+
+Configuration control: To re use as new parts in a system requires traceability of those parts.
+
+This means we need to be able to trace a part’s history, where it comes from, and know how many times it was used and repaired.
+
+Organization: Across our operations, there are a variety of separate processes related to return and re use.
+
+We need to align these to an overall end to end re use process flow.
+
+Repair engineering and processes: Part of our new focus is creating awareness regarding design for re use, and defining processes around how to include re use in redesigns and engineering changes.
+
+Our approach is to have more than 95% of systems sold in the past 30 years, still active in the field.
+
+A well maintained ASML lithography system can last for decades and can be used by more than one fab.
+
+Many ASML lithography systems start out in cutting edge fabs.
+
+Once that fab needs to upgrade, the lithography systems are given a new lease of life in a fab where the manufacturer requires comparatively less sophisticated chips, such as accelerometers or radio frequency chips.
+
+Our refurbishment strategy focuses on buying back systems that are not operational in the field, harvesting parts from decommissioned systems and managing the continued availability of spare parts, which is key to the extended lifetime service we offer for our systems.
+
+We provide our customers with a guaranteed service roadmap until at least 2030.
+
+This means that all support and the necessary services and spare parts they need to maintain their systems are expected to be available through at least 2030 and beyond.
+
+For the TWINSCAN AT systems that are still in operation, we focus on measures to proactively manage their end of life.
+
+We do this by guaranteeing the availability of spare parts as long as possible on a best effort basis.
+
+Our Mature Products and Services (MPS) business focuses on the refurbishment of the following product families: PAS 5500 (with around 1,800 systems at customer sites worldwide), TWINSCAN XT systems and, as of 2021, NXT:1950 1980 systems.
+
+By the end of 2022, we had refurbished and resold well over 540 lithography systems.
+
+Some 95% of systems sold in the past 30 years are still active in the field, and we have a target to achieve more than 95% by 2025.
+
+We are making significant investments to ensure continued supply of more than 2,000 service parts for our PAS platform, either through redesigns, a parts harvesting strategy or finding an alternative with the same form, fit and function.
+
+In instances where this does not work, we are generally able to secure components through Last Time Buy a supplier’s last call’ for a part or component before production switches to its successor.
+
+Over time, when a part is no longer available, we redesign parts.
+
+We track the spare parts we have in our portfolio, see how they are being used, and identify when we expect to run out of these parts.
+
+For PAS systems, we use this information to update our priorities for redesigning parts.
+
+For TWINSCAN AT systems, we aim to continue supplying parts by harvesting them from systems that are decommissioned by our customers.
+
+To secure the availability of spare parts into the next decade, we need to replace many unavailable parts that were designed with technology from the 1980s and 1990s with parts based on state of the art technology.
+
+For the coming years, we have identified and plan to execute more than 100 redesign projects for nearly 300 parts.
+
+This is especially relevant for electronic parts, for which the evolution of technology has been faster than in any other field.
+
+No additional actions, as we are on track to meet our target of 95%.
+
+Semiconductor manufacturing processes use a great deal of water.
+
+Due to climate change, droughts have become more extreme and more unpredictable, which may lead to water becoming a scarce resource in specific locations.
+
+Although water is an essential resource in our customers’ semiconductor manufacturing processes, water use in our own operations is limited.
+
+First, water is used to remove heat loads, to keep the system on a constant temperature.
+
+These internal cooling circuits are all designed as closed loop’ (recycling) systems.
+
+Second, these heat loads are ultimately removed by cooling towers, using evaporation of (lower quality) water.
+
+Third, DUV systems use ultrapure water in the immersion hood this water is currently only partially recycled.
+
+Water consumption at ASML is only a fraction of the water consumption of most companies in the semiconductor industry.
+
+Nevertheless, we promote the responsible use of water throughout our company.
+
+Our water consumption in 2022 increased to 1,161,850 cubic meters, up from 1,041,000 cubic meters in 2021.
+
+This increase can primarily be attributed to more cooling water being used in Veldhoven due to higher power consumption, driven by an increase in the number of systems produced and warmer weather in 2022.
+
+In addition, more people were working in the office and factory compared with 2021.
+
+In San Diego, the HVAC cooling tower water cleanliness set point was modified, resulting in an increased automated flushing of the system.
+
+While disruptions in access to water may represent a significant risk for some of our customers, water related risk for ASML is limited.
+
+We have seven manufacturing sites located in Veldhoven (Netherlands), San Diego (US), Wilton (US), Linkou (Taiwan) and Tainan (Taiwan).
+
+Read more in: Our TCFD Recommendations Climate related disclosure, available on www.asml.com.
+
+Social at a glance We aim to have a positive role in society for our employees, the communities around us and everyone involved in our innovation ecosystem and supply chain.
+
+As a multinational technology company, we impact many people’s lives, both directly and indirectly.
+
+We want to have a positive role in society for our employees, our supply chain, everyone involved in our innovation ecosystem and the communities around us.
+
+Our aims We work closely with our stakeholders, collaborating to achieve the ambitions of our four focus areas.
+
+Our goal is to ensure that responsible growth benefits everyone.
+
+To maintain our fast pace of innovation and ensure our long term success as a company, we need to attract and retain the best talent and provide the best possible employee experience.
+
+We aim to be a valued and trusted partner, improving the quality of life for all and supporting people in disadvantaged communities.
+
+Through our focus areas, we support five different SDGs in a range of ways.

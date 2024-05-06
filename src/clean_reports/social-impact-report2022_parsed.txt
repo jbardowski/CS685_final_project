@@ -1,0 +1,985 @@
+These are the questions that drive us, that shape our mission and our service takes many forms.
+
+Technologically, we’re solving some of the world’s most challenging problems here at Oracle.
+
+We’re building a new generation of modern, secure healthcare information systems that will help healthcare providers lower costs, improve patient outcomes, and drive community health efforts that result in new treatments and better public health policy.
+
+We’re helping countries in Africa manage large scale vaccination programs in the cloud, contain major diseases, and save lives.
+
+Worldwide, our technology is enabling organizations large and small, across industries, to operate sustainably and develop solutions to tackle climate change.
+
+Philanthropically, we’re investing in social impact organizations whose work is critical to solving the challenges facing society today and tomorrow.
+
+Organizations funded by Oracle Giving are achieving transformational change in areas ranging from food security to educational equity to environmental conservation.
+
+In fiscal year 2022, we gave more than US 20 million to nonprofit and nongovernmental organizations around the world that are as rigorous and effective as they are caring.
+
+Nations Children’s Fund (UNICEF), and the UN Refugee Agency (UNHCR).
+
+We then matched donations from Oracle employees to help people affected by the war, together contributing another US 1.6 million.
+
+Council, streamlining their operations and enabling them to focus on the humanitarian crisis on the ground.
+
+Every year, Oracle Volunteers support students and educators, protect nature, and strengthen communities by helping people in need.
+
+They know that social change takes inspired action, sweat, and skill.
+
+More and more, we’re inviting nonprofit partners to bring us their problems and then matching them with teams of Oracle Volunteers who use their business and technical skills to design solutions that accelerate positive change.
+
+We’re committed to education and have been for more than three decades.
+
+Beyond our contributions to the field through Oracle Giving and Volunteering, we run our own initiatives.
+
+Oracle Academy, which provides educational institutions with free access to a variety of curricula and technologies, including Oracle Cloud, expanded its offerings in fiscal year 2022 and received wide recognition for its impact.
+
+Foundation introduced a new curriculum combining design thinking with futures thinking, plus coding and physical computing, preparing young people to design and build what’s needed next.
+
+Both of our programs give special attention to young women, girls, and other historically marginalized student populations because the playing field isn’t going to level itself.
+
+Throughout this report, we demonstrate Oracle’s commitment to being learning, and the overall well being of our employees.
+
+These efforts earned at the forefront of environmental and social impact.
+
+We know that to tackle the us awards from the Great Place to Work Institute as well as a 100 percent world’s most important problems our technology, philanthropy, sustainability, rating on the Human Rights Campaign Foundation’s Corporate Equality Index and culture all need to be in alignment and our workforce needs to reflect for the 16th consecutive year.
+
+Environmentally, we’re doubling down on our commitment to protect and restore the earth.
+
+Our ambitious sustainability goals include a commitment to power all operations, including Oracle Cloud, with 100 percent renewable energy by 2025.
+
+Further, we’re committed to cutting emissions in half across our operations and supply chain by 2030 and to achieving net zero emissions by 2050.
+
+Worldwide, we’re embedding sustainability across our enterprise and delivering innovative cloud technology to accelerate meaningful change for our customers and our planet.
+
+We hope you’ll share this information with others, and if you’d like to share your feedback with us, please write to us at impact_ww oracle.com.
+
+Our education initiatives Oracle Academy and Oracle Education Foundation are helping students develop the skills they need to become technology innovators and leaders.
+
+These programs are helping young people not only to prepare for the future but also to play an active role in shaping it.
+
+The same solution oriented spirit that fuels our business success also drives our philanthropic efforts.
+
+That’s why we invest globally in nonprofit and social impact organizations whose work is critical to solving the challenges facing society today and tomorrow.
+
+Within Oracle’s creative, solution oriented culture is a community of employees who strive to make the world a better place.
+
+Oracle Volunteers lead and participate in virtual and in person projects with hundreds of nonprofits and public institutions year round.
+
+At Oracle, we know that ensuring the health of our planet calls for bold and urgent action.
+
+We’re committed to building a more sustainable future and empowering our employees to do the same.
+
+View the full repository of Oracle’s policies, disclosures, and reports.
+
+Oracle stands with the people of Ukraine and against the unlawful attack by Russia on their country.
+
+At the onset of the conflict, we moved quickly to support our colleagues and customers in the region and relief efforts on the ground.
+
+Each year, Oracle is recognized in the areas of corporate social responsibility, workforce and employee recognition, sustainability, and education.
+
+Included on CDP’s Supplier Engagement Leaderboard in 2022.
+
+Received the Technology Education Leader of the Year Award from the.
+
+Named a winner for SEAL Business Sustainability Awards in 2022 for the.
+
+Included on JUST Capital’s America’s Most Just Companies in 2023.
+
+Received a gold medal in the 2022 EcoVadis CSR Assessment, putting us in the top 5% of responding companies for supplier sustainability.
+
+Ranked 14 on the Silicon Valley Business Journal’s list of largest corporate philanthropists in Silicon Valley in 2022.
+
+Included on the San Francisco Business Times’ list of Top 100 Bay Area.
+
+Received a Corporate Partner Award by the National Foundation for.
+
+Received the Edtech Development Private Organization of the Year Award at the Edtech Summit in 2022.
+
+Received the Outstanding Impact Award in the Education and Technology category at the African Summit on Entrepreneurship and Innovation in.
+
+In Greece, received national awards in these categories in 2022: Gold Cloud.
+
+Included on Newsweek’s America’s Greatest Workplaces for Job Starters.
+
+Received a 100 percent rating on the Human Rights Campaign’s 2022 in 2023.
+
+Included on Newsweek’s America’s Greatest Workplaces for LGBTQ.
+
+Received a 100 percent rating on the Disability:IN Disability Equality Index in 2023 of 2022 Best Places to Work.
+
+Included on Newsweek’s America’s Greatest Workplaces for Women in 2023.
+
+Named on Universum’s list as an Attractive Employer in 34 countries in.
+
+Included on Newsweek’s America’s Greatest Workplaces for Diversity.
+
+Top 10 World’s Most Attractive Employers Universum IT Student Rankings,.
+
+Included on Forbes’ America’s Best Large Employers list in 2023.
+
+Included on Forbes’ America’s Best Employers for Diversity list in 2023.
+
+Ranked 37 on HR Asia’s Best Companies to Work for in Asia 2022.
+
+Included on Forbes’ Canada’s Best Employers list in 2023.
+
+Included on Forbes’ World’s Best Employers list in 2022.
+
+Included on Forbes’ Canada’s Best Employers for Diversity list in 2022.
+
+Included on Forbes’ America’s Best Employers for Veterans in 2022.
+
+Included on Forbes’ World’s Top Female Friendly Companies in 2022.
+
+Included on Forbes’ Best Employers for Women in 2022.
+
+Named to The Straits Times Singapore’s Best Employers 2023.
+
+Ranked 17 on the Great Place to Work Institute’s Best Workplaces in Latin.
+
+Named to the list of Greater Toronto’s Top Employers by Mediacorp Canada in 2022.
+
+Ranked 48 on RateMyPlacement UK’s Best 100 Student Employers List in.
+
+Included on Forbes’ America’s Best Employers For New Graduates in 2022.
+
+Ranked 27 overall and 4 in the technology sector on the American.
+
+Included on Woman Engineer Magazine’s Top 50 Employers list in 2022.
+
+Named to Top Supporters of HBCU Engineering Schools List in 2023.
+
+Received a 5 Star Employer rating from the VETS Indexes Employer Awards.
+
+Ranked on LinkedIn’s Top Companies list in the Australia, Brazil, Italy, Spain, in 2023.
+
+Ranked 8 on LinkedIn’s Top Companies Technology Information list in 2022.
+
+Included on the Women’s Choice Awards’ Best Companies To Work For Lists in three categories in 2022: Women, Diversity and Millennials.
+
+Recognized as a Premier Women in Sales Employer by the Institute for.
+
+Our people create the future by designing, developing, and delivering solutions that transform how the world uses and manages information.
+
+We’re committed to our employees’ success, and we strive to create a culture that supports diversity and inclusion, teamwork, continuous learning, and overall well being.
+
+This is an amazing time to be part of Oracle, and I want everyone to be involved and feel a sense of belonging.
+
+Diversity and inclusion is not only a personal mission of mine, but it is a business imperative.
+
+At Oracle, we don’t just value differences, we celebrate them.
+
+We know that to tackle the world’s most important problems, our workforce needs to reflect the diversity of the people who use our technology.
+
+Our strength comes from our employees’ diverse backgrounds, experiences, and passion to help our customers do amazing things.
+
+Our nine diversity and inclusion employee resource groups and 60 affinity groups help us support a culture of pride, connection, and allyship.
+
+The global mission of Oracle Women’s Leadership (OWL) is to develop, engage, and empower current and future generations of women leaders.
+
+With more than 100 communities around the world, OWL connects women with development opportunities and inspirational mentors and gives them the tools they need to grow into roles requiring specialized skills or leadership positions.
+
+We’re committed to creating a workplace where all employees can succeed without barriers.
+
+Oracle Interpreter Services, and a robust accessibility program that includes corporate accessibility standards for Oracle products.
+
+We encourage continuous learning with a vast portfolio of content and programs to help our employees grow their skills and innovate to deliver the best solutions.
+
+The health and safety of our employees and their families is a top priority.
+
+Accessed online learning content at a rate of more than 2.2 million views per month 78% of employees utilized available resources during the year.
+
+Learn more about career development at Oracle health.
+
+Our flexible work environment fosters collaboration, innovation, and inclusion, regardless of where people work.
+
+And, when an unexpected crisis occurs, our teams are there to offer assistance.
+
+Ukraine, including financial assistance, evacuations, accommodations, travel services, relocation, and more.
+
+Trains employees to conduct business ethically and in accordance with applicable anticorruption laws and Oracle policy.
+
+Helps employees to identify and deal illegal anticompetitive agreements and with situations that may give rise to similar prohibited conduct, as well as potential conflicts or the appearance of guidance on how to interact with partners conflicts of interest.
+
+Teaches employees how to protect workplace hazards and to comply with all of Ethics and Business Conduct in their information at Oracle and how to apply applicable health and safety laws, regulations, daily work.
+
+Oracle’s security and privacy policies and and any additional requirements.
+
+Explains to employees the processes to applicable insider trading and securities report actions that may constitute be followed during product development laws that govern transactions in the sexual harassment.
+
+Welcome to the Oracle ESG Hub, which contains resources, policies, and reporting related to companywide environmental, social, and governance (ESG) efforts.
+
+We align the topics on this page to our materiality assessment, designed in reference to the Global Reporting Initiative (GRI) Standards to identify key ESG benchmarks and help us optimize our ESG performance for long term business success.
+
+This assessment enables us to communicate Oracle’s contribution and impact in the communities where we operate.
+
+We’re also guided by employee surveys and customers’ or prospects’ requests for proposals to identify issues that are most important to them.
+
+The report covers all Oracle subsidiaries for the fiscal year 2022 reporting period (June 1, 2021, through May 31, 2022).
+
+The Social Impact Datasheet (PDF) summarizes the data for the past three fiscal years through May 31, 2022.
+
+If you have any questions regarding this report, please contact us at citizenship_ww oracle.com.
+
+Oracle stands with the people of Ukraine and against the unlawful attack by Russia on their country.
+
+At the onset of the conflict, we moved quickly to support our colleagues and customers in the region and relief efforts on the ground.
+
+Ukraine Peace Prize Oracle proudly received the Ukraine Peace Prize from President Volodymyr Zelenskyy, given on behalf of the Ukrainian people, that expressed their gratitude for the support the company and our employees have provided during this pivotal time in Ukraine’s history.
+
+Through our philanthropy, we’re supporting organizations working on the ground to help the people of Ukraine.
+
+United Nations Children’s Fund (UNICEF), International Medical Corps, and World Central Kitchen, all of which are helping to relieve suffering and save lives by providing emergency medical services, food, and shelter to those in need.
+
+Oracle employees worldwide gave generously too, and with Oracle’s 1 to 1 match, we raised another US 1 million to support these organizations.
+
+From the beginning of the war in Ukraine, Oracle provided affected employees with financial assistance, evacuation and relocation support, accommodations both within and outside of Ukraine, travel services, and around the clock emergency support.
+
+Beyond this, employees around the world donated to Oracle Cares, our employee assistance fund that supports colleagues in need.
+
+In fiscal year 2022, our colleagues donated more than US 293,000.
+
+Furthering our support for the people of Ukraine, we’ve deployed our technology to make an impact where the need is greatest.
+
+UNHCR to help them implement cloud based solutions, enabling both organizations to streamline their operations and focus on the growing refugee crisis on the ground.
+
+We also offered our technology and cybersecurity capabilities to the government of Ukraine at no cost and suspended all billing to our Ukrainian customers to help ensure their continued access to our products and services.
+
+Our employees have been taking action to support the Ukrainian cause from the very beginning of the conflict.
+
+Oracle Volunteers across Europe, including Germany, Poland, and Romania, have helped colleagues find shelter in neighboring countries, assisted with evacuations, and donated food, clothing, water, and learning materials for children and families in need.
+
+Employees continue to volunteer and organize efforts to assist the people of Ukraine.
+
+Our education initiatives Oracle Academy and Oracle Education Foundation are helping students develop the skills they need to become technology innovators and leaders.
+
+These programs are helping young people not only to prepare for the future but also to play an active role in shaping it.
+
+Oracle Academy works with educators around the world to help them prepare students for successful technology careers with knowledge, hands on practice, and career relevant skills.
+
+The program offers free teaching and learning resources to advance technology education, skills, innovation, and diversity and inclusion.
+
+Its mission is to help young people develop the technical acumen and creative confidence to design outstanding solutions to people’s needs and the world’s problems.
+
+Oracle’s Silicon Valley, California, campus is home to a pioneering public charter school Design Tech High School (d.tech).
+
+Java is everywhere it’s used by the top 95% of all employers globally to build mission critical systems.
+
+Through our education programs and philanthropy, we’re advancing Java education for learners of all ages worldwide.
+
+In 2021, Ponelopele achieved the second highest matriculation pass rate in the country a testament to the school’s success, even amid a pandemic.
+
+Oracle Academy works with educators around the world to help them prepare students for successful technology careers with knowledge, hands on practice, and career relevant skills.
+
+The program offers academic institutions and their educators free teaching and learning resources including curricula, cloud technology, software, and professional development opportunities to advance technology education, skills, innovation, and diversity and inclusion.
+
+A new Oracle Cloud Infrastructure curriculum and free cloud access for educators and learners, providing an introduction to core concepts and hands on practice.
+
+A career center, which helps learners connect curricula with career opportunities.
+
+A member hub for easy online access to all resources.
+
+When the pandemic halted classroom work in 2020, my students had already spent one year working with Oracle tools in the cloud.
+
+That was critical to their success in transitioning to virtual learning.
+
+Oracle Academy’s free resources help keep the curriculum relevant, practical, and accessible.
+
+Patterson School of Accountancy, uses Oracle NetSuite business management software to provide her students with hands on learning in accounting workflows.
+
+She says, The NetSuite system is cloud based, which means my students can access it and complete their assignments from anywhere so long as they have internet access.
+
+With free access to Oracle Cloud and Oracle APEX, Oracle Academy member educators and students can shift data to any environment swiftly, enabling learning on the go.
+
+Michal Kvet, associate professor at the University of ilina, Slovakia.
+
+Today, students need to know the importance of creating a skeleton solution based on self adjusting technology, he says.
+
+Mexico, have access to a variety of professional development opportunities to grow their technical knowledge and skills.
+
+Oracle Academy has played a key role in my academic and teaching journey, says Catalina.
+
+I believe it’s the best place to learn about databases, SQL, PL SQL, virtual machines, artificial intelligence with machine learning, Java, and more.
+
+For higher education institutions teaching construction and civil engineering, access to tools such as Oracle Primavera through Oracle Academy is invaluable.
+
+With Oracle Primavera, students build industry specific skills in planning, budgeting, resourcing, scheduling, and program management.
+
+Nwadigo, project management lecturer at Auckland University of Technology in New Zealand, shares, We are lucky to have Primavera for free classroom use through Oracle Academy.
+
+Primavera P6 is considered a highly relevant skill in the industry today and is great for students to have on their resumes.
+
+Oracle Academy receives numerous awards each year highlighting its commitment to education, innovation, technology, and scholarship globally.
+
+Oracle Education Foundation is a nonprofit organization funded by Oracle and staffed by Oracle employees.
+
+Its mission is to help young people develop the technical acumen and creative confidence to design outstanding solutions to people’s needs and the world’s problems.
+
+Oracle Education Foundation provides classes at the intersection of coding, physical computing, design thinking, and futures thinking.
+
+Each class teaches a technology, then asks students to apply that tech to a design challenge and create prototype solutions.
+
+Foundation educators lead classes, and Oracle Volunteers coach students.
+
+We engage students aged 14 to 18 through partner schools and nonprofits.
+
+Even now, new tech and new environments are testing us in new ways.
+
+Young people need the creative confidence and ethical clarity to design and build a vibrant future for all.
+
+So, with the Institute for the Future’s help, we incorporated future skills such as how to make sense of loopy, complex systems, build a crew, and befriend the machines into our classes.
+
+Pre pandemic, we provided in person classes in North America.
+
+Throughout the pandemic, we used Zoom, Miro, and other tools to deliver our classes and engage students and volunteers virtually.
+
+The upside of lockdown Oracle Volunteers around the world coached students in six countries across the Americas.
+
+As we emerge from the pandemic, we’re keeping the best of both virtual and in person learning.
+
+We delivered virtual Game Design classes for JA students in Argentina, Brazil, Chile, Mexico, and Peru.
+
+Students created games that address issues faced by local nonprofits and nongovernmental organizations and the communities they serve, including Oracle Giving grantee PROA Institute.
+
+As a volunteer with the Oracle Education Foundation, it’s rewarding to journey with the students as they learn new concepts, apply design thinking, and persevere through any setbacks to reach their final presentation.
+
+Students design and build a game based on a future scenario that helps them break out of habitual thinking and imagine new possibilities.
+
+No first person shooter or fighting games here students in our classes design games that teach, inspire empathy, and build resilience.
+
+Students learn how to use neural networks to build their own image classifier.
+
+They first learn how to train a network and then use that knowledge to create an image classifier that helps solve a real world problem.
+
+In this context, students grapple with ethical questions about how we do and do not want to use AI, now and in the future.
+
+Being able to build a personal brand and present your best self through a portfolio is an essential skill today.
+
+In this class, students design and code a website from scratch, curating their brand and accomplishments.
+
+They also learn core future skills such as how to protect and derive value from their personal data, manage their reputation, and communicate their brand via multiple media.
+
+Design Tech High School, also known as d.tech, is a pioneering California public charter high school.
+
+Oracle’s relationship with d.tech began through the Oracle Education Foundation in 2014 and quickly grew and deepened.
+
+That same year, Oracle decided to build a home for the school on its Silicon Valley campus.
+
+Every day at d.tech, students play an active role in shaping the world.
+
+Our partnership with Oracle provides access to incredible resources, the best of which are Oracle employees, who generously volunteer their time and talents to provide d.tech students with real world learning experiences.
+
+By design, d.tech was built to respond to the needs of both students and educators.
+
+Amid the pandemic, d.tech reopened its campus, offering a flexible schedule that enabled students to focus on their daily academic and extracurricular priorities.
+
+The school’s success wouldn’t have been possible without the d.tech faculty, whose relentless optimism and commitment to their students transformed a moment of crisis into an opportunity for growth and learning.
+
+A social media alert to help people find COVID 19 vaccine appointments, a tutoring club to help Afghan refugees practice speaking English, an environmental advocacy project showcasing the impact of recycling through a colorful mural these are just a few of the projects d.tech students are contributing to the world, each one making a positive difference.
+
+The Intersession program is a defining d.tech educational experience.
+
+Three times a year, for 60 hours each time, students explore new disciplines and industries through classes offered by nonprofits, businesses, and professionals.
+
+Students choose from a wide range of classes such as photography, entomology, cooking, and event venue operations.
+
+Every Intersession, Oracle Education Foundation offers classes on technologies such as neural networks, web applications, data science, and more.
+
+Oracle Volunteers feel at home at d.tech, donating their time and talents to support students year round.
+
+Last year, Oracle Volunteers developed software to improve scheduling for Intersession classes.
+
+The application, called Exploration Station, streamlined the student and faculty experience and enabled the program to continue virtually and in person throughout the pandemic.
+
+The same solution oriented spirit that fuels our business success also drives our philanthropic efforts.
+
+That’s why we invest globally in nonprofit and social impact organizations whose work is critical to solving the challenges facing society today and tomorrow.
+
+We support nonprofits and educational institutions that help young people become fluent in technology and apply that knowledge to solve problems and do good in the world.
+
+We fund nonprofit and social impact organizations that protect the natural world and wildlife and connect young people with nature because we’re committed to improving the health of the earth.
+
+We make grants to nonprofit organizations that enhance community life and provide people in need with food, shelter, medicine, comfort, and support to achieve long term stability.
+
+We match our employees’ charitable donations annually, and in times of crisis we run relief campaigns and increase our match.
+
+We also help each other through Oracle Cares, which makes grants to employees experiencing hardship and is funded by voluntary employee contributions matched by Oracle.
+
+From clinical studies to vaccine safety and health record modernization, we’re using our technology and expertise to help protect people against HIV, COVID 19, yellow fever, and more.
+
+Working closely with the Tony Blair Institute for Global Change, we’ve donated our cloud based health management system to several nations in Africa and elsewhere to help streamline vaccination administration programs.
+
+This is one of many initiatives we’re undertaking to redefine the future of healthcare globally.
+
+In fiscal year 2022, we gave more than US 8.3 million to nonprofit organizations providing emergency relief and helping communities build resilience in response to the pandemic.
+
+Oracle NetSuite Social Impact is a program that provides software donations and pro bono services to help nonprofits accelerate their social impact.
+
+Building educational equity, closing the gender gap in technology, advancing Java education, supporting virtual and in person learning Oracle grantees are inspiring students worldwide to design, innovate, and problem solve for a vibrant future.
+
+Find out what students are building in the stories below.
+
+Learning how to program should be fun, practical, and accessible.
+
+With Oracle’s support, the Raspberry Pi Foundation is making that possible through our programs putting the power of digital making into the hands of people around the globe.
+
+Every year, thousands of girls build applications to solve issues in their community with Oracle grantee Technovation, a tech education nonprofit that empowers participants to become leaders, creators, and problem solvers.
+
+Educate Girls Leverages community and government resources to ensure that all girls are in school and learning well.
+
+Learning for All Provides high quality tutoring, mentoring, and educational support to underserved students.
+
+Exploratorium Makes science visible, tangible, and accessible to all through educational programs.
+
+Java is everywhere it’s used by the top 95% of all employers globally to build mission critical systems.
+
+This is why, since 2010, we’ve funded the development of Alice, BlueJ, Greenfoot, and Stride free Java based educational programs that teach object oriented programming to learners of all ages.
+
+We’re working to create a future in which every student has the resources and support they need to realize their full potential.
+
+Oracle grantee SMASH empowers students of color through intensive STEM education programs, culturally relevant coursework, and access to resources and social capital that help them succeed in college and in their careers.
+
+According to a UNESCO report, only 35% of STEM students in higher education globally are women.
+
+Our grantee Black Girls CODE is changing this by exposing young women of color to computer programming and technology.
+
+The organization has a goal to train 1 million girls to innovate and create in technology fields by 2040.
+
+Learning can happen anywhere, and our grantees help make sure it does.
+
+The Tech Interactive provides educators and parents with tools to help students innovate from home or wherever they choose to learn offering lessons in design, engineering, science, and more.
+
+That’s why we support the Greene Scholars Program, which builds STEM confidence and competence in students of African ancestry.
+
+Protecting biodiversity, restoring oceans and land, driving toward a zero waste future, connecting youth with nature these are just some of the challenges for which our grantees are designing solutions.
+
+The Marine Mammal Center has rescued 24,000 marine mammals to date, yet the ecosystems that are vital to the health of our ocean and life on earth are under constant threat.
+
+Thanks to Oracle’s support, we’re furthering our ocean conservation and educating others on how they can protect the planet too.
+
+Through a combination of scholarships, professional internships, and capacity building, the organization trains hundreds of aspiring African scientists each year.
+
+In this article, Fossey Fund CEO Dr. Tara Stoinski shares why these efforts are critical to building a pipeline of African conservationists.
+
+Keep Austin Beautiful Inspires and empowers people in the Austin community to care for the environment.
+
+NatureBridge Connects young people to the wonder and science of the natural world via hands on environmental programs.
+
+Foundation for Environmental Education Japan Promotes sustainable development through environmental education.
+
+National Geographic’s Pristine Seas, an Oracle grantee since 2008, is on a mission to identify, survey, protect, and restore the last wild places in the ocean.
+
+The Nigerian social enterprise achieves these results by incentivizing people in low income communities to capture value from their waste.
+
+Providing emergency resources, increasing access to nutritious food, moving healthcare forward these are some of the many ways our grantees strengthen communities.
+
+During the pandemic, we saw a 220% increase in families turning to the Food Bank for the first time.
+
+We’re thankful to Oracle for standing by our side to helpvfeed our most vulnerable neighbors and families who never imagined they would need a helping hand.
+
+Council member, gifting US 1 million over a five year period.
+
+George Mark Children’s House Focuses on quality of life and continuity of care for children with illnesses that modern medicine cannot yet cure and those with chronic medical conditions.
+
+LifeMoves Provides solutions and support for individuals experiencing homelessness in Silicon Valley, California.
+
+CRY India Works toward creating happier and healthier childhoods for underprivileged children.
+
+Around the globe, many of our grantees offer safety to vulnerable people by providing shelter, hygiene kits, meals, and other essential resources.
+
+One such grantee, A Precious Child, provides hundreds of disadvantaged children in Colorado with the assistance and resources they need to reach their full potential.
+
+For 30 years, Oracle has supported food banks in the places we call home, including Central Texas Food Bank in Austin, Texas.
+
+Their services provide nourishment and food security to those in need, especially in times of emergency or hardship.
+
+Riders for Health provides reliable transport for medicine, biological samples, and patients and delivers healthcare to communities no matter how distant or difficult to reach.
+
+Organizations such as Riders are critical to democratizing access to healthcare and furthering scientific understanding.
+
+Alan Karchmer National Museum of African American History and Culture 3.
+
+We match our employees’ charitable donations annually, and in times of crisis we run relief campaigns and increase our match.
+
+We also help each other through Oracle Cares, which makes grants to employees experiencing hardship and is funded by voluntary employee contributions matched by Oracle.
+
+Leveraging Oracle’s matching gifts program goes a long way in extending the impact of your personal donation.
+
+By having Oracle match my donation to Louisville Community Foundation, we were able to buy 140 winter jackets, hats, and pairs of gloves for children, helping to ensure every child has comfort and warmth.
+
+Big thanks to Oracle for helping us touch the lives of those in need.
+
+We support our employees’ philanthropy by matching their personal charitable donations to causes around the world.
+
+We matched more than US 5.3 million in employee donations in fiscal year 2022.
+
+When a disaster occurs, Oracle matches employee relief donations.
+
+In fiscal year 2022, we responded to disasters in Afghanistan, Brazil, Haiti, the Philippines, Ukraine, and the United States.
+
+Together, we gave more than US 2.3 million in response to the war in Ukraine.
+
+Oracle Cares is an employee assistance fund that enables employees to make donations to support colleagues in times of need.
+
+US 268,000 helping employees recover from natural disasters, loss of a loved one, and serious injury or illness, including COVID 19.
+
+We experienced an apartment fire this year and our family lost everything except the clothes we were wearing.
+
+We had to quickly find a new place to live and buy new clothes, necessities, and furniture.
+
+We are so thankful to Oracle Cares for taking a little stress away by providing financial assistance during this time.
+
+When it comes to philanthropy, we don’t wait for the right people to find us.
+
+We actively seek out nonprofit and social impact organizations that are advancing bold, future ready solutions to some of the most pressing challenges facing humanity today.
+
+Within Oracle’s creative, solution oriented culture is a community of employees who strive to make the world a better place.
+
+Oracle Volunteers lead and participate in virtual and in person projects with hundreds of nonprofits and public institutions year round.
+
+They support students and educators, protect nature and wildlife, and strengthen communities by helping people in need.
+
+Globally, the pandemic hit volunteering hard but at the same time, it inspired action and empathy.
+
+Today, as its effects ebb, volunteerism is on the rise again.
+
+More than 2,000 employees on six continents participated in virtual sessions that featured executive kickoffs for each region, volunteering activities, inspirational speakers, festive games, and brainstorming about how to do more good in the world.
+
+Learn how Oracle Volunteers support students and teachers.
+
+Discover how Oracle Volunteers help restore our planet.
+
+Social change takes time, common cause, inspired action, money, and often sweat.
+
+More and more, we’re inviting our nonprofit and NGO partners to bring us their problems and matching them with teams of Oracle Volunteers who use their business and technical skills plus our Oracle Cloud Free Tier to design solutions that help accelerate positive change.
+
+Oracle employees bring their whole selves to work, and many enjoy the affinity of employee resource groups (ERGs).
+
+International Women’s Day and Autism Awareness Month, among others.
+
+Today, Oracle teams are often distributed across regions and time zones.
+
+The Oracle Volunteering program brings far flung teammates together to do good.
+
+Camaraderie is a natural byproduct of volunteering with colleagues, whether virtually or in person.
+
+Of course, the world benefits too, and when volunteers work together to support the causes they care about, the ripple effect can be profound for global society and for team culture.
+
+Every full time Oracle employee may volunteer up to 40 hours a year during their scheduled work time, and many Oracle Volunteers contribute hundreds of hours beyond that.
+
+Through Oracle Giving, we match our employees’ charitable donations to causes around the world up to US 1,000 per employee per year and more in times of crisis.
+
+Why Because ensuring that our people feel empowered to do good is part of our business.
+
+Employees give special attention to environmental organizations to take supporting students, schools, and action for a healthy planet.
+
+Employees share their time and resources to help those in need.
+
+Coaching the next generation of entrepreneurs, teaching youth about online safety, preparing tomorrow’s workforce Oracle Volunteers help students worldwide develop the skills they need to create a vibrant future.
+
+I’m grateful for the opportunity to serve as an Oracle Volunteer and to inspire students in Africa to dream big and pursue technology careers.
+
+Every year, Oracle Volunteers devote their time and energy to advancing education by helping kids learn to read, code, empathize, and become the problem solvers and creators of tomorrow.
+
+As learning environments evolve, Oracle Volunteers are committed to stepping up and lighting up the young hearts and minds that will brighten the future.
+
+Now more than ever, young people need the creative confidence, sense of self efficacy, and skills to build a vibrant future in which they can thrive.
+
+Volunteers as coaches in multiday classes at the intersection of coding, physical computing, design thinking, and futures thinking.
+
+Volunteers donated nearly 8,400 hours in fiscal year 2022.
+
+Oracle Volunteers help activate the entrepreneurial potential of youth from underrepresented communities.
+
+This includes mentoring girls as they build applications to address issues facing their communities, helping young people design digital games that educate and inform, and equipping students with business and financial skills.
+
+With the ever expanding role of technology in education, keeping students safe online is essential.
+
+More than 2,500 students from 10 schools in India took part in the Cyber Bright, Cyber Right project.
+
+Oracle Volunteers taught students how to maintain privacy on social media, prevent cyberbullying, and navigate the internet safely.
+
+Oracle Volunteers lead by example and share their career experience with the next generation.
+
+Through career panels, mock interviews, and resume review workshops, Oracle Volunteers guide and inspire young people to pursue careers in technology and beyond.
+
+Tech High School, and Ponelopele Oracle Secondary School.
+
+Equitable and inclusive learning experiences are essential to meeting the needs of students with disabilities.
+
+Volunteers have facilitated sign language sessions for kids who are deaf or hard of hearing and recorded interactive audiobooks to benefit children with autism.
+
+Year round, Oracle Volunteers rally for the earth, clean up shorelines to keep plastics out of our oceans and waterways, keep clothes out of landfills, and restore and regreen the natural world.
+
+These are just a few of the many ways they care for our planet.
+
+Oracle Volunteering’s rally called There’s No Planet B was a great opportunity to share the eco friendly actions we take in our day to day lives and learn new practices we can implement.
+
+April 30 annually, coincides with Earth Day by design.
+
+Volunteers everywhere came together to restore our planet.
+
+They cleaned up beaches, planted trees and seedballs, tidied up their digital storage to reduce their carbon footprints, and much more.
+
+Across Latin America, Oracle Volunteers participated in a multiweek rally called There’s No Planet B.
+
+They learned about minimizing food waste while maximizing nutrition, making their own earth friendly shampoo and cleaners, diverting goods from landfills, and generally walking more lightly on the earth.
+
+Organizations we engage with include Bandera Azul Ecol gica, Gastromotiva, and Vegetarianos Hoy.
+
+Every piece of plastic or other litter you pick up is one less piece that ends up in the ocean.
+
+Year round, Oracle Volunteers lead cleanups of their local beaches and fresh waterways, as well as cities, neighborhoods, and parks.
+
+Beautiful, Ocean Conservancy, and SEGO Initiative.
+
+Globally, Oracle Volunteers participate in hands on ecological restoration efforts to renew and rewild damaged ecosystems.
+
+This includes making and planting seedballs, removing invasive, non native plant species, restoring trails, establishing community gardens, and more.
+
+Community Garden Council, SayTrees, and The Trail Foundation.
+
+Around the world, solid waste generation rates are rising.
+
+Oracle Volunteers help tackle the problem by raising awareness and collecting and donating gently used items such as clothes, books, and electronics for reuse.
+
+Done responsibly, this can keep enormous amounts of waste from ending up in landfills or incinerators.
+
+Providing essentials for individuals in need, fostering connections with elders, and going the extra mile for worthy causes these are just a few of the creative ways Oracle Volunteers support communities around the globe.
+
+I chose to volunteer to support Ukrainian refugees when the war started, hosting refugees at my home and preparing bags of essential supplies for those at the border.
+
+I’m proud that Oracle empowers employees to volunteer for causes we believe in to help make the world a safer place.
+
+Oracle Volunteers crocheted items that cancer survivors could keep close to their hearts literally.
+
+A group of dedicated fiber artists wove lightweight, customized breast prostheses for women who have undergone mastectomies.
+
+Knitted Knockers, a nonprofit that designs patterns and distributes prostheses to breast cancer survivors.
+
+In times of distress and tumult, Oracle Volunteers rise to the occasion.
+
+Afghanistan, and designed posters to raise awareness of the challenges faced by survivors of domestic violence.
+
+Jiyan Foundation for Human Rights, and Miry’s List.
+
+Oracle Volunteers respect and value elders and actively connect with them, and as COVID 19 continued to cause heightened isolation and vulnerability among older people, they redoubled their efforts.
+
+In addition to sharing conversation and companionship, volunteers designed handmade greeting cards with uplifting messages.
+
+CARE Foundation, Second Harvest of Silicon Valley, and Seniors First.
+
+In addition to improving your own well being, volunteering at athletic events is a powerful way to support the life saving work of nonprofits advancing medical research and helping people with health conditions.
+
+Year round, Oracle Volunteers offer friendship and spread happiness among children in challenging circumstances.
+
+They do this by hosting arts and crafts sessions for children with developmental disabilities, leading collection drives for those in need, and delivering a variety of services to children from low income backgrounds.
+
+Children’s House, Learning for All, Mani Trust, and Sarvani.
+
+At Oracle, we know that ensuring the health of our planet calls for bold and urgent action.
+
+We’re committed to building a more sustainable future and empowering our employees to do the same.
+
+Oracle is committed to embedding sustainability across our enterprise and delivering innovative cloud technology to accelerate meaningful change.
+
+While what we do ourselves is of paramount importance, helping our driven.
+
+We know that ensuring the health of our planet calls for bold and customers on their sustainability journeys has an impact many times greater urgent action.
+
+To this end, we’ve embedded sustainability throughout than our own.
+
+I encourage you to read our customer stories and learn our organization and business processes, including our value chain.
+
+This more about the technology solutions, such as sustainable computing means creating a more circular economy and effectively managing infrastructure, that are helping them innovate, build sustainable supply climate related risks companywide.
+
+It means empowering our employees to chains, and perform environmental, social, and governance (ESG) planning make decisions that put the planet first.
+
+Many of our industry solutions, including our Energy and globally with a zero emissions cloud by 2025.
+
+Water solutions, are also playing a critical role in driving the transformation achieving net zero by 2050 and halving our value chain emissions by 2030. needed to ensure a more sustainable future for our planet.
+
+We believe access to data and technology can help today’s sustainability in a way that allowed for efficient storage and quick retrieval.
+
+Decades leaders get better information and make more informed decisions.
+
+Together, later, we still recognize the value of using data to solve some of the planet’s we can make a difference.
+
+Companywide, we rely on data to operationalize sustainability, protect natural resources, reduce waste, and achieve energy efficiency.
+
+See our year over year progress and detailed sustainability, including how we help our disclosures, and reports.
+
+Oracle has set a target to achieve net zero emissions by 2050 and to halve the greenhouse gas emissions across our operations and supply chain by 2030, relative to a 2020 baseline.
+
+This target has been approved by the Exponential Roadmap Initiative, an accredited partner of the United Nations’ Race to Zero.
+
+For additional details about our goals, view the Social Impact Datasheet (PDF).
+
+Sustainability is at the heart of how we operate our business.
+
+At Oracle, sustainability is everyone’s business and our employees are key to working toward a 100% renewable energy goal, managing our use of natural helping us operationalize sustainability.
+
+We inspire action by celebrating the resources, ensuring responsible supply chain practices, and building a more sustainability champions in our midst, communicating key initiatives, providing circular economy.
+
+Sustainability is at the heart of how we operate our business.
+
+This includes working toward a 100% renewable energy goal, managing our use of natural resources, ensuring responsible supply chain practices, and building a more circular economy.
+
+Emissions reduction is a key component of our sustainability strategy.
+
+We remain steadfast in our commitment to achieving 100% renewable energy use across our operations, aligned with the 1.5 C science based target scenario for scope 1 and scope 2 emissions.
+
+We also aim to reduce the environmental impact of the products that we sell.
+
+As a global company, how we manage our use of natural resources can have a huge impact.
+
+We’re always looking for ways to maximize energy efficiency and minimize water consumption and waste generation across our operations.
+
+We pursue a variety of water saving strategies across our facilities and and are proud to have been recognized for our highly efficient, data centers including rainwater harvesting, xeriscape gardening, environmentally friendly buildings and operations.
+
+We have a robust waste management program that includes recycling and composting at our offices and raising employee awareness about responsible waste management to minimize waste to landfill.
+
+We know that our purchasing decisions can have a significant social and transition to a low carbon economy as part of our net zero goal.
+
+Our Supplier Code of Ethics and Business Conduct requires our suppliers to observe the law and conduct business in an ethical and responsible manner.
+
+Our Sustainable Procurement Statement (PDF) affirms our ambition to incorporate sustainability into procurement processes.
+
+Purchasing specification requirements, such as ENERGY STAR and EPEAT certification, are in place to ensure the procurement of more sustainable product and service offerings.
+
+Siting policies also take into consideration environmental impacts as we look to acquire, design, and build new facilities.
+
+Here are some of the ways we’re driving a sustainable value chain.
+
+Engaging with indirect and direct suppliers to report data on their carbon, water, and waste footprints.
+
+Working with our key suppliers to ensure alignment and identify new opportunities to reduce our environmental impact.
+
+Investing in educating our suppliers about our goals and expectations as we.
+
+Managing, monitoring, and auditing our direct hardware supply chain as part of our membership in the Responsible Business Alliance (RBA).
+
+In fiscal year 2021, 20 audits based on the RBA Code of Conduct were completed at direct hardware supplier factory locations to ensure compliance.
+
+Working closely with our logistics partners to minimize shipments, maximize consolidation, and take sustainability into account when selecting modes of transportation, including lower emissions options such as bio liquefied natural gas.
+
+Collaborating with our travel partners to reduce emissions from flights taken, encourage the use of public transportation, and promote lodging venues that integrate sustainability into their operations.
+
+Creating a sustainable hardware lifecycle isn’t just about sourcing the right materials and getting them where they need to be as efficiently as possible it’s also about removing resource inefficiencies across the lifecycle, reusing and repurposing materials, and keeping assets in use for as long as possible.
+
+From packaging to hardware, our Design for the Environment principles focus on recyclability, reuse, disassembly, and efficiency in the manufacturing, distribution, and use of our products.
+
+To ensure the responsible disposal of excess and used products, we provide take back programs free of charge to our customers and suppliers.
+
+These programs help protect the environment and provide valuable services to our customers.
+
+Internally, we provide program management for the recycling and reuse of retired office equipment, including personal computers and phones.
+
+At Oracle, sustainability is everyone’s business and our employees are key to helping us operationalize sustainability.
+
+We inspire action by celebrating the sustainability champions in our midst, communicating key initiatives, providing learning resources, and offering tools for collaboration.
+
+Technology plays a critical role in building a more sustainable future, and in collaboration with our customers our employees are the ones making that a reality.
+
+Year round, our employees improve how we all live and work by participating in a variety of activities to drive a more sustainable future.
+
+Employees who share a passion for the environment band together to form Green Teams that lead sustainability efforts in Oracle hubs globally.
+
+They make an impact in their local communities by hosting educational sessions, driving energy efficiency, engaging with real estate and facilities teams to promote recycling and eliminate waste, encouraging more sustainable modes of transportation, volunteering with environmental organizations, and more.
+
+Annually, Oracle recognizes a group of Sustainability Champions employees around the world who are leading by example and directly contributing to a more sustainable future.
+
+Sustainability Champions include employees who lead environmental volunteering projects, build application capabilities to address environmental needs, engage with suppliers to increase their environmental performance, raise awareness of alternative commuting options, and coordinate sustainability activities with colleagues in their local offices.
+
+Year round, Oracle Volunteers contribute tens of thousands of hours to care for the planet, including during Focus on Environment Oracle’s annual global volunteering initiative, which spans the months of March and April.
+
+Oracle employees enthusiastically participate in Missions, a new initiative that empowers individuals to take positive actions that benefit the planet.
+
+Through easy to complete activities, employees can track how their daily actions support sustainability.
+
+From rethinking food waste to prioritizing water conservation, there are many ways employees can take action to help the planet both at home and at work.
+
+Since the program’s launch in 2021, over 1,000 employees have completed more than 11,000 activities to help protect the planet.
+
+We empower employees to build their knowledge about the solutions needed for a sustainable future.
+
+In addition to learning what Oracle is doing to make an impact, employees engage in training and development opportunities to enhance their skills and support sustainability decisions at scale.
+
+By acquiring the skills to innovate and create new technology, our employees can further support our customers in achieving their sustainability goals.
+
+Asterisks ( ) are noted next to all items that are published outside of the Social Impact Report.
+
+Operations section Clean Cloud section ESG Reporting Hub CDP Climate Change Response.
+
+Sustainability section CDP Climate Change Response.
+
+ESG Reporting Hub Oracle Code of Ethics and Business Conduct (PDF).
+
+Sustainability section CDP Climate Change Response.
+
+Sustainability section ESG Reporting Hub Workforce section Education section Giving section Volunteering section.
+
+Oracle works extensively with stakeholder groups based on the areas that are most important to us and the communities where we conduct business.
+
+Our key stakeholders include customers and prospects, suppliers, employees, partners, investors, industry coalitions, government agencies, and nonprofit organizations.
+
+Confidentiality constraints: Oracle does not publicly disclose this data.
+
+ESG Reporting Hub Oracle Customer Feedback Oracle Investor Relations.
+
+Information from prior reports has not been restated.
+
+Certain portions of the report have been externally verified, including the energy and emissions data reported in the Sustainability section.
+
+Policy Against Trafficking in Persons and Slavery (PDF).
+
+RBA Code of Conduct Oracle’s Statement on Conflict.
+
+Modern Slavery (PDF) RBA Code of Conduct Oracle’s Statement on Conflict.
+
+Oracle’s hardware suppliers are required to abide by the Responsible Business Alliance (RBA) Code of Conduct as well as the Oracle Supplier Code of Conduct.
+
+The RBA Code of Conduct is an integral part of Oracle’s supplier contract, and our suppliers are assessed on their compliance with RBA on a quarterly basis.
+
+ESG Reporting Hub Privacy Oracle Oracle General Privacy Policy Oracle Cloud Compliance and.
+
+Privacy Oracle Oracle General Privacy Policy Oracle Cloud Compliance and.
+
+Privacy Oracle Oracle General Privacy Policy Oracle Cloud Compliance and.
+
+Protecting our customers’ personal information is a top priority for Oracle.
+
+We enforce corporate policies and practices designed to protect the personal information in our possession.
+
+Workforce section Oracle Careers Oracle Diversity and Inclusion Oracle Environmental Health and.
+
+Workforce section Oracle Careers Oracle Diversity and Inclusion Oracle Environmental Health and.
+
+Workforce section Oracle Careers Oracle Diversity and Inclusion Oracle Environmental Health and.
+
+In addition to tracking formal training hours delivered to employees through Oracle University, Oracle provides a variety of career and skills development programs that are not tracked by hours, but rather by number of resources, modules, or assets accessed by employees.
+
+While we do not publicly disclose this data, we provide detailed information about our career development programs and offerings in the Workforce section and on the Oracle Careers website.
+
+Oracle Diversity and Inclusion Corporate Governance.
+
+Confidentiality constraints: Oracle does not publicly disclose this data.
+
+Confidentiality constraints: Oracle does not publicly disclose this data.
+
+Volunteering section Volunteering section Giving section Education section.
+
+Volunteering section Volunteering section Giving section Education section.
+
+Volunteering section Volunteering section Giving section Education section.
+
+Volunteering section Volunteering section Giving section Education section.
+
+Giving section Volunteering section Education section.
+
+Giving section Volunteering section Education section.
+
+Giving section Volunteering section Education section.
+
+Giving section Volunteering section Education section.
+
+Giving section Volunteering section Education section.
+
+Giving section Volunteering section Education section.
+
+Sustainability section Giving section CDP Climate Change Response.
+
+Sustainability section Giving section CDP Climate Change Response.
+
+Sustainability section Giving section CDP Climate Change Response.
+
+Sustainability section Giving section Oracle Sustainability Solutions Oracle NetSuite Social Impact.
+
+Sustainability section Giving section Oracle Sustainability Solutions Oracle NetSuite Social Impact.
+
+Sustainability section Giving section Oracle Sustainability Solutions Oracle NetSuite Social Impact.
+
+Sustainability section CDP Climate Change Response.
+
+Sustainability section CDP Climate Change Response.
+
+Sustainability section CDP Climate Change Response.
+
+Sustainability section Operations section CDP Climate Change Response.
+
+Sustainability section Operations section CDP Climate Change Response.
+
+Sustainability section Operations section CDP Climate Change Response.
+
+Sustainability section Operations section CDP Climate Change Response.
+
+While we do not have access to data on total water withdrawal by source, we do actively manage and report on our total potable water use and have various processes in place to conserve and recycle water.
+
+While we do not have access to the percentage and total volume of water recycled and reused, we do actively manage and report on our total potable water use and have various processes in place to conserve and recycle water.
+
+Sustainability section Operations section CDP Climate Change Response.
+
+Sustainability section Operations section CDP Climate Change Response.
+
+Sustainability section Operations section CDP Climate Change Response.
+
+Sustainability section Operations section CDP Climate Change Response.
+
+Sustainability section Operations section Oracle Hardware Take Back and.
+
+Oracle has a supplier qualification program that requires our suppliers to demonstrate socially responsible business practices.
+
+Oracle’s Supplier Code of Ethics and Business Conduct requires suppliers to comply with all applicable environmental laws and regulations.
+
+Suppliers are expected to work to reduce their consumption of resources, including raw materials, energy, and water throughout all aspects of the product or service lifecycle.
+
+Operations section Conflict Minerals Report (PDF).
+
+Board (SASB) sustainability disclosure topics and accounting metrics for the Software IT Services (TC SI) and Hardware (TC HW) sectors.
+
+Asterisks ( ) are noted next to all items that are published outside of the Corporate Citizenship Report.
+
+Overview of privacy at Oracle Oracle General Privacy Policy.
+
+Conflict Minerals Report (PDF) Oracle’s Use of Potentially Harmful Substances (PDF).
+
+The international Financial Stability Board created the Task Force on Climate related Financial Disclosures (TCFD) to improve and increase reporting of climate related financial information.
+
+This TCFD review provides an overview of Oracle’s corporate reporting practices in accordance with the TCFD guidelines.
+
+Describe the board of directors’ oversight of climate related risks and opportunities.
+
+Describe management’s role in assessing and managing risks and opportunities.
+
+Describe the climate related risks and opportunities the organization has identified over the short, medium, and long term.
+
+Describe the impact of climate related risks and opportunities on the organization’s businesses, strategy, and financial planning.
+
+Describe the resilience of the organization’s strategy, taking into consideration different climate related scenarios, including a 2 C or lower scenario.
+
+Describe the organization’s processes for identifying and assessing climate related risks.
+
+Describe the organization’s processes for managing climate related risks.
+
+Describe how processes for identifying, assessing, and managing climate related risks are integrated into the organization’s overall risk management.
+
+Disclose the metrics used by the organization to assess climate related risks and opportunities in line with its strategy and risk management process.
+
+Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.
+
+Describe the targets used by the organization to manage climate related risks and opportunities and performance against targets.
+
+Oracle Social Impact Report CONNECT WITH US Email us: impact_ww oracle.com.
+
+Outside North America, find your local office at oracle.com contact.
+
+This document is provided for information purposes only, and the contents hereof are subject to change without notice.
+
+This document is not warranted to be error free, nor subject to any other warranties or conditions, whether expressed orally or implied in law, including implied warranties and conditions of merchantability or fitness for a particular purpose.
+
+We specifically disclaim any liability with respect to this document, and no contractual obligations are formed either directly or indirectly by this document.
+
+This document may not be reproduced or transmitted in any form or by any means, electronic or mechanical, for any purpose, without our prior written permission.
+
+Oracle and Java are registered trademarks of Oracle and or its affiliates.
+
+Other names may be trademarks of their respective owners.

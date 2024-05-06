@@ -1,0 +1,1825 @@
+The counts prior to 2022 included exclusively licensed patents and applications.
+
+The 2022 counts no longer include the exclusively licensed patents and applications.
+
+About ESG and this report This report discloses Intuitive’s body of work and priorities concerning Environmental, Social, and Governance (ESG) for 2022, in alignment with leading reporting frameworks, including the Task Force on Climate Related Financial Disclosures (TCFD) and Global Reporting Initiative (GRI) standard’s core option.
+
+Intuitive defines ESG as a cross functional commitment to and framework of solutions for environmental sustainability, social responsibility, and governance and transparency.
+
+Emerging from a combination of risk assessment (finance), operational efficiency (facilities management), climate action (sustainability and environmental stewardship), and compliance (law and policy), ESG at Intuitive is a thriving commitment and area collaboration.
+
+More than seventy departments have contributed content towards this report to uphold the company wide commitment.
+
+This report is organized in three key sections, with strategic initiatives and work progress in the areas of Environmental sustainability, Social responsibility, and Governance and transparency.
+
+While there are many worthy efforts and initiatives for this 2022 compendium, we have highlighted areas of work that are most aligned with the intersectionality of environmental, economic, and equity considerations, as well as the distinct ways in which we are moving our ESG commitment forward.
+
+Unless stated otherwise, the information shared in this report reflects data and initiatives from the 2022 calendar year (January 1 December 31, 2022).
+
+Also, while majority of the initiatives outlined in the report represent 2022 work, this report contains forward looking statements using words such as estimates, projects, believes, anticipates, plans, expects, intends, may, will, could, should, would, targeted, and similar words and expressions intended to identify forward looking statements.
+
+These forward looking statements are estimates reflecting the judgment of Intuitive’s management and involve a number of risks and uncertainties that could cause actual results to differ materially from those suggested.
+
+I am pleased to introduce our 2022 Intuitive Environmental, Social, and Governance (ESG) Report.
+
+In pursuit of our mission, we are focused on meeting the needs of our core constituencies: patients, customers, employees, and shareholders, while constructively engaging in the communities in which we live, work, and serve.
+
+We view our ESG efforts as an important part of that work.
+
+Over the past year, we have made significant progress in this domain, and we expect to continue to improve in the future.
+
+Since our inception, Intuitive has focused on helping to improve human health and healthcare, both through our innovations in outcomes focused minimally invasive care and by our actions as a global business.
+
+We are also pursuing actions appropriate to our business that address climate change.
+
+We see opportunities towards decarbonization with a focus on operational efficiency, lower carbon intensity procurement choices, and supply chain resiliency.
+
+In 2022 we conducted a broad assessment of our overall carbon output our summary results are part of this report.
+
+Using this information, we are developing a holistic strategy to pursue our environmental goals.
+
+In addition, we ensure that our operations meet the ISO 14001:2015 standard, which is an accepted international framework for environmental management.
+
+We are also working with our suppliers to adopt this approach.
+
+Over the past several years, we have used the Quadruple Aim as our guiding healthcare framework.
+
+The Quadruple Aim assesses impacts to care through the lens of health outcomes, patient and care team satisfaction, and total cost to treat per patient episode.
+
+In a range of ways, our minimally invasive care systems help our surgeon, hospital, and healthcare system customers achieve each of these goals.
+
+This impact extends beyond our systems alone and into the ecosystem of services, support, and solutions we offer.
+
+As an example, by providing our customers with access to a robust learning and training program, we also are working to help improve the overall level of surgical proficiency and with that, the consistency and quality of patient outcomes.
+
+Quadruple Aim: better clinical outcomes, improved patient experiences, improved care team experiences, and lower total cost to treat per patient.
+
+Intuitive ESG Report 2022 Intuitive also continues to focus on improving health equity in more targeted ways.
+
+We are collaborating with patient advocacy groups to help increase screening rates for several common cancers.
+
+Much of this work is focused on underserved and high risk communities.
+
+We have supported the American Cancer Society on a broad media campaign to increase screening.
+
+So far, the initiative has led to an additional 135,000 people being screened and an overall five percentage point increase in screening rates.
+
+Intuitive is also supporting the work of Intuitive Foundation globally.
+
+The Intuitive Foundation is developing innovative strategies to increase the number of surgically trained clinicians in low resource regions.
+
+This is an urgent problem: because of the significant global shortage of surgeons, particularly in low resource countries, every year, an estimated 16.9 million people die who might otherwise be treated.
+
+At Intuitive, we work to create an environment that fosters diversity, inclusion, and fairness.
+
+We seek to recruit, develop, and retain outstanding talent with a wide spectrum of backgrounds and experiences.
+
+We have built dedicated resources to expand our reach to effectively recruit candidates from traditionally underrepresented groups in our industry.
+
+We also support the communities where we live and work, providing resources to foster worthy causes.
+
+For example, in 2022, we began providing assistance to promising scholars at CETYS Universidad in Baja California, M xico.
+
+We are continuing efforts to ensure that Intuitive’s operations and governance remain efficient and transparent.
+
+This past year, we adopted the ISO 27001 standard, an internationally recognized method of ensuring information security.
+
+Adopting this standard will improve our ability to protect sensitive data.
+
+Since we started this journey, we have made important strides.
+
+At the same time, we recognize that the efforts described in this report are part of an ongoing journey and require continuous commitment and improvement.
+
+The issues we are addressing are complex and fluid, and as we continue to move forward, we will adjust and iterate to develop pragmatic and workable solutions that address the needs of our customers, our employees, our business and the communities in which we live, work, and serve.
+
+Cancer Society Get Screened Initiative Impact Report accessed on December 9, 2022.
+
+In 2010, an estimated 16.9 million lives were lost from conditions needing surgical care as reported in The Lancet accessed on January 27, 2023.
+
+As part of our commitment to fair practices, we have published expanded employee diversity data to help better understand our workforce.
+
+Intuitive ESG Report 2022 ESG materiality assessment A materiality assessment is an important step toward assessing an organization’s present understanding and future preparation toward ESG initiatives.
+
+In 2022, we refined our ESG material priorities list after collaborating with a broad range of internal and external stakeholders to gather feedback on important and relevant ESG topics with the greatest potential impact.
+
+Aligning with our mission of patient care and the quadruple aim of healthcare.
+
+Intuitive’s ESG team analyzed the data to align with reporting frameworks and relevant industry naming conventions throughout the process.
+
+We engaged an external consultancy firm to validate our materiality assessment methodology.
+
+Intuitive ESG Report 2022 Across all questions about what is important to our external stakeholders and critical to our financial performance, one response was repeatedly selected across our surveyed audience: our product integrity.
+
+Ensuring the highest quality and safety of our products in a cost effective manner is firmly aligned with our patients first focus.
+
+Additionally, the materiality assessment revealed the following ESG priorities: environmental sustainability including climate risk management and resilience, business conduct and ethics, and attracting and retaining top talent.
+
+The progress we have made in 2022, as showcased in this report, is indicative of these priorities.
+
+Intuitive ESG Report 2022 I continue to be inspired by the work our employees do to make a difference in our community and look forward to future opportunities to support the work of VMC.
+
+Recognition Across Intuitive, we celebrate the achievements of our employees in their pursuit of continuous innovation to benefit of our customers, the patients they serve, and our communities.
+
+Ongoing support for those on the front lines of the COVID 19 pandemic As we’ve navigated the challenge of the global pandemic over the past three years, one thing has been constant: an unwavering commitment to the community by both Intuitive and our employees.
+
+To recognize Intuitive CEO Gary Guthart’s personal contributions, along with the collective efforts of Intuitive employees in Santa Clara County during the pandemic, Valley Medical Center Foundation (VMC) honored Gary at its Tribute to Heroes Annual Gala in September 2022.
+
+The VMC Foundation is an independent, community driven nonprofit organization that supports Silicon Valley’s most vital public healthcare institution Santa Clara Valley Medical Center Hospital Clinics.
+
+Santa Clara Valley Medical Center stands for the proposition that no matter how much money you earn, what kind of job you have or what language you speak at home, you will always have access to the healthcare you need.
+
+Each year, the VMC Foundation hosts an event to recognize one local leader for extraordinary impact on the health and safety of Santa Clara County’s most vulnerable residents.
+
+Gary was honored for his unwavering commitment to the community, leadership, and internal support for the legions of Intuitive volunteers who played such pivotal roles in the pandemic response.
+
+Efforts by the Intuitive Foundation, combined with Gary’s leadership and support from all departments, led to a multi industry effort to source and fabricate PPE locally.
+
+Beginning in 2020, we participated in manufacturing over 1 million face shields over 105,000 of which were distributed directly to Santa Clara County hospitals.
+
+Overall, this campaign resulted in more than 5 million units of PPE donated to the VMC Foundation, in addition to more than 20 million raised to support patient care and vaccinations.
+
+As the pandemic’s impact on communities intensified, the Intuitive Foundation coordinated with the County of Santa Clara and the Silicon Valley COVID 19 Aid Coalition’s local consortium of 11 hospitals to develop product specifications and general guidelines for the most needed items, enabling technology company supply chain experts to source medical equipment for hospitals.
+
+Disability Equality Index Intuitive was named a top scoring company on the Disability Equality Index (DEI), a comprehensive benchmarking tool that helps companies build a roadmap of tangible actions to achieve disability inclusion and equity in the workplace.
+
+Each company receives a score on a scale of 0 to 100, with top scoring companies recognized as a Best Places to Work for Disability Inclusion.
+
+Intuitive earned a score of 90 with strengths in areas such as culture and leadership, enterprise wide access, employment practices, and community engagement.
+
+We’re thankful for our Diverse Abilities employee resource group (ERG) and teams across Intuitive who contributed to our inaugural participation in the DEI.
+
+These donations are the result of a multiyear effort starting in 2020.
+
+Glassdoor Thanks to our employees, Intuitive ranked 29 on the Glassdoor Best Places to Work List in 2022.
+
+We take pride in cultivating an environment where employees feel valued and empowered to make a difference.
+
+Employer Support of the Guard and Reserve Committee Our Veterans Engaged for Teamwork and Support (VETS) ERG garnered another key recognition: the Above and Beyond Award by the Employer Support of the Guard and Reserve (ESGR) Committee in California.
+
+This award is presented by ESGR State Committees to recognize California employers who go above and beyond the legal requirements of the Uniformed Services Employment and Reemployment Rights Act by providing their Guard and Reserve employees additional benefits such as differential or full pay to offset lost wages, extended health benefits, and more.
+
+This recognition will help in our continuing efforts to attract candidates with current or former military service.
+
+International Design Excellence Intuitive’s My Intuitive was awarded Gold in the Medical and Health Care category at the 2022 International Design Excellence Awards (IDEA) ceremony hosted by the Industrial Designers Society of America.
+
+Design innovation, benefit to user, benefit to client brand, benefit to society, and appropriate aesthetics are the categories in which designs are evaluated.
+
+Each year, thousands of entries are submitted by design teams across the globe, making IDEA one of the world’s largest and most widely recognized design awards programs.
+
+San Francisco Design Week My Intuitive was also recognized as part of the 2022 San Francisco Design Week Awards.
+
+San Francisco Design Week is an international design competition that recognizes designers whose works contribute toward a positive societal future.
+
+The design competition celebrates notable work in fields of design ranging from architecture to industrial design to communications and user experience.
+
+My Intuitive won the award for the user experience category.
+
+Intuitive ESG Report 2022 Fast Company Intuitive was recognized by Fast Company alongside other companies who are creating products, reimagining spaces, and working to design a better world.
+
+We were recognized with a Design Award for My Intuitive in the Enduring Impact of 15 Years in Business category.
+
+Design Management Institute The 2022 Design Management Institute (dmi) Design Value Awards recognized teams who have delivered significant value through design or design management practices.
+
+Intuitive made the distinguished list for My Intuitive user experience and came in at third place overall.
+
+Founded in 1950, The Chicago Athenaeum: Museum of Architecture and Design and The European Centre for Architecture Art Design and Urban Studies, has a rich history of celebrating innovative designs produced around the world.
+
+This year, My Intuitive was recognized with a GOOD DESIGN award for the mobile applications category.
+
+Spark The Spark awards celebrate designs across various disciplines that have the potential to help humanity or the environment we live in.
+
+In 2022, My Intuitive won two gold Spark awards in the digital and health categories.
+
+Humankind The Humankind 100 rankings celebrate U.S. public companies working to create value for humanity.
+
+We’re proud to be recognized for our contributions in advancing patient care through our innovations in medical device research and development.
+
+Intuitive ESG Report 2022 Ministry of Health, Labour and Welfare In 2022, Japan’s Ministry of Health, Labour and Welfare (MHLW) cleared the da Vinci SP surgical system for use in general surgeries, thoracic surgeries (excluding cardiac procedures and intercostal approaches), urologic surgeries, gynecological surgeries, and trans oral head and neck surgeries.
+
+MHLW first cleared Intuitive’s multiport system in 2009, and since then, Japan has added coverage for 29 robotic assisted procedure types by public insurance, which will include procedures performed on SP.
+
+The da Vinci SP system provides surgeons with robotic assisted technology designed for narrow access surgery.
+
+The ability to enter the body through a single, small incision helps enable a minimally invasive experience for a range of complexity.
+
+The da Vinci SP is part of Intuitive’s fourth generation of products, and along with the da Vinci X and Xi multiport systems, allow us to offer our customers more options.
+
+We also hope that the introduction of the da Vinci SP will contribute to making minimally invasive robot assisted surgeries more accessible to patients.
+
+In addition to Japan, the da Vinci SP system can be used in Korea for urologic surgery, general laparoscopic surgery, gynecologic laparoscopic surgery, general thoracoscopic surgery, and otolaryngologic surgery performed via an oral approach.
+
+In the U.S., SP is approved for use in urology and transoral otolaryngology procedures.
+
+At Intuitive, sustainability involves minimizing our environmental footprint while developing appropriate solutions that conserve resources and protect the planet.
+
+We’re continually assessing our business to both better understand environmental risks and identify ways to make our value chain more environmentally sustainable.
+
+In the upcoming sections, we outline our work on environmental sustainability, ranging from carbon action, energy efficiency, and new construction to product life cycle management and environmental management systems.
+
+Intuitive ESG Report 2022 Carbon inventory A carbon inventory is a collection of all sources of carbon the entity produces, or is responsible for, as a result of conducting business.
+
+The primary metric is carbon dioxide equivalent (CO2e).
+
+Emissions are broken down into three categories, per the Greenhouse Gas (GHG) Protocol.
+
+Scope 1: All direct emissions from the activities of an organization or under their control.
+
+Example: Fuel combustion on site such as gas boilers, fleet vehicles, and air conditioning leaks.
+
+Scope 2: Indirect emissions from electricity purchased and used by the organization.
+
+Emissions are created during the production of the energy and eventually used by the organization.
+
+Scope 3: All other indirect emissions from activities of the organization, occurring from sources that they do not own but impact.
+
+These are usually the greatest share of the carbon footprint, covering emissions associated with business travel, procurement, waste generation, and product manufacturing.
+
+In 2022, we completed a full scope (scopes 1, 2, and 3) GHG carbon inventory with 19 emissions sources for the company’s direct and indirect carbon footprint.
+
+World Resources Institute’s GHG Protocol: Technical Guidance for calculating scope 1 and 2 Emissions.
+
+World Resources Institute’s GHG Protocol: Technical Guidance for.
+
+Our carbon emissions are depicted in the table below.
+
+Scopes 1 and 2 have completed the validation process.
+
+The scope 3 inventory has been completed and is undergoing the validation process.
+
+An amendment to the section on scope 3 is forthcoming.
+
+Carbon inventory numbers have a one year reporting lag.
+
+Data from 2022 will be assured and reported in the 2023 ESG report.
+
+Intuitive ESG Report 2022 Carbon plan Once the carbon inventory is completed in 2023, we will create our carbon plan that will ultimately frame the decarbonization target.
+
+Our company’s growth projections and climate risk factors will be overlaid on the baseline carbon inventory to estimate the business as usual scenario.
+
+Carbon mitigation efforts will be identified and estimated.
+
+We will consider a balanced approach between operational efficiency projects, renewable energy credits, and carbon offsets that could help reduce scopes 1, 2, and 3 sources systematically.
+
+The company will calibrate with the Science Based Target.
+
+Our carbon plan will be maintained and revised annually with progress updates along with the disclosures of the key strategies.
+
+Targets are considered science based’ if they are in line with what the latest climate science deems necessary to meet the goals of the Paris Agreement limiting global warming to well below 2 C above pre industrial levels and pursuing efforts to limit warming to 1.5 C.
+
+Intuitive ESG Report 2022 As part of the development of our carbon plan, particularly for direct emissions reduction, we've been taking a thoughtful, data driven approach to managing our use of energy in our scope 1 and 2 carbon sources.
+
+For example, our facilities construction and ESG teams work in tandem to ensure that we remain on track with our clean energy objectives.
+
+Sustainability in facilities and construction Our workplace is designed to provide a safe, productive, and collaborative environment for our employees who drive our mission.
+
+For all projects coming online, facilities and construction management teams work together to understand energy consumption, set energy targets, and ensure buildings perform as designed.
+
+To date, our coordinated approach toward achieving sustainability targets has resulted in one LEED Gold certified building, with three more in progress.
+
+We broke ground on two Sunnyvale, California, facilities, including a.
+
+We broke ground on a 599,105 square foot facility in Peachtree Corners, Georgia, for volume system manufacturing and engineering activities.
+
+In Aubonne, Switzerland, we are expanding our footprint, constructing a 78,000 square foot facility for engineering and support activities.
+
+In Frieburg, Germany, we are constructing a 128,000 square foot facility that will house our German Commercial operations and support functions.
+
+Where we demolished prior structures (Sunnyvale and Peachtree Corners), we diverted 99% and 97% of debris from landfills, respectively.
+
+In the case of the Ion facility, we kept the steel infrastructure from a previous building intact.
+
+Designing energy efficient facilities that, at a minimum, meet local regulations and requirements.
+
+Providing employees with access to EV charging stations.
+
+Providing bike storage, showers, and lockers to encourage bike commuting.
+
+Planting native vegetation irrigated by reclaimed water where possible.
+
+Meeting ADA and other local accessibility requirements.
+
+Minimizing noise pollution during construction activities.
+
+Intuitive ESG Report 2022 In supporting a resilient infrastructure, we apply sustainable building and design practices.
+
+For example, lessons learned from life cycle cost analysis studies of each new building inform target setting for future buildings.
+
+Looking ahead, our goal is for all buildings to have solar PV and vegetation covering 60% or more of gross roof area, with solar canopies covering 100% of parking where practical.
+
+For all new construction projects, our goal is to ensure that a minimum of construction waste reaches the landfill.
+
+Laptop recycling: When an employee turns in a laptop in the U.S. that meets functional qualifications, we donate it to Tech Exchange, a nonprofit based in Oakland, California.
+
+Tech Exchange aspires to close the digital divide by ensuring that all families have a computer, internet access, and the technology skills necessary to improve and enhance their lives.
+
+In 2022, we donated 385 laptops to support that mission.
+
+Upcycling drapes: To ensure patient safety, the arms of our robotic systems are covered in sterile drapes during surgery.
+
+The polyethylene drapes undergo a rigorous quality inspection before being shipped to customers.
+
+Though necessary, the inspection process interferes with the sterility of drapes chosen for a quality check.
+
+In 2022, we implemented a program to upcycle the drapes that undergo quality inspection for internal training programs that don’t require a sterile environment.
+
+To date, this program has diverted more than 5,200 lb.
+
+Minimizing food waste: We provide compostable food containers and utensils in employee caf s across U.S. sites, along with bins to divert food waste and recycling from landfill trash.
+
+Collected food waste is sterilized and used as an ingredient for animal feed.
+
+Proprietary recycling: When materials reach their end of life, our proprietary recycling program puts them to future use when possible.
+
+In North America, our programs begin with general recycling that incorporates most of our manufacturing and general business operations waste.
+
+Supporting reduced emissions: We offer a monthly allowance for employees who travel to work by transit, carpool, or other sustainable transportation.
+
+For those commuting by train, we provide an e bike and helmet sharing service to shuttle between the station and campus.
+
+Reducing demand for fossil fuels: Our Aubonne building is equipped with solar panels with a power of 30 kilowatt peak, generating an average of about 12% of its annual consumption.
+
+Certified renewable sources supply the building’s remaining energy needs.
+
+Supporting pollinators: Our Aubonne site is home to several beehives and employees can participate in honey production and receive a jar of honey extracted from the honeycomb.
+
+Initiating a recycling campaign: Mexicali employees initiated a recycling campaign, Bring Your Waste from Home, with the aim of increasing environmental awareness and highlighting the importance of recycling.
+
+Collection bins allowed employees to dispose of their recyclable items from home.
+
+This is equivalent to 1.6 metric tons (1,593 kg) of CO2 avoided.
+
+Reforestation project: In 2022, our workforce in Mexicali began engaging in a reforestation project, planting 80 native trees.
+
+Energy efficiency: Our Sunnyvale corporate facility used 44% renewable power in 2022.
+
+Composting program: Caf bins collect food and track scraps and wasted food for compost.
+
+A system logs how much food is wasted daily, both to control costs and to minimize avoidable waste.
+
+The program also helps the team rethink how to maximize food use.
+
+Donating excess food: We donate usable uneaten food such as packaged items from the grab and go refrigerators and event catering to local food banks and shelters.
+
+Providing water refill stations: In 2022, our water bottle refill stations helped eliminate 236,579 16.9 ounce single use plastic bottles.
+
+Supporting sustainable transportation options: We offer free Caltrain Go passes and provide bikeshare stations throughout the Sunnyvale campus to help employees reduce their environmental impact.
+
+Diverting waste from landfills after customs inspections: In 2022, we introduced a program to recover products that undergo customs inspections in India.
+
+Because product inspections disrupt sterility, we initiated a system to use inspected products for training purposes, resulting in more than 560 lb.
+
+Increasing efficiency and reducing environmental impact with a local alternative for tool calibration: To ensure maximum product quality, field service engineers (FSE) have tools that undergo consistent mandatory re calibration.
+
+Historically, tools used by FSEs in the EU were sent to California for re calibration.
+
+To support our EU based operations, we’ve introduced a local calibration alternative, leading to increased efficiency and cost savings, a shorter wait time for calibrated tools, and reduced environmental impact.
+
+Product stewardship When it comes to product development at Intuitive, quality and safety are top priorities.
+
+We also seek to minimize environmental impact through the initiatives outlined below.
+
+Sustainable packaging initiatives In addition to using collapsible, reusable shipping containers and reusable corrugated totes that protect instruments during shipment, our packaging design teams continue to work on new densification approaches.
+
+These approaches include reducing package sizes and the amount of materials used without increasing content damage risk, as well as limiting the amount of packaging waste we and our customers must manage.
+
+The overall aim of our densification efforts is to use less packing material while arriving at a more efficient pallet design, enabling us to fit more packages on a single shipping pallet and reduce our overall number of shipments.
+
+Another advantage of packaging densification is increased efficiency in ethylene oxide (EO) sterilization, a highly regulated process by which our instruments are sterilized to ensure patient safety.
+
+With the densification of our packaging, we can maximize the number of instruments being sterilized at a given time, which can lead to increased care team efficiencies and less emissions.
+
+We have negotiated logistics contracts with high quality providers to encourage timely delivery and invoicing, and are working towards integrating tracking for environmental metrics.
+
+End of life management We continue to look for new ways to reduce, reuse, and recycle waste to limit our environmental impact and help our customers meet their sustainability goals.
+
+For over a decade, we’ve pursued a policy of refurbishing or breaking down and reusing returned parts and used systems.
+
+Our current programs allow us to recycle parts from end of life da Vinci Si systems, with approximately 95% of the surgeon console, approximately 60% of the patient side cart, and approximately 20% of the vision side cart components being used to build da Vinci X systems.
+
+Transition to electronic instructions for use In July 2022, we received approval to use electronic instructions for use (eIFUs) instead of paper IFU manuals for the X Xi P10 software update in the U.S.
+
+This makes the latest IFU content available to customers anywhere, anytime.
+
+To support our customers during this transition, we modified our notification process and product packaging to include a link to the eIFU website.
+
+The link leads to searchable content that can be updated as new innovations emerge.
+
+The transition from paper to eIFUs diverted approximately 94,000 lb.
+
+In the future, we will look to expand the eIFU program to additional countries and product lines.
+
+Creating value in our supply chain Our suppliers help us to fulfill our mission and serve as a critical link in our value chain.
+
+In 2022, we expanded our supplier scorecard criteria to include environmental and labor standards for consideration.
+
+We prefer to work with suppliers that adhere to modern slavery forced labor legislation and ISO14001:2015, an international standard that includes requirements surrounding environmental management systems.
+
+Supplier development Intuitive’s supplier development program engages suppliers to continuously improve performance and capabilities to support our evolving product offerings.
+
+The program focuses on improvements in areas such as capacity management, sub tier supplier management, supplier owned quality, leadership alignment, and cost reduction.
+
+Continued training and alignment with our requirements.
+
+We engage suppliers on specific projects to achieve these mutual benefits and generate positive outcomes for both current and future products.
+
+Our supplier network is an important pillar in our business continuity to manufacture and deliver safe, efficient, and reliable products for our customers.
+
+Transportation decarbonization Our facilities team is committed to supporting sustainable transportation options.
+
+We host EV charging stations across our U.S. sites and offer transit passes, bike facilities, and shower amenities, to support employees using sustainable modes of transportation.
+
+Our employee transportation programs have helped avoid 419.63 MT of CO2 in 2022.
+
+We’ve also seen an 86% increase for unique EV driver connections in 2022.
+
+Water conservation We are increasing efforts to reduce our water footprint, with a focus on efficiency and minimization across our operations.
+
+In 2022, we formalized our commitment to implement the following programs and improved practices targeting water conservation.
+
+Moving forward, our goal is for all new facilities to meet these requirements.
+
+Outdoor water use: Nonpotable water is used for irrigation demand where possible and 100% for native adaptive landscape planting.
+
+Indoor water use: Reduction in indoor potable water use.
+
+Rainwater management: Rainwater retained on site where appropriate.
+
+Intuitive ESG Report 2022 Environmental Management System An Environmental Management System (EMS) is a framework that helps an organization achieve its environmental goals through consistent review, evaluation, and improvement.
+
+Through our EMS, we’re able to address regulatory requirements and environmental performance in a systematic and cost effective manner.
+
+This proactive approach can help reduce the risk of non compliance and improve sustainability standards that benefit our employees and the public.
+
+Our approach to environmental management is certified with the ISO 14001:2015 version standard.
+
+Currently, three of our sites Sunnyvale, Aubonne, and Mexicali have ISO 14001:2015 certified management systems.
+
+Carbon inventory numbers have a one year reporting lag.
+
+Data from 2022 will be assured and reported in the 2023 ESG Annual Report.
+
+In the upcoming sections, we outline our work on key social responsibility topics ranging from employee wellness, expanding access to training, and global education outreach, to advancing inclusion and diversity (I D).
+
+We set our social responsibility initiatives to serve our employees, patient communities, healthcare providers, and communities in which we live and work.
+
+Intuitive ESG Report 2022 Advancing I D for a more equitable future Our mission of I D is to build an inclusive, equitable, and diverse environment where every individual can belong and flourish in our company and the communities we serve.
+
+We believe everyone should feel included and fairly treated, and we embrace the unique qualities that make people who they are.
+
+I D leadership In alignment with the vice president of global inclusion and diversity, the I D Council is a key driver for our I D goals, strategy, and progress.
+
+Established in 2016, the I D Council is composed of cross functional leaders engaged in building our culture of inclusion.
+
+I D strategy We believe that inclusion, diversity, and fair treatment should be integral to how we engage and support our employees, communities, and customers.
+
+We have a four part strategy to guide our progress, including a diverse workforce, inclusive experience, fair practices, and industry engagement.
+
+Diverse workforce As part of our I D strategy, we strive to increase leader and employee representation to fuel innovation and better mirror the patients our customers serve.
+
+This includes diverse talent sourcing, strengthening our hiring process rigor and training, and thoughtful succession and talent planning.
+
+Diverse talent sourcing At Intuitive, we’re focused on embracing diverse experiences and perspectives at every level.
+
+While diversity has always been an essential pillar in our recruitment strategy, in 2022 we expanded our capabilities to recruit and hire top candidates from traditionally underrepresented groups in our full time, contingent worker, and intern populations.
+
+Our internship program also provides mentorship opportunities for existing employees.
+
+Strengthening our hiring process rigor and training In 2022 we introduced a required License to Hire training for hiring managers and interview teams.
+
+This on demand training includes ways to prevent bias in the interview process, as well as how to apply consistency and rigor in candidate selection.
+
+We also implemented new systems and practices to increase the diversity of candidate slates and streamline our interview practices to improve the diversity of our talent pipeline and enhance the interview experience.
+
+Intuitive ESG Report 2022 Inclusive experience We strive to create an environment in which employees from all backgrounds feel welcome, supported, and valued.
+
+This includes providing development opportunities for employees at all levels, supporting ERGs for underrepresented identities, inclusion training and education, leader support, thoughtful facilities planning to ensure an accessible experience for all employees, and offering compelling benefits that are oriented to the needs of our workforce.
+
+As part of those efforts, in early 2022, we conducted a U.S. census campaign to encourage employees to share updated and expanded self ID information to optimize our I D investments and reporting.
+
+Global talent As part of our active listening strategy, we surveyed all employees in 2022, generating an 89% response rate and over 6,000 comments.
+
+Overall, scores reflected strong employee engagement.
+
+We offer a diverse suite of learning opportunities to support employees at all levels perform at their best, prepare for future roles, and nurture company culture.
+
+This ranges from brief on demand virtual training to multiday in person leadership development workshops.
+
+As part of our commitment to building strong, inclusive leaders, in 2022 we rolled out the Manager Acceleration Program (MAP) designed to equip our people leaders with fundamental leadership skills to accelerate leadership success.
+
+MAP is delivered over a twelve month period through in person, virtual and on demand learning.
+
+For our employees, we offered both broad and targeted learning opportunities, including robust learning journeys and networking opportunities.
+
+We have robust annual global performance and compensation planning processes for reviewing all employees’ performance and pay.
+
+As part of this process, Intuitive supports career development and growth through annual Talent Action Planning where employees are encouraged to work on specific and targeted talent development actions with the support of their leaders.
+
+This process enables employees to work on the development actions needed to grow in their current role, as well as prepare them for future roles aligned to their career interests.
+
+To support our managers, we train them on conducting effective career conversations, performance reviews, and making fair and equitable compensation recommendations.
+
+Compensation guidelines are provided to leaders, which take into consideration market pay data and performance, as well as experience in an employee’s respective role.
+
+In 2022, we strengthened our internal promotion process including the role of people managers.
+
+Embracing historically underrepresented racial ethnic groups in the U.S. We provide extra focus and investment to support traditionally underrepresented and marginalized communities, including women, people of color, members of the LGBTQ community, military veterans, and employees with disabilities.
+
+We do this through our volunteer led ERGs to create spaces for community building and provide support for employees from traditionally marginalized groups.
+
+ERGs host events to cultivate an inclusive culture, provide education and awareness, and support recruiting and retaining employees from diverse backgrounds.
+
+In 2022, ERG membership grew by 60% and our I D team provided additional support for ERG leaders via a 1:1 coaching program.
+
+We've also engaged with industry groups to bring benchmarking and focused expertise to advance our inclusive practices.
+
+Intuitive ESG Report 2022 For our Black community, our ERG, Brave Leaders and Allies for the advancement of Community through Knowledge (BLACK) at Intuitive, supports our commitment to excellence and growth without limits by enhancing opportunities for engaging, retaining, and advancing our Black employee base, as well as recruiting qualified prospective Black talent.
+
+The BLACK at Intuitive ERG leadership team met in June 2022 in Atlanta, Georgia, to celebrate Juneteenth and reflect on the team’s progress and strategize their path forward.
+
+Speakers, breakout sessions, and team building focused on how BLACK at Intuitive members can leverage their unique experiences to enhance their careers, accelerate the hiring of diverse talent, and drive systemic change at Intuitive and beyond.
+
+Members of BLACK at Intuitive also joined our talent acquisition team at the Black Virtual Career Fair and National Sales Network conference to help engage more Black candidates with our company.
+
+For Asian Pacific Islander employees, the Intuitive Pan Asian Community (InPAC) ERG is a place for employees across cultures to connect, find support, build community, share cultural celebrations, and advance professional development.
+
+The group supports Intuitive’s work, employees, and culture by helping its members realize their full potential, developing future leaders, and sharing InPAC members’ cultural heritages with fellow employees.
+
+In 2022, InPAC invited all employees to celebrate Asian American Pacific Islander (AAPI) month by hosting a boba social and haiku contest.
+
+They also held a Diwali celebration with more than 450 employees celebrating Indian culture, food, and dance.
+
+Intuitive ESG Report 2022 Our Hispanic and Latinx employees formed a new ERG in 2022, HOLA (Hispanic Origins and Latinx Advocacy).
+
+The group brings together our Hispanic and Latin American community to support a sense of belonging and camaraderie, providing a representative voice that shapes our culture and strategies for building diverse, authentic, and high performing teams.
+
+HOLA promotes and elevates its members through collaboration, development, mentoring, and networking, creating a corporate culture that will attract more Hispanic and Latin American talent.
+
+In 2022, the HOLA ERG provided various programs to celebrate Hispanic Heritage Month (September 15 October 15) to honor Hispanic and Latinx communities’ culture, contributions, and achievements worldwide.
+
+Throughout the month, our employees engaged with activities and events around the theme: Unidos (United).
+
+HOLA members joined our talent acquisition team at the Society for Hispanic Professional Engineers conference to build our brand and attract candidates within this technical community.
+
+Supporting employees with disabilities At Intuitive, we strive to create an accessible, inclusive, and vibrant culture that values people with disabilities.
+
+In 2022, the DEI recognized Intuitive as a best place to work for disability inclusion.
+
+This comprehensive benchmarking tool helps companies build a roadmap to achieve disability inclusion and equity in the workplace.
+
+In 2022 we sent a group of representatives to the Disability:IN annual conference, engaging on topics including supplier diversity, accessibility, recruiting, and ERG support.
+
+Our Diverse Abilities ERG also drove community building by celebrating National Disability Employment Awareness Month in October.
+
+Across Intuitive, this month allowed us to focus on the contributions of employees with disabilities and promote understanding, compassion, and respect for those with visible and nonvisible disabilities in our company.
+
+With activities throughout the year, our Diverse Abilities ERG strives to promote an inclusive workplace where our culture and practices support recruiting, retaining, and advancing people with disabilities at Intuitive globally.
+
+Supporting the LGBTQ community For our LGBTQ employees, our PRIDE ERG organizes events that enable people to connect, embrace unique identities, and participate in local Pride events and conferences such as Lesbians Who Tech with others from our company.
+
+The group seeks to foster an inclusive community for LGBTQ employees, family members, and allies to promote visibility and connection, raise awareness of LGBTQ issues, enable advocates, provide support for those who need it, and help create an environment where employees feel comfortable bringing their authentic selves to work.
+
+In 2022, we had the opportunity to hold an inspiring event featuring Karamo Brown, an author, Emmy nominated host, and culture expert.
+
+The event highlighted methods for ensuring that everyone can recognize, utilize, and embrace their own different identities.
+
+To better support our LGBTQ employees, our facilities team established a new standard for all gender restrooms in new and existing construction.
+
+We also engaged a gender identity consultant to enhance our policies and practices and ongoing 1:1 support for employees transitioning in the workplace.
+
+Intuitive ESG Report 2022 Supporting our veterans We support military veterans across the company, honoring those who defend, serve, and inspire our mission while providing connection, camaraderie, and opportunities to give back to the larger community.
+
+In 2022, our VETS ERG celebrated Military Appreciation Month in May and engaged the broader company in a successful giving campaign for a nonprofit organization supporting veterans and their families.
+
+They continued that spirit of service throughout the year, as well as engaging in recruiting activities at the Cameron Brooks Conference.
+
+Also in 2022, our VETS ERG garnered the Above and Beyond Award by the ESGR Committee in California.
+
+This award is presented by ESGR State Committees to recognize California employers who go above and beyond the legal requirements of the Uniformed Services Employment and Reemployment Rights Act by providing their guard and reserve employees additional benefits such as differential or full pay to offset lost wages, extended health benefits, and more.
+
+This recognition will help in our continuing efforts to attract candidates with current or former military service.
+
+Empowering women At Intuitive, we aim to empower our women employees by instilling a culture that supports women’s leadership.
+
+Our Women Intuitive Network (WIN) ERG and supporting functional groups work to cultivate an environment where all can grow and thrive at Intuitive, with a focus on hiring, developing, retaining, and advancing women.
+
+Responding to the strain that the pandemic created for women, WIN focused its Women’s History Month event on stress and burnout, featuring a guest speaker session for all employees and activating supporting follow up sessions and events throughout the company.
+
+They also drove development events throughout the year, including a 2.5 day curated experience for more than 80 mid to senior level women.
+
+On the recruiting side, we held a virtual event with Power to Fly and participated in the Women Back to Work Virtual Career Fair to build awareness and engagement with women candidates.
+
+Extending community to our customers, our Women in da Vinci Surgery group fosters community building around robotic assisted surgery (RAS) with da Vinci systems.
+
+According to the Women in da Vinci Surgery Facebook page, the forum reaches over 1,200 women, and is hosted by independent women surgeons who perform RAS with da Vinci, with our support for content and discussion moderation.
+
+Intuitive ESG Report 2022 Fair practices We’re committed to openly sharing our I D progress and continuously improving our people practices in representation, pay, equity, and promotion practices.
+
+Commitment to pay equity At Intuitive, we encourage our employees to pursue and achieve the highest standards of performance for themselves and others.
+
+Our policy is to employ, retain, promote, and treat all employees based on merit, qualifications, and competence, regardless of an employee’s gender, race ethnicity, or any other protected characteristic.
+
+If pay disparities are identified, we conduct further evaluation to determine whether remedial adjustments are appropriate.
+
+Fair and equitable pay is integral to our commitment to our employees.
+
+In 2022, we worked with an independent consulting firm to conduct a full pay equity audit for our full time U.S. workforce.
+
+Our review assessed pay on a statistical basis and considered several key factors such as job role and location that can contribute to compensation differences.
+
+Our audit found that pay relative to self identified gender was 0.5% higher for women than men, and pay relative to U.S. self identified race ethnicity was 0.2% higher for white employees than employees of color.
+
+We are proud to have strong pay practices and policies in place that have helped us to achieve this level of pay equity.
+
+Read more about our commitment to pay equity here.
+
+Intuitive ESG Report 2022 Our diversity metrics As part of our commitment to fair practices, Intuitive has published expanded employee U.S. diversity data to help better understand our workforce.
+
+We’ve also posted our U.S. EEO 1 consolidated report, which is an annual report we file with the U.S. government outlining our workforce composition.
+
+Below is our 2022 year end race ethnicity representation.
+
+Figures include all regular U.S. employees with self identified data.
+
+On a global scale, the percentage of women in our workforce continues to experience steady growth, reaching 37.2% in 2022 (up from 35.6% in 2021), with 32.1% of women in manager and director level positions and 25% of women at a VP level or above.
+
+In the U.S., 54.7% of our workforce is represented by people of color (up from 52.7% in 2021), with 44.7% people of color in manager and director level positions and 19.8% of people of color at VP level or above.
+
+Other groups category includes: Native American Alaskan Native, Hawaiian Pacific Islander, and two or more races.
+
+Intuitive ESG Report 2022 Industry engagement We actively engage with the healthcare community, industry organizations, and shareholders to drive positive change.
+
+Engaging with the healthcare community through patient advocacy initiatives We strive to support public health initiatives in collaboration with patient advocacy groups.
+
+The objectives of these projects include increased patient disease awareness, earlier diagnosis through screenings, improved public policy, education on treatment options, and expanded access to care.
+
+One area of focus is on enhancing patients’ use of healthcare screenings.
+
+Since its launch in 2021, we’ve supported the American Cancer Society’s multifaceted Get Screened program that encourages people to schedule regular cancer screening tests.
+
+The pandemic delayed many elective procedures, including cancer screenings, and the program intends to get people back on track with regular screening tests1.
+
+Get Screened highlights the importance of early detection.
+
+It utilizes health systems screening interventions, resulting in 135,000 additional people being up to date with cancer screenings 4,300 breast, cervical and colorectal cancers diagnosed and an average increase of 5 percentage points in cancer screening rates2.
+
+In addition to the American Cancer Society program, we sponsored a program with the Prostate Conditions Education Council to raise awareness and provide screenings to patients at risk of prostate cancer.
+
+Fight Colorectal Cancer Advocacy Summit in Washington, D.C., to raise awareness and educate members about colorectal cancer.
+
+Zero The End of Prostate Cancer Advocacy Summit to raise awareness about prostate cancer and advocate for early detection methods, recommendations, access to care, and coverage.
+
+We also sponsored several initiatives to increase patient education about minimally invasive care options, reaching more than 1.2 million patients worldwide.
+
+Creating a public service announcement and an educational campaign.
+
+From Screening to Surgery with the American Lung Association with the objective of improving early lung cancer diagnosis by increasing lung cancer screening rates, especially among those newly eligible and at high risk of lung cancer and creating a better understanding of lung cancer biopsy and treatment options.
+
+Sponsoring the creation of a robotic assisted bronchoscopy education page on the American Lung Association’s website.
+
+Sponsoring a Fight Colorectal Cancer patient education webinar that explored surgical options for both primary and metastatic colon and rectal cancer and helped prepare patients for what to expect from surgery.
+
+Collaborating with the Colorectal Cancer Alliance for a blog post featuring the patient and surgeon perspective on robotic assisted colorectal surgery.
+
+Metrics associated with efforts carried out in 2021 as reported in the American Cancer Society Get Screened Initiative Impact Report accessed on December 9, 2022.
+
+This metric is associated with efforts beginning in 2021.
+
+Sponsoring Bowel Cancer UK to produce a national patient information video and fact sheet about RAS for bowel cancer.
+
+Engaging with the Taiwan Alliance of Patients’ Organizations through a press conference in observance of World Patient Safety Day, to enhance awareness and shape understanding of RAS among patient group representatives, reimbursement decision makers, and policymakers.
+
+Attended by representatives of the Ministry of Health and Welfare as well as professional associations, the forum focused on drug safety, surgical safety, and vaccine safety, where invited speakers spoke to each topic.
+
+Supply chain diversity, equity, and inclusion We strive to maintain collaborative and trusting supplier relationships and encourage a broad diversity of suppliers to work with us.
+
+We currently verify diversity status of direct tier 1 spend through the supplier self certification form.
+
+Diversity categories include disabled owned, minority owned, women owned, and LGBTQ owned.
+
+In 2022, we implemented an indirect procurement platform capable of surveying and tracking spend with diverse suppliers.
+
+In support of the U.S. Small Business Administration mission, we track spend on small businesses and small business categories such as: small, disadvantaged businesses women owned small businesses historically underutilized business zone (HUB zone) small businesses veteran owned small businesses and service disabled, veteran owned small businesses.
+
+In 2022, we sourced over 50% of our supply chain spend on direct materials from U.S. based small businesses.
+
+Intuitive ESG Report 2022 Employee health and safety At Intuitive, we believe that helping our employees achieve success requires a holistic approach to investing in their health, safety, and well being.
+
+Industrial ergonomics To support our goal of a safe and healthy work environment, we employ ergonomic technology in assessing workplace musculoskeletal disorders (MSDs).
+
+In 2022 we rolled out Velocity EHS Ergonomics to complement our ergonomic and injury illness prevention programs.
+
+Velocity EHS allows sensorless motion capture technology and AI computer vision to assess jobs more accurately for ergonomic risk factors.
+
+This technology has allowed for more comprehensive and accurate MSD risk.
+
+We used the technology to complete 311 ergonomics assessments in 2022.
+
+WorkCare In 2022, we rolled out WorkCare to provide employees and supervisors with a 24 7 resource for managing nonemergency work related injuries, illnesses, and physical discomfort.
+
+This program provides easy access to an occupational nurse for assessment and guidance.
+
+WorkCare also allows employees to see an industrial injury prevention specialist for consultations on stretching, workstation adjustments, and other interventions.
+
+ELSSA program: Mexicali ELSSA (Entornos Laborales Seguros y Saludables Safe and Healthy Work Environments Program) is a voluntary program designed to help companies implement strategies and actions that promote employees’ health, safety, and psychosocial well being.
+
+The program, deployed by Instituto Mexicano de Seguro Social or IMSS (Mexican Social Security Institute), aims to sustain healthy work environments.
+
+ELSSA offers a proactive framework with a focus on promoting a culture of incident injury prevention through training and resources catered to our Mexicali workforce.
+
+Wellness challenges Through group wellness challenges, our employees can participate in activities to increase their well being and build stronger ties with their coworkers while earning up to 100 per week per participant for the group’s chosen charity.
+
+At the end of the challenge, the Intuitive Foundation donates the amount raised to the group’s chosen charity.
+
+In 2022, our employees raised over 416,176 for 23 different non profit organizations through 16 wellness challenges.
+
+WELL certification Intuitive is aligning our facilities to the International WELL Building Institute (IWBI) standards.
+
+IWBI provides an evidence based roadmap and WELL certification process to deliver thoughtful and intentional workspaces that foster a safe, productive, and enjoyable working environment.
+
+With all facilities coming online, we’ll pursue WELL certification requirements for enhanced air quality, water management, lighting design and balance, workstation ergonomics, thermal comfort, noise pollution control, optimization of building materials, promotion of mental health through restorative spaces, emergency preparedness, and other criteria.
+
+Intuitive ESG Report 2022 Intuitive Ventures In 2020, we announced the launch of Intuitive Ventures, a venture capital fund aimed at investing in transformative opportunities that advance positive outcomes in healthcare.
+
+With a focus on accelerating early stage companies working to bring positive outcomes to patients, providers, hospitals, and healthcare systems, Intuitive Ventures continued its portfolio expansion in 2022, aligning squarely with healthcare’s shared ESG mission.
+
+Intuitive Ventures extends our commitment to converging robotic systems, digital tools, and clinical needs to better understand, diagnose, treat, and manage disease.
+
+Intuitive ESG Report 2022 Transparency for our customers and employees Transparency is central to our work and engagement with employees, investors, healthcare professionals, suppliers, regulators, and other stakeholders.
+
+We strive to deliver the best possible quality and reliability for our products by building transparency into all aspects of our business.
+
+Commitment to meaningful evidence Our Global Access, Value, and Economics (GAVE) team has developed an Evidence Navigator tool that summarizes the highest level of evidence available for a given surgical procedure.
+
+Evidence Navigator provides results from a systematic review of peer reviewed literature within a time frame and according to concise inclusion and exclusion criteria.
+
+The results are displayed as forest plots that compare outcomes for a specific surgical procedure (e.g., ventral hernia repair) performed using a da Vinci system against outcomes for an alternative surgical approach, such as laparoscopic or open surgery.
+
+Each summary result is limited to a specific time period and is subject to change as more literature becomes available.
+
+The Evidence Navigator is a slide presentation representing a summary of the meta analysis of the highest level of evidence available specific to a given procedure and published as of a particular date.
+
+Intuitive ESG Report 2022 Design and Engineering Day Design and Engineering Day 2022 offered all employees the opportunity to attend a showcase of in market and emerging products and technologies.
+
+Nearly 3,500 Intuitive employees gathered at our Sunnyvale campus throughout the one day event.
+
+Employees engaged in virtual tours of our active construction sites and product demonstrations of My Intuitive, da Vinci Xi, da Vinci SP, and Ion.
+
+Each year, Design and Engineering Day allows us to celebrate the progress made through the Inventor of the Year and Process Engineering Innovator of the Year awards.
+
+Analytics Fair The Analytics Fair offers another opportunity for the Intuitive community to share innovative approaches to utilizing data to guide decision making and strategy.
+
+In 2022, the seventh annual Analytics Fair included a keynote speaker, executive panel discussion, awards presentation, expo featuring projects from across the organization, and a networking happy hour.
+
+Expanding access to training Our investment in advanced training and professional education starts with our own team.
+
+Our customer trainers undergo a rigorous training program, including ongoing recertification, to ensure surgeons and OR teams are trained to the highest standard every time, everywhere.
+
+Foundational to our ever evolving approach to training is our understanding that improved learning comes from listening to and learning from surgeons and care team members as they experience our products and services.
+
+That feedback loop informs our next generation of training so we can continue to help health professionals gain the confidence needed to use our technology and better help the patients they serve.
+
+Through our offerings, surgeons, physicians, and operating room (OR) care teams learn how to use our technology from experienced trainers and clinical educators at one of our training centers, as well as via a growing library of virtual resources, including online training modules, video instruction, virtual didactic sessions, and simulation.
+
+Technology Training Phase I: Introduction to da Vinci Technology: Before attending a technology training session at an Intuitive training center, our program begins with a comprehensive introduction to our system, tools, and technology.
+
+Technology Training Phase II: da Vinci Technology Training: Following their introduction, surgeons are immersed in a variety of guided product training materials and activities, including in person coursework.
+
+Training Phase III: Initial Case Series Plan: In the third phase, surgeons combine core da Vinci technology training with an introduction to the clinical application of technical skills, through attendance at a TR300 course and or a series of proctor guided cases.
+
+Training Phase IV: Continuing Development: Phase four is based on a central element of our training philosophy: continued development.
+
+We support a surgeon’s training journey, through all stages of their career.
+
+Customized optimization for robotics programs In 2022, we celebrated 11 years of Genesis, our best practice initiative that helps customers realize the full potential of da Vinci technologies.
+
+Through Genesis, we help customers develop efficient and effective robotic assisted surgical programs.
+
+By implementing best practices and identifying areas to optimize efficiencies, surgical teams can improve their resource management and reduce process variability.
+
+Effective system integration and support through: Team training and dry runs to increase the training process and standardization among procedures.
+
+Initial case support and expertise on how to effectively operate the system.
+
+Emphasis on the value of training time, increased repetition and experienced staff, and the services and support options available to hospitals.
+
+Reducing costs to the hospital through: Inventory management.
+
+Increased efficiency and OR flow, which decreases overall OR time and use of unnecessary products and tools.
+
+Improving efficiency by: Assessing workflow and developing lean processes for OR teams and reducing unnecessary tasks and variability among surgical teams.
+
+Increasing system access by: Emphasizing best practices demonstrated at other high performing hospitals.
+
+Identifying where a hospital can optimize schedules and minimize gaps.
+
+We continue to enhance our Genesis virtual offerings and expand our focus to include topics like scheduling and sterile processing, and sponsor virtual live webinar series to provide training on best practices and new strategies to help care teams improve quality, lower costs, and increase patient and care team satisfaction.
+
+We have also collaborated with the Association of periOperative Registered Nurses (AORN), which provides continuing education to its members.
+
+Expanding global access to training in response to COVID 19 Initially started as a way to minimize physician and care team travel during the pandemic, we expanded our regional training centers worldwide for da Vinci Xi, da Vinci SP, and Ion systems.
+
+At the start of the pandemic, we had five training centers across Europe today there are 27.
+
+This expansion included new training centers in the Nordics and our first training center in Spain.
+
+Additionally, to help support Scotland’s National Health Service expansion of access to robotic assisted surgical technology, we are collaborating with the Royal College of Surgeons of Edinburgh to provide a national training hub.
+
+Opened in late 2021, the hub helps Scotland strengthen its robotic assisted technical and system skills training.
+
+In Asia, we expanded our training center network to five sites across China and opened the first IntuFosun corporate training center to meeting high training demand and rapid procedure volume growth in the region.
+
+In 2020, we opened our first training center in Taiwan, and trained 60 surgeons there on da Vinci systems in 2021, and opened our first training center in Thailand.
+
+In Australia, to accommodate state border closures, we expanded from one training site to four.
+
+Intuitive Learning Platform and Telepresence We have developed a variety of technology tools to enhance our training program and give surgeons tools to help serve their patients.
+
+Our flagship product is the SimNow learning system, which helps surgeons focus on developing their skills in a virtual environment.
+
+The pandemic brought a considerable increase in traffic to our online Intuitive Learning platform, and we continue to meet that interest with expanded features, including additional customized training pathways.
+
+We also integrated the platform with our telepresence live streaming capabilities and updated SimNow and hospital learning management (HLM) tools.
+
+SimNow technology helps support surgeons as they hone their skills and identify areas of improvement.
+
+Our telepresence live streaming feature allows surgeon peers, students, and proctors to view procedures performed using da Vinci systems in real time.
+
+Telepresence can allow surgeons to experience surgery as if they were viewing it through a 2D console in the same room.
+
+The ability to remotely observe surgeries will continue to increase surgeon and care team access to distant training and mentoring opportunities.
+
+We strive to provide the right training, in the right place, at the right time.
+
+We value the privacy of our surgeons, which is why our SimNow simulators are not connected to any hospital network.
+
+Advanced Tissue Models We also offer an avenue for training with our Advanced Tissue Models, which provide a realistic tissue experience that replicate the positioning of human anatomy and live tissue behavior to provide a near real experience when learning to use the da Vinci system.
+
+Using the Advanced Tissue Models allows for an increase in training opportunities globally, including resource constrained settings.
+
+In addition, the Advanced Tissue Models utilize animal waste that would otherwise be discarded and do not require controlled substances.
+
+In 2022, approximately 38% of da Vinci training worldwide utilized the Advanced Tissue Models, helping us to meet the growing demand for our training programs.
+
+Using these models facilitates a standardized, reproducible training experience, enabling both the learner and the teacher to focus entirely on skill development.
+
+IRCAD is an acronym for Institut de Recherche contre les Cancers de l’Appareil Digestif, which is French for Institute for Research into Cancer of the Digestive System.
+
+Intuitive ESG Report 2022 AAALAC accreditation Intuitive recognizes that the humane and responsible use of animals in pursuit of our mission is a privilege, and Intuitive treats all animals in our charge with the highest level of care and respect.
+
+Our animal care program is accredited by the American Association for Accreditation of Laboratory Animal Care (AAALAC).
+
+Directed by highly trained veterinary staff, overseen by an Institutional Animal Care and Use Committee (IACUC), and regularly assessed and audited by regulatory agencies, our program is based upon the generally recognized 3Rs reduce, refine, and replace.
+
+Reduce: We seek to continue to reduce the total number of animals needed to perform research and to train physicians through justified, humane, and appropriate use of each animal.
+
+We maximize the use of non animal models and methods in physician training, where possible (e.g., simulation), and is increasing the use of training models derived from animal tissue that is sourced from existing livestock supply chains.
+
+Refine: We continuously works to refine procedures to reduce pain and distress that an animal may experience.
+
+Our IACUC reviews all animal study proposals annually.
+
+The entire animal program and all facilities are reviewed at least every six months as required by the Animal Welfare Act and the National Institutes of Health, Office of Laboratory Animal Welfare.
+
+Replace: Intuitive replaces the use of animals with non animal models and simulation, where feasible.
+
+Research into novel techniques and pathways begin with computer and tissue models prior to any animal use.
+
+IRCAD certification of customer training materials We strive to meet our customers with best in class training and ultimately deliver value through better outcomes for patients.
+
+In 2022, the da Vinci Xi Technology Training Pathway (Phase 2) was certified by IRCAD , a globally recognized minimally invasive surgery training and R D institute based in France.
+
+IRCAD is designated as a comprehensive Accredited Education Institute by the American College of Surgeons and serves over 8,800 surgeons worldwide from all surgical specialties every year.
+
+The IRCAD certification indicates that the da Vinci Xi Technology Training Pathway (Phase II) has met all the criteria and standards required for educating surgeons on the efficient, effective, and safe use of the da Vinci Xi System.
+
+It is milestones like this that continue to elevate the standard of excellence and reliability in our training programs.
+
+Intuitive ESG Report 2022 Intuitive Robotic Center of Excellence Designation from Royal College of Surgeons In 2022, we announced that we have become the largest provider of robotic assisted surgical technology training to be accredited by the Royal College of Surgeons of England (RCS England).
+
+The accreditation awarded to Intuitive across its entire global education portfolio is an internationally recognized hallmark of quality.
+
+RCS England is a world leader of surgical education and provides quality assurance for any surgical training run in the UK and globally.
+
+The accreditation process is a review of the entire surgical education provider, its facilities, resources, and educational portfolio, and is only awarded where there is a clear demonstration of excellence in each of these components.
+
+We are proud that the Royal College of Surgeons of England has recognised Intuitive for the quality of our robotic surgery training and education, which combines technology and skills training with peer to peer learning.
+
+This accreditation gives assurance to the surgical community and to patients that training on this technology is being provided in a safe and standardized approach globally.
+
+Nuha Yassin Consultant Colorectal Surgeon at The Royal Wolverhampton NHS Trust, and Council Member at the Royal College of Surgeons.
+
+Intuitive donates early version of its da Vinci surgical system to Royal College of Surgeons of England In 2022, The RCS England unveiled a da Vinci Si in the atrium of their newly transformed headquarters showcasing the early adoption of robotic assisted surgery in England and a look to the college’s vision for the future of surgery.
+
+Intuitive’s donation of the da Vinci system was facilitated by the Intuitive Foundation.
+
+The donation was supported by the Intuitive Foundation, a charitable organization dedicated to reducing the global burden of disease and suffering through philanthropy, research, and education aimed at better outcomes for patients everywhere, to make the donation to RCS England.
+
+Intuitive ESG Report 2022 7,400 training sessions performed around the globe in 2022, working to provide any surgeon with the opportunity to access our training program.
+
+The da Vinci Si surgical system was unveiled by Professor Neil Mortensen, president of RCS England, in their main atrium as a showcase of the early adoption of RAS in England and a look to the college’s vision for the future of surgery.
+
+The first procedure using a da Vinci surgical system in the U.K. was performed in 2000.
+
+More than two decades later, around 89% of patients undergoing a radical prostatectomy in England have it done robotically .
+
+Our new HQ is visited by the best and brightest surgeons from around the world.
+
+They come to teach, to study, and to exchange ideas.
+
+Surgeons are famously enthusiastic about innovation.
+
+We are early adopters of technology and always curious about how new techniques can enhance and support surgical care to improve outcomes for their patients.
+
+So I am delighted to welcome a da Vinci system to our fantastic new building, to prompt discussion and debate on the future of surgery.
+
+Supporting and innovating through services At Intuitive, the needs of our customers are a key driver in our approach to service innovation.
+
+We build deep understanding of their needs by working closely with them to assess strengths and opportunities.
+
+We incorporate these insights into our Service and Support offerings, which are focused on patient safety, the customer experience, and economic value.
+
+We invest in service innovation to deliver value to our customers aligned with the quadruple aim.
+
+Our OnSite remote diagnostics empower real time system diagnosis and daily proactive system health reviews that minimize disruption and unplanned service events, maximizing system availability.
+
+Remote software updates keep our technology current without the need for an on site visit.
+
+Our 24 7 technical support ensures support when our customers need it, backed by team members with an average of 10 years of hands on system experience.
+
+We stage critical parts close to customers to ensure that service engineers can respond quickly to resolve issues.
+
+Sterile reprocessing training helps maintain reprocessing quality.
+
+Our Advanced Exchange Program provides discounted, rapid replacement of endoscopes due to accidental damage.
+
+The customer portal delivers on demand data and insights to help manage a thriving robotics program.
+
+Perioperative consulting helps achieve operational efficiency and process alignment with our technologies.
+
+These capabilities drive towards the goal of providing a portfolio of services to help maximize robotics program performance and impact, so customers receive the full value of their investment.
+
+Available at: https: www.npca.org.uk content uploads 2021 01 NPCA Annual Report 2020_Final_140121.pdf, 25.
+
+Our Global Services team is committed to ensuring the reliability and uptime of our systems.
+
+This is delivered through a listen, learn, build, and repeat methodology by capturing system performance data, generating insights, and taking action.
+
+We call this the virtuous loop a cycle that enables continuous learning and reliability improvements in both software and hardware.
+
+This focus has enabled more than 99% uptime performance and increasing customer portal engagement, advancing to 13,800 global users in 2022.
+
+Our service team is committed to continuing a tradition of service and support excellence to help minimize disruptions, maximize system availability, and deliver meaningful insights via the customer portal to advance our customers’ robotics programs.
+
+Social responsibility in India As part of our commitment to positively impacting communities around the globe, we extended our ongoing support to Agastya International Foundation (AIF), a leader in creativity based education in rural India.
+
+AIF provides children and teachers access to quality hands on primary education that awakens their curiosity and fosters creative thinking, problem solving, and communication skills.
+
+Through its Mobile Lab Science Centre programs, AIF makes learning fun and engaging through hands on and imaginative activities that are useful and relevant.
+
+In 2022, we distributed 500 education kits to the Young Instructor Leaders (YIL) programs.
+
+These young leaders use the education kits to further train and teach their fellow classmates, creating a peer education environment that is helping to shape future leaders.
+
+The educational kits align with AIF’s mission to spark curiosity, nurture creativity and instill confidence in students when they independently attempt to conduct these activities.
+
+A manual to conduct these educational activities is also provided as part of this kit, along with many templates where students can cut out cardboard pieces and make models.
+
+This initiative caters to students from underserved communities, ensuring that their learning habits are intact and well exercised for the academic years to come.
+
+The mission of the YIL program is to nurture curious, creative, confident, and caring individuals who are aware, anchored, and connected and can become positive agents of change, change makers, and leaders.
+
+The YILs are provided with specialized training on science models and engage in building their capacity and skills in presentation and communication.
+
+This equips YILs for the task of conducting demos at Science Fairs, where they explain scientific concepts to other children.
+
+Learners prove to absorb concepts and information better through their peer instructors without the fear of being reproached, which can eliminate barriers that might exist between an adult and a child.
+
+Young Instructor Leaders are also encouraged to take the initiative in their communities, acting as agents of change.
+
+The YILs have received national attention and have gone on to win National Science Competitions like Intel IRIS.
+
+Intuitive ESG Report 2022 Social Responsibility in Mexico To promote educational excellence and support students embarking on their professional studies, we signed a scholarship agreement with CETYS Universidad, to award six scholarships to promising undergraduate students entering their first year of studies.
+
+CETYS Universidad is an educational institution established in 1961 out of Baja California, Mexico, that supports students across three campuses Mexicali, Tijuana, and Ensenada.
+
+As part of the program, two scholarships are rolled out annually with two scholarships awarded in August 2022, two on the horizon for 2023, and another two in 2024.
+
+The scholarship program allows recipients to complete an engineering program of their choice, and provides support for enrollment, tuition, and medical insurance expenses over four years.
+
+In addition, students selected for the scholarship program will receive internship opportunities when they reach the required academic age.
+
+Students will also have access to mentorship opportunities with our Mexicali leadership team over the course of their studies.
+
+With 80% of CETYS students receiving some form of financial aid, this scholarship program is a small step in the right direction on the path to removing some of the barriers these students face.
+
+By supporting the academic endeavors and professional development of these students, we intend for this scholarship program to produce well qualified candidates that meet society’s hiring demands for diverse STEM talent.
+
+This collaboration between Intuitive and CETYS Universidad is the beginning of a relationship focused on philanthropy and the generosity of the company, where they seek in the medium term to be able to offer more scholarships, including careers in the business management area.
+
+Creating stronger communities For the Intuitive Foundation, 2022 was a year of expanding a global footprint across the areas of philanthropy, research, and education while forming communities and igniting a sense of pride around shared goals.
+
+Community programs in collaboration with the Intuitive Foundation The Intuitive Foundation is proud to support the needs of our communities by providing support to local organizations that align with our mission to promote health, advance education, and reduce human suffering.
+
+Ideas and methods that reduce variability and improve access to healthcare.
+
+Tools and support for the next generation of engineers, physicians, and care teams.
+
+Benevity implementation This year Intuitive introduced Benevity, a charitable donation matching platform that enables employees to amplify their impact on the organizations they wish to support.
+
+This platform helps us better serve our global workforce and expand opportunities for employees outside the U.S. to donate locally in a tax advantaged way.
+
+Benevity has robust international giving and vetting capabilities and is available in multiple languages, allowing for a more inclusive experience.
+
+In 2022, donations through the matching program totaled over 3.4 million.
+
+Humanitarian crisis in Ukraine Following Russia’s invasion of Ukraine, our employees initiated a multiregional giving campaign to assist with humanitarian relief efforts.
+
+Employees in five regions helped identify locally relevant charities and drove awareness of donation matching opportunities.
+
+In aggregate, together with the Intuitive Foundation, we and the Intuitive Foundation donated over 180,000 to nonprofits involved in the humanitarian aid for Ukraine that are bringing food, medicine, and shelter to Ukrainian refugees.
+
+Volunteer matching program We invest in communities where we live and work through direct engagement and providing time, talent, and financial resources to support initiatives aligned with our mission and culture.
+
+Community engagement plays a crucial role in our organization, and we’re proud of our employees who volunteer with nonprofit organizations.
+
+To further our support and amplify the impact of volunteering, Intuitive and, the Intuitive Foundation together launched a Volunteer Matching Program in 2022.
+
+Through this program, the Foundation provides monetary matching to organizations listed in Benevity, where employees volunteer.
+
+For each volunteer hour, a 25.00 (or local currency equivalent) fund match is sent directly to the nonprofit organization where the employee volunteered.
+
+In 2022, we tracked 2,836 volunteer hours, amounting to over 70,700 that benefited 96 different organizations.
+
+Intuitive ESG Report 2022 Enabling access to education through supporting Intuitive Foundation community programs The Intuitive Foundation advances education to inspire students historically underrepresented in medicine to pursue careers in health, science, and medicine.
+
+The Intuitive Foundation supports high quality, community driven education programs that provide students with a fair opportunity to flourish in their learning journey.
+
+BUMMP research apprenticeship program In 2020, the Intuitive Foundation became a proud supporter of the Biology Undergraduate and Master’s Mentorship Program (BUMMP) at the University of California, San Diego.
+
+BUMMP supports low income, first generation college students and students from groups underrepresented in graduate education programs who are interested in pursuing research over an academic year.
+
+The program provides students with funding to reduce the burden of financial strain while gaining exposure to hands on, cutting edge research in lab settings under the guidance of a principal investigator.
+
+Each quarter, BUMPP considers applicants of any class standing and citizenship status for scholarship program participation.
+
+Ted Rogers Memorial Program The Intuitive Foundation established the Ted Rogers Memorial Program in 2022 to support Florida A M students interested in science, technology, engineering, and math (STEM) research.
+
+The Intuitive Foundation is committed to funding five scholarships per year for five years through the program.
+
+In the summer of 2023, we will welcome the first intern from the Ted Rogers Memorial program.
+
+Fort Lewis University Fort Lewis University awards more STEM and baccalaureate degrees to Native American students than any other baccalaureate institution in the nation (NCES IPEDS Data Retrieved Oct 2020).
+
+In 2022, the Intuitive Foundation pledged funding for ten students and ten faculty to engage in mentorship through STEM related research.
+
+Mayo Clinic In 2022, the Intuitive Foundation formalized support for the Mayo Clinic Otolaryngology Head and Neck Surgery Undergraduate Research Internship Program scholarship.
+
+The scholarship is available as a college internship for undergraduate students historically underrepresented in medicine interested in medicine, healthcare, or science careers.
+
+In this 10 week paid internship, students will gain wide exposure to the medical field while gaining research experience with one on one mentoring by a resident physician and faculty team.
+
+Students will be able to shadow surgeons in the clinic and operating theatre, speech and language pathologists, audiologists, nurses, nurse practitioners, and physicians’ assistants.
+
+Tailored to their specific interests, students will gain valuable experience assisting in basic science or clinic research projects across the department.
+
+This program aims to help students create a competitive application for their postgraduate education program of choice.
+
+Promoting STEM education in Mexicali with CETYS Universidad In 2022, the Intuitive Foundation formalized its support for a STEM outreach program out of CETYS Universidad to promote the development of STEM skills and increase opportunities for exposure to STEM education.
+
+The program provides the opportunity to experience the world of STEM from an early start, using strategies known to increase student interest in STEM, such as hands on learning workshops, working as a team on realistic problems, exposure to career professionals, and mentorship.
+
+More specifically, this program is focused on young students and women who do not have readily available resources to engage in STEM learning given the lack of facilities, qualified teachers, or resources in their schools.
+
+Develop a robotics laboratory for the design, prototyping, programming and integration of robots for educational purposes.
+
+Strengthen the CETYS young researchers by increasing project opportunities related to electric vehicles, mobility and smart cities, bioengineering, and artificial intelligence applied to robotics.
+
+Create an open innovation laboratory to incubate solutions for social problems in marginalized neighborhoods across the community.
+
+Launch a training and certification program for teachers and students focused on the topics of automation, control, and robotics.
+
+Organize an annual innovation and design contest to support technological innovation in education and catalyze solutions for social challenges.
+
+FIRST Robotics Intuitive sponsored FIRST Robotics Competition teams had great success during their 2021 22 FIRST FORWARD season the first in person events in two years.
+
+Among the 168 Intuitive sponsored teams throughout the United States, Mexico, Canada, Turkey, and Israel, 56 boasted top scoring robots in regional events.
+
+FIRST (For Inspiration and Recognition of Science and Technology) builds science, engineering, technology, and innovation skills among students ages 4 18 through inclusive, team and mentor based programs facilitated in school or after school.
+
+Intuitive ESG Report 2022 We've supported FIRST since 2006, with sponsorship shifting to the Intuitive Foundation in 2019.
+
+In addition to sponsoring teams, our employees volunteer as mentors and coaches and provide event day support for competitions.
+
+Employees have hosted events for local teams at our Sunnyvale campus, including RoboNanza and an open house where students enjoy system demos and learn about STEM careers.
+
+FIRST teams are an incredible way to make STEM careers more accessible for students of all backgrounds, and I’m so glad that Intuitive recognizes the value in that and does so much to support FIRST teams.
+
+A multiyear longitudinal study measuring STEM related impacts showed 81% of students who participated in FIRST declared majors in STEM fields by their fourth year of college, compared with 58% among a comparison group of students who were not FIRST alumni.
+
+According to the study, which was conducted by Brandeis University and published in March 2021, young women who had participated in FIRST have significant gains in all STEM areas.
+
+Among women FIRST alumni, 51% declared majors in STEM by their fourth year of college, compared to 16% of those in the comparison group.
+
+Khan Academy Intuitive Foundation supports Khan Academy in ushering the next generation of physicians through its free MCAT course.
+
+Approximately 750,000 users prepare with Khan Academy’s free MCAT course annually.
+
+The Intuitive Foundation has made a five year financial commitment that, coupled with the support from the Association of American Medical Colleges, will keep the course free and available to all Kahn Academy users.
+
+Global access and engagement outreach initiatives The Intuitive Foundation is proud to support the needs of communities around the globe to advance education.
+
+We focus on paving paths that increase access to meaningful health and technology education to build and expand capacity.
+
+We work with healthcare teams across the global health ecosystem to maximize the potential for collective impact.
+
+Intuitive ESG Report 2022 Global Surgical Training Challenge Launched in 2020, one of the Foundation’s signature programs, the Global Surgical Training Challenge (GSTC) is inspiring innovation to help expand healthcare access by increasing the number of surgeons worldwide.
+
+Globally, there is a massive shortage of surgeons, especially in low resource countries.
+
+As a result, every year, an estimated 17 million people die who might otherwise be saved.
+
+The program seeks to foster new approaches that can significantly increase the number of healthcare workers who can perform surgery.
+
+With support from Nesta and MITSolve, the program has cast a global net, and identified ten particularly promising ideas.
+
+These ideas all revolve around the thesis that simulation with self assessment will allow trained healthcare workers to add new surgical skills without returning to medical school.
+
+The goal is to create scalable systems that will enable governments and healthcare institutions in low resource settings to rapidly expand the ranks of surgical practitioners.
+
+And in fact, some of these approaches are already beginning to be used around the world.
+
+GSTC finalists In December 2021, the Intuitive Foundation selected four teams to move on to the final phase of the competition.
+
+ALL SAFE, African Laparoscopic Learners Surgical Advancement For Ectopic pregnancy is designing a surgical training model to provide surgeons with the necessary skills and confidence to perform laparoscopic treatment of ectopic pregnancy in resource constrained settings.
+
+The team, based in Ethiopia, is developing a two fold approach, leveraging web based learning with psychomotor skills training in a simulation model that mimics pelvic anatomy.
+
+Our model unifies content within the context of a clinical case that takes the learner from the first encounter with a patient to diagnosis and through postoperative recovery.
+
+Team AmoSmile is designing a surgical training model to teach surgeons how to restore form, function, and feeling through local flap surgery from wounds and defects due to burns, trauma, cancer, and congenital conditions.
+
+The Rwanda based team plans to implement a unique mixed methods approach to surgical training using a simulation platform that will incorporate virtual learning modules and simulations with a low cost, adaptable psychomotor training system.
+
+Treating these conditions with local flap surgery is ideal for low resource settings because surgeons can effectively treat many complex yet common forms of physical, psychological, and societal disabilities while only requiring a small number of surgical instruments.
+
+Intuitive ESG Report 2022 Team CrashSavers out of Guatemala is designing a model for the prehospital setting to teach bleeding control techniques.
+
+Their project involves developing a web based and mobile app integrated with a low cost physical model to train users in hemorrhage control.
+
+The app will teach healthcare providers methods to stop bleeding before a patient arrives at the hospital.
+
+We know that prehospital staff want and need this kind of training.
+
+It is amazing how teaching simple skills like this can help save lives.
+
+Based in Nigeria, the Tibial Fracture Fixation Team is creating a training module that teaches medical officers and surgeons who do not identify as orthopedic specialists how to handle this common fracture.
+
+The team is actively assessing how their 3D printed bone simulation model can be made locally to provide high fidelity orthopedic training.
+
+In my experience, the tibial fracture is the most common fracture.
+
+If these patients are not treated properly, they are at risk of amputation.
+
+In summer 2022, the Intuitive Foundation embarked on site visits to meet with evaluation collaborators and finalist teams.
+
+One of the critical questions they sought to understand is whether the modules are consistently reproducible across different environments and with diverse learners.
+
+Each of the four finalist modules is intended for learners with specific levels of previous training and experience.
+
+Tibial Fracture Fixation, for example, aims to teach nonorthopedic surgeons.
+
+Each module outlines particular standards of what is considered skills competence, measured through peer and self assessment.
+
+Each module features objective, quantifiable measures to assess knowledge, judgment, and manual skills.
+
+The instructions for building surgical simulators and the didactic learning elements are posted on the open source platform Appropedia.
+
+They act as a sort of recipe for users to undertake the training.
+
+Over the last year, the teams have refined their modules to allow users to teach themselves the skills and practice to a level of competence and confidence.
+
+The teams have conducted usability studies of web or mobile apps and ascertained clarity of the instructions to build the simulators, including how easy they were to build.
+
+The critical result is whether the modules allow the learners to progress to clinical practice safely after self teaching only.
+
+Team ALL SAFE, based in Ethiopia with members in Cameroon, Kenya, and the United States, building surgical self training modules for laparoscopic skills, was selected as the grand prize winner of 700,000 (USD).
+
+Team Tibial Fracture Fixation, based in Nigeria, won the runner up award of 300,000 (USD) to continue their work building modules using 3D printing to teach essential fracture management.
+
+Intuitive ESG Report 2022 38 university labs have dVRKs across 11 countries da Vinci Research Kit The da Vinci Research Kit (dVRK) is a community effort supporting research in the field of telerobotic surgery.
+
+Intuitive and the Intuitive Foundation collaborate in this effort by repurposing hardware from retired da Vinci surgical systems to assemble research platforms that explore innovative new concepts in minimally invasive surgery.
+
+This shared research platform supports collaboration across university groups to stimulate and accelerate research.
+
+At present, there are dVRKs in 38 university labs in 11 countries worldwide.
+
+These kits support a range of research, from exploring innovative new ways of performing information and image guided surgeries to developing novel surgical instrumentation, and innovative user interfaces.
+
+Intuitive ESG Report 2022 Robotic Surgery Fellowship grant program The Intuitive Foundation supports Robotics Surgery Fellowships around the world through its annual grant program.
+
+The Intuitive Foundation Robotic Surgery Fellowship grant program provides financial support for institutions, programs, and organizations to provide a hands on clinical experience for students to gain robotic assisted surgical skills after completing a conventional medical residency program.
+
+Fellowship programs provide experience in a specific area of focus or specialty to train primarily in robotic assisted operative techniques and perioperative management, with some time devoted to clinical research in robotic assisted surgery.
+
+In 2022, the Intuitive Foundation supported several Robotics Surgery Fellowships around the world, as depicted by the map below.
+
+Surgeons trained on the use of da Vinci systems in the U.S.
+
+Surgeons trained on the use of da Vinci systems outside the U.S.
+
+Totals published in this 2022 report reflect data that became available to us in 2022.
+
+The counts prior to 2022 included exclusively licensed patents and applications.
+
+The 2022 counts no longer include the exclusively licensed patents and applications.
+
+Intuitive aims to foster a robust ESG governance structure to underpin the long term success of our company and to deliver continuous value to our stakeholders.
+
+Along with the policies and processes we’ve implemented, our approach to corporate governance promotes a culture of transparency and accountability.
+
+Intuitive ESG Report 2022 Board overview Our board of directors provides oversight to ensure that business activities align with our mission, enabling us to put patients first and create enduring value for our customers while maintaining a thriving business and a dedicated workforce.
+
+Our corporate governance structure, policies, and processes serve the needs of our business, our shareholders, and other stakeholders and promote a culture of accountability across the value chain.
+
+For more information about our governance structures and board charters, please see our latest proxy statement filed with the Securities and Exchange Commission (SEC).
+
+Board of directors Our directors are fiduciaries and must exercise their business judgment in the company’s and stockholders’ best interests.
+
+The board reviews our long term strategy, discusses and assesses any risk exposures and how to best manage them, and evaluates our holistic performance, including economic, environmental, and social factors.
+
+Intuitive ESG Report 2022 We value inclusion and diversity at all levels of the organization, within and across our employee base, leaders, and board of directors.
+
+Our board of directors comprises leaders with broad and diverse experience in different arenas, including management of large global entities, technology and innovation leadership, and healthcare experience, both from the clinician surgical perspective and as a healthcare leader.
+
+When evaluating our board’s composition and future membership, we consider candidates who bring deep knowledge and experience in their fields, possess unique and business critical skills, and can provide diverse perspectives regarding business experience, professional expertise, gender, and racial ethnic background.
+
+Maintaining a mix of backgrounds and experience in our board composition is vital, so that we can understand, meet, and reflect the needs of our diverse stakeholders.
+
+Currently, four of our 11 board members (36%) are women.
+
+We have three members (27%) who self identify as Hispanic, Middle Eastern Asian, and or African American.
+
+Governance and Nominating Committee The Governance and Nominating Committee is responsible for matters relating to the corporate governance of Intuitive and the nomination of the members of the board, the lead director (if applicable), and committees thereof.
+
+The role of the Governance and Nominating Committee is to review and assess our performance on environmental and sustainability matters.
+
+Each year, management reports to the Governance and Nominating Committee on sustainability priorities, progress, and future goals and objectives.
+
+Audit Committee The Audit Committee assists the entire board in its general oversight of our financial reporting, internal controls, and audit functions.
+
+It is responsible for the appointment, compensation, and oversight of the work of our independent registered public accounting firm.
+
+The Audit Committee reviews and discusses the annual audited and quarterly financial statements with management and the independent registered public accounting firm and assesses the integrity of the financial reporting process, both internal and external.
+
+The Audit Committee also reviews the qualifications, performance, and independence of the registered public accounting firm and prepares the Audit Committee Report included in our annual Proxy Statement per the rules and regulations of the SEC.
+
+In addition, the Audit Committee discusses policies concerning financial and cybersecurity risk assessment and risk management, including appropriate guidelines and procedures to govern the processes, our principal financial and cybersecurity risk exposures, and the steps management has undertaken to address them.
+
+Compensation Committee The Compensation Committee reviews and approves all compensation programs applicable to executive officers of Intuitive, including salaries, bonuses, and equity compensation.
+
+The Compensation Committee reviews and approves corporate goals and objectives relevant to our CEO’s compensation, evaluates the CEO’s performance in light of those goals and objectives, and sets the CEO’s compensation level based on this evaluation.
+
+The Compensation Committee also approves any new compensation plan, or any material change to an existing compensation plan.
+
+ESG review board Created in 2018, our ESG (previously Sustainability) review board implements our sustainability strategy and targets.
+
+The cross functional committee includes leadership across different business units and functional groups, including medical affairs, legal, human resources, finance, product, investor relations, and our public affairs teams, with our Executive VP of Global Business Services leading the committee.
+
+Throughout the year, the committee sets our sustainability priorities and communicates those priorities to help integrate sustainability principles throughout the company.
+
+I D governance Our senior leaders, I D Council, and vice president of global inclusion and diversity regularly review both quantitative and qualitative measures of our performance.
+
+We track our I D progress by measuring diversity across all levels of our organization, surveying employees about perceptions of their Intuitive work experience, and encouraging employee involvement in I D community building initiatives such as ERGs, training, and events.
+
+Our employee workforce diversity data, including our U.S. EEO 1 report, is published on our website.
+
+Our employee experience survey includes questions about belonging, commitment to I D, fairness, and career development.
+
+We monitor this feedback both in aggregate and by demographic group to look for potential areas of improvement.
+
+Our senior leaders hold quarterly reviews of our information and product security and brief our board of directors on such matters several times a year.
+
+Cybersecurity oversight Our senior leaders hold quarterly reviews of our information and product security and brief our board of directors on such matters several times a year.
+
+We work with various external third party experts to help us monitor our security posture and detect potential security issues.
+
+Were a vulnerability or breach to be detected, our incident response team identifies, investigates, and closes any gaps to minimize risk.
+
+Our quality teams drive continuous improvement through our QMS.
+
+Our QMS is ISO 13485:2016 certified and complies with the Medical Device Single Audit Program requirements and other global regulations.
+
+It consists of a quality manual and procedures that contain specific responsibilities for establishing, implementing, and maintaining our QMS.
+
+Monitoring our QMS includes setting and tracking quality goals and metrics, quality data management reviews, internal and external audits, and corrective and preventive actions.
+
+We regularly evaluate and sharpen our quality management procedures and processes to help our internal auditors be responsive and agile in performing holistic reviews, internally identifying issues, and taking appropriate actions to improve over time.
+
+In 2022, we achieved a completion rate of over 98% for all QMS compliance related employee training.
+
+We work under an EMS framework based on the ISO 14001:2015 standard to set goals, measure progress, and integrate sustainability into our decision making.
+
+Our EMS establishes a standard documentation structure that enables oversight of sustainability targets, yielding higher predictability and reliability across project outcomes.
+
+We also leverage the EMS to engage our employees, where data driven insights on specific sustainability projects are shared with employees through consistent e mail messaging and digital signage in our facilities.
+
+In 2022, we achieved a 99% completion rate for our EMS course.
+
+Regulated Materials management Our aim is to reduce the use of CMR ED substances in our products.
+
+We have standard operating procedures in place to define roles and responsibilities for documenting compliance of materials, parts, and sub assemblies to various Regulated Materials requirements.
+
+Relevant company functions undergo specialized training on these standard operating procedures.
+
+Conflict minerals management We also promote the use of responsibly sourced minerals through compliance with The Dodd Frank Act, which requires disclosure of conflict minerals used.
+
+We file a conflict minerals report annually with the SEC and require that all of our suppliers commit to complying with the Dodd Frank Act in our supplier quality agreements.
+
+We strive to source materials from suppliers that share our values concerning ethics and integrity, respect for human rights, and environmental responsibility.
+
+We’ve implemented a due diligence process that includes evaluating relevant suppliers on the potential use of conflict minerals and the origin of such minerals used in our products.
+
+Will establish a due diligence program to ensure proper monitoring and reporting of the use of conflict minerals in their supply chains.
+
+Respond to the Reasonable Country of Origin Inquiry (RCOI) when requested within a timely manner, in good faith, with the best information available as collected through their due diligence process (which may include inquiries with sub tier suppliers).
+
+Suppliers are requested to utilize the standard Responsible Minerals Initiative, Conflict Minerals Reporting Template for RCOI requests.
+
+Intuitive ESG Report 2022 Objectivity in evidence creation: The science behind evidence based care Our clinical affairs function supports the generation of high quality clinical evidence through collaborative research initiatives with clinicians, hospitals, and medical surgical societies.
+
+Clinical evidence programs and standards Our global Clinical Affairs function consists of medical doctors, biomedical engineers, public health scientists, clinical researchers, data scientists, biostatisticians, medical writers, and more who collectively provide robust, streamlined scientific value for our technologies and products.
+
+The clinical affairs function is responsible for strategic planning and scientific direction of evidence based technology adoption and access to enable robust healthcare decisions.
+
+Examining outcomes data helps generate evidence showing da Vinci’s technological value to patients, physicians, providers, payors, and policymakers.
+
+The clinical affairs function supports early feasibility research, studies for product approvals, and post approval studies such as observational studies, outcomes research, real world evidence studies, and clinical registries across all Intuitive technologies.
+
+These categories of evidence creation comply with various national and international regulations and guidelines, including but not limited to 21 CFR 812, Parts 11, 21, 50, 54, 56, ISO 14155 Directive 93 42 ECC, General Data Protection Regulation (GDPR), and European Medical Device Directive.
+
+All applicable clinical trials are registered and updated on applicable local and regional clinical trial registration databases, such as ClinicalTrials.gov.
+
+Intuitive ESG Report 2022 Supporting collaborative research By actively seeking research collaborations with surgeons, institutions, and societies, we contribute to the body of knowledge about minimally invasive care.
+
+In addition to our collaborative clinical evidence program, Intuitive’s clinical affairs function also supports investigator initiated trials.
+
+This function of independent research is led by investigators outside of Intuitive and is funded and supported by the clinical affairs team.
+
+The Intuitive Foundation also has a research and educational grants program to support clinical and technology developments to further research in the field of surgical robotics.
+
+Publication of results and data transparency We value scientific integrity and that's why we’re committed to publishing all research results in an objective and scientific manner whether they nullify or support our hypothesis.
+
+Since 1998, more than 34,000 peer reviewed publications using our technologies have appeared in various clinical journals, and the number continues to grow.
+
+In 2022, more than 3,000 peer reviewed articles were published.
+
+Publications include randomized studies, systematic reviews, real world evidence analysis, prospective and retrospective comparison studies, and pre clinical studies.
+
+The manuscripts and abstracts generated from these various clinical evidence initiatives supported by Intuitive are based on study design and analyses plans and the scientific datasets follow ICJME guidelines and as per the agreed upon terms in the clinical trial agreements.
+
+Intuitive ESG Report 2022 The Sunshine Act and our commitment to transparency We value the input of the healthcare professionals and hospitals that have collaborated with us in the areas of research, training and education, and product development, and are committed to transparency around compensation or other transfers of value we’ve provided to them.
+
+Transfers of value can include meals or lodging costs associated with educational programs and other lawful courtesies provided in the course of doing business, compensation for consulting services, royalty payments, and others.
+
+We require all employees and company representatives to act ethically and in accordance with all applicable laws and regulations, including the Physician Payments Sunshine Act (Sunshine Act), implemented as part of the Patient Protection and Affordable Care Act (Section 6002).
+
+Anti bribery, anti corruption, and ethical business conduct We believe that every employee is responsible for safeguarding our company’s reputation by acting ethically and with integrity.
+
+An ethical culture aligns with our leadership expectations.
+
+One of those expectations is to lead by example, and we strive to achieve that each day.
+
+We engage and educate employees on ethics in a number of ways, including through our code of conduct, annual review process, employee training, and communications.
+
+We have a formal disclosure document that outlines the requirements and processes we’ve developed and use to maintain the highest standards of business conduct when interacting with healthcare professionals.
+
+This disclosure has been published on our website and can be found here.
+
+Our global code of business conduct and ethics policy provides guidance to employees and can be found here.
+
+We abide by all applicable anti bribery laws in the countries in which we operate.
+
+This position is also reflected in our policies and contracts with distributors and suppliers, where we require our employees, distributors, and suppliers to comply with applicable anti bribery and anti corruption laws and regulations.
+
+We also define expectations and requirements within supplier facing documents in accordance with various human rights regulations.
+
+Intuitive also defines expectations and requirements within supplier facing documents in accordance with various human rights regulations.
+
+Our supplier code of conduct is published on our corporate website here.
+
+To address compliance concerns, we use the Intuitive ComplianceLine as a secure and anonymous channel for all employees, contingent workers, customers, third party agencies, and others to anonymously report suspected violations.
+
+Throughout each year, we issue periodic reminders to employees of their obligation to raise concerns related to ethics and compliance via the ComplianceLine and other channels.
+
+Compliance training Our compliance training and policies on anti bribery, anti corruption, and ethical business conduct are regularly reviewed and updated.
+
+Training on our code of conduct and business ethics policy is available in eight languages: French, German, Spanish, Korean, Japanese, Chinese, Dutch, and English to facilitate understanding throughout our global workforce.
+
+The training covers our expectations and requirements regarding inclusion and diversity, anti bribery and anti corruption, harassment and discrimination prevention, and safeguarding data and data privacy.
+
+Our compliance training was completed by more than 99% of our employees within 60 days of assignment in 2022.
+
+We require all global employees to complete this important training at the time of hire, annually, or as local regulations require, and each employee must demonstrate knowledge and awareness through an end of course assessment.
+
+Internal controls To help monitor compliance by the third parties with whom we conduct business, we perform periodic audits for compliance with anti bribery and anti corruption laws.
+
+Moreover, we continually refine our internal controls, including strengthening training and certification requirements of third parties with whom we work.
+
+Intuitive ESG Report 2022 Tax transparency Our commitment to tax transparency is embodied in our global tax policy statement found here.
+
+Service, security, and trust We envision a future where patient care is more connected, customized, and intelligent for hospitals, care teams, and their patients.
+
+In support of this, our goal is to protect any information we’re entrusted with.
+
+In compliance with medical device regulations, our cybersecurity systems and processes adhere to global industry standards based on the National Institute of Science and Technology (NIST) and HITRUST guidelines.
+
+Furthermore, our information security management system is certified to the International Standards Organization (ISO) 27001 framework.
+
+Throughout the product life cycle, from initial concept through end of life disposal, we pay careful attention to data types and flow, encryption mapping, and risk controls.
+
+We reinforce protection by staying abreast of emerging threats and performing aggressive testing, continuous proactive monitoring, and ongoing vulnerability analysis and patch deployment.
+
+Mandatory employee training on security policies, data protection, and security awareness.
+
+Review of risk notifications provided by global threat intelligence resources followed by appropriate action as required.
+
+Remote access protection to control access to our network, applications, and data.
+
+Advanced technology tools for cyberthreat management.
+
+Privacy and data protection for online meetings, webinars, and other virtual collaboration activities.
+
+Intuitive ESG Report 2022 Information security training program All employees receive training on information security policy on an annual basis in addition to on going training that includes a variety of topics from phishing exercises to reminders regarding global data privacy laws in effect.
+
+In addition, we have on demand continuing education courses that are focused on information security and business process alignment.
+
+While we’re proud to look back on our accomplishments and nearly three decades of advancing what’s possible in minimally invasive care, we’re even more excited to build what’s needed next.
+
+Looking ahead, we recognize that our ESG efforts are part of a long term venture that will require agility and continuous improvement.
+
+The initiatives highlighted in this annual compendium will serve as a thread we can expect to follow in the years to come.
+
+As we continue on our ESG journey, we will make important strides in decarbonization to address the needs of our customers, our employees, our business, and the communities in which we live, work, and serve.
+
+Integrating ESG principles across key areas of work will allow us to provide value added solutions for our customers.
+
+Furthermore, using best practices and innovation as our guideposts, we aspire to elevate ESG results in healthcare.
+
+Thank you for your interest in our 2022 ESG report.
+
+Please direct any inquiries to sustainability intusurg.com.
+
+Climate Related Governance Disclose our governance around climate related risks and opportunities.
+
+Describe the board’s oversight of climate related tasks and opportunities The Governance and Nominating Committee of the Board of Directors under the direction of the entire Board oversees our sustainability and Environmental, Social, and Governance (ESG) strategy.
+
+Similarly, the Audit Committee of the Board of Directors oversees our climate related risks.
+
+In parallel, the Governance and Nominating Committee and Audit Committee report to the overall Board of Directors on these topics.
+
+The image below depicts the decision system for climate related financial risk assessment and management at Intuitive.
+
+The dark grey boxes signify teams preparing content.
+
+The light grey boxes signify implementation ownership.
+
+The Governance and Nominating Committee of Intuitive’s Board of Directors meets quarterly, and reviews ESG topics at least twice a year.
+
+Sustainability and ESG topics are guided by a formal agenda set by the.
+
+Senior Director and Head of ESG and are aligned with input from the ESG Executive Review Board.
+
+Typical agenda topics may include reviewing ESG topics, including climate policies, practices, and priorities related to monitoring and managing our carbon footprint, reporting requirements, climate related goals, progress on social responsibility programs, environmental regulations, and a host of other governance items.
+
+Intuitive ESG Report 2022 In addition, recommendations from the Internal Audit and Risk Management teams on various risks are presented to the Audit Committee.
+
+Agenda topics may include recommendations and updates from third party experts, on emerging regulations, industry trends, standard practices, and more.
+
+The Head of ESG ensures that ESG related risks are noted, and that plans are created to mitigate such risks.
+
+The Head of ESG also reports such risks and mitigation plans to the Governance and Nominating Committee.
+
+Ultimately, the ESG team is directly responsible for collating, reporting, and monitoring sustainability and ESG activities, risks, and management actions while regularly briefing and aligning with the ESG Executive Committee Review Board and Board of Directors’ Committees on these items.
+
+The ESG team is also responsible for external reporting of our ESG activities.
+
+Management is responsible for the execution of sustainability and ESG activities, risk identification and mitigation (see management section below in 1B for additional details).
+
+For more information about our governance structures and board charters, please see our latest proxy statement filed with the Securities and Exchange Commission (sec.gov).
+
+Describe management’s role in assessing and managing climate related risks and opportunities.
+
+Climate risks are identified by individual functions and then collated by the ESG team.
+
+The management functions and teams listed below perform various activities that help aid in the assessment, development, review of climate related risks, and implementation of mitigation strategies.
+
+These groups work together on cross functional program and initiative development, and the Head of ESG acts as a conduit between groups.
+
+Risk assessment: Our Internal Audit team performs an annual risk assessment to help identify significant risks to the company and develops a related annual audit plan.
+
+This process begins by identifying risks through interviews with leaders across the organization and then ranking those risks in terms of their impact and likelihood.
+
+The Internal Audit team uses this output to identify areas where Internal Audit and the Audit Committee currently don’t have oversight and to develop future potential projects.
+
+Opportunity development: The ESG function works collaboratively and cross functionally to measure and monitor environmental, social, and governance matters and develop opportunities for ESG risk mitigation, including those for climate risks.
+
+Our ESG team includes specialists in carbon management, environmental regulations, regulated materials, ESG metrics, and reporting.
+
+Key areas of work for the ESG team include carbon footprint assessment, carbon plan and goals, overall climate risks to company, social responsibility initiatives, and communicating with internal and external stakeholders, including regulatory agencies, customers, employees, and shareholders.
+
+Key business collaborators on climate risk assessment include Financial Services, Legal, Internal Audit, Risk Management, Supply Chain, Product Operations, Regulatory, Facilities Management, and Workplace Services and Investor Relations.
+
+Intuitive ESG Report 2022 The Head of ESG is directly responsible for developing and monitoring our ESG activities and creating and executing plans toward climate related goals and other reporting metrics developed by the Global Reporting Initiative (GRI).
+
+The Head of ESG’s annual performance goals are tied to this responsibility.
+
+Review: Intuitive’s ESG Executive Review Board includes our Chief Medical Officer, General Counsel, Chief Financial Officer, Chief Human Resources Officer, Executive Vice President of Product Operations, Vice President of Global Public Affairs, and Executive Vice President of Global Business Services the ESG Review Board meets at least quarterly with the Senior Director Head of ESG and ESG team to review progress and execute its role.
+
+The Senior Director Head of ESG manages, coordinates, and presents updates on progress towards environmental sustainability and climate action.
+
+Opportunity implementation: Numerous functional and management departments and teams are responsible for the execution of sustainability and ESG risk mitigation.
+
+Global Business Services teams have responsibility for our facilities, facility maintenance, and the overall workplace environment.
+
+Global Operations teams assess and manage supply chain related climate risks, including development and implementation of Intuitive’s Business Continuity Plan (BCP).
+
+The BCP takes into consideration the operational and financial related risks for various scenarios, such as supply chain interruption and disruptions at manufacturing locations.
+
+Product Operations team is responsible for the design, development, and manufacture of our products.
+
+In addition to those listed above, numerous key business functions and departments work with the ESG team to measure and monitor our environmental impact, and to set goals and implement policies, and programs to target carbon output reduction.
+
+Compliance Committee: The cross functional Compliance Committee oversees Intuitive’s compliance with applicable laws, including those related to ESG.
+
+The Compliance Committee is also charged with protecting the Company’s reputation and integrity.
+
+The Compliance Committee works both independently from and in conjunction with relevant functions across the business to help oversee compliance with applicable laws and coordination of our ESG activities.
+
+Climate Related Strategy Disclose the actual and potential impacts of climate related risks and opportunities on our business, strategy, and financial planning where such information is material.
+
+Describe the climate related risks and opportunities we have identified over the short, medium, and long term.
+
+Physical risk from extreme weather patterns: Extreme weather presents a risk to operations at Intuitive site locations as well as direct and indirect material suppliers.
+
+The threat of hurricanes, wildfires, or severe weather all have the capacity to disrupt critical supply chain elements.
+
+We expect these extreme weather events will increase both in severity and frequency and remain a medium and long term risk to Intuitive as they do to businesses.
+
+In the U.S., our Atlanta, Georgia, location is susceptible to hurricanes, and our Sunnyvale, California, headquarters are susceptible to wildfire smoke and air quality deterioration.
+
+In Europe, our regional offices are susceptible to extreme weather (cold) and in Mexicali, our location is susceptible to extreme weather (heat).
+
+Supply chain production capacity risk from regulations in supply chain: New and or stronger air quality and emissions standards present potential challenges to our supply chain.
+
+These regulations may require direct and or indirect material suppliers to reduce or even halt production on certain high emission products to ensure compliance.
+
+This presents a risk to our supply chain if the sourcing of this product component is constrained or sourced from a single source, particularly acute for sterilization suppliers in California.
+
+Financial risk from increased raw materials costs and subsequent pressure on profit margins caused by climate related factors (energy cost): There are a variety of upward pressures on cost and margins stemming from climate related factors.
+
+Energy costs have increased greatly in recent months, leading to significant uplifts in the cost of raw materials, transportation, and general operations.
+
+These costs must be either absorbed into margins or passed to the end customer, which presents a cascading effect through our entire supply chain.
+
+Market risk driven by changing investor and customer behavior attributed to perceived climate risk: Some investors and customers are placing new or increasing more emphasis on climate related considerations when doing business.
+
+This includes an examples is expectation on carbon reduction initiatives and associated disclosures.
+
+Investors and customers are increasingly adding climate risk and climate mitigation as one of their decision criteria.
+
+If we cannot meet investor expectations, we may face challenges accessing capital and or share value could decline.
+
+Competitive risk from new market entrants that employ carbon or climate initiatives that change or shift customer preferences: As new market entrants continue to emerge into the robotic assisted surgical space, customer behavior has the potential to be influenced by our carbon and or climate initiatives and disclosures.
+
+Intuitive ESG Report 2022 Operational risk from new or emerging carbon pricing regulations in our direct operations and in our supply chain: New or emerging regulatory requirements may impact our ability to source materials used in our products, as well as impact the cost of materials.
+
+Short term: In 2023, we will evaluate opportunities to reduce our carbon footprint over the long term, taking into consideration our mission, strategy, and priorities.
+
+We will start with areas that improve our carbon footprint while improving operational efficiency and reducing cost.
+
+Areas for consideration could include use of renewable energy, transportation of product via more energy efficient means, and changes in certain product packaging to reduce plastic and paper use.
+
+These efforts will likely reduce our operating cost, increase value of fixed assets, benefit our workforce, and reduce our exposure to future fossil fuel price increases.
+
+We are expanding its climate related disclosures, such as responding to the Carbon Disclosure Project (CDP), which will enhance our ability to respond to investor and customer inquiries.
+
+Medium and Long Term: We have adopted an integrated campus approach, where we can co locate certain functions, including manufacturing, engineering, commercial operations, customer and sales training, and various administrative areas.
+
+Co locating our teams into these hubs, located in geographies where we can support our customers locally, can help reduce our environmental impact and create efficiencies in supply chain access, customer training and support, and customer service.
+
+The buildout of these campuses is a multiyear effort that began in 2020.
+
+We have identified several medium and long term climate related opportunities, which may reduce emissions and improve overall supply chain resiliency, efficiency, and cost.
+
+These opportunities could involve product design and sourcing initiatives that address both proactive climate initiatives and sustainability and climate risks.
+
+These opportunities require multiyear plans and must be done in the context of our mission, strategy, and priorities.
+
+Describe the impact of climate related risks and opportunities on our businesses, strategy, and financial planning.
+
+We measure value creation through our customers’ lenses and in alignment with our goal of delivering on the Quadruple Aim: better clinical outcomes, improved patient experiences, improved care team experiences, and lower total cost to treat per patient episode.
+
+Within this context, improvements in operating efficiency and cost reduction is critical to better serve our company and customers.
+
+The impact of climate related risks and opportunities are integrated in our growth strategy and financial planning.
+
+For example, our board of directors and executive team focus on emissions reduction opportunities that also enhance operating efficiency and cost reduction over the long term.
+
+Intuitive ESG Report 2022 At functional levels of the company, specific projects being carried out across global teams to investigate dual sourcing, low cost manufacturing, and supply chain resilience opportunities that may inform the product design and manufacturing process in the long run.
+
+For products and services: Climate change risks will potentially impact our products and services in a variety of ways, such as: supply chain disruptions, financial pressure from increased costs of raw materials and energy, regulatory risks, and severe climate related weather events.
+
+This could present challenges to customers in the form of product availability and price competitiveness.
+
+Supply chain direct and indirect sourcing: We manage a highly complex supply chain that is subject to climate related risks.
+
+These risks include regulatory risks which could impact production capacity of suppliers, physical risks from climate related extreme and adverse weather events, and financial risks from increased raw materials and energy costs.
+
+These risks could also present challenges in the ability to source and manufacture products to meet customer demand.
+
+Facilities and manufacturing physical footprint: We have a global corporate and manufacturing footprint across a global network of key collaborators.
+
+The decisions to build or move facilities or operations will be impacted by climate related risks and will take into consideration the mitigation of these risks.
+
+Operations (energy): Impacts of climate related risks include leveraging more sustainable energy sources to power business operations (part of our carbon plan).
+
+This includes considerations around the most efficient means of logistics transportation, using renewable energy sources such as solar to power buildings, and looking to reduce dependencies on high carbon energy sources throughout the supply chain.
+
+Impact of climate related opportunities on our businesses, strategy, and financial planning: In 2023, we are creating a carbon plan that will ultimately deliver the decarbonization target calibrated with science based target setting principles.
+
+In the plan, detailed carbon mitigation efforts will be identified.
+
+The plan will also include climate risk scenario analyses that will inform our business strategy and financial planning going forward.
+
+Describe the resilience of our strategy, taking into consideration different climate related scenarios, including a 2 C or lower scenario.
+
+In 2022, we completed a full scope (scopes 1, 2, and 3) Greenhouse Gas (GHG) carbon inventory, as disclosed on page 19 of this report.
+
+Scopes 1 and 2 have completed the validation process.
+
+The scope 3 inventory has been completed and is undergoing the validation process.
+
+An amendment to the section on Scope 3 will be available at the end of Q1, 2023.
+
+In 2023, we will create our carbon plan that seeks to deliver the decarbonization target, set in alignment with science based target setting principles, for scope 1 and 2 emissions in the short term and scope 3 emissions in the long term.
+
+Climate Related Risk Management Disclose how we identify, assess, and manage climate related risks.
+
+Describe our processes for identifying and assessing climate related risks.
+
+Additional details for the key management functions are elaborated below.
+
+To summarize, climate risks are identified by individual functions (see below) and then collated by the ESG team.
+
+The ESG team regularly briefs and aligns with the ESG Executive Committee Review Board and board of directors' committees on these items.
+
+The ESG team is also responsible for external reporting of the Company’s ESG activities.
+
+Management is responsible for the execution of sustainability and ESG activities, risk identification, and mitigation.
+
+In additional, several groups help fine tune approaches to address any identified risks.
+
+Internal Audit in Finance: Our Internal Audit team performs an annual risk assessment to help identify and manage business risks.
+
+The Head of Internal Audit interviews senior leaders across our key business functions, to understand their perspective on the current and potential future risks to the company.
+
+In addition to obtaining senior leaders’ general feedback on risks, leaders are asked to review a prioritized list of risk categories and rank them in terms of potential impact to the company (based on severity of risk and likelihood of occurrence).
+
+Additionally, the Internal Audit team leverages the feedback and report to help determine Internal Audit projects for the upcoming quarters.
+
+These findings, both the qualitative feedback and the quantitative rankings, are summarized in a report shared with both Senior Leadership and the Board of Directors Audit Committee.
+
+Risk Management in Finance: We continue to see a direct or indirect impact from natural hazards like drought, wildfires, floods, severe storms, hurricanes, and other weather related events.
+
+The financial consequence of the severity of these events could be significant if we are not prepared.
+
+Our risk assessments help in analyzing the company’s climate related risks based on their impact versus likelihood, followed by a business impact assessment to help score and prioritize critical operations and processes for practical actions and timely distribution of resources.
+
+We leverage these assessments to derive the financial and operational impact of climate related risk, which can lead to business interruption.
+
+We also work with climate risk experts and consultants from time to time for guidance on existing and emerging risks associated with climate change.
+
+Supply Chain Risk Management in Global Operations: Our Business Continuity Plan takes into consideration the operational and financial related risks for various scenarios, such as supply chain interruption and or disruptions at manufacturing locations.
+
+The team conducts a business interruption assessment annually to validate the level of insurance coverage purchased.
+
+This evaluation includes an analysis of the financial metadata for each manufacturing location, gross revenues minus variable costs to determine profit, and any reductions to be considered for the redundancies established.
+
+Insurance coverage: Where commercially available and cost effective, a moderate amount of financial risk is offset by purchasing and maintaining relevant insurance, such as business interruption insurance.
+
+Case studies are done for specific sites to assess the cost of operational disruption and the impact it will have on company revenue and gross margin.
+
+Finished goods (FG) inventory: General risk management for climate and regional issues leverages FG inventory for short term buffering.
+
+We hold approximately 8 to 12 weeks of FG products in our networks depending on the criticality and life cycle of the parts.
+
+This buffering strategy is driven through our executive quarterly meeting.
+
+We are also driving multiplant strategies along with dual sourcing and buffering on components to ensure FG production.
+
+We have conducted several risk mitigations audits, assessments, as well as preventive and mitigative actions and activities, and are aware that more work can be done in these areas.
+
+We are committed to continuing to invest resources to continue to build a resilient program that builds a more flexible inventory and addresses any gaps in insurance coverage.
+
+Describe our processes for managing climate related risks.
+
+To summarize, climate risks are identified by individual functions (see below) and then collated by the ESG team.
+
+The ESG team regularly briefs and aligns with the ESG Executive Review Board and board of directors' committees on these items.
+
+In addition, the Internal Audit team performs an annual risk assessment process to identify current and future risks to the company, and there is a category that currently includes climate related risks.
+
+Going forward, climate related risk will be a dedicated category.
+
+In addition to this formal process, the Internal Audit team regularly holds informal discussions with leaders to discuss changes in the business and macro environment to identify if any updates to the audit plan are warranted.
+
+Based on these conversations, there is an opportunity for the Internal Audit team to learn about and prioritize projects related to climate change.
+
+Describe how processes for identifying, assessing, and managing climate related risks are integrated into our overall risk management.
+
+Here are some specific examples of frameworks (and processes), in addition to the response in 3A.
+
+Risk Assessment Framework: Functional leaders executives are assigned as risk owners.
+
+Risk owners are charged with identifying, reporting, mitigating, and monitoring risks that can impact our ability to achieve business objectives.
+
+Self assessments, changes to the regularity environment, emerging risks, and market trends are key sources of information to identify climate related risks.
+
+For the risk assessment, we use a standardized approach of measuring risk likelihood versus risk impact against key business criteria including: operational, regulatory compliance, financial, legal, and reputational.
+
+Each risk is assigned a weightage after determining the effectiveness of the controls to address the risk.
+
+The risk owner uses the weightage as guidance for prioritization and to develop action plans.
+
+Intuitive ESG Report 2022 Supply Chain Risk Management (SCRM) framework: Involving the components listed below, SCRM is designed to identify, communicate, and mitigate potential risks and disruptive events across the company for direct materials.
+
+Through the SCRM framework, risk assessment via risk categorization measures are conducted, taking into consideration the severity of the risk, likelihood of impact, and complexity of risk mitigation efforts.
+
+The SCRM framework is designed to focus on specific types of risk, which can then be viewed in aggregate and used to measure operational risk across the company.
+
+These risk programs include, but are not limited to: financial risk, cyber security risk, geopolitical risk, geographic risk, and part level engineering and sourcing (attribute) risk.
+
+Elements of the SCRM framework include climate risk, include geographic events, including hurricanes, severe weather, and wildfires.
+
+The SCRM team is managed under Product Operations with alignment across corporate cross functional stakeholders.
+
+The collective responsibility of these groups is to review the scope and effectiveness of the SCRM program.
+
+Climate Related Metrics and Targets Disclose the metrics and targets used to assess and manage relevant climate related risks and opportunities where such information is material.
+
+Disclose the metrics used to assess climate related risks and opportunities in line with our strategy and risk management process.
+
+Overall carbon emissions from scope 1, scope 2, and scope 3 sources are considered when assessing our climate related risks and opportunities.
+
+The ESG team will use carbon emissions data and related metrics to track progress against goals.
+
+Work continuity resilience, as measured by level of insurance coverage, which is leveraged by multiple corporate functions, including our Board of Directors Audit Committee.
+
+Energy intensity, as measured by kilowatt hour gross square feet, which is leveraged by our facilities management team.
+
+Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.
+
+Describe the targets used by the organization to manage climate related risks and opportunities and performance against targets.
+
+In 2023, we will create our carbon plan to deliver the decarbonization goals and targets.
+
+We will use best practices for carbon planning as noted on page 19 of this report.
+
+Carbon inventory numbers have a one year reporting lag.
+
+Data from 2022 will be assured and reported in the 2023 ESG Annual Report.
+
+Surgeons trained on the use of da Vinci systems in the U.S.
+
+Surgeons trained on the use of da Vinci systems outside the U.S.
+
+Totals published in this 2022 report reflect data that became available to us in 2022.
+
+Important safety information For important safety information, please refer to intuitive.com safety.
+
+For a product’s intended use and or indications for use, risks, full cautions, and warnings, please refer to the associated user manual(s).
+
+Product Training Disclaimer Intuitive Surgical Inc. (Intuitive) only trains on the use of the da Vinci surgical system.
+
+The information provided during Intuitive Surgical training is not intended to substitute for formal medical training or certification.
+
+Intuitive Surgical is in no way responsible for surgical credentialing or training in surgical procedure or technique, nor are the training programs provided by Intuitive Surgical a replacement for hospital credentialing requirements.
+
+All curricula described are subject to change depending on available resources, as well as on the needs of the course participants.
+
+Some of the training described may be provided by organizations or entities other than Intuitive Surgical, and Intuitive Surgical is not responsible for the content of these programs.
+
+The listed prices are for services rendered by the independent surgeon proctors.
+
+A list of surgeon proctors can be provided upon request.
+
+Intuitive Surgical does not train on surgical procedures or techniques, nor does it take responsibility for proctoring services provided by the independent surgeon proctors.
+
+The hospital surgeon purchases the proctoring service as part of training they have independently determined to be part of their credentialing requirement Intuitive Surgical’s role is merely to coordinate between the hospital surgeon and the proctor.
+
+The proctors and the hospital surgeon are always free to negotiate with each other directly.
+
+Product and brand names logos are trademarks or registered trademarks of Intuitive Surgical or their respective owner.
+
+Contact Information For Intuitive’s contact information, please visit intuitive.com en us about us contact.
