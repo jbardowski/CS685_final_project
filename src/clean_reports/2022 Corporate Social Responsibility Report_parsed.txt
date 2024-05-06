@@ -1,0 +1,2109 @@
+Our Corporate Social Responsibility (CSR) report reflects our commitment to society and all our stakeholders and details our progress on relevant environmental, social and governance (ESG) priorities.
+
+The programs, achievements and performance covered in this report are presented in line with our CSR strategy, which is focused on four key pillars: Operations, Colleagues, Communities and Environment.
+
+Topics that are foundational to all four pillars are introduced in the Our CSR commitment section.
+
+They include corporate governance, ethics, data privacy and cybersecurity.
+
+This publication covers the reporting period from January 1 to December 31, 2022, and, unless otherwise noted, includes data for our clinical research business, which was acquired as PPD, Inc. on December 8, 2021.
+
+We are committed to the continuous improvement of our reporting and disclosures to increase visibility into our efforts.
+
+To that end, we proactively gather feedback from our stakeholders to inform our approach.
+
+Our reporting is further guided by internationally recognized standards and frameworks, including the Global Reporting Initiative (GRI) Standards (2021), the International Financial Reporting Standards (IFRS) Foundation’s SASB Standards for Medical Equipment and Devices, the Task Force on Climate Related Financial Disclosures (TCFD) and the United Nations Sustainable Development Goals (SDGs).
+
+As a member of the United Nations Global Compact (UNGC), Thermo Fisher Scientific remains committed to aligning our Company strategy with the Ten Principles on human rights, labor, environment and anti corruption.
+
+This report provides insight into our progress, including our approach to relevant topics such as human rights, pay equity and design for sustainability.
+
+For select environmental performance indicators, Bureau Veritas has provided independent external assurance.
+
+Assured data is clearly marked in the Data summary and a copy of the assurance statement is available here with details on the assurance scope, standards used, work undertaken and conclusions.
+
+For questions or comments regarding this report or our CSR approach, please contact us at sustainability thermofisher.com.
+
+Thermo Fisher was built to serve society, and our business is grounded in a simple but very profound Mission to enable our customers to make the world healthier, cleaner and safer.
+
+We understand the important role we play in improving lives worldwide as we help our customers diagnose disease, develop new treatments, protect our planet and keep people safe.
+
+This defines us as a Company and inspires our 125,000 colleagues to bring their best every day.
+
+As a Mission driven Company, we also know that our role in making the world a better place goes beyond enabling our customers’ success.
+
+Our responsibility extends to supporting our communities, being a good steward of our planet, creating a great work environment for our colleagues and always doing business the right way.
+
+I’m very proud of the way we delivered on these responsibilities in 2022, and I’m grateful to our extraordinary global team for making it possible.
+
+To support our colleagues in reaching their full potential and achieving their career aspirations, we continue to create a vibrant and inclusive environment where unique backgrounds and perspectives are embraced.
+
+Our team’s diversity of thought spurred remarkable innovation in 2022, generating an exciting pipeline of new products that will be launched in the years ahead and lead to improvements across our Company.
+
+We are committed to diversity and inclusion because it’s the right thing to do and it makes us stronger.
+
+Our colleagues also demonstrate a deep commitment to serving others, both on the job and in their communities, and I’m continually inspired by their compassion and enthusiasm for making a difference.
+
+Through their involvement and the leadership of our Community Action Councils (CACs), our team collectively volunteered more than 120,000 hours.
+
+As part of this activity, our CACs leveraged our Foundation for Science to support more than 4,000 Mission aligned nonprofit organizations around the world.
+
+Through corporate initiatives, we launched new signature partnerships to advance our commitment to science, technology, engineering and math (STEM) education access and equity.
+
+For example, through a partnership with Society for Science, we became the title sponsor of the Thermo Fisher Scientific Junior Innovators Challenge, the premier middle school STEM competition in the United States, which will reach over 65,000 students annually.
+
+This year brought its share of crises in the world, and as always, there was an immediate outpouring of generosity across the Company.
+
+Thanks to colleague contributions and our Company matching gift program, we collectively donated nearly 6 million to critical causes globally, including humanitarian aid for the crisis in Ukraine.
+
+We also reinvested in our global team with supportive initiatives such as special payments to help offset the impact of inflation and a new employee assistance program (EAP) focused on mental health.
+
+I’m also proud of our continued progress to advance our environmental sustainability roadmap.
+
+Since 2018, we’ve reduced greenhouse gas emissions from our operations by 25%, and in 2022 we increased our goal, committing to a 50% reduction in Scope 1 and Scope 2 emissions by 2030.
+
+Our new Scope 1 and 2 target as well as our Scope 3 and net zero goals have been approved by the Science Based Targets initiative (SBTi), an independent organization that drives climate action in the private sector.
+
+This makes Thermo Fisher one of the first companies in our industry to have a net zero target validated by the SBTi.
+
+As we move ahead, we are building greener facilities and making changes to existing sites to reduce the use of fossil fuels.
+
+Our colleagues are taking an active role on this journey contributing innovative ideas and participating in efforts to accelerate our path forward.
+
+US sites will operate on 100% renewable electricity, thanks to power purchasing agreements finalized in the past year.
+
+We accomplished a lot in 2022 and none of it would be possible without the passion and commitment of our incredible global team.
+
+We are proud to be on this journey together, striving to be an even stronger partner for our stakeholders, making an even greater impact for society, and fostering a workplace where all colleagues can pursue long term, Mission driven careers.
+
+I encourage you to read more about our contributions in this report.
+
+It provides a glimpse into the many ways we are building a brighter future for our customers, our colleagues, our communities and the world at large.
+
+Thermo Fisher Scientific, Inc. is the world leader in serving science.
+
+Our Mission is to enable our customers to make the world healthier, cleaner and safer.
+
+Whether our customers are accelerating life sciences research, solving complex analytical challenges, increasing productivity in their laboratories, improving patient health through diagnostics, or developing and manufacturing life changing therapies, we are here to support them.
+
+Our global team delivers an unrivaled combination of innovative technologies, purchasing convenience and pharmaceutical services.
+
+We fulfill our Mission in countless ways, making a difference in the world through the work we do.
+
+Here are just a few examples from 2022 that remind us of that greater purpose and inspire us every day.
+
+Helped improve health and save lives by working with national and international organizations, like Donate Life America, to advance transplant diagnostics and increase access to organs for patients in need.
+
+Supported researchers around the world, like those at the Universit Grenoble Alpes in France, who are advancing climate research through the Ice Memory project.
+
+Equipped blood banking centers across India to protect blood supplies.
+
+Enabled automakers like Toyota in Japan to improve the efficiency of electric vehicles and advance the transition to a low carbon economy customers accelerate drug discovery for debilitating disorders such as Alzheimer’s, Parkinson’s and Huntington’s diseases.
+
+Helped scientists study microplastic pollution and better understand the impact of these contaminants on the environment and human health.
+
+Helped to make the world safer by providing technologies to monitor the quality of water around the world, including in war ravaged areas of Ukraine.
+
+Equipped law enforcement and first responders with handheld narcotics analyzers to protect them from accidental exposure to dangerous street drugs.
+
+Provided food safety testing laboratories with solutions for detecting the presence of pesticides in food products.
+
+Our 4i Values of Integrity, Intensity, Innovation and Involvement are the foundation of our culture and fundamental to our growth.
+
+They guide our interactions with our customers, suppliers, partners, communities and with each other, upholding our commitment to do business the right way as we build a brighter future for our Company and our world.
+
+As one of our 4i Values, Innovation is at the core of how we build a brighter, more sustainable future.
+
+Our colleagues put this value into practice every day, including through our efforts to achieve net zero emissions by 2050.
+
+By rethinking foam packaging that’s traditionally used for cold transport, we designed a readily recyclable 100% paper cooler.
+
+We use this greener solution for shipping our own products and share it with our customers for their use.
+
+Our industry leading brands enable our customers to push science and technology a step beyond where they are today.
+
+At Thermo Fisher, we have a history of successfully acquiring innovative businesses to strengthen our customer offering and create value for all our stakeholders.
+
+We take a thoughtful approach to integration to bring the best of both organizations together and support a smooth transition for all.
+
+In 2022, we integrated PPD, which we acquired in 2021, adding clinical research services to our portfolio.
+
+By enabling our pharma and biotech customers to accelerate innovation and increase productivity within the drug development process, we can help them reduce the time and cost of bringing life changing medicines to patients who need them.
+
+Our approach to integration always starts with people.
+
+Based on our accumulated experiences, we have an integration playbook that sets forth our guiding principles: engage our new colleagues in the success of the combined companies, treat people fairly and with respect, and minimize distractions so colleagues can focus on their critical work and serve our customers.
+
+For us, mergers and acquisitions (M A) do not end at integration we continue to invest in new businesses to drive growth, advance innovation, and create career opportunities to develop and retain our talented colleagues.
+
+Less than one year after acquiring PPD, we opened a new state of the art bioanalytical lab in Richmond, Virginia, to support the increasing demand for consistent, high quality laboratory services that will accelerate drug development.
+
+This facility expands our clinical research operations in the city to 350,000 square feet, making it one of the largest laboratories of its kind in the world.
+
+Our comprehensive integration approach, like all other aspects of how we run our business, is powered by our Practical Process Improvement (PPI) Business System, a deeply ingrained philosophy of operational excellence and continuous improvement.
+
+We regularly assess how acquired businesses are performing in terms of value creation, accelerated revenue and cost synergies, and colleague sentiment and engagement.
+
+These reviews are conducted over the short and long term, allowing us to leverage key insights that further refine our integration playbook and strengthen our approach and results for future M A transactions.
+
+We measure our success in several ways not only by our financial results, but also by being the strongest partner for our customers, providing an excellent work experience for our colleagues, creating sustainable value for our stakeholders and making a positive impact on society.
+
+By all these measures, 2022 was another exceptional year for Thermo Fisher.
+
+Read more about our financial performance in our latest Annual Report on Form 10 K.
+
+Our Mission is our purpose: to enable our customers to make the world healthier, cleaner and safer.
+
+Our teams around the world strive to achieve this Mission every day, and our actions ultimately create an even brighter future for Thermo Fisher and all our stakeholders.
+
+Our formula for success starts with our aspirations for the decade ahead.
+
+To achieve our 2030 Vision, focused execution is key.
+
+We set a rolling five year strategic plan that we deliver on through our annual Goal Tree, which represents our priorities for the year.
+
+Our work is powered by our PPI Business System, 4i Values and the management of our environmental, social and governance (ESG) priorities.
+
+We continue to build on our Mission driven culture through the exceptional talent we attract and develop.
+
+At Thermo Fisher, our focus on high impact innovation enables our customers to address some of the world’s greatest challenges.
+
+As we deliver new technologies and services, we help our customers break new ground in their important work.
+
+This includes helping them accelerate research so that they can bring life changing therapies to patients.
+
+Today, with rapid advancements in science and technology, there has never been more hope for tackling diseases that were once difficult or impossible to treat.
+
+Thermo Fisher is proud to be part of this evolution that will greatly benefit society.
+
+Our partnership with AstraZeneca will help bring targeted oncology treatments to more patients in need of new care options.
+
+By leveraging the Genexus Dx System’s unprecedented turnaround time, we can help make molecular testing results more readily available to inform vital treatment decisions and get patients on the right treatment, right away.
+
+In the fight against cancer, the tide is turning because there are many promising new therapies emerging based on the genetic makeup of a person’s specific cancer type.
+
+Determining the best treatment for a patient based on their individual cancer can make a significant difference in the outcome for that patient.
+
+That’s why the development of companion diagnostics with pharma and biotech partners is so groundbreaking and used increasingly in oncology to provide a personalized approach to treatment.
+
+In the past, treatment selection has often been based on clinical best practices for first line treatment.
+
+A doctor might have to try numerous treatment options, with varying efficacy, for their patient and sometimes the answer comes too late.
+
+But today, with advancements in genomic testing technology, an individual’s cancer can be analyzed at the molecular level so the patient can be matched to the best treatment option right away.
+
+That’s the promise of precision medicine and that’s where our companion diagnostics come in.
+
+Companion diagnostics provide information that is essential for the safe and effective use of a corresponding drug or biological product.
+
+They help healthcare professionals determine whether a particular therapeutic may yield a better outcome for an individual patient based on their cancer’s genomic profile, and they can even help doctors match patients to targeted therapies that are sometimes still in clinical trials.
+
+In one example, Thermo Fisher is expanding on its ongoing collaboration with AstraZeneca to develop a solid tissue and blood based companion diagnostic test that seeks to identify patients with non small cell lung cancer who may be eligible for treatment with TAGRISSO tablets (osimertinib).
+
+The collaboration will leverage our Ion Torrent Oncomine Dx Express Test and our Ion Torrent Genexus Dx System3 to identify tumors that exhibit specific mutations that are indicators for treatment with TAGRISSO.
+
+Time is of the essence for patients with non small cell lung cancer, which is often not detected until it is advanced and has spread to other parts of the body.
+
+For most of these patients, conventional therapies don’t always have the desired efficacy.
+
+Finding an appropriate targeted therapy can be critical, but sequencing results have historically taken weeks.
+
+Together, the Ion Torrent Oncomine Dx Express Test and Ion Torrent Genexus Dx System can provide a fully integrated, next generation sequencing solution that delivers results in as little as 24 hours.
+
+Our partnership with Thermo Fisher will enhance existing pathways to develop novel technologies, reduce our carbon footprint and train a more diverse and equitable future workforce.
+
+In 2022, Thermo Fisher and the University of California (UC) San Diego launched a strategic partnership that will have a positive impact on society.
+
+The Technology Sandbox is a state of the art facility being developed at UC San Diego to expand access to cutting edge technologies and expertise and accelerate collaboration, discovery and workforce development.
+
+It will serve both students and alumni and is designed to drive innovation in emerging areas of science.
+
+Thermo Fisher is providing the instruments for the Technology Sandbox, including cryo electron microscopy, mass spectrometry and genetic and cell analysis instruments, as well as providing financial support for instrument training.
+
+In turn, students and researchers at the university will provide feedback and insights as they use these instruments, which will help us continue to improve our products and further advance technological innovation to better serve our customers.
+
+As part of the relationship, we will provide support for various research initiatives and collaborate with UC San Diego on STEM (science, technology, engineering and math) and community outreach programs and career mentorship.
+
+This includes continuing an internship program that began in 2021 to build a pipeline of diverse talent for both the Company and the university.
+
+Held at our Carlsbad, California site, the six month program offers UC San Diego students an immersive, hands on work experience using our technologies.
+
+Students gain skills in advanced research methods and applied scientific techniques.
+
+The program includes structured mentoring and professional development opportunities, preparing students to become the scientists of tomorrow.
+
+In addition, both organizations are working together to advance their mutual sustainability goals especially in developing a more sustainable supply chain for research supplies.
+
+One example is a pilot program already launched at the university, which leverages the Thermo Scientific ART Pipette Tips recycling program.
+
+Through this program, pipette tips, boxes and associated plastic packaging are recycled rather than entering the waste stream.
+
+With the successful completion of this pilot program, Thermo Fisher and UC San Diego are now developing a process to expand the recycling program campus wide and explore other sustainable end of life solutions for single use lab plastics.
+
+As the world leader in serving science, we understand that we have a unique opportunity and responsibility to use our position to make a positive impact on society not only by enabling our customers’ success, but also through our actions as a Company to make the world a better place.
+
+Our CSR approach is focused on four key pillars Operations, Colleagues, Communities and Environment.
+
+This strategic framework allows us to effectively manage the environmental, social and governance (ESG) priorities that are fundamental to our business, driving competitive differentiation, and creating sustainable value for all our stakeholders.
+
+Our CSR strategy supports our long term success as we continue to create a great place to work for our colleagues, provide high quality products for our customers, deliver strong returns for our shareholders, make a difference in our communities and reduce our impact on the environment.
+
+We are committed to transparent CSR reporting to foster stakeholder understanding of our priorities and results.
+
+To advance our CSR approach and disclosures, we consider internationally recognized reporting standards and reference frameworks.
+
+Since 2019, Thermo Fisher has been a signatory to the UN Global Compact, which supports companies in their alignment with the Ten Principles on human rights, labor, environment and anti corruption.
+
+Through our voluntary participation in this community of practice, we continuously improve the way we manage ESG risks and impacts, advance our contributions to the UN Sustainable Development Goals (SDGs), and report on our progress annually.
+
+We also participate in trusted sustainability rating assessments that are relevant to our business and help further validate our progress over time.
+
+Those of particular interest to our stakeholders, especially our customers, are the CDP4 and EcoVadis 5 ratings.
+
+We have participated in CDP for more than 10 years and, in 2022, were recognized for the acceleration of our climate program.
+
+Our climate change disclosure received a B score or management rating, indicating that we are taking coordinated action on climate issues.
+
+Additionally, we received an A score for supplier engagement, which places us on CDP’s leaderboard.
+
+Thermo Fisher has been active with EcoVadis for 10 years, participating in an evidence based rating system across four themes: environment, labor and human rights, ethics, and sustainable procurement.
+
+In 2022, the results of our assessment earned us a silver medal and placed us in the 83rd percentile of all companies assessed globally.
+
+For more information on the standards and frameworks that guide our work and a list of the awards and recognitions we proudly received during 2022, see the Awards section and Appendices 1 through 5.
+
+Building a bright future for Thermo Fisher and all our stakeholders begins with an intense focus on corporate governance and strong oversight of our global activities.
+
+We are guided by our 4i Values and rigorous ethical standards, taking accountability in all we do to enable our customers’ success while maintaining the long term health of our business.
+
+Our Board of Directors is elected by our shareholders to oversee their interests in the long term success of the Company.
+
+Governance Committee seeks to develop a Board that, as a whole, reflects diverse viewpoints, backgrounds, skills, experiences and expertise by considering attributes such as race, gender, ethnicity, age, culture and nationality.
+
+The Committee also regularly reviews the desired skills, experiences and backgrounds that should be represented on the Board to align with the Company’s strategic vision, business and operations.
+
+Company’s growth strategy to realize our 2030 Vision.
+
+Our Board meetings include regular sessions with business leaders and executives across key corporate functions, including finance, tax, information technology, cybersecurity, risk and human resources, through which the Board remains informed on the implementation of operational goals, performance and strategies.
+
+At regular meetings, the Board also considers drivers of our business execution along with key risks, challenges and opportunities and considers how they relate to the effectiveness of our Company strategy.
+
+The Board oversees our CSR strategy and key initiatives as an integrated part of the Company’s overall strategy and risk management.
+
+Certain matters related to CSR are delegated for discussion at the committee level, while other matters span multiple functional categories and areas of oversight and are discussed at the full Board level.
+
+This focus is reflected in the Company’s Corporate Governance Guidelines and committee charters, which the Board recently revised to more expressly highlight its role in the oversight of CSR, including climate change related matters.
+
+CSR is foundational to our Company strategy, and our CSR performance is driven by strong leadership that advances our commitments, priorities and cross functional collaboration to manage ESG risks and opportunities through our daily operations and practices.
+
+At Thermo Fisher, we view CSR as everyone’s responsibility, and it is deeply embedded in our operating model.
+
+Oversees strategic, financial, and execution risks and exposures associated with our operations and strategy.
+
+Oversees corporate governance, priorities, risks and external reporting related to CSR matters, and political spending strategy.
+
+Oversees risks related to compensation practices, pay for performance (including non financial ESG strategic targets), and talent management and succession planning of executive officers.
+
+Oversees financial reporting, systems and internal controls, cybersecurity, regulatory, compliance and litigation risks, and SEC reporting related to CSR matters.
+
+Advises the Board on new and emerging innovations, markets and applications of Company products, and receives updates on matters involving bioethics and the use of our technologies.
+
+Leads the Company leadership team, approves CSR strategy and commitments, and monitors Company wide progress on the management of ESG priorities.
+
+Shares ownership and accountability for delivering on our CSR strategy and presents our ESG priorities, progress and annual global enterprise risk management program to the Board.
+
+Oversees CSR implementation and includes our chairman, president and CEO, as well as key executives with responsibility for functions, businesses and programs critical to advancing our social and environmental commitments, targets and roadmaps.
+
+The committee conducts a formal program review at least twice annually.
+
+Shape and execute winning strategies for their specific areas of specialization, directing progress throughout the Company so we can achieve our CSR priorities in the most impactful way.
+
+Is a community of subject matter experts that amplify our CSR progress by cascading priorities and messages to drive focus, change and results.
+
+Leverage our Practical Process Improvement (PPI) Business System to find a better way every day, contribute innovative ideas and implement initiatives that deliver on our CSR commitments.
+
+We are committed to creating sustainable value for all our stakeholders.
+
+Our robust stakeholder engagement program includes proactive outreach on a regular basis throughout the year to help us understand our stakeholders’ evolving interests and expectations as we build strong relationships and mutual understanding of the issues most relevant to the Company’s success.
+
+These interactions are invaluable and stakeholder input informs our CSR strategy, which is actively refreshed to identify opportunities to create value and minimize risk.
+
+The following is a list of key stakeholders with examples of our recurring interactions during 2022.
+
+In 2020, we reported the results of an in depth materiality assessment8.
+
+With the help of a third party consulting firm, we prioritized ESG issues based on their importance to our business success and our stakeholders, using direct stakeholder feedback to address the latter.
+
+Our CSR approach includes regularly refreshing our full materiality assessment.
+
+Interim analyses allow us to more actively monitor the dynamic global landscape for real time insights.
+
+In 2022, we initiated an interim materiality assessment leveraging an intelligence solution that enabled a data driven review of our ESG priorities, risks, impacts, materiality, and benchmarking.
+
+The results of our 2022 assessment indicated that the six ESG issues prioritized through our last materiality assessment continue to be relevant topics for Thermo Fisher.
+
+They include the following: innovation, product safety and quality (Operations), diversity and inclusion (Colleagues), talent management (Colleagues), community engagement and development (Communities), and climate change (Environment).
+
+The analysis also uncovered early insights on evolving markets, regulations, and societal and environmental expectations details that will inform our next comprehensive materiality assessment and help shape the future direction of our CSR strategy, commitments and impact.
+
+Thermo Fisher designed our Sustainable Financing Framework to align our sustainability priorities with our funding needs.
+
+Our framework is consistent with the International Capital Markets Association (ICMA) 2021 Green Bond Principles and the 2021 Social Bond Principles and is based on four core components: use of proceeds, project evaluation and selection, management of proceeds, and reporting.
+
+The net proceeds raised from the sale of any sustainable financing instrument issuances must align with our framework and be used to finance and or refinance, in whole or in part, one or more eligible projects subject to ICMA’s principles.
+
+On November 18, 2021, we issued a 550 million sustainability bond in line with our Sustainable Financing Framework.
+
+Throughout 2022, we fully allocated the net proceeds of the sustainability bond to social projects, specifically those eligible under the criteria for the COVID 19 response category.
+
+Our Sustainability Bond Report provides details on the allocation process and impact of the investments.
+
+Our 4i Values of Integrity, Intensity, Innovation and Involvement are the foundation of our culture, guiding our behaviors and our colleagues’ interactions with our customers, suppliers and partners, communities, and with each other.
+
+As the first of these values, Integrity reminds our colleagues to honor commitments, communicate openly and demonstrate the highest ethical standards.
+
+Our values are represented in the Thermo Fisher Code of Business Conduct and Ethics (the Code), which defines our expectations for all colleagues to adhere to these practices and comply with all applicable laws and regulations.
+
+The Code is translated into 21 languages and covers a broad range of topics, including policies related to conflicts of interest, honest and ethical fair dealing, bribery and improper payments, insider trading, export control awareness, human rights, privacy matters, and sexual harassment.
+
+Standalone policies governing these critical topics are also in place to expand our colleagues’ understanding, set expectations and provide more detailed guidance on topics such as anti corruption anti money laundering, antitrust, banking, environmental health safety, human rights equal employment opportunity, export import controls, global data privacy, records management, and more.
+
+All directors and colleagues are responsible for certifying annually that they have reviewed and are following the Code.
+
+All colleagues undergo annual training on specific Code elements to understand what is expected of them.
+
+Everyone must do their part to honor our values and maintain our high ethical standards.
+
+Our Global Ethics Hotline is a confidential incident reporting system managed through a third party.
+
+It is available to colleagues, customers and other external stakeholders to raise concerns related to any issue, observed or suspected, including a violation of any law, regulation, the Code, or Company policy as well as product, quality, environmental or workplace concerns.
+
+Colleagues also have the option to contact the Company’s Legal department.
+
+The hotline staff, together with members of our Legal department, review and investigate reports and take appropriate action.
+
+Escalation and resolution processes differ depending on the type of issue raised.
+
+Any concerns and complaints related to accounting or auditing are also reported to the Audit Committee of the Board.
+
+We are deeply committed to doing business the right way and strive to provide an environment in which colleagues and other stakeholders feel encouraged to raise issues so we can work to resolve them.
+
+Through our annual Employee Involvement Survey, we regularly evaluate how empowered our colleagues feel to report concerns, which provides valuable insights that we use to continue cultivating a supportive and transparent reporting culture.
+
+Our Global Ethics Hotline allows reports to be made anonymously, and the Company will not discipline, discriminate or retaliate against any colleague who reports a complaint or concern in good faith.
+
+For more information on how colleagues are encouraged to and protected when they report issues, please refer to our CSR webpage.
+
+To build on robust policies and training, we work to increase our colleagues’ focus on the importance of compliance during our annual Compliance and Ethics Week.
+
+In 2022, a wide range of topics were covered, including data privacy, healthcare compliance, government contracts, anti bribery and anti corruption, and global trade compliance.
+
+The learning experience included live events at more than 40 sites across the globe with thousands of colleagues participating in town hall sessions, question and answer meetings, and interactive games to reinforce their commitment to integrity and compliance.
+
+We are committed to upholding and respecting human rights for all.
+
+Building a brighter future means managing our global operations ethically and with integrity to positively impact the people and communities linked to our business.
+
+Thermo Fisher is able to support human rights for all people by conducting business with the highest ethical standards and in compliance with applicable laws and Company policy.
+
+We are guided by principles set forth in our Human Rights and Equal Opportunity Policy, which was updated in 2022 and establishes our standards for business conduct related to respecting human rights and fair labor practices across our global operation.
+
+This policy helps us implement our commitment to human rights in alignment with leading international standards, including the UN Universal Declaration of Human Rights and the International Labour Organization (ILO) Declaration on Fundamental Principles and Rights at Work.
+
+As signatories to the UN Global Compact, we are also committed to aligning our corporate strategy with the Ten Principles on human rights, labor, environment and anti corruption.
+
+When differences arise between our standards and legal requirements, we generally apply the stricter standard in compliance with applicable laws.
+
+Through our human rights management approach, we engage transparently and collaboratively with our stakeholders to drive the effectiveness of our program.
+
+Colleagues: Our Code of Business Conduct and Ethics outlines the expectations for all directors, officers and colleagues of the Company, including compliance with all internal policies such as those governing human rights.
+
+Annual certification of compliance with this code is required and biannual training enhances our colleagues’ knowledge of human rights within the context of our business and their role in respecting them.
+
+Our procurement colleagues receive additional training on the expectations of our supplier responsibility programs, including those related to labor and human rights for our suppliers.
+
+Suppliers: Our Supplier Code of Conduct shares our compliance expectations for suppliers and their subcontractors in the areas of ethics, labor, health and safety, environment, and management systems.
+
+It is integrated into supply agreements and terms and conditions, and suppliers are expected to share their performance against code expectations at the request of Thermo Fisher.
+
+Suppliers must have a training program to educate their workforce to address the expectations outlined in this code and are required to participate in Thermo Fisher trainings, as applicable.
+
+Customers and distribution partners: We provide training, education and resources to help customers, resellers and distributors use our instruments and products as designed and to follow global scientific and ethical standards for the responsible selling, or reselling, of our technologies.
+
+Should we be alerted to any ethical question or concern in relation to how customers may be using our technologies, the matter is immediately escalated to our Bioethics Committee.
+
+Policymakers and influencers: We engage with governments, regulators and non governmental organizations to contribute to good global policy, such as the responsible application of technology and appropriate security protocols and procedures for safeguarding individual privacy rights.
+
+Active engagement and feedback from our partners support the continuous improvement of our approach.
+
+If, at any time, a stakeholder has a human rights concern, they have the option to contact our Global Ethics Hotline and can submit a report anonymously if desired.
+
+Learn more about our hotline in the previous section.
+
+With the rapid evolution of technology, society’s needs and stakeholder expectations, we continue to strengthen our policies and business processes for identifying, assessing and managing human rights risks.
+
+Through the Company policies outlined above, our human rights principles, standards and practices are incorporated into a broader suite of policies, which reinforce one another and are provided in up to 14 languages.
+
+We conduct periodic internal reviews of our systems and controls, participate in human rights peer networks for best practice sharing, and comply with the reporting requirements of laws such as the United Kingdom Modern Slavery Act and Australian Modern Slavery Act.
+
+These engagements and disclosures enhance the transparency with which we honor our commitment to uphold and respect human rights.
+
+In addition, our longstanding participation in an independent sustainability assessment by EcoVadis supports us in identifying opportunities to evaluate and address risks related to labor and human rights within our operation and supply chain.
+
+As we make improvements, we also provide our customers with visibility to our performance scorecard through the EcoVadis platform so they can understand and monitor our progress over time.
+
+As science advances at an unprecedented pace, we continuously focus on the ethical and social issues that relate to our role in biotechnology and biomedical research.
+
+We value the importance of identifying, assessing, tracking, managing and overseeing bioethics matters, policies and practices.
+
+Our procedures reflect careful consideration throughout our research, development, manufacturing and sales and distribution processes to prioritize the safety and efficacy of our products.
+
+We strive to operate in a way that is consistent with global best practices and ethical principles, including our Code of Business Conduct and Ethics the appropriate local, national, regional and international governing bodies and standards found in guidelines for Good Laboratory Practices (GLP), Helsinki International Ethical Guidelines for Biomedical Research Involving Human Subjects and applicable privacy and data protection standards.
+
+Our bioethics framework is monitored and managed by the Thermo Fisher Bioethics Committee, which is dedicated to the socially responsible use of biotechnology to save or improve lives.
+
+The Bioethics Committee is a cross functional team of senior leaders who report regularly to the chairman, president and CEO.
+
+Committee members include our executive vice president, chief medical officer, chief scientific officer, and leaders representing our life sciences, clinical research and diagnostics businesses, as well as legal and communications functions.
+
+The committee works to ensure we satisfy transparent, compliant and ethical business practices and standards with unyielding integrity throughout our global operations.
+
+This includes defining and articulating our corporate policy and position on current and emerging bioethics topics considering feedback from colleagues, key opinion leaders in the scientific community, customers and other key stakeholders on our corporate policies on bioethical issues and reviewing existing bioethics policies on an ongoing basis, including providing updates to the Science and Technology Committee of the Board.
+
+If we receive an ethical question or concern regarding how customers may be using our technologies, the Bioethics Committee is immediately engaged.
+
+Following an investigation, the committee determines the course of actions to follow in accordance with our values, codes and policies.
+
+Examples of past remedial actions have included ceasing the sale of a product to certain customers, engaging with law enforcement and regulatory authorities, and implementing enhanced safeguards and controls.
+
+Additional information on our Bioethics Committee is available on our CSR webpage.
+
+The Thermo Fisher Healthcare Code of Conduct was developed in accordance with the AdvaMed Code of Ethics on Interactions with Healthcare Professionals, which is based on the Pharmaceutical Research and Manufacturers of America Code on Interactions with Healthcare Professionals, the MedTech Europe Code of Ethical Business Practice, and other similar guidance.
+
+These codes account for the uniqueness of interactions between medical device manufacturers and healthcare professionals.
+
+Our healthcare compliance program consists of written policies and procedures overseen by compliance officers within each business.
+
+Our colleagues receive extensive training and education annually, at a minimum, on relevant topics to remain compliant.
+
+The promotion of medical devices and diagnostic products is subject to strict global regulations, including the Food Drug Cosmetic Act, Anti Kickback Statute, the Physician Payments Sunshine Act and other international regulations.
+
+Our policies require that our sales practices, product descriptions and marketing practices must always be fair, accurate and consistent with product labeling.
+
+We prohibit promoting our products for uses that have not been approved by the appropriate regulatory body, and promotional claims must be based on valid scientific evidence and provide accurate, objective and complete information about the product.
+
+Customers or suppliers are not prevented from doing business with our competitors as part of our fair trade practices.
+
+We value privacy and the protection of personal data, meaning any information that can directly or indirectly identify an individual.
+
+The Thermo Fisher Global Privacy Notice communicates to our stakeholders and third parties how we collect, use and safeguard personal data.
+
+Our policies are continuously reviewed based on changes to jurisdictional privacy laws and regulatory guidance, and our colleagues throughout the organization are supported in understanding the privacy needs and solutions for their area of the business.
+
+We have nine privacy Centers of Excellence (COEs) to implement our strategy and support our businesses in collecting and handling data in a way that protects our colleagues, customers and patients and complies with all applicable data privacy laws.
+
+These COEs oversee privacy for business development, clinical research, contracting, digital and innovation, health data, human resources and marketing.
+
+With additional specialization, our COEs help the Company consider privacy matters in all business areas within an evolving landscape.
+
+In 2022, we added a Privacy by Design COE to proactively incorporate privacy into the design and operation of IT systems, networked infrastructure and business practices, such as the launch of a product, service, tool or solution.
+
+Our enterprise privacy management platform is used to document legal and compliance activities, including privacy assessments and investigations, contract reviews, individual rights requests, and relevant due diligence on third parties, including vendors.
+
+Those updates include information about the cybersecurity threat landscape, investments in infrastructure and opportunities to protect and enhance the Company’s systems and security of products and operations.
+
+Learn more about our commitment to information security here.
+
+In 2019, our corporate cybersecurity program earned an ISO 27001 certificate, a globally recognized standard for information security management systems.
+
+The recertification occurs annually, most recently in December 2022.
+
+Cybersecurity is prioritized as a Company level goal each year.
+
+We regularly educate and share best practices with our colleagues to raise awareness of cyber threats through training, including cyber event simulations and attestation to our Technology Acceptable Use Policy.
+
+In addition, all colleagues are regularly trained and recertified on our policies and applicable data protection laws that govern the confidentiality, use, processing, retention, integrity and disclosure of personal data and promptly report any non compliance, whether intentional or inadvertent.
+
+In 2022, we added the role of chief product security officer to take a more formalized approach to securing our instruments and devices, including software, at every stage of the product life cycle, to meet the security requirements of our customers and regulators.
+
+With the support of our colleagues’ vigilance, we continue to strengthen our security measures.
+
+Everyone at Thermo Fisher is responsible for safeguarding data and maintaining the trust our customers place in us.
+
+Our efforts include ongoing reviews with our suppliers to confirm they are complying with our security standards, as well as collaborating with our customers to develop capabilities to secure integrated networks.
+
+We make significant investments in our global cybersecurity program, designed to protect the confidentiality, integrity and availability of data and systems within the Company’s environment.
+
+To best support our business objectives and customer needs, we combine infrastructure and security oversight into a single, comprehensive program, which enables us to work in unison and take a more integrated approach to security and resilience while aligning priorities with better transparency and visibility.
+
+We use a risk based, defense in depth approach to identify, protect, detect, respond to and recover from ever evolving global cyber threats.
+
+Recognizing that no single technology, process or business control can effectively prevent or mitigate all risks, we employ multiple technologies and controls, all working independently but as part of a cohesive strategy to minimize risk.
+
+Our customers rely on our products, services and expertise as they deliver life saving therapies to patients, protect our air and water, and keep the public safe.
+
+That’s why we strive to adhere to the highest ethical, quality and safety standards, embedding rigorous practices throughout our operations to ensure our customers can count on us.
+
+We have a diverse network of suppliers that is expected to uphold our standards and support a more resilient supply chain that delivers greater sourcing options and competitive pricing.
+
+To enable our customers’ success in an increasingly competitive global environment, we leverage our Practical Process Improvement (PPI) Business System, a deeply ingrained philosophy of operational excellence that allows us to optimize processes, solve challenges and reduce inefficiencies.
+
+Initiated by our colleagues, PPI ensures we work smarter for and deliver greater value to our customers.
+
+It empowers all colleagues to find a better way every day, driving productivity and improving product and service quality to strengthen customer allegiance.
+
+Our customers rely on our products and services to consistently meet their expectations and requirements, which is why we put quality at the center of all we do.
+
+We must always operate with integrity and transparency, meeting the highest quality standards and global regulatory compliance.
+
+Our corporate Quality Policy requires that all Thermo Fisher colleagues around the world understand and take personal ownership of quality in their daily work and create a consistent customer experience.
+
+Additional corporate procedures, such as corrective and preventive action (CAPA), document retention practices, and competence and awareness training provide minimum performance expectations for our quality management system.
+
+All new colleagues are educated on the quality management system and related policies through an onboarding process.
+
+We reinforce our commitment to quality through ongoing, required training and internal auditing managed by each of our businesses.
+
+Given the diversity of our operations, our sites hold different certifications and registrations where applicable and required by the regulators of the markets where we sell our products.
+
+That means that 93% of our eligible sites worldwide adhere to current Good Manufacturing Practices (cGMP)10 and or are certified to ISO 9001, ISO 13485 quality system standards.
+
+Some sites, where applicable, additionally hold an ISO 17025 certification.
+
+For a list of certified sites and accompanying standard certifications, please visit our CSR webpage.
+
+We also expect high quality standards from our suppliers and strive to source from those holding ISO certifications or suppliers who adhere to cGMP where applicable.
+
+In 2022, we expanded our Making Quality Personal education program to reach more colleagues globally.
+
+In its second year, the program further elevated the message that quality is everyone’s responsibility, and it should be part of every aspect of our daily work.
+
+An instructor led session showed colleagues how their roles influence quality and compliance every day and how they can implement the latest quality tools and techniques.
+
+Making Quality Personal amplifies the importance of quality across the Company, and our collective focus results in a better experience for our customers and their patients while driving value for Thermo Fisher.
+
+To date, 25,000 of our colleagues have participated in the program.
+
+Innovation is critical to helping our customers succeed.
+
+Across our Company, new products are developed within a stage gate design control framework, our product ideation and introduction process.
+
+Products are then verified and validated to meet customer expectations and international standards for quality, performance and safety.
+
+Our quality management system tracks all processes to completion according to established procedures, including proper record retention.
+
+Products are then registered according to country specific requirements with the proper government and regulatory authorities.
+
+Embedded within our business segments, quality control teams oversee product testing at various stages of manufacturing.
+
+In process and end of line testing affirms11 that the product, equipment or medicine will perform as expected when it reaches the customer.
+
+If a defect is detected, the product is put on hold or quarantined until the issue is resolved.
+
+In our quality control labs, we conduct sample testing using a recognized statistical sampling approach to confirm a product’s performance before distribution.
+
+When a customer contacts us with a concern, we immediately enter the complaint into our quality system, which alerts the relevant manufacturing site or business.
+
+Within the quality system, the issue is evaluated against regulatory requirements to determine whether authorities must be notified.
+
+After determining whether the defect or deviation can be replicated, an investigation determines the root cause and launches a corrective action or countermeasure to prevent the issue from repeating.
+
+Committed to transparency, we keep our customers informed throughout the process.
+
+We are dedicated to protecting the environment, and the health and safety of our colleagues, customers and the communities where we operate.
+
+The Thermo Fisher Environmental, Health and Safety (EHS) Policy outlines our pledge and incorporates the principles of continuous improvement, sustainability and transparency, and all colleagues are responsible for upholding our EHS values and meeting compliance standards.
+
+In 2022, we refreshed our policy to align with our core EHS requirements and to expand on our commitments to environmental sustainability.
+
+We have adapted and customized our standard for effective integration with the Thermo Fisher corporate governance structure and operating model.
+
+Our EHS Management System (EHS MS) and the involvement of our colleagues helps us maintain a safe work environment.
+
+To consolidate all operations into one platform and unify us around a single global process, we are introducing a new EHS information software management system throughout our organization.
+
+This platform will strengthen corporate oversight through improved reporting, data management and target tracking and will optimize enterprise wide capabilities to manage trending incidents and corrective actions.
+
+We track EHS progress from the Company to site level using two metrics to identify opportunities for improvement, total recordable injury rate (TRIR) and lost time injury rate (LTIR).
+
+These metrics are standard industry rates that measure either the number of injuries resulting in a recordable incident (as defined by US OSHA) or lost workdays, both per 100 workers.
+
+Our proactive approach to site safety and continuous improvement have helped decrease our TRIR by more than one third in the last five years.
+
+Our San Jose, California site, a large manufacturing and R D location within our chromatography and mass spectrometry business, was recognized with Highly Protected Risk status by the property insurance company that collaborates with Thermo Fisher on our global corporate risk management program.
+
+Highly Protected Risk status is awarded to facilities that successfully manage property related risks.
+
+Our San Jose site was recognized for steps taken to prevent or minimize the occurrence of damage to machinery, equipment and facilities that are essential to our business and our customers.
+
+Creating a safe work environment for our colleagues and protecting the environment where we operate is of the utmost importance to us.
+
+Thermo Fisher has established an EHS operating model that consists of a network of EHS professionals at the corporate, business, regional and site levels who work together to meet compliance requirements and drive continuous improvement.
+
+As our Company has grown, we have expanded and incorporated the EHS operating model into each business to ensure oversight and support for our global operations.
+
+At the corporate level, we oversee our internal EHS audit compliance program to evaluate site operations for compliance with all applicable environmental, health and safety laws, regulations and other related standards we may adopt and endorse.
+
+We leverage our CAPA processes to resolve any non compliance issues that are discovered.
+
+In person baseline audits are conducted to assess the operations of any newly acquired business within the first year.
+
+In 2022, baseline compliance audits were conducted at manufacturing and laboratory sites for both PeproTech and PPD, which were each acquired in late 2021.
+
+Building on our internal EHS audit process, we conduct regular external property loss prevention audits for all major operating sites.15 These audits help us assess business resilience in the event of fires or natural disasters such as hurricanes, floods, earthquakes or tornadoes.
+
+In 2022, we held our first Loss Prevention Summit at the property loss prevention scientific research and product testing facility of our property and business interruption insurance partner.
+
+This unique learning environment features 12 different labs devoted to educating visitors about common risks such as fire, ignitable liquid, natural hazards, equipment malfunction and electrical breakdown.
+
+A cross functional Thermo Fisher team comprised of EHS, engineering and corporate real estate colleagues attended the two day summit and learned more about the importance of investing in loss prevention strategies and how to manage future risk with the expansion of our existing facilities and new sites.
+
+Another focus of the summit was how to best incorporate environmental sustainability efforts in our facilities without increasing risks to our physical assets.
+
+Fulfilling our Mission requires a large supply base across our global network.
+
+These suppliers provide the services to support our research and development teams and the raw materials, lab equipment, chemicals and other vital goods used across our manufacturing and service network around the world.
+
+We have a Supplier Code of Conduct that outlines supplier responsibility expectations.
+
+We also strive for a supply chain that generates economic development in local communities and promotes diversity, which we achieve through our robust Supplier Diversity program.
+
+We have an expansive network of direct and indirect suppliers.
+
+To optimize the effectiveness of our supplier responsibility programs, we segment our supplier engagement activities based on contribution to our spend and criticality in delivering products to meet customer demand.
+
+In 2020, we set a goal to have 80% of direct materials supply assessed through the program by 2025, with suppliers in the program meeting or exceeding the EcoVadis scoring threshold of 45 to demonstrate strong management practices.
+
+We are on track to achieve this target, demonstrating strong year over year growth.
+
+In 2022, we extended our use of EcoVadis to the Fisher Scientific channel to engage direct materials suppliers in high risk regions.
+
+We also conduct audits to provide insights into a supplier’s adherence to our Supplier Code of Conduct and develop corrective action plans to improve supplier performance, drive continuous improvement and mitigate risk.
+
+Our team also engaged third party auditors to interview colleagues for a series of onsite audits of Fisherbrand suppliers.
+
+The audits covered CSR, compliance, ethical trading, labor regulations and standards, and responsible production practices.
+
+The Thermo Fisher Supplier Code of Conduct outlines our expectations for suppliers partners and their subcontractors in the areas of ethics, labor, health and safety, environment and management systems, supply chain transparency, product and service innovation, and customer satisfaction.
+
+In 2022, we revised our code to include greenhouse gas (GHG) emissions management.
+
+This allows us to work with suppliers in support of our climate objectives by improving GHG measurement, reporting, target setting and reduction.
+
+We also reviewed and aligned the code to capture expectations associated with new local laws and regulations.
+
+The code is integrated into supply agreements and terms and conditions, and suppliers are expected to share their performance against code expectations at our request.
+
+Our risk based approach to supplier engagement and monitoring allows us to focus our resources on areas with the largest potential impact.
+
+Geography in which the supplier operates and inherent environmental, social and governance (ESG) related risk in the region.
+
+Industry specific risks, such as those found in mining of 3TG materials (also known as conflict minerals).
+
+Previous supplier performance in environmental and social assessments or audits.
+
+Criticality of supply or strategic nature of the buyer supplier relationship.
+
+We use the globally recognized EcoVadis16 platform to monitor compliance with our Supplier Code of Conduct and to assess and accelerate improvements in supplier ESG practices affecting the environment, labor and human rights, ethics, and sustainable procurement.
+
+For Thermo Fisher, over 95% of our value chain emissions are generated outside of our operations.
+
+To address this, our Scope 3 emissions target, which has been validated by the Science Based Targets initiative (SBTi), is to have 90% of our suppliers by spend set climate related, science based targets by 2027.
+
+In 2022, we invited hundreds of our largest and most emissions intense suppliers to participate in the CDP supply chain program17 to share information on their climate goals and progress.
+
+We also provided training and hosted meetings with key suppliers to help educate them and grow their understanding of their environmental impacts.
+
+As a result, we were able to expand our community of suppliers who have either set, or committed to set, science based targets.
+
+We also work with our transportation carriers to identify opportunities for carbon reduction in the shipment of our products.
+
+We have developed a project pipeline for reducing emissions by transitioning eligible air shipments in major lanes to less intensive distribution methods, such as ocean and ground based transportation.
+
+Our first pilot in one of our largest air travel lanes successfully diverted 37% of the lane’s shipment volume from air transport to ocean transport, resulting in an estimated reduction of 5,000 metric tons of carbon dioxide equivalents (MTCO2e).
+
+In our Purchased Goods and Services and Transportation categories, we are investing in maturing our data systems to further improve our emissions calculations from spend based, environmentally extended input output modeled emissions to more granular, activity based methods in alignment with the Greenhouse Gas Protocol.
+
+To learn more about our emissions reduction efforts, see the Environment section.
+
+Building a program with diverse suppliers supports a more resilient supply chain by delivering greater sourcing options, more innovative solutions and access to quality products at competitive prices.
+
+We actively build and maintain relationships with qualified small businesses as well as veteran , minority , LGBT , disabled , and women owned enterprises.19 We establish strong relationships with advocacy organizations and certifying bodies that promote diverse and small business suppliers and participate in events and conferences to develop a larger network.
+
+In 2022, our spend with small and diverse suppliers was 2 billion.
+
+As advocates for supplier diversity, we collaborate across our sector to share learnings.
+
+This includes informal engagements as well as formal mentoring to help our customers develop more robust supplier diversity programs and expand opportunities for diverse suppliers.
+
+Through mentorship, we help them grow their capabilities and strengthen their competitive positioning in our supply chain.
+
+Thermo Fisher is proud to be represented on the board of directors for Diversity Alliance for Science, a nonprofit organization advancing inclusive procurement practices within the life sciences and healthcare industries.
+
+Our colleagues are our Company’s greatest asset, and they bring their best every day to serve our customers and communities.
+
+As a Company that thrives on innovation, we continue to build a workforce that reflects the rich cultural, ethnic and experiential diversity of the world.
+
+Our more than 125,000 20 Thermo Fisher colleagues are united in fulfilling our Mission and are dedicated to advancing our customers’ important work to make the world healthier, cleaner and safer.
+
+As the world leader in serving science, our success is connected to our ability to attract, develop and retain the brightest talent.
+
+Our diversity and inclusion (D I) strategy is fundamental to who we are, helping to create a culture where everyone shares a sense of belonging.
+
+We are committed to a fair, equitable and rewarding work experience for all colleagues, and we continue to build an inclusive environment where everyone is empowered to contribute, collaborate and innovate.
+
+We are always working to advance diversity within our Company.
+
+By the end of 2022, we completed year four of our five year D I strategic plan, and since 2019, we increased global representation of women in our workforce by 5.9%.
+
+In the same timeframe, US representation of women in our colleague population has increased by 8.6%, with an increase of 9.3% for those in executive management roles.
+
+Since 2019, US representation of racially and ethnically diverse colleagues has increased by 2.5% overall and by 2.6% for those in executive management roles.
+
+Asking for our colleagues’ opinions and listening to their feedback is essential to bringing our 4i Values to life and building a culture of belonging and inclusion.
+
+Leadership and management effectiveness Measures qualities that reflect successful and effective managers, including role modeling our values, being supportive and providing recognition.
+
+Our D I strategy aligns initiatives, programs and policies to drive organizational and business priorities within a framework of three key pillars that help us track our progress.
+
+We continue to invest in our vibrant and inclusive culture so colleagues can share their unique perspectives and bring their best every day.
+
+The truest measure of our progress is the feedback we received directly from our team, including nearly 26,000 colleagues from our new clinical research business who had the opportunity to participate in our annual EIS for the first time.
+
+We are also pleased that our commitment to inclusion continues to be recognized externally, earning top scores once again on the Human Rights Campaign’s Corporate Equality Index for LGBTQ inclusion (8th consecutive year) and on Disability:IN’s Disability Equality Index (5th consecutive year).
+
+Among other awards, Forbes named Thermo Fisher one of the World’s Top Female Friendly Companies, America’s Best Employers for Veterans, and Best Places to Work for Disability Inclusion.
+
+Survey results influence annual Company wide goals and shape leader action plans to increase opportunities for engagement and unlock the full potential of our colleagues’ contributions.
+
+In 2022, we brought our teams together virtually from around the world to celebrate Belonging Week, which offers a simple way for our colleagues to connect with our Mission and reinforce how we make a difference when we work together as one team and Company.
+
+We offered workshops, hosted town halls and shared tips and tools to strengthen trust and build colleague networks.
+
+As a result of this event, 70% of colleagues who participated in Belonging Week reported feeling an increased sense of belonging.
+
+Another way we foster organizational culture is through our Business Resource Groups (BRGs).
+
+Our BRGs provide opportunities for colleagues to develop alongside peers with shared identities and interests, and those who support them as allies.
+
+BRGs also advance our Company goals, such as fostering inclusion and belonging, supporting talent and strengthening our communities.
+
+In 2022, we integrated eight BRGs as part of the acquisition of PPD and rebranded the groups to create one cohesive community.
+
+The new emblems highlight the unique identities of each group while further unifying more than 250 chapters across the globe.
+
+BRGs also provide our colleagues with opportunities for professional development to build their professional and social networks and strengthen engagement.
+
+Demonstrating the incredible impact of these groups, colleagues who participate in BRGs rated their feelings of engagement and inclusion at the Company three points higher in the annual EIS than those colleagues who do not participate.
+
+Through my participation in the BRG, I was able to initiate conversations that would not have been relevant to my daily work and advocate for changes that could help colleagues who look like and grew up like me.
+
+BRGs have been a surefire way of breaking down silos and creating connections that span various businesses, functions and levels within the organization.
+
+I’m so thankful for the unique opportunities provided through the BRG which had an indelible impact on my career here at Thermo Fisher.
+
+To support our colleagues’ ability to thrive over the long term, we evaluate our human resources systems and processes to provide all colleagues with equal access and opportunities to develop their careers.
+
+As an example, beginning in 2020, as part of an evaluation of our hiring practices, we examined our applicant tracking process and identified ways to help hiring managers engage in more inclusive recruiting.
+
+We introduced a tool that helps them overcome unconscious bias when writing job descriptions and educated hiring managers on how making simple wording changes can improve the quality and diversity of our applicant pool.
+
+We have since standardized these practices, which is transforming our hiring pipeline.
+
+Importantly, the conversion rate from applicant to hire has increased by 1.1% for women globally and 4.7% for racially and ethnically diverse people in the US.
+
+We also evaluate our pay practices to ensure our colleagues receive fair, competitive and equitable pay for their contributions to Thermo Fisher.
+
+In 2021, we engaged a third party firm to launch our first pay equity study, which was completed in 2022.
+
+We analyzed data in two ways to gain balanced insights for furthering our D I progress.
+
+By voluntarily increasing the transparency of these disclosures, we are reinforcing our commitment to stakeholders and the continuous improvement of our D I initiatives.
+
+A pay equity audit of our US non executive workforce compared the pay of colleague groups who do similar work.
+
+The analysis was adjusted by considering factors that are known to influence total pay, such as job title, performance and tenure.
+
+By reviewing our US non executive workforce, the analysis included 99% of our US colleague population and 42% of our global population.
+
+Our pay equity analysis27 showed that non executive colleagues who are women earned 98% of the total pay earned by men in similar roles.
+
+Racially and ethnically diverse colleagues earned 99% of the total pay earned by White Caucasian colleagues in similar roles.
+
+These first time results reflect the rigor of our compensation policies and processes, and the results of the analysis will inform our work going forward.
+
+Our unadjusted median pay analysis considered colleague representation across the US and is not affected by other job related influences.
+
+The 2021 analysis gathered total pay amounts for all colleagues, including executives, and identified the value in the middle of the data set the median without adjusting for factors like job title, performance or tenure.
+
+The difference in the median total pay between two colleague groups is referred to as the median unadjusted pay gap.
+
+Our analysis concluded that for US based colleagues, including executives, the median unadjusted pay for women is 91.4% of total pay for men, and the median unadjusted pay for racially and ethnically diverse colleagues is 77.4% of total pay for White Caucasian colleagues.27 Continuing to execute on our D I strategy and increasing representation in leadership and executive management roles will reduce these gaps between the medians.
+
+Based on the insights from this study, we will continue to invest in training, tools and programming to drive our progress.
+
+To ensure colleagues around the world are compensated equitably, we plan to expand our pay equity studies and disclosures globally, beyond the UK, France and Ireland, where we already conduct annual median gender pay gap analyses in compliance with regulatory requirements in those three countries.
+
+In the US, we will complete an analysis of the non executive workforce in our clinical research business, which was acquired in 2021 after our pay equity study was already underway.
+
+As one of our 4i Values, Integrity reinforces the importance of being accountable, honoring commitments and communicating openly.
+
+All colleagues are expected to look for opportunities to foster greater collaboration and Innovation, another one of our 4i Values.
+
+Our senior leaders serve as role models and allies in advocating for our colleagues from historically underrepresented communities.
+
+Many members of the Company leadership team serve as BRG executive sponsors and champion their groups, enhancing awareness through calls to action with a heightened focus during BRG spotlight months.
+
+Through their involvement, our leaders broaden and deepen their understanding and appreciation of the lived experiences of our colleagues, particularly those from diverse backgrounds.
+
+These connections help to create more genuine and authentic advocacy on behalf of our colleagues.
+
+Our BRGs represent the diversity of our colleagues around the world, especially their desire to bring our Mission and purpose to life.
+
+As a BRG executive sponsor, it’s my privilege to work closely with these passionate teams to ask questions, learn from them, understand our challenges and ultimately better leverage the power of diversity to create a Company culture where everyone feels like they belong.
+
+In 2022, we launched a D I learning channel and developed an educational journey to activate allyship by raising awareness of the difference between equality and equity.
+
+Colleagues explored how earned and unearned advantages impact access and opportunities and were encouraged to proactively share their experiences with their peers.
+
+We provided specific opportunities for colleagues to become allies and to understand how being an ally is tied to our 4i Value of Involvement.
+
+Human resources (HR) further supports programs that advance our personal accountability goals, including leading discussions on diversity in our succession planning process and facilitating action planning for implementing colleague feedback that’s received in our annual EIS.
+
+The success of Thermo Fisher is fueled by an empowered, adept workforce that embraces our Mission, values and inclusive culture.
+
+Our talent strategy ensures we have a skilled global team to support our customers while enabling our colleagues to reach their full potential and having long and rewarding careers with our Company.
+
+We invest in our talent at all career stages from interns and early career professionals to managers and executive leaders to enhance our colleagues’ skills and knowledge, providing the opportunities and resources they need to thrive.
+
+Leveraging the power of technology, we create an exceptional colleague experience, from recruitment through ongoing development.
+
+Our colleagues can realize their best personally and professionally, while taking pride in the significant impacts they are making on society.
+
+During 2022, more than 26,000 new colleagues28 chose to join the Company.
+
+We also deploy local, market specific approaches to continuously improve connections with candidates who share our values and will best complement the skills of our global teams.
+
+We identify, attract and engage top talent with diverse backgrounds and unique skillsets to enable our customers to solve some of the world’s most pressing problems.
+
+Our approach to hiring talent to meet the broader goals of the business begins with market data and insights.
+
+Our sourcing and talent attraction strategy is accelerated through the use of talent intelligence and data science to identify diverse candidate slates, gaining a competitive advantage in the hiring process.
+
+We are committed to delivering a seamless experience for external candidates as well as current colleagues looking for the next chapter in their career at Thermo Fisher.
+
+Innovative technology solutions enable automation at key stages of the hiring process, providing greater transparency and responsiveness to keep candidates informed of their status.
+
+This also allows for dedicated personal interaction where it matters most during the candidate journey.
+
+Our global career site offers nine robust, regional experiences with localized content that provides prospective colleagues with the most relevant information for their interests and skills, making it easier and faster to find opportunities ultimately simplifying the application process.
+
+Building a brighter future for Thermo Fisher includes finding the next generation of talent and helping more colleagues establish long term careers here.
+
+We invest in meaningful early talent attraction and acquisition programs for students who will become future scientists, engineers, business leaders and managers.
+
+Part of our approach includes engaging our Company leaders to identify the skills and roles needed for the future.
+
+Early talent and the emergent capabilities they possess help build a talent pipeline prepared to meet tomorrow’s challenges while offering roles well suited to their expertise.
+
+One way we connected with early talent in 2022 was by piloting a virtual real time PCR diagnostics simulation provided at no cost to undergraduates around the world.
+
+This program allowed students to progress through the curriculum by completing tasks at their own pace.
+
+By deploying a virtual program, we democratized access to learning and expanded awareness of science, technology, engineering and math (STEM) to students globally.
+
+Attracting and retaining a workforce that reflects the diversity of our customers and our communities is integral to our talent strategy and allows us to fuel innovation and build a culture of belonging.
+
+To reach talent of all backgrounds and experience levels, we partner closely with our BRGs.
+
+With their support, we engage with diverse organizations to support STEM communities, share career opportunities and activate our diversity hiring strategy.
+
+Our network includes National Society of Black Engineers (NSBE) Out in Science, Technology, Engineering, and Mathematics (oSTEM) the US Department of Veteran’s Affairs and Society of Women Engineers (SWE).
+
+We participate in hiring events, panel discussions and learning sessions and provide services such as resume reviews and mock interviews to promote learning and development opportunities for individuals from all backgrounds.
+
+Our New Colleague Onboarding program is an immersive, two way learning journey designed to instill confidence and competence and grounds our new hires in our Mission as they move into their roles.
+
+Managers are critical to the success of the new colleague experience and are given a series of resources and action items, including the development of customized 90 day onboarding plans and an automated process for assigning ambassadors who are available to support a smooth transition into Thermo Fisher.
+
+During their first 90 days, all new colleagues learn about our culture, processes and policies, as well as how to grow their professional capabilities through a dynamic learning experience.
+
+Onboarding content has been expanded in recent years to include new modules on the customer experience, our Practical Process Improvement (PPI) Business System, our CSR strategy and more.
+
+By equipping new colleagues with the tools they need to be successful, we create a supportive environment for them to quickly begin building their Thermo Fisher careers.
+
+Colleagues who join us through the Just Project, our historically Black college or university (HBCU) alumni recruitment initiative for early career and experienced talent, are immediately introduced to our BRGs as this network supports improved retention and transparency to the career development opportunities available.
+
+In 2020, we set a goal to hire 500 HBCU alumni by the end of 2023 a milestone we achieved one year early.
+
+Learning is a continuous journey, and we regularly invest in the development of our colleagues as they grow their careers at Thermo Fisher.
+
+Managers, supervisors and HR business partners all take an active role in encouraging all colleagues to take advantage of these opportunities, especially during the bi yearly performance management and development process (PMD) when professional development goals are set and discussed.
+
+In addition to formal development conversations, Thermo Fisher University, our AI driven learning platform, is a comprehensive resource for colleagues at all levels to access leadership, management and professional development in ways best suited to their learning styles.
+
+Content is available through the platform for colleagues to explore on their own.
+
+In addition, personalized content is shared proactively with colleagues based on their individual development needs and aspirations.
+
+In 2022, we had more than 1.8 million colleague visits to Thermo Fisher University.
+
+In addition to individual self serve training via Thermo Fisher University, we also offer formal management and leadership development programs, including aspiring manager through experienced manager development programs.
+
+Multiple leadership and executive development programs are also offered to support individuals as they transition to increasingly complex, higher impact roles in the Company.
+
+These instructor led programs are designed for participants to learn and practice new skills to successfully implement them in their roles.
+
+We offer both open enrollment and nomination based programs, with special offerings for critical talent.
+
+Our programs provide a wide variety of options, from aspiring managers to senior executives, to increase the skills and capabilities of our future and current leaders so they can take the next career step or further develop in an existing role.
+
+We believe that investing in early talent is essential to achieving our long term ambitions.
+
+Global Leader Development program dynamic work experiences supporting critical functions such as operations, quality assurance and regulatory affairs, IT, data science, product engineering and finance.
+
+Our global graduate leadership development programs support roles in both general management and HR.
+
+We are pleased that many alumni from these programs now hold a variety of roles across the Company, including on our Company leadership team.
+
+Building a brighter future requires thoughtful succession planning efforts, and our approach means Thermo Fisher is positioned to continue to thrive under strong leadership for the long term.
+
+A dedicated team actively manages the careers of individuals serving in our most critical roles, including general management, operations, sales, quality, and research and development.
+
+By mapping all roles, incumbent talent, and talent pipelines within these critical capabilities, we begin planning 12 months in advance of potential moves to ensure we have rich talent pipelines and business continuity.
+
+In addition, graduates of key development programs such as the Aspiring General Management, General Management, Operations, and R D Leadership programs are matched to vacancies and succession plans for critical roles.
+
+Our succession process is comprised of a year round series of facilitated reviews.
+
+A biannual meeting with our CEO, chief operating officer, chief human resources officer, and other senior leaders focuses on succession planning and talent pipelines.
+
+At bi yearly Company leadership team calibration meetings, the discussion is centered on our most senior talent, their performance and potential, and in monthly management reviews, our chief operating officer, executive vice president and chief human resources officer review top talent and moves under consideration.
+
+Developing our associate talent pipeline is another critical focus area at Thermo Fisher.
+
+In partnership with site and HR leaders, we offer virtual and location based training aimed at strengthening the associate experience and supplement existing colleague feedback processes with tools that specifically target associates to capture their concerns and experiences.
+
+We also invest in developing the managerial effectiveness of colleagues leading our associate population and train them on how to effectively engage associates in career conversations.
+
+Career development workshops are another initiative to help associates plan for future opportunities with Thermo Fisher.
+
+Providing our colleagues with a variety of work experiences is one of the most effective ways to help individuals achieve their career aspirations.
+
+We actively manage our talent through rotations across our businesses, functions and geographies to provide new experiences as well as enable colleagues to share knowledge and broaden their skills.
+
+Talent mobility is also a key component of our continuous succession planning processes, which leverages workforce data and predictive analytics to create meaningful job rotations for each colleague while benefiting the Company.
+
+In 2022, we enhanced our internal talent marketplace to expand access to global opportunities and simplify the process for colleagues to find openings and apply.
+
+The relaunched platform, MyCareer, provides access to career development resources, peer to peer networking, our BRGs and suggested reading to support colleagues as they prepare for their next roles.
+
+MyCareer supplements the already robust offerings of Thermo Fisher University, which is regularly refreshed with new content, tools and templates to support our colleagues and managers in career development and planning.
+
+We recognize the importance of improving role readiness for our non executive, high potential talent, and our business leaders are actively engaged in the development of these colleagues.
+
+In 2022, we established new sales and operations leadership councils that regularly meet to discuss the performance and potential of the Company’s top 50 emerging and incumbent talent for these functional areas.
+
+The councils calibrate readiness to the executive level and review risks and mitigation plans while fostering the ongoing career development of top sales and operations leaders with a focus on core capabilities and leadership competencies as key success factors.
+
+At Thermo Fisher, we deliver competitive, highly valued total rewards packages to attract and retain high performing, results driven, passionate colleagues.
+
+To offer meaningful and equitable benefits, we follow a global framework and set of design principles to implement programming at the country level that promotes talent mobility and well being.
+
+We continually evaluate our total rewards packages and measure them against established benchmarks and market practices to provide competitive, flexible and efficient programs and resources that best meet the needs of our global colleagues and their families.
+
+In the US where we are headquartered, colleagues have a choice of comprehensive medical, dental and vision well being plans, including tax advantaged savings and spending accounts, as well as commuter benefits, employee assistance programs (EAP), and Company paid disability, accident and life insurance.
+
+We also provide eight weeks of paid leave for primary caregivers and three additional weeks of bonding leave for new parents.
+
+In 2022, we introduced a new medical plan focused on affordability, enrolling over 9,000 colleagues in addition to those already enrolled in previously existing medical plans.
+
+Part time colleagues in North America who work at least 20 hours per week also have access to benefits, including medical and retirement plans.
+
+Our Employee Stock Purchase Plan (ESPP), currently available in more than 20 countries, offers colleagues the opportunity to purchase Company stock at a discount.
+
+Additionally, to further support personal and professional development, we provide tuition reimbursement to colleagues in the US, Canada and Puerto Rico.
+
+For more information on these and similar offerings, please refer to the benefits and total rewards section of our website.
+
+Benefits and total rewards offerings may vary by country and role.
+
+Guiding principles Pay for performance Rewarding top performing colleagues for their outstanding contributions.
+
+Paying for performance is the cornerstone of our reward program.
+
+Market competitive Using market data to deliver competitive rewards in geographies served.
+
+Taking a long range view to avoid drastic changes based on short term events.
+
+Core, common, consistent Focusing on core needs first.
+
+Promoting equitable and diversified programs that enable talent movement using global principles while reflecting local markets.
+
+Maximizing value Using cost effective solutions to meet the needs of colleagues, customers and shareholders.
+
+Using our PPI Business System process to drive efficiency.
+
+Driving a culture rooted in our 4i Values Incorporating Integrity, Intensity, Innovation and.
+
+Focusing on developing the talents of our colleagues.
+
+Survivor Support is a new program in the US that offers up to 12 months of financial planning services at no cost to the families or spouses of colleagues who pass away.
+
+We have also increased choice and flexibility in the US, including the option to pay for higher levels of coverage, for life and disability insurance plans.
+
+Improved communication and administration of our voluntary benefits is making it easier for more colleagues to learn about them and has resulted in a significant increase in participation.
+
+These programs include legal coverage, health, auto and home insurance, and identity theft protection.
+
+Since 2020, we’ve seen a 70% increase in the use of our IMPACT program, a Company provided benefit offered in the US that supports our colleagues and their families after a cancer diagnosis.
+
+IMPACT team members are genetic counselors who help program participants navigate their cancer journey.
+
+Services include receiving expert medical second opinions, accessing genetic counseling, understanding test results, preparing questions for doctor visits, filing insurance paperwork, and listening and talking through difficult decisions.
+
+IMPACT counselors also offer family cancer risk assessments, a service to educate and share prevention strategies with colleagues concerned about their family history or a past diagnosis.
+
+In 2022, we launched innovative programs and extended existing services to assist colleagues who may have been facing healthcare or financial challenges.
+
+As inflation rates rose globally in 2022, Thermo Fisher made special payments to eligible colleagues worldwide to help ease some of the temporary impacts of inflation.
+
+Issued in July August of 2022 and January 2023, these two inflation relief payments totaled 4% of base pay for eligible colleagues and were provided in addition to planned merit increases.
+
+Over the last couple of years, we have seen a greater demand for mental health services and have recognized that new digital solutions can facilitate easier access to a wide array of mental health support.
+
+In the US in 2022, we implemented a Behavioral Health Navigator platform to help colleagues find quality mental health providers easily and quickly.
+
+It also helps align the type of support with our colleagues’ preferences and needs.
+
+As part of this effort, we expanded covered mental health visits to 12 per calendar year, and saw EAP usage increase nearly three times compared to 2021.
+
+Based on the increased level of colleague engagement and growing global vendor capabilities, we will enhance our global EAP programs and expand our Behavioral Health Navigator to reach additional countries outside of the US.
+
+Our commitment to building a brighter future for the global community is a priority reflected in our Company goals.
+
+We make a positive impact on society, not only by enabling our customers’ success, but also through our philanthropic efforts and by embracing our colleagues’ passion for giving back to the communities where we live and work around the world.
+
+We are deeply committed to delivering local impact on a global scale in support of the communities where we live and work.
+
+Through our Foundation for Science, and the power of our products and technologies, we aim to inspire the next generation of innovators while also advancing global health equity.
+
+At the center of this work are our dedicated colleagues who amplify our impact.
+
+Beyond growing our long established partnerships, we are also creating new initiatives.
+
+In 2022, we launched the Thermo Fisher Scientific Junior Innovators Challenge, becoming the new title sponsor of Society for Science’s premier middle school STEM competition in the US.
+
+We anticipate that the challenge will reach more than 65,000 students annually through local, state and regional STEM fairs.
+
+Through skills based volunteerism and outreach, and equity based programs, we are helping to ensure that the students served, teachers supported and nominees converted to national competitors are more representative of the US population.
+
+As the world leader in serving science, we want to increase opportunities, especially for underserved populations, and strengthen our future talent pipeline by stimulating young people’s interest in science, technology, engineering and math (STEM).
+
+We deliver on this commitment through our investments in STEM partnerships and colleague involvement programs that support hands on and inclusive learning activities.
+
+By collaborating with others, we are able to increase our impact and reach even more students.
+
+Since 2016, Thermo Fisher has partnered with Boys Girls Clubs of America (BGCA) an organization with a proven track record of helping youth reach their full potential.
+
+Together, we are increasing STEM education equity by connecting more youth who are historically underserved with high quality learning experiences that inspire them to pursue a career in STEM.
+
+In 2022, we achieved this by supporting BGCA’s DIY STEM program for students and STEM training pathways for the organization’s club staff.
+
+We maximized our impact by engaging our colleagues around the world in these efforts.
+
+Competing in a national science fair directly influenced my path toward a STEM career.
+
+I was inspired to take high school summer classes, which led to a degree in engineering and a startup role building an innovative technology that was later acquired by Thermo Fisher.
+
+As the leader of that product line today, I am proud to be part of a Company that expands access to STEM learning experiences like the ones that shaped my life.
+
+Another trusted partner is the Salaam Bombay Foundation, an organization in India that we have been supporting since 2018 to unlock the potential of more than 3,000 middle and high school students to date, particularly in underserved communities.
+
+In 2022, a significant milestone was achieved when four alumni who had never left their local communities were selected to represent India.
+
+They were among 179 teams competing at the FIRST (For Inspiration and Recognition of Science and Technology) Global Challenge in Geneva, Switzerland.
+
+We’re passionate about serving students at various stages of the academic journey.
+
+Through higher education partnerships, we help advance equitable access to STEM education and career opportunities.
+
+Piloting a virtual, practical learning simulation that enrolled more than 900 undergraduate students globally.
+
+Through our connections with students at this education level, we are encouraging a pipeline for early talent and supporting strategies to bring new graduates into the STEM workforce, incorporating critical skills and diverse perspectives to fuel future innovation.
+
+Read more about our UC San Diego partnership in the Our Company section and about other initiatives in the Colleagues section.
+
+In addition to participating in our STEM partnerships, our colleagues also support our signature STEM education programs: Innovation Nation, STEM Design Challenge, STEMcredible Kits, and Career Connections, which accounted for half of our STEM volunteer events in 2022.
+
+Our colleagues bring these programs, which consist of internally developed science experiments and instruction guides, to young learners in their local communities.
+
+Experiments are designed to be accessible, incorporating everyday household items that don’t require special technical skills.
+
+This enables any volunteer to deliver these fun, hands on activities that engage a child’s sense of wonder while highlighting our technologies, making connections to careers in STEM and demonstrating our commitment to the next generation.
+
+Our annual month long STEM education campaign engaged our colleagues in more than 100 volunteer events, accounting for a third of our total STEM events for the year in just one month.
+
+In addition to participating in signature STEM education events, colleagues got involved through local Community Action Councils (CACs), our site based colleague led groups focused on volunteering, or Business Resource Groups (BRGs), which connect colleagues with shared interests and backgrounds for networking and development.
+
+I am continually inspired by these incredible students.
+
+Their excitement is visible, whether during hands on STEM experiments, career panels, or conducting research in our Thermo Fisher labs.
+
+During those interactions I am reminded of the passion for science that I discovered when I was little early positive experiences that led me to pursue a career as a scientist.
+
+I am proud of our colleagues who dedicate thousands of hours annually to furthering STEM education access and equity in our local communities.
+
+In Lagunilla, Costa Rica, our local CAC and our PossAbilities BRG chapter teamed up with ASIDOWN Costa Rica an organization dedicated to the empowerment and inclusion of people with Down syndrome to create a truly memorable education event for young students and reinforce that everyone belongs in STEM.
+
+We never get to do activities like this our kids are often treated like they are not able to explore or get a little messy, one parent shared about the experience.
+
+Thermo Fisher colleagues treated them as equals, gave them the space to be able to explore at their own pace, and without rushing any results.
+
+We wanted to direct our efforts to a part of our population that is often neglected to grow students’ curiosity and questioning of all things around them.
+
+Our colleagues are passionate about helping others, and we provide many opportunities for them to get involved through our global network of CACs, annual campaigns and colleague matching gift program.
+
+In 2022, colleagues volunteered more than 120,000 hours and contributed to more than 4,400 nonprofit organizations around the world.
+
+Our more than 170 CACs engage our colleagues to broaden our STEM education and health equity reach in our local communities.
+
+To maximize the impact of our CAC network, we organize an annual summit where colleagues share best practices, celebrate successes, and strengthen local site strategies for engaging with surrounding communities.
+
+In 2022, CAC leaders from 16 countries joined members of our Company leadership team for this event.
+
+Each year, we implement a series of campaigns31 to inspire and engage colleagues through turnkey volunteering and charitable giving opportunities.
+
+Our annual Get Involved campaign enabled colleagues to participate in 206 volunteer events across 37 countries in 2022.
+
+By offering both in person and virtual options, we made it easier for more colleagues to come together and make a difference.
+
+Through a unique 16 day challenge that fostered team building, colleagues earned charitable donation awards for completing exercise and wellness activities while collectively raising funds for global STEM education and health equity programs.
+
+In 2022, this campaign supported Teach for All in delivering high quality STEM content to 5,000 educators, and Project HOPE to prevent and improve the outcomes of mother to child HIV transmission.
+
+Our matching gift program helps colleagues increase the impact of their incredible philanthropic giving by matching their donations to eligible charities at 100%.
+
+Last year, we launched a giving campaign to support our humanitarian relief effort for Ukraine, resulting in an outpouring of compassion and generosity from our colleagues.
+
+While providing targeted support for impacted colleagues and their families in the region, Thermo Fisher also donated 500,000 to trusted relief organizations, such as the International Committee of the Red Cross, International Medical Corps , International Rescue Committee , Project Hope , Save the Children , and World Central Kitchen organizations, and provided a 200% match for the first 250,000 in colleague donations with 100% matching for all subsequent eligible contributions.
+
+As a leading life sciences Company with unmatched capabilities across a diverse, integrated portfolio, we are uniquely positioned to support our customers, governments and health organizations in addressing health inequities.
+
+We operate across the global health supply chain, from manufacturing and distribution to service and maintenance.
+
+This allows us to offer high quality, affordable and accessible solutions to qualifying low and middle income countries (LMICs).
+
+Today, we serve customers in over 100 LMICs to help advance global health equity.
+
+By working with others, we are helping to create a more democratized global healthcare environment, including making an impact in the management of infectious diseases like HIV AIDS.
+
+In 2022, we launched our HIV drug resistance (HIV DR) genotyping kit for a fraction of the price of typical kits.
+
+This product helps determine whether a person living with HIV has a mutated form of the virus that does not respond to antiretroviral therapy.
+
+Drug resistance testing plays a critical role by helping patients living with HIV receive the right antiretroviral treatment and assists in the monitoring, control and prevention of HIV transmission globally.
+
+Mitigating the progression of HIV DR is important to the long term efficacy and durability of available treatments.
+
+Our HIV DR genotyping kit has already affected change in public health policy, one example being our public private partnership effort with the Kenyan Ministry of Health and Clinton Health Access Initiative organization.
+
+As a result of the accessible pricing of the kits offered by Thermo Fisher, the Kenyan Ministry of Health worked with the Clinton Health Access Initiative to update its HIV Prevention and Treatment Guidelines, incorporating a new requirement for HIV DR patient testing to more efficiently determine the best course of treatment for people living with HIV.
+
+As we plan for the future of our global health equity work, we are exploring solutions for other infectious diseases, such as tuberculosis, hepatitis and human papilloma virus (HPV), to further influence public health policy and save more lives.
+
+Our commitment to the environment is deeply rooted in our Mission.
+
+By championing a healthy planet that sustains human health and natural resources, we can build a brighter future for generations to come.
+
+Through our culture of continuous improvement, we manage risks, reduce adverse impacts and unlock opportunities through collaborations that help our customers achieve their environmental sustainability goals.
+
+Our commitment to environmental sustainability supports our Mission to enable our customers to make the world healthier, cleaner and safer.
+
+Our climate strategy includes greenhouse gas (GHG) emissions reduction targets that align with the Paris Agreement, and have been validated by the Science Based Targets initiative (SBTi).
+
+That’s why we are committed to preserving freshwater resources and managing waste.
+
+We recognize the urgency of addressing our changing climate and understand the power of innovation to create a better world.
+
+We innovate to provide our customers with the solutions to develop greener technologies, ensure safe air and water quality, and advance climate research.
+
+In 2022, we continued to accelerate our environmental strategy by enhancing the oversight of key programming areas.
+
+A new global sustainability function manages our comprehensive net zero, water and waste programs and drives implementation across our operations and value chain.
+
+In parallel, our Design for Sustainability (DfS) program a critical driver of our net zero, product life cycle and packaging priorities was expanded to further scale and standardize the application of sustainability principles in our product design and development processes.
+
+Supercharging our efforts Company wide is the dedication of our more than 125,000 global colleagues and the value of our Practical Process Improvement (PPI) Business System, which supports our philosophy of operational excellence.
+
+Our teams are empowered to find a better way every day for our customers, our business and our planet.
+
+To learn more about how environmental sustainability is governed at Thermo Fisher, see the Our CSR commitment section.
+
+As the world leader in serving science, we support the urgent calls for climate action from scientists across the globe.
+
+Transitioning away from the use of fossil fuels and high impact refrigerants.
+
+Accelerating the adoption of renewable electricity.
+
+Our new Scope 1 and 2 target, along with existing near term and net zero climate goals, have been validated by the SBTi,40 an independent organization that establishes standards, guidance and tools to drive ambitious climate action in the corporate sector.
+
+Thermo Fisher is one of the first companies in our sector to have a net zero target validated by the SBTi.
+
+Engaging with our suppliers to amplify collective progress.
+
+In 2022, we raised our commitment by increasing our target to reduce Scope 1 and 2 emissions from 30% to 50%39 by 2030.
+
+This aligns our climate strategy with the Paris Agreement and the 1.5 C pathway.
+
+Our targets guide our progress, with third party ratings from organizations including CDP41 and EcoVadis42 validating our continued environmental program improvements.
+
+In 2022, our emissions were more than 24%44 lower compared to our 2018 baseline.
+
+This progress positions us well ahead of our newly raised 2030 target.
+
+Year over year, we achieved a reduction of 8% by increasing our procurement of renewable electricity, reaching 36% of our total electricity usage, and flattening fossil fuel growth through energy conservation practices.
+
+Transitioning away from fossil fuels for our operations is fundamental to our net zero strategy.
+
+While our success requires clean energy technologies that aren’t yet available, we began taking important steps toward this goal in 2022.
+
+At our Linz, Austria, manufacturing facility, our colleagues applied our PPI tools and behaviors to optimize steam generation at the site, reducing the use of fossil fuels.
+
+These energy efficiency measures make it possible to downsize the electrical equipment required to generate steam, enabling our transition to renewable heat in a more cost effective manner.
+
+At our Carlsbad, California, and Allentown, Pennsylvania, manufacturing facilities, we are introducing hybrid boilers innovative solutions that can operate on natural gas and electricity either partially or exclusively.
+
+Once these sites are upgraded to accommodate a larger electrical capacity, the hybrid boilers will be switched to electric only mode, efficiently supporting our net zero transition.
+
+For Thermo Fisher, over 95% of our value chain emissions are generated outside of our operations.
+
+To address this, our Scope 3 emissions target is to have 90% of our suppliers by spend set science based targets by 2027.
+
+In 2022, 13% of our suppliers by spend set a science based target and another 10% committed to set a science based target.
+
+Overall, our Scope 3 emissions increased by less than 1% compared to our 2021 baseline.
+
+This increase was primarily due to a return to normal levels of business travel in 2022.
+
+The year also marked a significant expansion in our Scope 3 reduction efforts.
+
+Purchased goods and services, and transport: Launched our supplier engagement program.
+
+Reduced 5,000 MTCO2e and saved 1.5 million by shifting one of our largest freight lanes from air to ocean transport.
+
+Invested in our data systems to enable a future transition from spend based, environmentally extended input output modeled emissions to more granular, activity based methods in alignment with the Greenhouse Gas Protocol.
+
+Waste: Conducted our first Company wide waste inventory to strengthen our waste management program, insights and disclosures going forward, and set a near term target to support our net zero journey.
+
+For more details on waste, see the Nature section of this report.
+
+Business travel: Thermo Fisher joined United’s Eco Skies Alliance, a first of its kind program to decarbonize aviation by powering planes in a more sustainable way.
+
+Commuting: Expanded our support for low carbon commuting by promoting alternative transportation and the transition to electric vehicles.
+
+Subsidies for biking, public transit and shuttles are provided by several sites while another 40 locations make more than 420 electric vehicle charging stations available to our colleagues.
+
+Product end of life: Expanded our equipment refurbishment, component salvage and resale program to extend equipment life and lower undesirable waste generation by more than 185 tons in 2022.
+
+To mitigate the impacts of climate change, we believe in working together with our industry peers, customers, suppliers and other stakeholders.
+
+Energize, a program to increase access to renewable energy for pharmaceutical supply chains.
+
+Working with customers to address sustainability is essential to our business.
+
+We have established collaborative governance structures to monitor our respective and shared sustainability progress and launched several joint initiatives that focus on waste reduction and renewable energy.
+
+For additional details on climate related governance, strategy, risks and opportunities, please see our TCFD report in Appendix 4.
+
+Pistoia Alliance’s Clinical Trial Environmental Impact Community, an organization focused on quantifying the greenhouse gas impact of decentralized clinical trials and identifying key levers to reduce those impacts Thermo Fisher is proud to serve on the steering committee.
+
+Thermo Fisher is committed to protecting the world’s natural resources by preserving freshwater resources and managing waste.
+
+Water is vital to life, and we aim to understand the risks associated with our impact on water scarcity and water quality.
+
+Assess water usage for current water intensive51 that shares best practices among industry peers for phasing out fossil fuel usage manufacturing facilities in water scarce areas by 2024.
+
+US Environmental Protection Agency (EPA) Green Power Partnership, a program that encourages the use of greener power to protect human health and the environment Thermo Fisher is proud to be listed among the National Top 100.
+
+BioPhorum, a membership organization that facilitates global industry collaboration to accelerate sustainability progress within the biopharmaceutical and device sectors in 2022, we actively contributed to the development and publication of BioPhorum’s Environmental Sustainability Roadmap.
+
+Conduct annual water scarcity assessments to manage our evolving risks and impacts, and adapt, if needed, as water stressors shift.
+
+Strive to ensure our wastewater discharges comply with applicable laws and regulations, as well as our internal standards, with an emphasis on active pharmaceutical ingredients (APIs).
+
+Continue to baseline our operational water use to inform future targets and improve reporting.
+
+While we monitor the water usage of facilities in high or very high scarcity water basins, the assessment results showed four sites that are considered water intensive51 these have been prioritized for assessment.
+
+For these facilities, we will assess water usage and reduction opportunities in the coming years.
+
+For more information, please see our TCFD report in Appendix 4.
+
+Across the Company, water withdrawal, excluding non contact cooling water, decreased by 4% in 2022 compared to the previous year.
+
+One notable highlight comes from our pharma services business, which installed a water reclamation system at our new Plainville, Massachusetts, site.
+
+This process is anticipated to capture and reuse up to 20,000 cubic meters of water per year, equivalent to the volume of eight Olympic swimming pools.
+
+This past year we also began collecting water discharge data to better understand our water consumption.
+
+We are working to eliminate the risk of adverse environmental impacts from wastewater discharge with a specific focus on operations that manage APIs.
+
+As mandated by regulatory requirements or determined by risk assessments, we require the collection and proper disposal of the first cleaning rinse of equipment used in the manufacturing or handling of APIs to mitigate the release of known toxins and potent pharmaceuticals into the environment.
+
+We have set a new waste target that will support our net zero journey and aim to have 30 zero waste certified manufacturing and warehouse sites by 2025.
+
+In 2022, we updated our definition of zero waste,52 raising our internal standard for sites to achieve this designation.
+
+Our approach considers both the waste hierarchy outlined by the US EPA and the GHG emission potential of different disposal methods.
+
+This puts an initial focus on reducing the use of natural resources in our operations, followed by shifting high emission disposal methods.
+
+At our Pleasanton, California, site we improved wastewater treatment by diverting 1,100 gallons of non hazardous water so it would not be combined with hazardous solvent waste, which reduced hazardous waste generation and prevented the incineration of water.
+
+To support our customers in reducing waste from purchased products and packaging, the Fisher Scientific channel offers several reusable packaging and recycling programs.54 These include the FisherPak Reusable Solvent Delivery System with single 200 liter reusable containers that can replace nearly 200 pounds of packaging waste the Fisherbrand Pipette Tip Box recycling program and the TerraCycle Zero Waste Box platform for safety equipment and PPE (personal protective equipment) recycling.
+
+Under our new methodology, 14 sites across the Company are certified zero waste, and we achieved a 50% non hazardous waste diversion rate away from high emission disposal methods in 2022.
+
+With a 60 year history, Gibco is a trusted and leading cell culture brand in labs around the world.
+
+At our site in Inchinnan, UK, we switched from destructive to non destructive quality assurance testing of Gibco bottles.
+
+As a result, we generate significantly less manufacturing waste because bottles are put back into production after testing.
+
+We leverage the power of innovation to positively contribute to a healthier world, which includes reducing the environmental impact of our products and packaging from design to end of life.
+
+By incorporating environmental sustainability principles into each design step, we can better understand and reduce the environmental impact of our products early in the design process, ultimately delivering on our net zero ambition while helping customers advance their sustainability goals.
+
+In 2022, we elevated our DfS approach, positioning our R D organization to expand, accelerate and standardize how environmental considerations are embedded into product development.
+
+Our strategy is focused on five key impact areas: less hazardous, less waste, more energy efficient, responsibly packaged and extended life.
+
+As the Company’s strategic center for the latest in greener innovation, our DfS program deploys critical training, tools and resources that continue to increase the rigor of our longstanding efforts in sustainable design.
+
+Reformulated, no longer requiring the Transportation of Dangerous Goods classification.
+
+Meets publicly recognized standard for energy efficiency.
+
+Reactions do not require external temperature control.
+
+Packaging is degradable or recyclable to extend life.
+
+The following examples showcase greener product lines that were among those introduced in 2022 to bring more sustainable options to our customers.
+
+Invitrogen Platinum Direct PCR Universal Master Mix, used in genotyping and sequencing applications, is designed to amplify DNA directly in samples without the need to purify DNA use of the product eliminates the need for a number of hazardous chemicals and generates 99% less plastic waste than traditional methods.
+
+Thermo Scientific DynaSpin Single Use Centrifuge, used in the production of therapeutics and vaccines, provides an improved and streamlined solution for large scale cell culture harvesting using the product generates up to 69% less filter waste and up to 74% less liquid waste versus traditional depth filtration methods.
+
+We design our packaging to maintain the quality and performance of our products and to minimize waste and emissions from transport whenever possible.
+
+To lower both our customers’ and our own environmental impact, we are continuing to evolve our packaging strategy by increasing recycled content and recyclability and shifting to more sustainable bio based plastic or paper material.
+
+We are also reducing packing material whenever possible, expanding the use of returnable packaging systems and optimizing packaging design for transport efficiency.
+
+This approach incorporates recent progress from the development of our award winning paper cooler, which is a direct replacement for expanded polystyrene in cold chain shipping.
+
+In 2022, Thermo Fisher shipped more than 600,000 paper coolers globally.
+
+We are actively expanding use of this greener packaging solution.
+
+Developed a five year roadmap using the DfS framework to accelerate our priorities.
+
+Updated our greener product criteria for continued alignment with evolving customer and industry advances to earn the greener product label, products must meet these criteria in at least one of our five impact areas55.
+
+Launched a pilot on product life cycle assessments (LCAs).
+
+Implemented a program to evaluate the use of recycled and bio based plastic in new products.
+
+An LCA measures the environmental impacts of a product or service through all the stages of its life cycle from raw material extraction processing, through manufacturing, distribution, use, recycling and final disposal.
+
+LCAs can enable data driven decision making in the product development process that advances our DfS strategy.
+
+Our mass spectrometer products are used to identify, quantify and study molecules in various applications, including proteomics, drug discovery and development, environmental analysis, forensic analysis, and materials science.
+
+In 2021, Thermo Fisher initiated a project to evaluate the raw materials, components and energy used to make each unit to better understand how to reduce the environmental impact of this product line.
+
+In 2022, we continued this work by conducting an LCA.56 We learned that most of the life cycle emissions occur during the product’s use (from energy and argon gas consumption), followed by air transportation, and printed circuit board assembly and aluminum materials.
+
+These and other key insights from the assessment will help guide and prioritize our future efforts as we explore emerging technologies and practices that can further inform our approach to reduce the overall environmental impact of our products.
+
+We strive to make it easier for our customers to understand the environmental impacts of products to help them make the best purchasing decisions as we provide robust buying options to support their needs.
+
+Through our own greener product labels, backed by green claims documentation, and third party certified labels, customers can quickly identify products that meet their sustainability criteria.
+
+Lab’s ACT Environmental Impact Factor Label program, which provides customers with third party verified information about the environmental impact of laboratory products.
+
+In 2022, Thermo Fisher labeled an additional 56 products, raising our total to 526 more labels than all other companies combined.
+
+A full listing of ACT labeled products is available on the My Green Lab website.
+
+In addition to our own greener product program, we participate in third party labeling systems to further aid our customers in making informed purchasing decisions when choosing responsibly designed products.
+
+For laboratory refrigerators and freezers, the US EPA ENERGY STAR program helps purchasers identify energy efficient products.
+
+Thermo Fisher offered more than 200 ENERGY STAR certified models in 2022.
+
+Our dedication to transparency does not stop with our own products.
+
+The Fisher Scientific Greener Choice program allows customers to find lab products that meet one or more environmental benefits listed in the US Federal Trade Commission’s Green Guides.
+
+Through the Fisher Scientific channel, we offer more than 6,000 Greener Choice products, which are easily identified by a distinctive icon across our global platforms.
+
+Our collaboration with My Green Lab, an independent nonprofit, continued in 2022.
+
+In addition to our ongoing use of the ACT label and annual support of their Freezer Challenge, we participated in the organization’s green lab certification program.
+
+Through this initiative, we improved the environmental sustainability practices for a pilot group of our labs.
+
+We achieved our first 11 My Green Lab Certifications and our laboratory team in Cork, Ireland, received the highest available certification rating.
+
+On average, our labs increased their score between the initial and final assessments by 50%, demonstrating our teams’ ability to reimagine and advance sustainability practices by leveraging our PPI Business System, which supports a continuous improvement mindset.
+
+More than 150 Thermo Fisher scientists participated in our My Green Lab Certification pilot in 2022.
+
+Our 2018 Scope 1 and 2 market baseline is 807,341 metric tons of carbon dioxide equivalent (MTCO2e).
+
+This figure may not match the one found in the Data summary due to rounding.
+
+The Invitrogen Genexus Dx instrument and the Invitrogen Oncomine Dx Express Test are currently available as CE IVD only.
+
+CDP is a nonprofit organization that runs the global disclosure system for investors, companies, cities, states and regions to assess their environmental impacts.
+
+EcoVadis is a recognized global provider of sustainability assessments, ratings and scorecards, covering sustainability practices across four areas: Environment, Labor and Human Rights, Ethics and Sustainable Procurement.
+
+Our Annual Report on Form 10 K, CSR Report and Proxy Statement also facilitate engagement and are relevant to all key stakeholder groups.
+
+In this report, when we use the terms material, materiality and similar terms, we are using such terms to refer to topics that reflect our significant economic, environmental and social impacts or to topics that are important to stakeholders and our business success.
+
+We are not using these terms as they have been defined by or construed in accordance with the securities laws or any other laws of the US or any other jurisdiction, or as these terms are used in the context of financial statements and financial reporting, and nothing in this report should be construed to indicate otherwise.
+
+Relevant information about our 2020 in depth materiality assessment is available on page 11 of our 2020 CSR Report.
+
+This indicator is calculated based on the number of ethics and compliance courses completed out of the number of ethics and compliance courses assigned to all colleagues.
+
+There are cases where one or the other will apply depending on our production technology.
+
+Includes manufacturing, warehouse and laboratory campus locations.
+
+Excludes offices, service depots and research clinics.
+
+The lost time injury rate represents the number of lost time injuries or illnesses occurring at Thermo Fisher per 100 full time workers.
+
+Lost time is defined as one or more days away from work due to a work related injury or illness.
+
+The total recordable injury rate represents the number of recordable injuries or illnesses occurring at Thermo Fisher per 100 full time workers.
+
+Recordable injuries are defined by US OSHA and include injuries resulting in one or more of the following: a fatality, lost work days, restricted work days, loss of consciousness, medical treatment beyond first aid, or a significant injury or illness diagnosed by a physician or other licensed healthcare professional.
+
+Defined as sites with a total insured value (TIV) that’s greater than 28 million.
+
+EcoVadis is a recognized global provider of sustainability assessments, ratings and scorecards, covering sustainability practices across four areas: Environment, Labor and Human Rights, Ethics and Sustainable Procurement.
+
+The CDP Supply Chain program allows member companies to engage their suppliers to help catalyze action toward a sustainable net zero, deforestation free and water secure world through a global disclosure system.
+
+The program is managed by CDP, a nonprofit organization that runs the global disclosure system for investors, companies, cities, states and regions to assess their environmental impacts.
+
+For the two indicators presented in this table, suppliers with science based climate targets tracks progress toward our 2027 Scope 3 emissions target, while suppliers committed to set a science based climate target represents the pipeline of suppliers that may support future progress.
+
+Our supplier diversity classifications are aligned to US government and industry standards.
+
+This figure may not match the one found in the Data summary due to rounding.
+
+Gender and other diversity reporting is based on colleagues who voluntarily self identify.
+
+Executive management includes vice president roles at all levels of our organization.
+
+Leadership roles include managers at all levels of our organization.
+
+Other than White and may include Asian, Black, Hispanic, Indigenous and or multiracial.
+
+Does not include colleagues from our newly acquired clinical research business.
+
+This figure represents regular and fixed term colleagues hired externally between January 1, 2022 and December 31, 2022.
+
+This includes conversions from contingent workers to colleagues.
+
+This does not include vacancies filled internally or colleagues who joined us through an acquisition.
+
+Associate talent represents our colleagues who are non salaried, hourly workers.
+
+These figures may not match those reported in the Data summary due to rounding.
+
+The annual month long STEM (science, technology, engineering and math) education campaign described previously in this section is part of these involvement campaigns.
+
+Requires at least 90% reduction against the base year (2018 for Scope 1 and 2, 2021 for Scope 3) with long term removal of any residual emissions generated after the target date.
+
+By 2024, we will assess water usage for current water intensive manufacturing facilities in water scarce areas.
+
+Water intensity means a facility using over 25,000 cubic meters of freshwater per year.
+
+Zero waste means less than 10% of non hazardous waste is sent to landfill, incineration or waste to energy facilities.
+
+Our 2018 Scope 1 and 2 market baseline is equivalent to 807,341 MTCO2e.
+
+Our targets were validated by the Science Based Targets initiative (SBTi) in April 2023.
+
+CDP is a nonprofit organization that runs the global disclosure system for investors, companies, cities, states and regions to assess their environmental impacts.
+
+EcoVadis is a recognized global provider of sustainability assessments, ratings and scorecards, covering sustainability practices across four areas: Environment, Labor and Human Rights, Ethics and Sustainable Procurement.
+
+Our Scope 1 and 2 emissions are represented by direct energy and refrigerants and indirect energy.
+
+Our Scope 3 emissions cover purchased goods and services, capital goods, transportation and distribution, fuel and energy related activities, waste, commuting, business travel, use of products sold, and end of life treatment.
+
+This figure may not match the one found in the Highlights section or the Data summary due to rounding.
+
+Fossil fuel free means greater than 99% of the energy consumed came from renewable sources.
+
+These sites are Carlsbad, California, USA Waltham, Massachusetts, USA and Vilnius, Lithuania.
+
+Anticipated commercial operation date is December 2025.
+
+Sustainable aviation fuel (SAF) use based on a book and claim chain of custody.
+
+In aviation, the book and claim model means SAF is not physically transported and entered into the specific aircraft of the seat purchased.
+
+Instead, it goes into the fuel system at an airport close to the SAF production facility.
+
+The volume of SAF that is produced and entered into the hydrant system is tracked and verified, after which corresponding greenhouse gas (GHG) emissions factors are calculated and allocated to the organization purchasing the claim.
+
+The 80% reduction calculation is based on the well to wake life cycle.
+
+Well to wake means the direct and indirect GHG emissions occurring from the combustion of aviation fuel, as well as upstream GHG emissions related to extraction, refining, production, and transportation.
+
+Water intensity means a facility using over 25,000 cubic meters of freshwater per year.
+
+Zero waste is defined as less than 10% of waste disposal to landfill, incineration, or waste to energy facilities, excluding regulated wastes.
+
+These are electrical or electronic assets, including laptops, phones, printers and servers.
+
+Documentation of environmental claims are made publicly available by product.
+
+This was an internal screening LCA based carbon footprint to inform the early design stages of our mass spectrometers.
+
+We are continuously working to enhance our reporting practices and provide a consolidated view of select performance indicators organized around the pillars of our CSR strategy.
+
+Many of these indicators are being included for the first time in our CSR report.
+
+Unless otherwise noted, 2021 data does not include our clinical research business.
+
+This indicator or set of indicators is being included in this report for the first time.
+
+Board diversity information comes from our 2023 Proxy Statement, which shows directors who will stand for election at the 2023 Annual Meeting of Shareholders in May.
+
+Other than White and may include Asian, Black, Hispanic, Indian, Indigenous and or multiracial.
+
+This indicator is based on the number of ethics and compliance courses completed out of the number of ethics and compliance courses assigned to all colleagues.
+
+This figure represents the average number of observations per inspection.
+
+We define regulatory inspections as inspections conducted by any government agency.
+
+The lost time injury rate represents the number of lost time injuries or illnesses occurring at Thermo Fisher per 100 full time workers.
+
+Lost time is defined as one or more days away from work due to a work related injury or illness.
+
+Recordable injuries are defined by the US Occupational Safety and Health Administration and include injuries resulting in one or more of the following: a fatality, lost work days, restricted work days, loss of consciousness, medical treatment beyond first aid, or a significant injury or illness diagnosis by a physician or other licensed healthcare professional.
+
+Addressable spend includes all spend in Purchased Goods and Services, Scope 3 Category 1 and Capital Goods, Scope 3 Category 2.
+
+The boundary is companies reporting a science based target via the Science Based Targets initiative (SBTi), CDP, EcoVadis, or their corporate website as of December 31, 2022.
+
+This figure represents our direct and indirect spend with diverse suppliers and qualified small businesses in the US.
+
+It includes spend from approved commercial and individual subcontracting plans.
+
+Unless otherwise noted, 2021 data does not include our clinical research business.
+
+Our colleague population figures are reported as of December 31, 2022, based on actual headcount.
+
+Gender and other diversity reporting is based on colleagues who voluntarily self identify.
+
+These indicators use a trailing twelve month calculation.
+
+These indicators are only relevant to our US colleague population.
+
+Other than White and may include Asian, Black, Indian, Hispanic, Indigenous and or multiracial.
+
+Executive management include vice president roles at all levels of our organization.
+
+Leadership roles include managers at all levels of our organization.
+
+This indicator does not include our clinical research business data for 2021 or 2022.
+
+Unless otherwise noted, 2021 data does not include our clinical research business.
+
+Contributions made above the 1,500 match cap along with donations made to religious or political organizations are not matched by Thermo Fisher.
+
+This figure represents the total amount of hours tracked for both Company sponsored volunteer events and personal volunteer time logged by colleagues in our Community Impact Portal.
+
+STEM events sponsored by Thermo Fisher or any of the nonprofit partners we support.
+
+STEM events sponsored by Thermo Fisher or any of the nonprofit partners we support.
+
+STEM events are planned interactions between a Thermo Fisher colleague(s) and a student or group of students engaging in science, technology, engineering or math learning activities.
+
+Spend based analysis is currently unable to separate upstream and downstream transportation and distribution.
+
+Figures presented in upstream transportation and distribution represent both upstream and downstream emissions.
+
+Value includes Scope 1, 2 and Scope 3 (categories 1, 2, 3, 4, 5, 6, 7, and 8).
+
+Emissions from other categories are already captured in the customer’s Scope 1, 2, and downstream Scope 3 and therefore not included.
+
+This indicator does not include 88 and 130 MTCO2e of carbon removal credits that were purchased and retired in 2021 and 2022, respectively, using technologies such as biochar.
+
+In accordance with the SBTi Net Zero Standard, carbon offsets and credits are not considered in the emission values presented in this report.
+
+Certifications (REC), EECS AIB Guarantees of Origin, and International RECs to match electricity usage in the US Canada, Europe, China, India, and South Africa.
+
+A fossil fuel free facility is defined as having greater than 99% of total energy consumed from renewable energy sources.
+
+Water scarce areas were identified using the WWF Water Risk Filter tool.
+
+Zero waste is defined as the diversion of less than 10% of waste to landfill, incineration, or waste to energy facilities, excluding regulated wastes.
+
+This indicator or set of indicators is being included in this report for the first time.
+
+This 2022 indicator has gone through a limited assurance process.
+
+We continue to participate in the US EPA Energy Star program and use the ENERGY STAR symbol to make it easy for our customers to identify and purchase energy efficient products that help them reduce energy costs and emissions caused by inefficient energy use.
+
+Our total number of ENERGY STAR labeled products in 2022 was lower than the previous year due to the retirement of products and the consolidation of SKUs.
+
+Each greener product category consists of multiple products within a product line all of which share the same environmentally beneficial feature(s).
+
+To help make labs more environmentally sustainable, we have designed these products to minimize the use of hazardous chemicals, minimize waste and material consumption and or increase energy efficiency.
+
+Environmental data in this table covers all worldwide operations, including manufacturing facilities, warehouses, offices, laboratories, commercial fleets, and consolidated subsidiaries.
+
+The scope of environment data presented in this report includes operations that we control.
+
+Where data is not available, estimations based on regional energy intensity factors or other existing data is used.
+
+Historical data may be subject to revision due to data source restatements and updates to methodology.
+
+There may be differences in baseline and subsequent reporting year values due to changes in the business that require baseline adjustments conducted in accordance with the Greenhouse Gas Protocol.
+
+Environmental data is baseline adjusted using reporting boundaries per the World Resources Institute (WRI) Greenhouse Gas Protocol Corporate Reporting Standard (the revenue component of intensity values is not baseline adjusted).
+
+At Thermo Fisher, as members of the UN Global Compact, we support the UN 2030 Agenda.
+
+The following table is a representative list of our contributions to the SDGs.
+
+We recognize the interconnections among SDGs, and, for highlighted initiatives that contribute to multiple goals, we have categorized them based on the strongest strategic alignment.
+
+Ensure healthy lives and promote well being for all at all ages.
+
+Our Mission is to enable our customers to make the world healthier, cleaner and safer.
+
+Our products and services are designed to contribute to the health and well being of humanity and benefit society globally.
+
+We see particular alignment with target 3b, which supports the research and development of vaccines and medicines and provides access to affordable and essential vaccines and medicines.
+
+We support scientists, healthcare professionals and society in understanding the causes of disease, improving diagnoses and bringing new therapies to patients faster.
+
+We are hopeful that one day personalized and affordable treatments will be available everywhere for everyone who needs them.
+
+Advancing cancer research To enable our customers, we provide innovative technologies and scientific expertise to help unlock the genetic level causes of cancer to predict and prevent it, improve diagnoses and enable faster drug discovery, clinical trials and production.
+
+For example, in 2022, together with Oncocyte, we embarked on a new initiative to increase access to precision medicine through the development and comarketing of two next generation sequencing (NGS) assays on our Ion Torrent Genexus System.
+
+Genomic testing can have a dramatic impact on patient care, especially when results are available quickly to support early clinical decision making.
+
+By democratizing genomic profiling, we can spread the benefits of precision medicine to more patients.
+
+Helping in the global fight to defeat HIV Joining forces with customers and communities, we leverage our capabilities to help remove obstacles to healthcare.
+
+In 2022, we launched our HIV drug resistance (HIV DR) genotyping kit for a fraction of the price of typical kits in qualifying low and middle income countries (LMICs).
+
+These kits help determine whether a person living with HIV has a mutated form of the virus that does not respond to antiretroviral therapy.
+
+This product has already positively impacted lives in more than 25 LMICs.
+
+Additional information on this initiative is available on page 46 of this report.
+
+Expanding structural biology research Thermo Fisher collaborated to create the first cryo tomography center in Latin America to study and develop treatments for neurodegenerative diseases, protein defects, chronic heart and kidney diseases, and cell therapy using Thermo Scientific Cryo Tomography and SPA Workflows: Thermo Scientific Krios G4 Cryo Transmission TEM and Thermo Scientific Aquilos 2 Cryo FIB.
+
+Detecting pesticides in food Our new ion chromatography tandem mass spectrometry (IC MS) workflow solution for regulatory compliant, cost effective and reliable analysis of quaternary ammonium pesticides (Quats) was released for laboratories performing food safety analyses.
+
+The new Thermo Scientific Dionex IonPac CS21 Fast 4m ion exchange column enabled scientists to determine and quantify four cationic pesticides diquat, paraquat, mepiquat and chlormequat easily and accurately.
+
+Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.
+
+We are helping to ignite the spark that will inspire the next generation of innovators.
+
+As the world leader in serving science, we want to strengthen our future talent pipeline by stimulating young people’s interest in science, technology, engineering and math (STEM) through hands on and inclusive learning.
+
+We deliver on this commitment through our investments in STEM partnerships and colleague involvement programs.
+
+One of the key tenets of our net zero strategy is to accelerate the adoption of renewable electricity.
+
+We are transitioning away from fossil fuels and increasing renewable electricity procurement and onsite solar installations.
+
+Ensure access to affordable, reliable, sustainable and modern energy for all.
+
+We work in collaboration with others who share our passion for unleashing students’ potential and enthusiasm for STEM subjects in all corners of the world.
+
+Increasing STEM access and equity By collaborating with others, we can increase our impact and reach even more students, stimulating their interest and enthusiasm for STEM subjects.
+
+Since 2016, our partnership with Boys Girls Clubs of America (BGCA) has connected youth who are historically underserved with high quality learning experiences that inspire them to pursue a career in STEM.
+
+In 2022, we increased STEM access and equity by supporting BGCA’s DIY STEM program for students and STEM training pathways for the organization’s club staff.
+
+We maximized our impact through volunteer opportunities that engaged many of our colleagues who are dedicated to sparking student curiosity in these fields.
+
+Since 2018, Thermo Fisher has been partnering with the Salaam Bombay Foundation in India to unlock the potential of more than 3,000 middle and high school students to date, particularly in underserved communities.
+
+In 2022, a significant milestone was achieved when four alumni who had never left their local communities were selected to represent India among 179 competing global teams at the FIRST (For Inspiration and Recognition of Science and Technology) Global Challenge in Geneva, Switzerland.
+
+In 2022, we launched the Thermo Fisher Scientific Junior Innovators Challenge, becoming the new title sponsor of Society for Science’s premier middle school STEM competition in the US.
+
+The challenge is expected to reach more than 65,000 students annually through local, state and regional STEM fairs.
+
+Expanding access to real world scientific applications In 2022, we piloted a virtual, real time PCR diagnostics simulation at no cost to undergraduates.
+
+Students from around the world, 43% of whom self identified as first generation college students, participated in the interactive experience, progressing through the curriculum by completing tasks at their own pace.
+
+Advancing innovation and access with the University of California San Diego We announced a 10 year partnership with the university that will establish a state of the art facility to expand access to cutting edge technologies and expertise while accelerating collaboration, discovery and workforce development for students and alumni.
+
+The collaboration will support the development of a diverse life sciences talent pipeline, in part, by continuing an existing internship program for UC San Diego students at our Carlsbad, California, site.
+
+Additional information about our efforts in advancing STEM education is available on pages 42 through 44 of this report.
+
+Procuring renewable electricity is central to our near term strategy to reduce our greenhouse gas emissions.
+
+As we strive toward net zero emissions by 2050, we plan to transition most locations globally to renewable energy over time.
+
+Increased our procurement of renewable electricity, with 36% of global electricity coming from renewable sources.
+
+Signed two virtual power purchasing agreements, which will add over 900,000 megawatt hours (MWh) of clean electricity to the grid and cover 100% of our current US electricity needs by 2026.
+
+This marked an important milestone that supports the development of new clean energy infrastructure, while also supporting the decarbonization of our value chain:.
+
+Added on site solar panels across three sites (Carlsbad, California, USA Waltham, Massachusetts, USA and Vilnius, Lithuania), increasing our onsite solar and wind capacity to nearly 8 MW.
+
+Additional information about our net zero strategy is available on pages 48 through 53 of this report.
+
+Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.
+
+We manage our global operations ethically and with integrity to positively impact the people and communities linked to our business.
+
+By providing fulfilling careers across the globe, we support equity and opportunity for those historically underrepresented in the life sciences industry specifically or the workforce generally.
+
+Our vibrant and inclusive culture connects our colleagues and helps them grow together as one global team.
+
+Our success is connected to our ability to attract, develop and retain the brightest talent by embracing a culture where everyone belongs, colleagues’ voices are heard, and the opportunities and benefits offered allow our colleagues to build rewarding careers.
+
+Upholding human rights and equal opportunity We are committed to respecting human rights for all people by conducting business with the highest ethical standards and in compliance with applicable laws and Company policy.
+
+We are guided by principles set forth in the Thermo Fisher Human Rights and Equal Opportunity Policy, which establishes our standards for business conduct related to human rights and fair labor practices across our global operation.
+
+Protecting human health and the environment The Thermo Fisher Environmental Health and Safety (EHS) Policy outlines our commitment to protecting the environment, and the health and safety of our colleagues, customers and the communities where we operate.
+
+Our policy incorporates the principles of continuous improvement, sustainability and transparency, and all colleagues are responsible for upholding our EHS values and meeting compliance requirements.
+
+Investing in meaningful early talent attraction and acquisition These programs for students who will become future scientists, engineers, business leaders and managers are part of our approach to identify the skills and roles needed for the future.
+
+Early talent and the emergent capabilities they possess help build a talent pipeline prepared to meet tomorrow’s challenges while offering roles well suited to their expertise.
+
+Managing a socially and environmentally responsible supply chain Fulfilling our Mission requires a large supply base across our global network.
+
+The Thermo Fisher Supplier Code of Conduct outlines our expectations for suppliers, partners and their subcontractors in the areas of ethics, labor, health and safety, and environment and management systems, including modern slavery and human trafficking.
+
+Supporting sustainable economic development Across our global footprint, we take a localized approach to economic development and job creation.
+
+As we continue to implement our growth strategy, during 2022, we executed on the accelerated investments we’ve made over the last three years, bringing new capacity online for pharma services, bioproduction and clinical research services.
+
+Through new and expanded operations, we strengthen our capabilities for our customers while expanding the economic opportunities in our communities.
+
+In Richmond, Virginia, we invested 97 million to expand clinical research operations, supporting increased demand for accelerated drug development and consistent, high quality laboratory services.
+
+Over the next three years, we expect to add nearly 150,000 square feet and more than 500 new colleagues.
+
+In Plainville, Massachusetts, we opened a new, sustainably constructed production facility to expand cell and gene therapy capabilities with a 180 million investment that supports process development, transfer and manufacturing of gene therapies and vaccines.
+
+The plant began operating with 125 colleagues and plans to add 200 more colleagues within the next two years.
+
+Additional information on our approach to human rights, EHS, responsible sourcing and talent management is available on pages 18, 25, 26 and 34 of this report.
+
+Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.
+
+Our focus on high impact innovation enables our customers to address some of the world’s greatest challenges.
+
+As we deliver new technologies and services, we help our customers develop and scale major scientific advancements.
+
+The depth of our capabilities and our Practical Process Improvement (PPI) Business System allow us to advance product, infrastructure and process sustainability.
+
+Through our scale and reach, we support the capacity of local researchers to further advance scientific discovery and effectively foster local industry.
+
+Through our commitment to high impact innovation, we deliver groundbreaking technologies that enable our customers’ transformative work.
+
+Our investment of 1.5 billion in R D facilitated the delivery of new technologies that are helping our customers achieve their goals.
+
+Globally, our breakthroughs are driven by more than 5,000 scientists and engineers, and we’ve been issued more than 7,500 patents over the last five years.
+
+In chromatography and mass spectrometry, we extended our industry leading Thermo Scientific Orbitrap portfolio, launching the Thermo Scientific Orbitrap Ascend Tribrid Mass Spectrometer to advance proteomics, metabolomics and cancer biomarker research, which received an R D 100 Award from R D World, one of the most prestigious innovation awards programs in the world.
+
+We launched the Thermo Scientific TRACE 1600 Series Gas Chromatograph to increase productivity in analytical testing for food, environmental, industrial and pharmaceutical applications.
+
+In electron microscopy, we launched the Thermo Scientific Glacios 2 Cryo TEM to help our customers accelerate structure based drug discovery for debilitating disorders such as Alzheimer’s, Parkinson’s and Huntington’s diseases, as well as research for cancer and gene mutations.
+
+We expanded on our ongoing collaboration with AstraZeneca to develop a solid tissue and blood based companion diagnostic test that will help identify patients with non small cell lung cancer who may be eligible for treatment with TAGRISSO (osimertinib).
+
+The collaboration will leverage our Oncomine Dx Express Test and our Genexus Dx System to identify tumors that exhibit specific mutations that are indicators for treatment with TAGRISSO.
+
+The Oncomine Dx Express Test and Genexus Dx System are a fully integrated, next generation sequencing solution that delivers results in as little as 24 hours.
+
+In the past, this type of sequencing could take weeks.
+
+In clinical next generation sequencing, we launched the CE IVD Oncomine Dx Express Test and Oncomine Reporter Dx software to accelerate tumor molecular profiling and more quickly pair patients with appropriate treatments and clinical trials.
+
+Designed to run on our Ion Torrent Genexus Next Generation Sequencing System, these products bring the power of precision medicine closer to patients by enabling doctors to use in house next generation sequencing to improve care.
+
+Our Thermo Scientific DynaSpin Single Use Centrifuge System was introduced at the BioProcess International annual conference in Boston.
+
+The DynaSpin system improves and streamlines large scale harvesting for cell culture separation in single use bioprocesses while also reducing the number of depth filtration cartridges required to complete the harvest process.
+
+The system delivers equivalent or improved product yield compared to traditional harvest systems while enabling operational efficiency, cost savings and sustainable practices in the production of biologics.
+
+Take urgent action to combat climate change and its impacts.
+
+Our business policies and practices reflect equality and advance equity for our stakeholders.
+
+We promote diversity and inclusion by creating conditions that drive favorable economic and social outcomes for groups traditionally underrepresented within our industry and across our value chain.
+
+We support the urgent calls for climate action from scientists across the globe.
+
+We are focused on protecting the planet, starting with reducing our carbon footprint.
+
+As a responsible business partner, we help our customers advance climate science and reduce the environmental impact of their own labs and operations.
+
+Our D I strategy is fundamental to who we are, helping to create a culture where everyone shares a sense of belonging.
+
+Optimizing inclusive hiring We introduced a tool that helps hiring managers write job descriptions and educates them on how making simple wording changes can improve the quality and diversity of our applicant pool.
+
+Measured over three years, our applicant pools and conversion rates have increased for global candidates who are women and US candidates who are racially and ethnically diverse.
+
+Addressing pay equity In 2021, we engaged a third party firm to launch our first pay equity study of our US workforce, which included an adjusted pay equity analysis and unadjusted median pay analysis.
+
+In 2022, we leveraged insights from the study to inform our D I strategy, implemented new measures and continued to invest in training, tools and programming to drive our progress.
+
+Advancing racial equity and social justice In 2022, we continued to deliver on our commitment of a 25 million impact investment with minority serving financial institutions that focus on Black communities and businesses.
+
+Supporting institutions that provide a bridge to empowering the historically disenfranchised, these investments are part of the Company’s broader approach to addressing inequalities and strengthening communities through our business practices.
+
+Additional information about our efforts to advance inclusion and reduce inequalities, plus complete details on our pay equity studies, are available on pages 30 through 34 of this report.
+
+Transitioning away from fossil fuels and high impact refrigerants.
+
+Accelerating the adoption of renewable electricity.
+
+Engaging with our suppliers to amplify collective progress.
+
+Raising our commitment In 2022, we increased our target to reduce Scope 1 and 2 emissions from 30% to 50% by 2030, from a 2018 baseline.
+
+This aligns our climate strategy with the Paris Agreement and the 1.5 C pathway.
+
+Validating our targets Our new Scope 1 and 2 target, as well as our near term and net zero climate goals, have been approved by the Science Based Targets initiative (SBTi).
+
+Thermo Fisher is one of the first companies in our sector to have a net zero target validated by the SBTi.
+
+Fossil fuel free sites and onsite renewables By continuously monitoring and improving the way we run our operations, we are implementing our plans to transition away from fossil fuels and advancing our net zero strategy.
+
+In 2022, we launched a net zero building design guide for new constructions and major renovations, and established standards to eliminate the installation of new fossil fuel consuming equipment.
+
+More than 150 sites are powered with 100% renewable electricity, some through new purchasing of renewable energy certificates (RECs) in China, India and South Africa.
+
+Engaging our suppliers We are addressing Scope 3 emissions by engaging suppliers that represent 90% of our spend from (1) goods and services and (2) upstream transportation and distribution in setting climate related, science based targets by 2027.
+
+Hundreds of our largest and most emissions intense suppliers were invited to participate in the CDP Supply Chain program to share information on their climate goals and progress.
+
+We also provided training and hosted meetings with key suppliers to help grow their understanding of their environmental impacts.
+
+Joining United’s Eco Skies Alliance As part of an initiative to decarbonize aviation, Thermo Fisher joined a first of its kind program with United Airlines through which a portion of our business travel flights will be powered by sustainable aviation fuel, reducing emissions by up to 80% compared to traditional jet fuel.
+
+We believe in the power of collaboration to advance scientific discovery and positively impact society.
+
+We work with our stakeholders, including customers, suppliers, governments, and industry associations, to identify innovative solutions to some of the most pressing global challenges.
+
+Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development.
+
+Propelled by our Mission, we partner with others to accelerate collective learning and progress that positions our industry to continue tackling current and emergent challenges.
+
+Thermo Fisher is committed to pushing science and technology a step beyond where it is today, and we believe in the power of collaboration to amplify our positive impact on society.
+
+Accelerating drug development and vaccine production We announced a 15 year strategic collaboration with Moderna, Inc. to enable dedicated large scale manufacturing of their Spikevax COVID 19 vaccine in the US and other investigational mRNA medicines in its pipeline to bring more life saving therapies to market quickly.
+
+Establishing world class training in DNA forensics in India We partnered with the National Forensic Sciences University (NFSU) to provide training and access to industry leading solutions and products for India’s Center of Excellence for DNA Forensics.
+
+NFSU is the world’s first and only university dedicated to forensic, behavioral, cybersecurity and applied sciences.
+
+Our partnership with Government e Marketplace (GeM), a new commerce platform developed by the government of India, has helped us scale the availability of our scientific products and services.
+
+Expanding access to critical biochemistry instruments We worked with a biotech company to support the University of Southern California (USC) with their new cryo electron microscopy (cryo EM) imaging facility on their Los Angeles, California, campus.
+
+Our Thermo Scientific Krios Cryo EM instrument will be shared among a broad constituency of researchers from across the life sciences fields within universities and industries interested in applying this revolutionary technology to their work.
+
+Enabling marine science and conservation We are collaborating with the Florida Atlantic University (FAU) Harbor Branch Oceanographic Institute to provide greater access to genetic analysis technologies that are essential to researching marine ecosystems at the molecular level.
+
+The FAU Harbor Branch will provide feedback on how our platforms may be optimized for greater access by field researchers on the front lines of advancing marine science and saving endangered species.
+
+Partnering for health equity In 2022, we launched our HIV DR genotyping kit for a fraction of the price of typical kits in qualifying LMICs.
+
+This product helps determine whether a person living with HIV has a mutated form of the virus that does not respond to antiretroviral therapy.
+
+Together with the Kenyan Ministry of Health and Clinton Health Access Initiative, Thermo Fisher was part of a public private partnership effort that resulted in the ministry updating its HIV Prevention and Treatment Guidelines to incorporate a new requirement for HIV DR patient testing to more efficiently determine the best course of treatment for people living with HIV.
+
+Convening key stakeholders to advance STEM education Thermo Fisher commemorated back to school season by bringing our community development partners together with US government officials, including the chair of the Congressional STEM Education Caucus.
+
+On Capitol Hill in Washington, DC, we engaged some of the country’s key decision makers in hands on experiences that exposed them to real world applications of our products, how we embed those technologies in our programs to advance STEM education access and equity, and the impact of our collaborations with BGCA and Society for Science in support of national goals to nurture the diverse STEM workforce of the future.
+
+Climate and sustainable design partnerships To mitigate the impacts of climate change, we believe in working together with our customers, peers, suppliers and other stakeholders.
+
+Featured strategic partnerships allowed us to collaborate with biomanufacturing and clinical trial industry peers on emerging environmental trends.
+
+Pistoia Alliance’s Clinical Trial Environmental Impact Community is focused on quantifying the greenhouse gas (GHG) impact of decentralized clinical trials and identifying key levers to reduce those impacts, and we are proud to serve on the steering committee.
+
+BioPhorum facilitates a global industry collaboration between member companies to accelerate sustainability progress within biopharmaceuticals.
+
+In 2022, we actively contributed to the development and publication of BioPhorum’s Environmental Sustainability Roadmap.
+
+Renewable Thermal Collaborative shares best practices among companies, institutions, and governments committed to scaling up renewable heating and cooling at their facilities, dramatically cutting carbon emissions and phasing out fossil fuel usage.
+
+Statement of use: Thermo Fisher has reported the information cited in this GRI index for the period of January 1, 2022 to December 31, 2022, with reference to the GRI Standards, GRI 1: Foundation 2021.
+
+Thermo Fisher is a member of the Responsible Minerals Initiative (RMI).
+
+The RMI uses an independent third party assessment (Responsible Minerals Assurance Process, or RMAP) of smelter refiner management systems and sourcing practices to validate conformance.
+
+The RMAP standards were developed to meet the requirements of the OECD Due Diligence Guidance and the US Dodd Frank Wall Street Reform and Consumer Protection Act (Conflict Minerals).
+
+The assessments help Thermo Fisher make informed decisions about responsibly sourced minerals in our supply chain.
+
+We are committed to doing our part in tackling the climate crisis and exploring opportunities for our business by transitioning to a low carbon economy.
+
+All our business operations worldwide are in scope, unless otherwise stated, and the activities described were conducted from January 1 to December 31, 2022.
+
+This framework has been introduced with a risk based approach focused on the most material risks and opportunities.
+
+For further disclosures on our approach to climate change, our CDP response is available at cdp.net en.
+
+The Nominating and Corporate Governance Committee (the Committee) of the Board of Directors oversees strategy, risks, opportunities, and external reporting related to corporate responsibility and sustainability by reviewing and discussing relevant regulatory, governance, market or other trends within the scope of the Committee’s oversight, including those related to climate.
+
+In coordination with the committee, the Audit Committee of the Board oversees public disclosures on these matters in the Company’s SEC filings as well as the data quality related to such reporting.
+
+Our Company leadership team is responsible to the Board for the management, development and performance of our business.
+
+Together with our chairman, president and CEO, the Company leadership team oversees climate, risk management, operations and finance, reviewing plans, risks and results on a quarterly basis.
+
+Tiered sustainability committees are embedded within the organization and ladder up to the Company leadership team.
+
+Reporting to the chief financial officer, the senior vice president, global business services, is responsible for the implementation of our climate related strategy.
+
+Our risk management process has identified short term risks and impacts acute physical risk due to increased severity and frequency of extreme weather events contributing to increased capital expenditures and chronic physical risk due to changes in precipitation patterns and extreme variability in weather patterns contributing to increased insurance claims liability.
+
+In 2023, our priority is to integrate our climate scenario analysis into the overall enterprise risk management process.
+
+This will help us better understand the potential impact of physical and transitional risks across low , medium and high case scenarios based on the Intergovernmental Panel on Climate Change’s Representative Concentration Pathways.
+
+Risk types that will be considered include current and emerging regulation, technology, legal, market, reputation, acute physical, and chronic physical risk.
+
+Climate scenario analysis will inform the resilience of our current climate strategy and help identify if further strengthening is needed based on different climate related scenarios.
+
+See our 2022 CDP Climate Change response for our assessment of physical and transitional risks and opportunities.
+
+Our short and long term strategies are linked to our climate targets, which are in line with the 1.5 C pathway and validated by the Science Based Targets initiative (SBTi).
+
+These targets support our Company strategy in two key areas developing high impact, innovative new products and delivering a unique value proposition to our customers.
+
+To inform the wider enterprise risk management process of any specific risks and opportunities posed by climate change and the transition to a low carbon economy, we review insurance reports outlining flooding, wildfires and extreme weather risks for all Company facilities.
+
+Site specific mitigation plans are developed to manage identified risks.
+
+In 2022, Thermo Fisher spent 1.6 million related to these plans.
+
+In 2023, our priority is to integrate climate scenario analysis into the overall enterprise risk management process to help us understand the potential impact of physical and transitional risks across low , medium and high case scenarios based on the Intergovernmental Panel on Climate Change’s Representative Concentration Pathways.
+
+Urgent action is needed to avoid the worst impacts of climate change, which Thermo Fisher has prioritized as core to our Mission and integral to our business and sustainability strategies.
+
+In 2022, the Company announced a new 2030 greenhouse gas emissions reduction target to cut Scope 1 and 2 emissions from operations by 50.4% from a 2018 baseline.
+
+We are on track to achieve our previous 2030 goal of a 30% reduction ahead of schedule.
+
+Our climate target fulfills our pledge to align our climate strategy with the Paris Agreement to limit global temperature increase to 1.5 C. This represents an important milestone in our pursuit of a net zero value chain by 2050, which includes Scope 1, 2 and 3 targets that have been validated by the SBTi.
+
+To manage climate related risks, we are actively developing our operational roadmap to a net zero value chain.
+
+Transitioning away from fossil fuels and accelerating the adoption of renewable electricity to power our facilities.
+
+Currently, more than 150 Thermo Fisher sites across the globe use 100% renewable electricity.
+
+Additionally, we entered into two agreements one with Enel North America and one with EDF Renewables that will enable us to power all of our current US sites with 100% renewable electricity by 2026.
+
+Engaging with 90% of suppliers our largest source of Scope 3 emissions to set science based targets by 2027.
+
+To help reduce emissions across our global value chain, we launched our climate engagement program for suppliers in 2022.
+
+To date, 13% of our suppliers by spend have set a science based target, and another 10% have committed to set a science based target.
+
+Our ENERGY STAR certified products and greener product alternatives help scientists advance sustainability in the lab by minimizing the use of hazardous chemicals, decreasing waste and material consumption, and increasing energy efficiency.
+
+As our net zero roadmap evolves, we continue to frame our approach toward a broader range of emissions sources such as our fleet, waste generation, transportation and business travel.
+
+With insights in these areas, our colleagues and other stakeholders are critical partners in helping us achieve our goals.
+
+Disclose the metrics used by the organization to assess climate related risks and opportunities in line with its strategy and risk management process.
+
+Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions, and the related risks.
+
+Describe the targets used by the organization to manage climate related risks and opportunities and performance against targets.
+
+See pages 50 through 52 of this report for near term and long term targets.
+
+The Compensation Committee of the Board oversees pay for performance, including the achievement of our nonfinancial strategic environmental, social and governance (ESG) targets, one of which is to reduce our GHG emissions.
+
+Its inclusion in our executive compensation program underlines the importance we place on delivering a 50% reduction in our Scope 1 and Scope 2 emissions by 2030.
+
+The table below presents how we define our priority, material issues.
+
+In this report, when we use the terms material, materiality and similar terms, we are using such terms to refer to topics that reflect our significant economic, environmental and social impacts or are important to stakeholders and our business success.
+
+We are not using these terms as they have been defined by or construed in accordance with the securities laws or any other laws of the US or any other jurisdiction, or as these terms are used in the context of financial statements and financial reporting, and nothing in this report should be construed to indicate otherwise.
+
+Promoting innovation within the workforce and offering new services products with high added value for customers to enable them to make the world healthier, cleaner and safer.
+
+Ensuring that products are safe for consumers and manufactured in a way that meets appropriate quality and safety assurance standards and applicable regulations.
+
+Providing opportunities to promote professional growth and learning among new and existing colleagues, matching colleague skills with the needs of the business and allowing for promotion within the Company and or advancement externally in order to remain an employer of choice and retain key talent.
+
+Programs aimed at building long lasting local relationships and improving economic and social circumstances at the local level in territories where the Company is operating sourcing materials.
+
+Reducing emissions that contribute to the greenhouse effect and other harmful environmental impacts.
+
+Improving energy efficiency and use of renewable energy sources in our own operations and supply chain.
+
+Efforts to develop strategies to mitigate climate change across the Company’s value chain.
+
+For further information on our efforts, please see our CSR webpage and the following resources.
+
+All trademarks are the property of Thermo Fisher Scientific and its subsidiaries unless otherwise specified.
+
+Clinton Health Access Initiative is a trademark of the William J. Clinton Foundation.
+
+Eco Skies Alliance is a trademark of United Airlines, Inc. EcoVadis is a trademark of EcoVadis SAS.
+
+The ENERGY STAR name and mark are registered trademarks owned by the US EPA.
+
+FIRST is a registered trademark of For Inspiration and Recognition of Science and Technology.
+
+The Greenhouse Gas Protocol is a trademark of the World Resources Institute and the World Business Council for Sustainable Development.
+
+International Medical Corps is a trademark of International Medical Corps.
+
+International Rescue Committee is a trademark of International Rescue Committee, Inc. Project Hope is a trademark of Project HOPE The People to People Health Foundation, Inc. Return On Leadership and ROL100 are trademarks of Indiggo LLC.
+
+Save the Children is a trademark of Save the Children Federation, Inc. Spikevax is a trademark of ModernaTx, Inc. TAGRISSO is a registered trademark of the AstraZeneca group of companies.
+
+TerraCycle Zero Waste Box is a trademark of TerraCycle, Inc. World Central Kitchen is a trademark of World Central Kitchen, Inc. YouTube is a trademark of Google Inc.

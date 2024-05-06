@@ -1,0 +1,2291 @@
+At AMD, we develop semiconductor technology that helps to enable the future.
+
+Our high performance processors power the servers for modern data centers, personal computers, game consoles, industrial devices and more.
+
+Through the use of our technologies, we help open possibilities for creators, researchers, inventors and explorers to tackle some of the world’s toughest challenges.
+
+That is why we are focused on creating the next generation of products to positively benefit society and the planet.
+
+We aspire to embed environmental sustainability across our business, ensure safe and responsible workplaces in our global supply chain and promote stronger communities where we live and work.
+
+Responsibly developing and delivering cutting edge technologies that enable a better world is deeply rooted in our culture.
+
+Corporate responsibility (CR) is an integral aspect of our business, which aims to generate shared value with our employees, customers, suppliers, investors and communities.
+
+The important role that computing plays in our everyday lives has never been more apparent.
+
+Over the last year, our high performance and adaptive computing solutions have enabled vital medical discoveries, advanced climate research, connected families around the world and so much more.
+
+In early 2022, we successfully closed the acquisition of Xilinx, significantly expanding our leadership product portfolio, technology capabilities and scale.
+
+With our recent acquisition of Pensando, we added additional capabilities in the data center, and now offer the industry’s broadest portfolio of computing solutions.
+
+Together with our employees, customers and partners, AMD advances innovation in computing to help create solutions to the world’s most important challenges.
+
+In that same vein, it is imperative that we do so in a responsible manner for the environment and world that we share together.
+
+We have set new long term goals across our environmental, social and governance (ESG) pillars.
+
+I am pleased to report that we are making good progress in efforts spanning digital impact, environmental sustainability, supply chain responsibility, and diversity, belonging and inclusion.
+
+Product energy efficiency is an area of significant focus for us as we push the boundaries of performance to develop the world’s most advanced processors.
+
+As of June 2022, AMD powers the fastest and most energy efficient supercomputer in the world the Frontier supercomputer as well as 17 of the top 20 most efficient supercomputers.
+
+We are also on track to achieve our goal to deliver a 30x increase in energy efficiency in AMD processors powering servers in AI training and high performance computing applications by 2025.
+
+By mid 2022, we achieved a 6.8x improvement from our 2020 base year.
+
+Our emphasis on environmental sustainability also extends to reducing the impacts of our operations and supply chain.
+
+We are also focused on arming the world’s brightest minds with AMD high performance and adaptive computing to accelerate important research and innovation.
+
+In 2022, we expanded the AMD High Performance Compute Fund to provide researchers with access to more than 20 petaflops of supercomputing power to advance research in areas including climate change, healthcare and transportation.
+
+Through this program and our other efforts, more than 27 million people have benefited from AMD technology and contributions, putting us on track to achieve our digital impact goal to positively impact 100 million people by 2025.
+
+All of this is made possible by our talented and dedicated employees.
+
+We continue to invest in our workforce and initiatives that advance diversity, belonging and inclusion (DB I), including tying our DB I goals to executive compensation.
+
+AMDers around the world are highly encouraged to get involved in employee resource groups and AMD inclusion efforts, with 52 percent of AMDers participating in 2021.
+
+You can read more about our progress and priorities throughout this report.
+
+In 2021, we also joined the UN Global Compact, and we continue to incorporate into our business strategy the ten universally accepted principles on human rights, labor, environment and anti corruption.
+
+As our product portfolio, market presence and workforce continue to expand, AMD is focused on responsibly delivering leadership computing solutions that advance the industry, our communities and the world.
+
+For 27 years, AMD has been annually disclosing the steps we take to embed corporate responsibility across our business.
+
+In this report, we look back on how we pushed the limits of innovation to help solve some of the world’s most important challenges, and we look forward to even bigger ambitions.
+
+It is not just what our semiconductor technology can do that matters, but also how we develop and deliver it responsibly.
+
+To guide our efforts, we engage our stakeholders and periodically conduct materiality assessments on environmental, social and governance (ESG) issues.
+
+From this work, we set long term ESG goals spanning our operations, supply chain and product design with oversight by our board of directors and executive team.
+
+As complex developments unfolded worldwide in 2021, we continued customer collaborations, employee trainings and supplier engagements on topics related to climate change, labor and human rights.
+
+Additionally, during the year our company, employees and the AMD Foundation collectively donated more than US 2 million for scientific research, social services, environmental conservation and humanitarian aid.
+
+We continue to implement measures that advance our ESG priorities while we focus on our financial performance.
+
+For instance, increased diversity hiring is once again a strategic metric and milestone informing our 2021 and 2022 annual incentive plan, which is a compensation element of our Total Rewards Program.
+
+Starting in 2022, we are investing up to US 10 million in underserved U.S. communities through the CNote platform to increase economic mobility and financial inclusion.
+
+This year we also entered into a US 3 billion sustainability linked credit facility, reinforcing our commitment to our ESG goals.
+
+I invite you to read our new report, which has been prepared in accordance with the GRI Standards and aligns with the Sustainability Accounting Standards Board and the Task Force on Climate related Financial Disclosures.
+
+We received external limited level assurance for 2021 data relating to our scope 1 and 2 greenhouse gas (GHG) emissions and related performance to goal, as well as scope 3 GHG emissions for business air travel.
+
+The creativity, resiliency and collaboration of AMD employees distinguish our company’s culture.
+
+I thank my colleagues for embracing and contributing to our ESG priorities.
+
+Together with our customers and partners, we create possibilities for how our semiconductor technology can help advance an inclusive, sustainable future for our world.
+
+Client, which primarily includes microprocessors, accelerated processing units that integrate microprocessors and graphics, and chipsets for desktop and notebook personal computers Gaming, which primarily includes discrete GPUs, semi custom SoC products and development services.
+
+Data Center, which primarily includes server microprocessors, GPUs, FPGAs and adaptive SoC products for data centers and Embedded, which primarily includes embedded microprocessors, FPGAs, adaptive SoC products and ACAP products.
+
+For more than 50 years AMD has driven innovation in high performance computing, graphics and visualization technologies.
+
+AMD employees are focused on building leadership high performance and adaptive products that push the boundaries of what is possible.
+
+We operate in more than 35 locations worldwide, including engineering facilities, sales and business service sites and corporate offices.
+
+AMD processors power people to lead their fields at the cutting edge.
+
+From healthcare and entertainment to science and autonomous driving when AMD performance meets the potential of our partners, we can solve the world’s most important challenges.
+
+Today’s data centers, supercomputers and cloud environments require vast amounts of computing power to enable the digital experiences that make up our daily lives.
+
+AMD offers a broad portfolio of solutions to meet these needs, combining exceptional x86 AMD EPYC processors, compute optimized AMD Instinct GPU accelerators, adaptive acceleration with the Versal platform, Zynq SoC and Alveo accelerators and high performance Pensando data processing units and software stack.
+
+High performance AMD computing and graphics technologies along with software power immersive gaming experiences for high performance PCs, the latest game consoles and cloud gaming services.
+
+AMD continues to drive innovation in premium PCs with AMD Ryzen processors and AMD Radeon graphics, bringing performance, efficiency and modern security features to gamers, creators, consumers and enterprises.
+
+AMD adaptive and embedded computing is enabling a new class of intelligent devices across the automotive, embedded and communications markets.
+
+We look at CR through the lens of environmental, social and governance (ESG) issues, which allows us to prioritize where we need to focus our efforts to have the most impact and operationalize our goals into the business.
+
+We engage with our stakeholders to help us identify and prioritize ESG related issues and set our strategy.
+
+This approach also guides our reporting and transparency efforts on the issues that matter most to our business and our stakeholders.
+
+We address a wide range of ESG related issues, and on the basis of engagement with our stakeholders, we elevate four strategic ESG focus areas.
+
+We have set public goals to help drive our progress in these areas.
+
+Our approach is grounded in business ethics, security and transparency.
+
+We continue to map our priority issues to the UN Sustainable Development Goals, showing how advancing our key initiatives helps to address global challenges.
+
+We recognize that no single company can effectively address these challenges alone, so we embrace strategic industry partnerships (link) and cross sectoral collaborations to help advance technological solutions for the issues our industry and society at large are facing.
+
+Diversity, Belonging and Inclusion: We encourage and support creative minds from diverse backgrounds to work together in an engaging and open environment.
+
+Goal calculations are based on performance scores as measured by standard performance metrics (HPC: Linpack DGEMM kernel FLOPS with 4k matrix size.
+
+AI training: lower precision training focused floating point math GEMM kernels such as FP16 or BF16 FLOPS operating on 4k matrices) divided by the rated power consumption of a representative accelerated compute node, including the CPU host memory, and 4 GPU accelerators.
+
+Performance for HPC workloads is based on Linpack DGEMM kernel FLOPS with 4k matrix size.
+
+Performance for AI training is based on lower precision training focused floating point math GEMM kernels such as FP16 or BF16 FLOPS operating on 4k matrices.
+
+Watts are based on the TDP of a representative accelerated compute node including the CPU host memory, and 4.
+
+To make the goal particularly relevant to worldwide energy use, AMD worked with Koomey Analytics to assess available research and data that includes segment specific datacenter power utilization effectiveness (PUE) including GPU HPC and machine learning (ML) installations.
+
+The AMD CPU socket and GPU node power consumptions incorporate segment specific utilization (active vs. idle) percentages and are multiplied by PUE to determine actual total energy use for calculation of the performance per Watt.
+
+The energy consumption baseline uses the same industry energy per operation improvement rates as were observed from 2015 2020, with this rate of change extrapolated to 2025.
+
+The AMD goal trend line (Table 1) shows the exponential improvements needed to hit the goal of thirtyfold efficiency improvements by 2025.
+
+The actual AMD products released (Table 2) are the source of the efficiency improvements shown for AMD goal status in Table 1.
+
+The measure of energy per operation improvement in each segment from 2020 2025 is weighted by the projected worldwide volumes (as per IDC Q1 2021 TrackerHyperion Q4 2020 Tracker, Hyperion HPC Market Analysis, April ’21).
+
+Translating these volumes to the ML training and HPC markets results in node volumes as per Table 3 below.
+
+These volumes are then multiplied by the Typical Energy Consumption (TEC) of the respective computing segment in 2025 (Table 4) to arrive at a meaningful aggregate metric of actual energy usage improvement worldwide.
+
+Supply Chain Responsibility: We work with our suppliers to deliver high quality products, while helping ensure that working conditions are safe, workers are treated with respect and manufacturing processes are environmentally responsible.
+
+We received external limited level assurance for 2021 data relating to our scope 1 and 2 greenhouse gas (GHG) emissions and related performance to goal, as well as scope 3 GHG emissions for business air travel.
+
+Following the acquisition of Xilinx in February 2022, we are preparing to report 2022 ESG data for the combined company in 2023.
+
+This year’s reported data reflects legacy AMD only operations for the 2021 calendar year.
+
+Additionally, as part of our next CR reporting cycle, we will work with our advisors at Ceres to reassess our collective ESG opportunities and goals.
+
+While our commitment to being a responsible corporation is not dependent on recognition, it is a great validation of our work when external organizations rank us alongside the top sustainable companies.
+
+Resources can include online modules, multiple 1:1 engagements or training courses.
+
+Our products help enable others to change the world.
+
+This comes with a commitment to do the right thing and conduct our business ethically.
+
+Our approach to corporate responsibility (CR) management and governance applies to all aspects of our business, spanning product design, supply chain, AMD operations and employee engagement.
+
+In other words, CR at AMD is not an add on consideration, but rather a how to approach.
+
+We look at CR through the lens of environmental, social and governance (ESG) issues, which allows us to prioritize where we need to focus our efforts to have the most impact and operationalize our initiatives and goals into the business.
+
+Through ESG executive leadership, cross functional team coordination, transparent disclosure and external stakeholder engagement, we can set clear objectives, track progress and promote accountability.
+
+The AMD Board of Directors: The highest level of ESG oversight at AMD is the AMD Board of.
+
+Directors, which receives reports from and engages with management at least quarterly on ESG issues, practices and reporting.
+
+The AMD Board Committee for Nominating and Corporate Governance also has formal oversight of ESG and receives additional updates.
+
+The AMD Executive Team (AET): The AET receives regular updates, at least monthly, on ESG topics, needs and proposals throughout the year.
+
+AET members actively participate in setting ESG strategic priorities and goals for their departments, while providing the necessary company investments and resources to demonstrate progress.
+
+The AMD ESG Executive Steering Committee: Our ESG Executive Steering Committee is responsible for overseeing progress on the company’s ESG priorities, goals and disclosures.
+
+Members of the Committee regularly communicate with AET members on ESG matters and updates.
+
+The Committee is comprised of cross functional leaders (Director level or higher) from Finance, Global Operations, Human Resources, Investor Relations, Legal, Public Affairs and other departments.
+
+The AMD Corporate Responsibility (CR) Team: The CR team works cross functionally to help operationalize the day to day management of many ESG related policies, practices and infrastructure.
+
+The team also leads ESG reporting and communications.
+
+In their roles, members of the CR team regularly engage with other AMD departments such as Environmental Health and Safety, Engineering, Global Operations, Human Resources, Investor Relations, Legal and Quality to help ensure we are effectively and efficiently managing environmental and social issues.
+
+CR resides within Public Affairs and reports to our Senior Vice President, General Counsel and Corporate Secretary, who reports to the CEO.
+
+AMD is committed to publicly reporting clear and transparent ESG data while continuing to evolve our internal processes and external disclosures to meet stakeholder expectations.
+
+For example, in 2020, we expanded our external reporting of climate data and risks to align with the Sustainability Accounting Standards Board (SASB) and the Task Force on Climate related Financial Disclosures (TCFD).
+
+This year, as a signatory to the UN Global Compact, we submitted our Communication On Progress update to demonstrate how AMD is helping advance the UN Sustainability Development Goals (SDGs).
+
+In our 2021 CR Report, we also added new disclosures on human capital, cybersecurity, public policy engagements and U.S. political activities.
+
+We received external limited level assurance for 2021 data relating to our scope 1 and 2 greenhouse gas (GHG) emissions and related performance to goal, as well as scope 3 GHG emissions for business air travel.
+
+AMD takes a multi faceted approach to ESG related risk management.
+
+For example, a cross functional team focused on product energy efficiency meets bi weekly to discuss regulatory and standards developments that may pose short, medium or longer term risks (or opportunities).
+
+The team is led by our Corporate Vice President of International Government Affairs and Corporate Responsibility, with the participation of product engineers and business teams.
+
+Business continuity planning is another area of risk management that brings together Environmental, Health and Safety, Finance, Human Resources, Global Operations, Information Technology and other teams to identify and plan for events that could disrupt AMD operations and or supplier operations.
+
+Among our manufacturing suppliers, we conduct facility level due diligence to address risk factors related to human rights (e.g., forced labor), environmental factors (e.g., water risk) and ethics (e.g., corruption).
+
+We also collaborate on industry efforts to advance sub tier supplier mapping in order to identify and address risks further down the supply chain.
+
+AMD is committed to conducting our business in a fair, ethical, honest and lawful manner and in compliance with all laws, rules and regulations applicable to our business.
+
+Senior leadership, starting with our CEO, communicates to all employees the importance of acting in concert with our core values.
+
+Employees are assigned ethics and compliance training with attention focused on anti corruption, harassment prevention, import export compliance, and the prevention of insider trading, conflicts of interest and antitrust, as may be applicable.
+
+The importance of compliance and conducting our business with integrity is also communicated annually on a company wide basis by our General Counsel.
+
+In addition, our leadership teams, including Corporate Vice President positions and above, are surveyed twice a year about possible conflicts of interest.
+
+The AMD Board of Directors has governing authority with oversight responsibility of all business ethics issues.
+
+Our Corporate Compliance Committee is responsible for oversight of the AMD Worldwide Standards of Business Conduct (WWSBC) and related policies and procedures (e.g., compliance with the U.S. Foreign Corrupt Practices Act, export control policies, privacy regulations and conflict of interest rules).
+
+Additionally, in 2022, a new Chief Compliance Officer (CCO) role and office were formed to manage and implement company wide ethics and compliance programs and initiatives.
+
+A Compliance Team, reporting to the CCO, coordinates with various other business functions to drive a unified front for ensuring compliance with the WWSBC and the other related policies and procedures.
+
+The Committee provides quarterly activity reports of ethics and compliance cases to the Board and undertakes a program overview annually.
+
+All employees are required to complete the WWSBC training when hired and every three years thereafter.
+
+We maintain a process for reporting misconduct and encourage employees to raise questions or concerns.
+
+Employees and other stakeholders are informed of our non retaliation policy.
+
+AMD Aware is a multilingual web portal and telephone service that accepts anonymous reports about suspected illegal activity or violations of the AMD WWSBC, as permitted by law.
+
+AMD Aware is available to all AMD employees and third parties worldwide 24 hours a day, seven days a week.
+
+All incidents reported via AMD Aware are investigated by responsible teams within AMD, including representatives from the AMD Corporate Compliance Office and the Internal Audit and Employment Law teams.
+
+All incidents are reported to the Audit and Finance Committee of the Board by the Chief Compliance Officer, including any corrective actions taken as a result of the investigations.
+
+Consistent concerns are addressed through senior management discussions, employee communications, process and controls improvements, training and individual corrective action measures, where appropriate.
+
+In 2021, building off our existing anti corruption guidelines in the AMD WWSBC, we created a stand alone global policy to help employees and key personnel deal with anti corruption issues when conducting company business activities.
+
+The Global Anti Bribery and Anti Corruption Policy describes prohibitions and or required processes relating to specific areas of concern such as gifts, meals and entertainment involving government officials and our company’s policy regarding facilitation payments.
+
+Additionally, it sets forth the company’s policy on engaging with third parties or intermediaries to work for the company.
+
+Anti corruption training is a key component of our regular Worldwide Standards of Business Conduct (WWSBC) training for all employees.
+
+Employees take the WWSBC training upon employment and every three years thereafter.
+
+The training session requires employees to certify they are conducting business in accordance with the WWSBC, which includes policy statements on anti corruption.
+
+AMD executives and senior finance managers must also sign a code of ethics on an annual basis.
+
+Additional in person anti corruption training is conducted for high risk employees.
+
+Targeted training was given at the AMD Sales KickOff event in 2021and we provide training to our global sales organization, outlining best practices for government tenders, including compliance with bribery and corruption regulations.
+
+Anti corruption risks are included within the annual enterprise risk assessment conducted by our Internal Audit team in partnership with other relevant business functions.
+
+These risks are also included in periodic surveys of key management personnel who are likely to have visibility into relevant activities.
+
+These employees are required to certify that they are not aware of any such activities or provide details of any suspicious activities.
+
+The Law Department also reviews contracts and programs for compliance with antitrust laws and provides training to sales and customer facing roles respecting compliance.
+
+In addition, AMD has a financial reporting program that audits a substantial number of our company's financial reporting controls and that includes entity level controls that are intended to address the ethics and management of AMD.
+
+We focus on continuously strengthening the protection of our company’s technology infrastructure, intellectual property and other critical information assets against cyber threats.
+
+To enhance our company's competitive advantage and security posture, our Enterprise Information Security (EIS) team strives to align the company to leading industry cybersecurity frameworks.
+
+These frameworks help AMD create a strong in depth defense using a risk based, scalable and outcome driven cybersecurity program.
+
+Our information security policies and procedures provide a foundation for our cybersecurity program.
+
+Through our periodic mandatory cybersecurity awareness training and simulated phishing campaigns, we educate and test our employees on their responsibilities in helping protect the intellectual property and information assets of AMD, and our customers and our vendors.
+
+BISOs are responsible for assisting our cybersecurity team with identifying, communicating and managing risk, and implementing appropriate security and privacy measures within each BISO’s business organization.
+
+The Cyber Operations, Incident Command and Response, and Insider Threat functions continuously monitor the global threat landscape and manage a 24 7 Security Operations Center to help protect AMD against, detect and respond to potential threats from inside and outside the company.
+
+A third party risk management process is in place to evaluate vendor cyber security risks.
+
+The Audit and Finance Committee of our Board of Directors is responsible for the oversight of enterprise risk, and it reviews and provides feedback to EIS on matters pertaining to information security risk.
+
+Periodic audits are conducted on our information technology and cybersecurity programs and processes by internal and external auditors.
+
+The efforts of the EIS function are overseen by management at multiple levels including Chief Information Officer, AMD Executive Team and Board of Directors.
+
+As a global company, we believe corporate responsibility includes being an informed, active participant in the development of public policies that affect our business, industry and customers in the countries and communities in which we operate.
+
+Good public policy begins with diverse stakeholders participating in open and transparent proceedings to carefully examine issues and offer different perspectives that promote effective solutions.
+
+Our company works with governments and authorities, non governmental organizations (NGOs), industry associations and other groups to deepen our understanding of issues and viewpoints and to share our experience and expertise as part of an informed public policy development process.
+
+Environmental Protection Movement of Goods IP Product Energy Efficiency Responsible Mineral Sourcing Secure Technology Trade, Competition and Market Access Workforce Talent.
+
+Our company’s activities in government and regulatory affairs are overseen by our General Counsel, who reports to our CEO.
+
+The AMD Worldwide Standards of Business Conduct link to PDF supports our company’s commitment to high ethical standards and compliance with the law in our engagement.
+
+Among other terms, provisions address political activities and contributions bribery and anti corruption and giving or accepting gifts, entertainment and other gratuities.
+
+Anti Bribery and Anti Corruption Policy Code of Ethics Climate Change Policy Responsible Mineral Sourcing Policy Environmental Health and Safety Policy Export Policy Human Rights Policy Product Quality Policy Supplier Code of Conduct Worldwide Standards of Business Conduct.
+
+Our key stakeholders include our workforce, customers, investors and analysts, local communities, suppliers, key non government organizations (NGOs) and governmental bodies.
+
+We work with our stakeholders and strive to create shared value by understanding their interests, communicating our strategies and positions clearly and being responsive as issues evolve.
+
+It is not just what our technology can do that matters to our stakeholders, but also how we responsibly develop and deliver it.
+
+Investors increasingly care about the long term sustainability of a company, which includes how well the company’s purpose is integrated with its value proposition and financial performance.
+
+Investors are also assessing the company’s strategy and performance on environmental, social and governance (ESG) issues.
+
+We continue to engage in these important conversations with our ESG minded investors, and we believe our company is well positioned to participate in growing markets that prioritize ESG disclosures and performance.
+
+Learn more about our ESG disclosures and reporting.
+
+Employees want to work on compelling semiconductor technology that simultaneously enables them to develop their own professional careers and livelihoods.
+
+They also value a purpose driven culture where diversity, belonging and inclusion are celebrated.
+
+We offer our employees the opportunity to work for a company that innovates and makes important contributions to the world while upholding business ethics and integrity.
+
+Learn more about diversity, belonging and inclusion at AMD.
+
+Communities expect companies to contribute positively to economic growth and employment while also being good neighbors.
+
+This is an ideal we embrace across our operations worldwide.
+
+More broadly, our technology can help enable communities to successfully connect remote locations and deliver services to their citizens.
+
+Our technology can also help bring together and support virtual communities, from gamers to doctors to scientists.
+
+Learn more about how we support our global community sites.
+
+Customers are looking for more options and choices that will help them achieve their visions and goals.
+
+AMD collaborates with customers to create innovative products that meet emerging needs and tackle some of the world’s toughest challenges, spanning medical advances, advanced engineering, data analytics, scientific breakthroughs, education and more.
+
+Partnering with customers is how we bring to life our purpose: to enable the world’s creators, researchers, inventors and explorers to transform the lives of those around them through high performance and adaptive computing.
+
+We work with our suppliers to deliver high quality products and to help ensure that working conditions are safe, workers are treated with respect and manufacturing processes are environmentally responsible.
+
+We recognize that collaboration with our supply chain partners is necessary to achieve our business and sustainability goals.
+
+Through our membership in the Responsible Business Alliance (RBA), we work together on short and long term goals and address industry challenges and work toward solutions.
+
+This partnership approach enables us to strategically collaborate and continually improve performance.
+
+Learn more about our supply chain responsibility program.
+
+Governmental Bodies are important stakeholders, as they are developing and implementing public policies that affect our business, industry and customers.
+
+We actively engage in key efforts by participating in open, transparent proceedings that may involve decision makers, industry peers, customers, suppliers or civil society organizations.
+
+We strive to understand the issues, listen to different perspectives and share our experiences to promote effective solutions.
+
+Topics vary around the world, and they include the deployment of technology to deliver public services, research, trade, product energy efficiency, renewable energy, supply chain security and continuity of supply chains during the COVID 19 pandemic.
+
+One of the most important ways we gain insight into and understanding of our stakeholders’ interests is through focused dialogue.
+
+Working with Ceres, a leading nonprofit organization focused on business and sustainability, we receive valuable input into our corporate responsibility strategy and strategic focus areas from a diverse set of stakeholders.
+
+This panel includes experts from industry partners, advocacy groups and socially responsible investment firms.
+
+We meet annually to share our progress against goals and to gain a deeper understanding of how we can improve our corporate responsibility strategy, initiatives and performance.
+
+In previous years, we have worked with Ceres to convene groups of external subject matter experts to have frank conversations with AMD decision makers about the opportunities and risks presented in topics such as artificial intelligence (AI) and blockchain technologies, human rights and labor and product energy efficiency.
+
+These discussions and the subsequent internal reviews help inform our ongoing strategies and considerations.
+
+In 2020, Ceres supported AMD in conducting an updated materiality assessment to solicit thoughtful stakeholder feedback that has informed our long term strategic priorities across environmental, social and governance (ESG) issues.
+
+In 2021, Ceres worked with the AMD Corporate Responsibility team and interviewed several senior executives to review the results of the materiality assessment and discuss how the findings inform AMD ESG focus areas moving forward.
+
+In the second half of the year, we will work with Ceres to review our ESG goals in light of the acquisition of Xilinx to determine any refinements to the metrics and or timelines.
+
+AMD embraces collaboration and innovation in the technology sector.
+
+We recognize that meaningful improvement in corporate citizenship requires collaboration on a global scale, which can be transformative when it’s done well.
+
+Working with industry peers, government regulators, civil society organizations and other groups enables our collective efforts to exceed what any of us could do as an individual organization.
+
+The following table highlights some of the groups with which we engage in corporate responsibility initiatives.
+
+Engagement areas AMD participates in CDP’s annual disclosure system for climate and water surveys to share strategies, data and progress across our operations, supply chain and products.
+
+AMD is a member of Ceres, a nonprofit organization that provides advisory services across environmental, social and governance (ESG) issues and facilitates stakeholder engagement efforts for AMD.
+
+AMD is a member of CESA, which promotes social responsibility in the electronic information industry in Greater China.
+
+AMD shares best practices in corporate responsibility to help inform upstream and downstream enterprises in the industrial supply chain.
+
+We participate in meetings led by DigitalEurope, including product compliance and sustainability topics, to support a regulatory environment in Europe that enables public agencies, citizens and businesses to prosper from digital technologies.
+
+AMD has been an EPA Green Power Partner since 2000 by sourcing renewable energy in the U.S. and reporting procurement amounts each year.
+
+We are a member of ITI and actively participate in several committees, including Environment and Sustainability, Product Stewardship, The Green Grid and the Climate Task Group.
+
+AMD is an elected Board member of the RBA and holds full membership.
+
+The company actively participates in several working groups, including the Environmental Sustainability Workgroup.
+
+To promote diligence in our supply chain, we actively participate in the RLI a multi industry, multi stakeholder initiative focused on ensuring the rights of workers vulnerable to forced labor in global supply chains are respected.
+
+We have been a member of the RMI since its founding and continue to participate actively in industry dialogues to advance the use of shared tools and resources with the aim of supporting responsible mineral production and sourcing on a global scale.
+
+Public semiconductor industry with its contributions in health, travel, communication, scientific discovery, education and more.
+
+Note: The above table does not include all organizations with which AMD collaborates in corporate responsibility efforts.
+
+Leading companies take an expanded view of their social and environmental responsibilities.
+
+They look beyond their own operations and work closely with value chain partners and other key stakeholders.
+
+By doing so, these companies deepen their understanding of social and environmental issues and create opportunities to accelerate meaningful action.
+
+At AMD, we embed corporate responsibility across our value chain.
+
+Our approach extends from how our products are designed, manufactured and packaged to how they are assembled, shipped and used.
+
+We have mapped our corporate responsibility programs and initiatives to the primary activities of our value chain.
+
+AMD engineers design the circuitry for microprocessors, graphics, embedded devices and accelerated processing units.
+
+Our employees work at more than 35 locations worldwide.
+
+Product Sustainability Responsible Minerals Sourcing.
+
+A typical wafer is made from pure silicon that is formed into cylindrical ingots.
+
+These ingots are then sliced into wafers about 0.75 mm thick.
+
+Each wafer undergoes multiple steps in the fabrication process to produce an AMD designed processor or die.
+
+The working die from the silicon wafer is cut and sent to be assembled into a chip.
+
+Supply Chain Responsibility Responsible Minerals Sourcing.
+
+In the assembly process, each die is attached to metal connectors so it can function with other devices on a circuit board.
+
+The die is then assembled into a protective package to dissipate heat and protect it from other elements.
+
+Once fully assembled, each chip is tested for functionality.
+
+Supply Chain Responsibility Responsible Minerals Sourcing.
+
+Qualified chips are packaged for shipping to our customers.
+
+AMD works with Original Equipment Manufacturers (OEMs) that integrate our technology into their branded devices, hyperscale and cloud data center providers that integrate our technology into their custom built servers, channel partners that sell standard and customized solutions and retailers that sell processors in a box direct to the computer enthusiast community.
+
+AMD technology powers millions of intelligent devices made by our customers, including personal computers, game consoles, servers and industrial devices.
+
+With the acquisition of Xilinx in February 2022, AMD is powering even more in automotive and telecommunications applications.
+
+These products are defining the new era of high performance and adaptive computing.
+
+AMD solutions enable people everywhere to realize the full potential of their favorite devices and applications to push the boundaries of what is possible.
+
+The world’s creators, researchers, inventors and explorers are using high performance and adaptive computing to tackle challenges in science, medicine, manufacturing and other areas and transform the lives of those around them.
+
+Proper reuse, recycling and disposal of electronic products are important in protecting the environment and moving toward a more circular economy.
+
+By engineering our products for longer life, and in some cases making them backward compatible with our customers’ existing systems, we can help make better use of our planet’s limited natural resources.
+
+Product Lifecycle Management Reducing Hazardous Substances.
+
+Materiality7 analysis helps us prioritize environmental, social and governance (ESG) issues within our approach and goal setting, and it guides our engagement with key stakeholders.
+
+It also helps us focus our reporting and transparency efforts on the issues that matter most.
+
+As a leading company in the semiconductor industry, AMD impacts and is impacted by a wide variety of ESG related issues.
+
+While we continuously monitor and respond to a broad range of topics, we also conduct periodic evaluations to better understand the overall landscape, set priorities and evolve our practices, policies and programs accordingly.
+
+In 2020, we partnered with Ceres, a leading nonprofit organization focused on sustainable business, to complete an updated materiality assessment, building on the previous assessment that was conducted in 2017.
+
+The resulting ESG materiality matrix highlights our most material issues based on their current or potential impact on stakeholders and society and our company’s business.
+
+Our ESG Materials may contain information that is significant however, any significance should not be read as necessarily rising to the level of the definition of materiality used for the purposes of our compliance with the U.S. federal securities laws, even where we use the word material or materiality in our ESG Materials (including where we use it in connection with our materiality assessment) or in other materials issued in connection with the matters discussed in our ESG Materials.
+
+We have used definitions of materiality in the course of creating our ESG Materials and the goals and metrics discussed therein that do not coincide with or rise to the level of the definition of materiality used for the purposes of our compliance with the U.S. federal securities laws.
+
+Moreover, given the uncertainties, estimates and assumptions inherent in the matters discussed in our ESG Materials, and the timelines involved, materiality is inherently difficult to assess far in advance.
+
+In addition, given the inherent uncertainty of the estimates, assumptions and timelines associated with the matters discussed in our ESG Materials, we may not be able to anticipate in advance whether or the degree to which we will or will not be able to meet our plans, targets or goals.
+
+While results were generally aligned with those of the previous assessment, there were notable shifts in the ranking of some issues.
+
+These shifts reflect the evolution of societal expectations and concerns, as well as specific emerging risks and opportunities for AMD.
+
+For example, the analysis found that social equity and workforce issues, including employee diversity and inclusion as well as tech equity, are increasingly important to stakeholders and our business.
+
+It also highlighted nuances in the evolution of some issues, such as stakeholders’ increased focus on different dimensions of climate change as it relates to information technology.
+
+Such topics include product energy efficiency, operational energy use, risks to the supply chain and computing’s role as both a driver of greenhouse gas (GHG) emissions and a lever for reducing emissions across the wider economy.
+
+We also consider several of the issues noted in the matrix as part of our foundational approach to conducting business responsibly.
+
+These issues include ethical conduct, financial performance, innovation, intellectual property protection, product quality and security (cyber, product and supply chain).
+
+To refine our understanding of key issues and update our strategic focus areas, we undertook a thorough assessment process consisting of the following key steps.
+
+Identification: Ceres conducted desk research to identify and characterize a comprehensive list of ESG issues and topics relevant to our business and the broader semiconductor industry.
+
+The increasing number and diversity of ESG inquiries we receive from customers, investors and other stakeholders b.
+
+The issues and expectations highlighted by external frameworks and initiatives, such as the Global Reporting Initiative (GRI), the Sustainability Accounting Standards Board (SASB), the Taskforce on Climate related Financial Disclosures (TCFD) and the United Nations Sustainable Development Goals (SDGs) and c. The evolution of other companies’ priorities and responses to key issues within and beyond our industry.
+
+Survey Analysis: AMD and Ceres conducted a survey to gather internal and external stakeholder feedback on the relative importance of identified issues, as well as their insights on the context and challenges AMD faces.
+
+We then compiled and analyzed the results to identify the most strategic issues and potential areas for increased focus and investment.
+
+Validation Prioritization: We reviewed and validated the results of the analysis in discussions with investors and members of the AMD executive team.
+
+Insights and recommendations from these conversations provided the basis for final prioritization and determination of the core issues, and in turn, for updating and refining our practices, policies and programs.
+
+The results of this final step are critical inputs to our forward looking approach, as they define its substance and inform our goals.
+
+Computing is ubiquitous and more powerful than ever.
+
+Every single day, whether it is in the electronics we rely on at home and work, the advanced data centers and networks that connect us all or the supercomputers used to drive research and innovation in numerous fields, computing makes the previously impossible possible.
+
+Semiconductor technology creates the potential for new insights, experiences and solutions with the power to transform lives and communities for the better.
+
+Our advances in high performance computing (HPC) help society unlock opportunities around scientific research science, technology, engineering and math (STEM) education energy and climate healthcare and other exciting fields.
+
+However, such advances also bring the potential for abuse and unintended consequences.
+
+The same technologies that promote equity and increase efficiency can also be deployed in ways that potentially disadvantage or exploit vulnerable communities or contribute to environmental degradation.
+
+As a leader in the semiconductor industry, AMD has both the opportunity and a responsibility to help apply digital tools to create a better world and to help avoid or limit their potential risks.
+
+At AMD, we make the world’s most advanced processors8 and when combined with our customers’ visions, together we advance the world.
+
+Therefore, understanding our customers’ and industry partners’ goals and sharing their visions are critical elements to how we operate.
+
+With these insights, we can see the challenges and opportunities ahead, which enable us to continue to develop groundbreaking innovations and help improve lives.
+
+But technology alone cannot achieve societal progress.
+
+Rather, it is the people who put high performance computing to work and spark new ideas that benefit society as a whole.
+
+That is why we engage and collaborate with our customers, industry and other stakeholders to design world class high performance computing solutions to tackle some of the toughest challenges facing society and to mitigate the potential negative impacts of technology.
+
+Our approach entails fostering strategic relationships with researchers, non profits, educators and students who are positioned to expand horizons and develop the groundbreaking innovations of tomorrow.
+
+Whether it is donating technology to help develop students’ sense of discovery or to enable scientists to responsibly push the boundaries of what is possible, we believe that when processing power meets brainpower, the future comes alive.
+
+We have set a public goal and are committed to making meaningful progress to advance the digital impact of AMD technology.
+
+ON TRACK: In 2020 and 2021, more than 30 institutions received AMD technology through the HPC Fund and our STEM initiatives, benefiting approximately 27.8 million people.
+
+The majority of these beneficiaries came from our collaborations with the Stanford School of Medicine and the Council of Scientific and Industrial Research (CSIR).
+
+Using AMD high performance servers, Stanford is analyzing COVID 19 research for California and the state’s prison population, and CSIR is working with scientists in India to address COVID related challenges.
+
+Both organizations estimate the impact of the HPC Fund donations to be more than 10 million people.
+
+A big challenge needs a powerful solution to help tackle COVID 19, we made high performance computing (HPC) resources available to researchers across India.
+
+In 2021, we made the largest single on premise donation from the AMD HPC Fund to the Council of Scientific and Industrial Research (CSIR) body based in Bengaluru, India.
+
+The 24 node cluster delivers more than one PetaFlop of compute power to fight the COVID 19 pandemic.
+
+In collaboration with the CSIR Fourth Paradigm Institute (CSIR 4PI) in India, we also established the COVID CARE Network.
+
+This centralized HPC facility will offer computational access to researchers and academics working to tackle COVID related challenges, said Vidyadhar Mudkavi, former Head of CSIR 4PI.
+
+It will accelerate the work being done by scientists in India across varied disciplines including biological sciences for vaccine discovery, chemical sciences for drug testing, and engineering to provide effective time bound solutions.
+
+We see great potential for high performance computing (HPC) to benefit society and the planet.
+
+Through our digital impact initiatives, strategic investments and partnerships, we aim to help others solve important global challenges.
+
+Together with industry and research partners, AMD is helping to deliver a new generation of supercomputers9 that cross the exascale performance barrier for the first time, with the ability to perform more than 1018 (one quintillion) or more calculations per second.
+
+These pathbreaking machines will enable researchers to employ exponentially more powerful models and simulations with the potential to create breakthroughs in areas such as climate science, biomedical engineering and the development of new materials.
+
+Our technology continues to be used to accelerate the development of COVID 19 vaccines and therapeutics.
+
+In April 2020, well before the full scope and scale of the pandemic was realized, AMD CEO Dr. Lisa Su announced an initial US 15 million commitment to establish the AMD HPC Fund.
+
+The fund’s initial purpose was to provide research institutions with computing resources to accelerate medical research on COVID 19 and other diseases.
+
+Dr. Su knew that any meaningful response to a pandemic would require tremendous processing power, and AMD was in the position to help provide necessary tools and expertise.
+
+The HPC Fund has helped researchers deepen their understanding of COVID 19 and improve society’s ability to respond to future potential threats to global health.
+
+As of November 2021, 25 grantees in eight countries are benefiting from AMD donations of almost US 25 million of HPC systems and support.
+
+At a few institutions, we doubled the processing power available on campus.
+
+For other grantees, this was their first opportunity to work on a heterogeneous system with both AMD CPUs and GPUs, so qualified support and training were key to enabling their research objectives.
+
+The grantees have used these systems for applications such as evolutionary modeling of the coronavirus, transmission science and large scale fluid dynamics simulations of COVID 19 droplets as they travel through the air.
+
+This processing power is helping institutions aim to tackle previously intractable problems, accelerate response timelines and understand biological and medical data on a deeper level.
+
+In 2022, the HPC Fund expanded beyond COVID 19 research to include science for the public good with the addition of 7 petaflops of computing power11 to assist global researchers working on solving the most demanding challenges facing society today.
+
+The new contribution brings the total amount of computing capacity donated by AMD to nearly 20 petaflops with a market value of more than US 30 million, as of May 2022.
+
+The additional computing resources will build on the original fund established in 2020 to provide research institutions with computing resources to accelerate medical research on COVID 19 and other diseases.
+
+We are witnessing a scientific computing revolution where high performance computing resources vastly reduce the time to insights and discovery, said Mark Papermaster, executive vice president and chief technology officer, AMD.
+
+By broadening the AMD HPC Fund beyond COVID 19, we are enabling researchers to solve more of the world’s toughest problems.
+
+Protein scientists can unlock clues to improving human health, and with game changing compute power from AMD, they are making exciting advances.
+
+Proteins are fundamental pieces of the biological puzzle.
+
+They are molecular machines that make us who we are they have a role in muscle contraction, tissue structure, chemical reactions, immunity and many other processes.
+
+But when things go awry, the result can be detrimental to health: proteins are also involved in the development of diseases like Alzheimer’s disease and cancer.
+
+To understand proteins, scientists need to know what they look like, how they are built and how they work.
+
+AMD provided HPC systems to the University of Washington Medical School in St. Louis, to support the Folding Home program based on their campus.
+
+Named after the folding process through which proteins are built, the program involves citizen scientists and harnesses the power of their home computers.
+
+Instead of using one supercomputer to run a single, long simulation, the complex scientific problem is explored across 100,000 home computers.
+
+With AMD game changing compute power, University of Washington researchers can get the initial picture of what they want to study much faster, and they can process the full data that comes back from Folding Home more quickly.
+
+When time is of the essence like with COVID 19 this makes a big difference.
+
+Researchers are currently using AMD HPC and Folding Home to study coronavirus proteins called spike complexes, which the virus uses to penetrate human cells.
+
+As we imagine a future enhanced by what computing offers, we must also empower the next generation of citizens and leaders to continue innovating and making constructive use of its capabilities.
+
+We are passionate about enabling the imagination and creativity of the next generation.
+
+Technology in their hands encourages exploration and learning that open doors to new careers and possibilities.
+
+That is why we partner with schools, educators and local nonprofit organizations to provide AMD processor based equipment to outfit five AMD Learning Labs that help inspire students to pursue science, technology, engineering and math (STEM) education.
+
+Current AMD sponsored labs run in Markham, Canada Shanghai, China Singapore, Singapore and Austin, Texas and San Jose, California in the United States.
+
+These AMD Learning Labs support the expansion of STEM curricula and opportunities for under resourced students to gain hands on experience with computer hardware and software alongside ongoing engagement with AMD employee volunteers.
+
+Students are learning to build websites, design computer games, program in Scratch and Python and improve their digital literacy skills.
+
+For some students, this may lay the groundwork for a future technical career, while for others it supports reasoning and skills development to thrive in a range of other pursuits.
+
+Boys Girls Clubs of America is committed to fostering the potential of young people and bridging the gap between access and opportunity through high quality, consistent and safe, out of school time programming.
+
+Recognizing that STEM education is an important component to success, Boys Girls Clubs have built programs that better prepare their member clients for a future of opportunities.
+
+With this shared vision, AMD has been partnering with Boys Girls Clubs in U.S. site communities through employee volunteering and philanthropic investment for more than 10 years.
+
+Our activities have included launching an AMD Learning Lab in Silicon Valley, supporting STEM for Girls programming in MetroWest, leading hands on STEM activities in Central Florida and hosting career explorations in the Austin area.
+
+The Boys Girls Clubs of the Austin Area (BGCAA) primarily serves underrepresented youth attending Title 1 schools.
+
+In 2021, many students and families felt the continued struggles and effects of a world with COVID and the challenging reality of a new normal.
+
+AMD and our valued business partner HP 12 decided to help alleviate one major obstacle: accessing high quality technology.
+
+Through the HP Refresh program, we donated more than 325 newly refurbished AMD powered laptops and desktops, which were distributed to BGCAA students and families who needed them most.
+
+One Club member’s education was hindered by lack of access to a personal computer.
+
+He was able to borrow one during the academic year, but when the school year came to an end, so did his computer access and with it, his ability to continue learning.
+
+His family also faced a challenging year after losing his father to cancer.
+
+Public throughout the summer, and it also helped his mother seek employment and manage bills electronically.
+
+AMD is not only proud to make products that advance society we are also proud to donate technology that can make a difference in a person’s life.
+
+Around the globe there are talented students with enormous potential who, with hard work and proper educational opportunities, will form the next generation of innovators in STEM.
+
+AMD has a culture of innovation, and we are passionate about enabling the imagination and creativity of the next generation.
+
+Through our long standing partnership with Chen Su Lan Methodist Children’s Home, in 2021 we established an AMD Learning Lab featuring AMD powered laptops by HP.
+
+Students learn various computer programs and develop new capabilities and knowledge, such as 3D printing, basic computer skills, robotics and digital art.
+
+For many years, AMD has focused on e sports in different ways: developing and showcasing technology, encouraging collaboration in vocational education and supporting Chinese gaming events for talent development.
+
+To help accelerate China’s e sports industry and promote its development, AMD partnered with the National Electronic Sports Tournament (NEST) in 2015, and we have participated in the last nine NEST events.
+
+At the NEST League of Legends event, held in November 2021, the new AMD Radeon 5000 series desktop processors and AMD Radeon RX 6000 series graphics cards powered the competition.
+
+AMD also helped launch and continues to sponsor the National Electronic Sports Tournament (EEST), providing top gaming equipment and generous prizes to cultivate Chinese e sports talent.
+
+The EEST 2021 tournament covered more than 20 Xinhua computer schools nationwide, and nearly 20,000 people in 146 teams took part.
+
+AMD continues to work with other companies to conduct public online and offline gaming classes.
+
+In 2021, we held 10 online live broadcasts with over 15 hours of content, reaching an audience of more than 3,000 people.
+
+We also held three public classes on campus with a total duration of almost 6 hours that reached nearly 1,000 listeners.
+
+In addition, for many years, AMD has helped to jointly produce the textbook Microcomputer DIY and E Sport for use by 18 professional e sports schools.
+
+Exponential increases in computing performance open doors for exploration and research.
+
+But the demand they produce, particularly in data centers, leads to increasing energy consumption and greenhouse gas emissions (GHG) by users.
+
+AMD has set a bold goal to increase the energy efficiency of AMD processors and accelerators powering servers for artificial intelligence (AI) training and high performance computing (HPC) by 30x from 2020 to 2025.3 This goal equates to a 97 percent reduction in energy use per computation and represents more than a 2.5x acceleration of the industry trends from 2015 2020, as measured by the worldwide energy consumption for these computing segments.
+
+If all AI and HPC server nodes globally were to make similar gains, up to 51 billion kilowatt hours (kWh) of electricity could be saved in 2021 2025 relative to baseline industry trends.
+
+As of mid 2022, we have achieved a 6.79x increase in energy efficiency for accelerated compute nodes from the 2020 baseline, using a configuration of a third generation AMD EPYC CPU and AMD Instinct MI250x GPUs.
+
+At the same time, the performance delivered from AMD powered servers plays an important role in advancing research on climate change.
+
+By analyzing massive and complex data sets, researchers are better able to understand the causes of climate change and predict the impacts of extreme weather.
+
+Early in the COVID 19 pandemic, we were honored to help expedite the delivery of our embedded processors used in ventilators.
+
+We also design processors used to power medical imaging systems such as mobile and cart based ultrasound systems, endoscopy systems and high end MRI and CT scanners.
+
+From diagnostic imaging to imaging assisted medical procedures, technology that maximizes visual clarity and fidelity is vitally important.
+
+With the acquisition of Xilinx in 2022, AMD offerings in healthcare have expanded to include solutions such as clinical defibrillators and technology for robot assisted surgery.
+
+Pushing the outermost boundaries of computing includes making more powerful, energy efficient and security minded processing available across a wider spectrum of devices and applications.
+
+For example, the AMD Embedded product portfolio provides the performance and power efficiency to enable a variety of Edge computing platforms, meaning they are closer to the end user and source of the data.
+
+Assumes 0.12 cents per kWh x 51.4 billion kWh 6.2 million USD.
+
+We are also paving the way for a new generation of industrial solutions enabling intelligent factories.
+
+Our solutions serve a wide range of market segments and help customers realize a future in which things run seamlessly, keeping employees productive while they interact more naturally and intuitively with the technology around them.
+
+For example, AMD processor powered industrial PCs are optimized for exceptional, power efficient processing and graphics performance with integrated CPU and GPU, multi display support and other advanced features.
+
+With the acquisition of Xilinx in 2022, AMD IoT and industrial solutions expanded to applications such as smart grids, trains and railways, 3D printers and robotics.
+
+While we work to enhance and accelerate the possible benefits of our technology, we also remain mindful of the potential for negative impacts.
+
+Potential risks to our industry and society associated with technology use include increased energy consumption, threats to online privacy and security, human rights abuses and addictive behaviors.
+
+As a component supplier of semiconductor solutions, AMD is limited in our ability to direct or influence how our products are ultimately used by end consumers.
+
+Yet we recognize the seriousness of these risks and the important role we play in addressing and taking action to minimize them.
+
+Our ongoing efforts include monitoring and disclosing risks to processor security, increasing power efficiency in the data center and collaborating with industry partners to provide input to policy frameworks and standards.
+
+For example, AMD actively engages in industry dialogues on these and other technological challenges through forums such as the Information Technology Industry Council (ITI), the International Standards Organization (ISO) and the Institute of Electrical and Electronics Engineers (IEEE).
+
+We will continue working to understand and collaborate more deeply on these and other important issues so that the computing we enable transforms our world for the better.
+
+At AMD, we dare to imagine a better world and we take inspiration from our customers to deliver innovative solutions to the challenges and possibilities of our digital age.
+
+We do not create technology for technology’s sake we innovate for our customers and what they can achieve.
+
+This set of case studies provide examples of applications of our core technology that benefit society.
+
+For over 600 years, Swiss hospital B rgerspital Solothurn has treated countless illnesses and survived some of the worst pandemics the world has ever seen.
+
+A key component of the hospital’s lean management today is the consistent digitization of patient care, including electronic patient files.
+
+B rgerspital Solothurn uses innovative mobile medical carts and workstations from INOVIS medical, whose manufacturer Onyx relies on state of the art technology from AMD for the new Venus medical PC.
+
+In addition to delivering high performance, the AMD Ryzen Embedded processor consumes little energy and only requires minimal cooling.
+
+Casa Systems is a leading provider of ultra broadband solutions for 4G 5G mobile and fixed wireless, cellular IOT, optical, and WiFi attached networks.
+
+The company needed to find the most flexible, cost effective and energy efficient solutions to reduce the carbon footprint from 5G networks.
+
+The AMD EPYC processor provided an innovative system on a chip design with disruptive performance that maximizes value of on premise and off premise solutions.
+
+DBS transformed its data centers with AMD EPYC CPU equipped Dell PowerEdge 14 servers, drastically reducing footprint, power consumption and cost.
+
+Six years ago, the company was reaching around 90 percent capacity at one of its data centers.
+
+In 2019, through various transformation efforts, DBS shrank its footprint to a quarter of its original size and reduced its power consumption by 50 percent over the same period.
+
+The new, smaller data center can support 10x growth, providing DBS with 40x efficiency.
+
+This was made possible through general purpose compute virtualization, open source software adoption and aggressive automation at scale.
+
+Founded in 2006, Lemon Sky Studios is Malaysia’s leading CGI studio and one of the region’s best art outsourcing companies in the video game and animation industry.
+
+The studio has an in house render farm that is powered by AMD Ryzen Threadripper CPUs.
+
+In 2020, as the pandemic swept around the world, Lemon Sky had to adapt by making arrangements for their artists to work from home.
+
+Having relied mostly on competitive technology for this part of their work, Lemon Sky tested out new workstation options from AMD to help prevent any bottlenecks in their creative processes.
+
+Designed for HPC workloads and modern software architectures, Northern Data's data centers are more than 90 percent powered by renewable energy.
+
+To achieve this goal, Northern Data relies on technology partners that deliver the performance required with the optimal cost efficiency.
+
+Together with GIGABYTE, Northern Data found that AMD EPYC and AMD Instinct technologies delivered the scale and affordability that the company’s customers demand.
+
+With an increasing number of scientists wanting to harness the potential of computer aided discovery, greater levels of processing power need to be shared more widely.
+
+Purdue University wanted to create a science as a service system with forward looking mixed (cloud) computing and composable capabilities that could deliver the maximum amount of research computing capacity to the U.S. academic community.
+
+With the help of Dell EMC PowerEdge servers powered by AMD EPYC processors, Purdue won a 10 million National Science Foundation (NSF) grant to provide the Extreme Science and Engineering Discovery Environment (XSEDE) with the Anvil supercomputer.
+
+Vestas Wind Systems deployed mind.ai’s DeepSim reinforced learning platform, running on Microsoft Azure HPC powered by 3rd Generation AMD EPYC processors, to optimize wind turbine orchestration.
+
+The aim was to reduce power lost due to wake turbulence and increase the generation of renewable energy and improve value.
+
+The latest AMD CPUs offered high compute power and memory bandwidth that is crucial for simulations involving large amounts of weather data.
+
+Vestas expects that this optimization will create significant improvements for existing wind farms, and the company wants to help customers build future wind farms with these formulas in mind.
+
+According to the World Economic Forum’s 2022 Global Risks Report, climate action failure is the number one long term threat to the world, and it is the risk that has potentially the most severe impacts over the next decade.15 This is not only a future challenge the related issues are already manifesting.
+
+Globally, the years 2013 2021 all rank among the ten warmest years on record.16 Temperatures are increasing due to human activities, specifically emissions of greenhouse gases (GHGs), according to experts.
+
+The International Panel on Climate Change has stated that an average temperature increase of 1.5 C is the threshold for dangerous global warming.
+
+Climate Action Failure is defined by WEF as the Failure of governments and businesses to enforce, enact or invest in effective climate change adaptation and mitigation measures, preserve ecosystems, protect populations and transition to a carbon neutral economy .
+
+An immediate and meaningful global response is required to address the climate crisis.
+
+The technology sector plays a critical role in maximizing product energy efficiency and enabling opportunities to reduce GHG emissions across sectors of society.
+
+AMD combines performance and possibility so that together we advance to a better world.
+
+As leaders in the semiconductor industry during a period of amazing growth we embrace the responsibility to protect our planet and the opportunity to help others save energy and reduce GHG emissions.
+
+Our environmental programs and initiatives extend across our value chain, and we set ambitious goals and publicly report annually on our progress.
+
+MINIMIZING environmental impacts at AMD and in our supply chain ADVANCING environmental performance for IT users and .
+
+INNOVATING on collaborative solutions to address environmental challenges.
+
+Within AMD operations, we aim to minimize energy use and resource consumption while aggressively reducing GHG emissions (aligned with a 1.5 C scenario).
+
+We also work closely with our manufacturing suppliers to advance environmental (as well as health and safety) performance metrics.
+
+These efforts to mitigate the impacts associated with making and operating AMD technology, as well as optimizing system level energy efficiency, help our customers and end users advance their own sustainability goals.
+
+For example, using fewer servers to meet data center compute performance needs and upgrading older notebook and desktop computers with more energy efficient models can reduce electricity use and GHG emissions.
+
+Collectively, our innovations and collaborations across the value chain help advance efficient high performance computing behind innovative solutions like those for optimized renewable energy generation, enhanced automation (smart cities and factories), and cutting edge climate and scientific research.
+
+We also engage with industry peers, government regulators, civil society organizations and other groups to advance environmental sustainability across our value chain.
+
+The collective efforts and innovations stemming from the technology sector exceed what any of us could do as individual organizations.
+
+Environmental Policies and Reporting: Environmental, Health and Safety (EHS) Policy Climate Change Policy GRI Standards Content Index.
+
+CDP Climate Change Submission CDP Water Submission SASB and TCFD Disclosures UN Sustainable Development Goals  ISO 14001 Site Certifications.
+
+As we continue to grow and expand our business, we look ahead with ambition and purpose.
+
+We recognize that our environmental sustainability efforts must continue to go beyond slowing growth in GHG emissions.
+
+In fact, we have the opportunity to enable reductions in energy use and GHG emissions across industries.
+
+As such, AMD is charting a bold path to advance energy efficiency for accelerated computing applications setting a science based GHG emissions reductions goal for our operations (aligned with a 1.5 C scenario) and working with suppliers to increase efficient use of resources and renewable energy.
+
+ON TRACK: In 2021, we achieved a 25 percent reduction in our scope 1 and 2 emissions.
+
+ON TRACK: In 2021, 74 percent of our manufacturing suppliers have public GHG goals.
+
+ON TRACK: In 2021, 74 percent of our manufacturing suppliers sourced renewable energy.
+
+One of the most energy efficient supercomputers in the world (number 3 on the Green500 List June 2022)19 is powered by AMD technology and is being used to advance climate research.
+
+The award winning LUMI supercomputer in Finland is setting the example for world class environmental sustainability, winning the Best Sustainability Innovation in HPC award at the 2021 HPC Wire Readers’ and Editors’ choice awards.
+
+Powered by 3rd generation AMD EPYCTM CPUs and AMD MI250 InstinctTM GPUs (A A), it uses 100 percent renewable energy, with up to 200 megawatts available.
+
+Free cooling is possible year round, and LUMI’s waste heat produces approximately 20 percent of the district heat for the area, reducing the city’s carbon emissions by an estimated 12,400 metric tons per year.
+
+In addition to LUMI’s environmental operating benefits, it is being put to work on some of the world’s most urgent climate related problems.
+
+As part of the European Green Deal and European Digital Strategy, the supercomputer is being used in the Destination Earth project (DestinE), which is funded by the EU’s Digital Europe Programme.
+
+The project focuses on climate modeling: the aim is to create a detailed model of Earth a digital twin of our planet that can be used to understand climate change and its impacts, including extreme weather phenomena such as floods and hurricanes.
+
+With LUMI, researchers can link the climate model to other models to understand the complex interplay between environmental processes and systems.
+
+Our commitment to environmental sustainability is reflected in our long standing corporate values and culture.
+
+For 27 years, we have been transparently reporting on our environmental initiatives and performance.
+
+As AMD outsourced manufacturing operations, we expanded the scope of our environmental initiatives and goals beyond our global operations to include supply chain manufacturing.
+
+Following the acquisition of Xilinx in February 2022, we are preparing to report 2022 environmental data for the combined company in 2023.
+
+The following information reflects AMD operations for the calendar year 2021 (prior to the acquisition).
+
+AMD operated more than 35 locations worldwide in 2021, including engineering facilities, sales and business service sites and corporate offices.
+
+Across the facilities at which we operate, we strive to apply the highest level of integrity and stewardship for environmental performance.
+
+We maintain a corporate level environmental, health and safety (EHS) framework consistent with widely recognized management systems, such as International Organization for Standardization (ISO) 14001 for environmental management.
+
+As a result of acquiring Xilinx in 2022, two of our new sites in San Jose, California and Singapore are certified to the ISO 14001 standard.
+
+Within our operations, our large corporate campuses account for the greatest energy use and associated GHG emissions.
+
+In 2021, our corporate data center transitioned to a co located facility operated by a third party, which AMD selected in part because it uses 100 percent renewable energy.
+
+We continued to source renewable energy and implement energy conservation projects, such as equipment upgrades and optimizations.
+
+After exceeding our 2014 2020 GHG goal for operations, we set a new science based target (aligned with a 1.5 C scenario): a 50 percent reduction in GHG emissions from AMD operations (scope 1 and 2) by 2030 (2020 base year).
+
+In 2021, we achieved a 25 percent reduction in our scope 1 and 2 emissions compared to 2020.
+
+Our scope 1 and 2 GHG emissions have received external limited level assurance.
+
+In our next annual CR Report, we will re calculate base year 2020 emissions data for the combined company, as well 2021 data, for our operations environmental goal.
+
+In 2021, we also reduced energy use by 13 percent compared to 2020.
+
+Although the majority of our employees worked remotely during most of 2021 due to COVID 19, many essential staff continued to work from our offices following local guidelines for business continuity, and therefore electricity was still required.
+
+In 2021, water use in our operations was 50 percent lower than in 2020.
+
+This large reduction was due to transferring our data center operations to a co located facility (outside of AMD operational control), upgrading cooling units at our Markham, Ontario site and operating with a reduced onsite workforce during COVID 19.
+
+We continue to utilize rainwater harvesting and reuse gray water at facilities in Austin, Texas and Bengaluru and Hyderabad, India.
+
+In 2021, these sites harvested more than 13.75 million liters of rainwater, which is equivalent to over 100 percent of their combined annual water use.
+
+We manage effluents and waste at AMD operations, including limited amounts of water discharge and hazardous waste.
+
+For example, the volume of wastewater measured at our Austin, Texas site (the only one that requires a wastewater permit) decreased by 31 percent in 2021 compared to 2020.
+
+Our total amount of waste generated in 2021 was 455 metric tons 7 percent below our 2020 total.
+
+The non hazardous waste diversion rate, or the amount kept out of landfill, was 85 percent in 2021 an improvement on 82 percent in 2020 and 62 percent in 2019.
+
+We generated less waste in 2021, in part due to COVID 19 and our more remote workforce.
+
+Moreover, the amount of waste sent to recycling far outweighed the amount sent to landfill, thereby improving the overall waste diversion rate.
+
+The amount of regulated hazardous waste generated, namely in product testing labs, remained minimal and relatively flat at 3.6 metric tons in 2021 compared to 3.0 in 2020.
+
+We work with our manufacturing suppliers to advance environmental sustainability across a variety of metrics, namely purchased goods and services (scope 3 emissions).
+
+In 2021, AMD was honored to be recognized by CDP as a Supplier Engagement Leader for our actions to reduce emissions and manage climate risks in our global supply chain.
+
+Silicon wafer manufacturing accounts for the bulk of our environmental footprint within our supply chain.
+
+Since 2014 we have partnered with our wafer suppliers to establish best in class environmental, health and safety (EHS) performance for AMD wafer production.
+
+Our work together aims to outperform industry averages across EHS performance.
+
+Each quarter, we track our progress on aspects covering energy, GHG emissions, water, hazardous waste recycling and injury and illness rates.
+
+Looking ahead to 2025, we continue to work with our wafer foundry suppliers on key performance indicators and goals.
+
+We also pursue public goals for all of our manufacturing suppliers, and annually track progress.
+
+By 2025, we aim for 100 percent of them to have their own public GHG reduction goal(s) and 80 percent to source renewable energy.
+
+We are on track with 74 percent of our manufacturing suppliers having public GHG goals and 74 percent sourcing renewable energy in 2021.
+
+GHG emissions in our supply chain are primarily generated at silicon wafer manufacturing facilities directly through fuel use (scope 1) or indirectly through electricity consumption (scope 2).
+
+In 2021, these foundry partners reduced their scope 1 and 2 GHG emissions by 2 percent compared to 2020, based on an AMD manufacturing index (MI).24 We continue to work with our wafer manufacturing suppliers to outpace the industry average and reduce GHG emissions (scope 1 and 2) by 5 percent or more per MI by 2025, compared to 2020.
+
+More advanced technology nodes require more electricity, so our company’s 2025 goal is to increase renewable energy use by these suppliers by 2x compared to 2020.
+
+The contracted wafer manufacturing stage is the point in our value chain at which the most water is used and the most effluents are generated.
+
+AMD works closely with our foundry wafer partners to understand water risks at the locations where AMD products are manufactured and to track and manage water use.
+
+In 2021, the foundries reduced water use by 21 percent from 2020, per AMD MI.
+
+Looking ahead to 2025, we are working with our wafer manufacturing suppliers to continue to surpass the industry average and to reduce water use by at least 5 percent or more per MI compared to 2020.
+
+More advanced technology nodes require more water use, so these suppliers are working to increase the capacity for water reclamation.
+
+We continue to work with the majority of our manufacturing suppliers to promote water conservation, particularly with factories in high water risk regions,25 where we expect suppliers to demonstrate water conservation and risk mitigation efforts.
+
+We work closely with our wafer foundry suppliers to address the generation of waste in our supply chain.
+
+During 2021, our wafer manufacturing suppliers achieved an 88 percent hazardous waste recycling rate, an increase from 80 percent in 2020.
+
+AMD continues to work with these suppliers and other manufacturing suppliers to track and improve waste metrics, including material reuse and waste minimization and diversion programs.
+
+In Greater China, we have been sourcing renewable energy for our Shanghai Research and Development (R D) Center since 2018.
+
+As a result, about 7,000 metric tons of carbon emissions (MTCO2e) were avoided, contributing to a 25 percent reduction in AMD global carbon emissions in 2021 compared to 2020.
+
+AMD products and technologies are also helping our customers and end users advance their own sustainability goals.
+
+For example, in China, the Tencent Cloud Star Ocean Aura Series Server AC221 features the latest third generation AMD EPYC processors, with a 22 percent increase in air cooling capacity and an 8 percent reduction in carbon emissions due to the compatibility of the liquid cooled design.
+
+Adopting cloud services to replace self built data centers can greatly reduce carbon emissions while meeting data needs.
+
+AMD India has embraced environmental sustainability for years at our R D sites in Hyderabad and Bengaluru, and we continued to make great strides in 2021.
+
+We began sourcing renewable energy in India, totaling nearly 11,000 megawatt hours (MWh) of wind and solar energy in 2021 enough to meet 100 percent of our electricity use in the country for the year.
+
+AMD India also continues to prioritize water conservation, given the scarcity of water resources in the country.
+
+In 2021, our India R D locations collected approximately 8.4 million liters of rainwater for use in facility operations and irrigation this was more than the sites used, so 3 million liters of water were returned to local water sources like reservoirs, surface ponds and groundwater.
+
+We strive to create products that improve people’s lives and help our customers and end users reduce their own energy use and GHG emissions.
+
+We collaborate closely with our customers and partners on product design and system level optimizations to advance environmental sustainability, including by minimizing environmental impacts and energy use.
+
+Maximizing the computing performance delivered per watt of energy consumed is a vital aspect of our business strategy.
+
+Processors tested: AMD FX 7600P, AMD FX 8800P, AMD FX 9830P, AMD Ryzen 7 2700U, AMD Ryzen 7 2800H, AMD Ryzen 7 3750H, and AMD Ryzen 7 4800H.
+
+CZM 146 29 Estimated KWh savings based on Energy Star measurements of Ryzen 2500U vs. Ryzen 5800U as measured in AMD lab.
+
+Estimates of CO2 reduction and tree seedlings grown based on the EPA greenhouse gas equivalencies calculator https: www.epa.gov energy greenhouse gas equivalencies calculator.
+
+CZM 147 30 EPYC 028: As of 2 2 22, of SPECpower_ssj 2008 results published on SPEC’s website, the 55 publications with the highest overall efficiency results were all powered by AMD EPYC processors.
+
+More information about SPEC is available at http: www.spec.org.
+
+SPEC and SPECpower are registered trademarks of the Standard Performance Evaluation Corporation.
+
+For example, to deliver 1200 virtual machines, it takes an estimated 10 2P AMD EPYC 7713 powered servers or 15 2P Intel Platinum 8380 based servers.
+
+The AMD EPYC SERVER VIRTUALIZATION and GREENHOUSE GAS EMISSIONS TCO ESTIMATION TOOL tool compares the 2P AMD EPYC and the 2P Intel Xeon server solutions required to deliver 1200 total virtual machines (VM), requiring 1 core and 8GB of memory per VM.
+
+The analysis includes both hardware and virtualization software components.
+
+Hardware costs (CPU memory storage chassis): The 2P AMD 64 core EPYC_7713 processor used in this solution analysis provides 128 total cores per server, each processor cost 7060 and the server uses 32 x 32GB DIMMs to achieve the minimum required memory footprint, in a 1RU server chassis that cost 2200, and requires 1 server racks.
+
+The AMD solution has a total estimated hardware acquisition cost of 217880.
+
+The 40 core Intel Xeon Platinum_8380 processor used in this solution analysis provides 80 total cores per server.
+
+Each processor cost 8666 and the server uses 16 x 64GB DIMMs to achieve the minimum required memory footprint, in a 2RU server chassis that cost 2500 and requires 2 server racks.
+
+The Intel solution has a total estimated hardware acquisition cost of 390060.
+
+OPERATING COSTS: The core assumptions for this analysis are as follows: Cost of power 0.12 with kwatts (kW) of power to each rack and a PUE (power usage effectiveness) of 1.7 and a server rack size of 42RU.
+
+Each server has 1 hard drives drawing 3 watts each.
+
+Server Admin annual salary is 85000 managing 30 physical servers with a salary burden rate of 30 percent.
+
+The VM Admin salary is 85000, with a burden rate of 30percent and managing 400 VMs.
+
+AMD has estimated OpEx costs as follows: a hardware admin cost of 110500, a real estate cost of 19440, and a power cost of 40208.4, for a total estimated 3 year TCO cost (hardware cost and operating expense) of 388028 with AMD.
+
+Estimated OpEx costs for Intel are: hardware admin cost of 165750, real estate cost of 38880, and power cost of 58704.
+
+HARDWARE TCO: This is the CapEx and OpEx directly associated with the hardware.
+
+The AMD EPYC_7713 solution requires 10 2P servers with a CapEx of 217880 with a total estimated 3 year TCO cost (CapEx plus OpEx) of 388028.
+
+The Intel Platinum_8380 processor requires 15 2P servers with a CapEx of 390060 with a total estimated 3 year TCO cost (CapEx plus OpEx) of 653394.
+
+The AMD solution has an estimated 41 percent lower hardware TCO for this virtualization solution, 1 ( 388028 653394) 41 percent, than the Intel solution.
+
+Energy efficiency is paramount when it comes to supercomputing, which is the concentration of processing power across multiple, parallel computers.
+
+The Green500 list ranks the most energy efficient supercomputers in the world.
+
+The June 2022 update showed AMD EPYC processors and AMD Instinct accelerators power the most efficient supercomputers in the world, including four of the top five, eight of the top ten, and 17 of the top 20 most efficient.
+
+The Frontier test and development system (TDS) supercomputer secured the top spot in the Green500 June 2022 update based on optimized 3rd generation AMD EPYC processors and AMD Instinct MI250x accelerators.
+
+This means that the AMD solution is 19% less expensive over three years.
+
+The EPYC solution 1st year TCO is 844816 and the Intel 1st year TCO is 1167418.
+
+The AMD solution 1st year TCO per VM of 704.01 where the Intel 1st yr. solution is 972.85.
+
+The AMD 1st year TCO per VM is 268.83, or 28 percent lower than Intel.
+
+The 1st year TCO per VM is calculated by taking the 1 year TCO (hardware, software, and 1st year OpEx) and dividing it by the total number of VMs.
+
+The virtualization software used in this analysis is VMware with a VMware vSphere Enterprise Plus w Production support license.
+
+This analysis uses license pricing of 5968 per Socket Core with 3 year support.
+
+More information on VMware software can be found https: store us.vmware.com vmware vsphere enterprise plus 284281000.html.
+
+For 1200 VMs with 1 core(s) per VM, and 8 GB of memory per VM, the Intel Platinum_8380 processor requires 15 servers, and 60 licenses.
+
+The AMD EPYC_7713 solution requires 10 servers and 40 licenses.
+
+The AMD solution requires 33 percent fewer servers than the Intel solution.
+
+The AMD server and virtualization software license cost are 456600, and the Intel cost are 748140.
+
+Hardware and virtualization cost are 291540 or 39 percent Lower w AMD.
+
+AMD EPYC_7713 powered servers save 154132.2kWh of electricity for the 3 years of this analysis.
+
+Leveraging this data, using the Country Region specific electricity factors from the '2020 Grid Electricity Emissions Factors v1.4 September 2020', and the United States Environmental Protection Agency 'Greenhouse Gas Equivalencies Calculator', the AMD EPYC powered server saves 69.86 Metric Tons of CO2 equivalents.
+
+This results in the following estimated savings based on United States data, Greenhouse Gas Emissions Avoided of one of the following: 15 USA Passenger Cars Not Driven for 1 year or 5 USA Passenger Cars Not Driven Annually or 173382 Miles Driven by Avg Passenger Car or or CO2 Emissions Avoided from: 7894 Gallons of Gasoline Not Used or 77261 Pounds of Coal Not Burned in USA or 9 USA Homes' Electricity Use for 1 year or 3 USA Homes' Electricity Use Annually or or Carbon Sequestered equivalent to: 1153 Tree Seedlings Grown for 10 years in USA or 84 Acres of USA Forests in 1 year or 27.94 Acres of USA Forests Annually.
+
+Virtualization software pricing sourced online as of 09 14 2021.
+
+Third party names are for informational purposes only and may be trademarks of their respective owners.
+
+AMD CPU pricing based on 1KU price as of January 2022.
+
+Intel Xeon Scalable CPU data and pricing from https: ark.intel.com as of January 2022.
+
+Our continued ambitions are reflected in the AMD goal of a 30x increase by 2025 in energy efficiency for AMD processors and accelerators powering servers for high performance computing and artificial intelligence training.
+
+Nearly midway through 2022, we are on track toward achieving our goal, having reached 6.8x improvement in energy efficiency compared to 2020 using an accelerated compute node powered by one 3rd generation AMD EPYC CPU and four AMD Instinct MI250x GPUs.
+
+Our goal utilizes a measurement methodology validated by renowned compute energy efficiency researcher and author, Dr. Jonathan Koomey.
+
+The energy efficiency goal set by AMD for accelerated compute nodes used for AI training and High Performance Computing fully reflects modern workloads, representative operating behaviors and accurate benchmarking methodology.
+
+AMD is committed to complying with international laws and regulations, and we also recognize the need to restrict the use of hazardous substances in semiconductor products.
+
+That is why AMD works with customers, suppliers and industry groups to implement chemicals management and to address industry standards targeting lead and other chemicals of concern in electronic products.
+
+For more information, please visit our Product Environmental Compliance page.
+
+Packaging materials are used for the shipping and handling of our products both processors in a box (PIBs) and graphics cards.
+
+AMD specifies the packaging materials used, including the recyclability of materials and the use of recycled content.
+
+We offer packaging that meets the amended requirements of the EU Packaging Directive (94 62 EC).
+
+Smaller packaging conserves natural resources and reduces shipping fuel use and emissions per unit.
+
+In 2021, we continued to reduce the size of our packaging for select Ryzen PIBs by an average of 50 percent compared to the previous generation.32 And by May 2021, we reduced the size of our packaging for Radeon PRO (W6800) graphics cards by up to 59 percent compared to the previous generation (W5700).33 All our packaging in 2021 was made of recyclable materials, such as paperboard.
+
+Our packaging designers continuously seek out environmentally preferable packing materials, including recycled materials and non toxic dyes.
+
+By engineering our products for longer life, minimizing the number of devices potentially needed in the first place and, in some cases, making them backward compatible with our customers’ existing systems, we can help make better use of our planet’s limited natural resources.
+
+AMD EPYC processors are designed to meet application performance demands with fewer servers, resulting in less electricity use and GHG emissions for IT infrastructure as well as for cooling data centers, while avoiding added raw materials that need to be extracted, shipped, manufactured and disposed.
+
+The Bare Metal Server Greenhouse Gas Emissions TCO (total cost of ownership) Estimator Tool compares the selected AMD EPYC and Intel Xeon CPU based server solutions required to deliver a TOTAL_PERFORMANCE of 10000 units of integer performance based on the published scores for Intel Xeon and AMD EPYC CPU based servers.
+
+This estimation reflects a 3 year time frame.This analysis compares a 2P AMD EPYC EPYC_7763 powered server with a SPECrate 2017_int_base score of 861, https: spec.org cpu2017 results res2021q4 cpu2017 20211121 30148.pdf compared to a 2P Intel Xeon Platinum_8380 based server with a SPECrate 2017_int_base score of 602, https: spec.org cpu2017 results res2021q2 cpu2017 20210521 26364.pdf.
+
+Both AMD EPYC and Intel based servers use the same cost for the following elements of the analysis: server chassis size of 2RU at a cost of 2500 per chassis internal storage 380 physical servers managed per admin: 30 fully burdened cost per admin 110500 server rack size of 42 space allowance per rack of 27 sq feet monthly cost of data center space 20 per sq foot cost per kW for power 0.12 power drop per rack of 8kW and a PUE (power usage effectiveness) of 1.7.
+
+The EPYC powered solution is estimated to take: 12 total 2P EPYC_7763 powered servers at a hardware only acquisition cost of 23748 per server, which includes 7890 per CPU, total system memory of 1024GB, which is 8GB of memory core and a total system memory cost of 5088 internal storage cost of 380.
+
+The total estimated AMD EPYC hardware acquisition cost for this solution is 284976.
+
+For the 3 years of this EPYC powered solution analysis the: total solution power cost is 66548.88 which includes the PUE factor the total admin cost is 132600, and the total real estate cost is 38880, using 2 racks.
+
+The total 3 TCO estimate for the AMD solution is 523004.88.
+
+The Intel based solution is estimated to take 17 total 2P Platinum_8380 powered servers at a hardware only acquisition cost of 24206 per server, which includes 8099 per CPU, total system memory of 1024GB, which is 12.8GB of memory core and a total system memory cost of 5088 internal storage cost of 380.
+
+The total estimated Intel hardware acquisition cost for this solution is 411502.
+
+In many cases, AMD powered server and desktop CPU sockets are backwards compatible with the previous generation processor, meaning the CPU can be upgraded using the existing motherboard.
+
+As a result, processing power can be increased without the cost or environmental impact of replacing other components like memory and hard drive.
+
+In 2021, the AMD IT department upgraded AMD 2nd generation EPYC processors with AMD 3rd generation EPYC processors to benefit from the increase in performance without increasing power consumption.
+
+AMD collaborates with enterprises, governments, researchers and others to help them put our technology to work solving some of the world’s most pressing environmental challenges.
+
+The total 3 TCO estimate for the Intel solution is 751495.048.
+
+AMD EPYC powered servers have a 228490 lower 3 year TCO.
+
+Delivering 10000 estimated score of SPECrate 2017_int_base performance produces the following estimated results: the AMD EPYC solution requires 29 percent fewer servers 1 (AMD server count Intel server count) 33 percent less space 1 (AMD rack count Intel rack count) 29 percent less power 1 (AMD power cost Intel power cost) providing a 30 percent lower 3 year TCO 1 (AMD TCO Intel TCO) .
+
+AMD EPYC_7763 powered servers save 227276.4kWh of electricity for the 3 years of this analysis.
+
+Leveraging this data, using the Country Region specific electricity factors from the '2020 Grid Electricity Emissions Factors v1.4 September 2020', and the United States Environmental Protection Agency 'Greenhouse Gas Equivalencies Calculator', the AMD EPYC powered server saves 103.01 Metric Tons of CO2 equivalents.
+
+Emissions Avoided equivalent to one of the following: 22 USA Passenger Cars Not Driven for 1 year or 7.45 USA Passenger Cars Not Driven Annually or 11640 Gallons of Gasoline Not Used or Carbon Sequestered equivalent to: 1700 Tree Seedlings Grown for 10 years in USA or 41.2 Acres of USA Forests Annually.
+
+AMD processor pricing based on 1KU price as of Sept 2021.
+
+Intel Xeon Scalable Gen 1 and Gen 2 CPU data and pricing from https: ark.intel.com as of September 2021.
+
+Intel Xeon Gen3 Scalable Ice Lake pricing and data from https: newsroom.intel.com wp content uploads sites 11 2021 05 3rd Gen Intel Xeon Scalable Processor SKU Stack with RCP.pdf on 09 01 2021.
+
+SPEC , SPECrate and SPEC CPU are registered trademarks of the Standard Performance Evaluation Corporation.
+
+AMD EPYC performance numbers based on the identified benchmark reported scores or the user provided score where indicated.
+
+Product and company names are for informational purposes only and may be trademarks of their respective owners.
+
+For over a decade, AMD Embedded solutions have been used in wind turbines to help optimize the production of clean energy.
+
+And through more recent cloud based solutions, 3rd generation AMD EPYC processors optimize wind turbine orchestration for Vestas so that power lost due to wake turbulence can be reduced for greater renewable energy generation and improved value.
+
+As data consumption continues to grow rapidly, driven by technologies such as streaming services and 5G broadband connectivity, AMD processors are helping meet demand while reducing power consumption.
+
+For example, Ateme achieved approximately a 50 percent reduction in power consumption with its advanced video encoding platform enabled by AMD EPYC processors, while delivering better video quality.
+
+On broadband infrastructure where data consumption is growing by 30 percent per year, Casa Systems was able to break the record for throughput by using 3rd generation AMD EPYC to achieve their goal of industry leading performance and carbon footprint reduction from 5G networks.
+
+AMD server processors are also helping to advance the adoption of cloud computing, which is forecast to prevent emissions of more than 1 billion metric tons of CO2 from 2021 2024.35 AMD EPYC processors are used to power cloud instances ranging from big data analytics to virtual desktops.
+
+As more enterprises move their computing applications from on premises data centers to cloud based data centers, server utilization rates increase, energy is used more efficiently, and the source of energy can often be renewable.
+
+While enabling solutions to reduce energy and carbon emissions, AMD also aims to help researchers better understand the interrelated forces contributing to climate change and develop solutions to help mitigate the impacts.
+
+By analyzing massive and complex data sets, scientists can get insights into the causes of climate change and even predict the impacts of extreme weather to help save lives.
+
+For example, two of the AMD powered Top 500 Supercomputers (June 2022) the Meteo France supercomputer and the LUMI supercomputer in Finland are used for weather and climate research.
+
+AMD works closely with Original Equipment Manufacturers (OEMs) during product design and after product launch to increase the proportion of products meeting various eco labels.
+
+Most eco labels and certifications are evaluated at the system level, (i.e., a computer or server), but the processor can play an important role in how well a system scores on a given standard.
+
+For example, AMD works with our customers to improve ENERGY STAR ratings by optimizing processor energy efficiency as measured at the system level, in conjunction with other components and peripheral devices.
+
+EPEAT registered products include environmental criteria such as supply chain greenhouse gas reductions, materials selection and environmental management system (EMS) certification.
+
+With an estimated 76 percent of global trade passing through them, supply chains continue to be one of the most important levers for businesses to create a positive impact in the world.36 By working together, companies and their suppliers can make a significant impact on advancing human rights, fair labor practices and environmental progress.
+
+Over the last few years, our industry has experienced unprecedented demand for semiconductor technology, and this requires a strong supply chain.
+
+The link between resilient and responsible supply chains is clear.
+
+Consequently, stakeholder expectations for transparency and data driven results remain a focus in 2022.
+
+Together, with our supply chain and industry partners, AMD embraces the opportunity to help drive social and environmental progress in the supply chain.
+
+Although we adhere to the highest standards, we know the social and environmental risks in the supply chain are persistent and real.
+
+With the growing number of electronic devices being used globally comes the responsibility to ensure that we are doing the right thing and conducting our business ethically.
+
+We are committed to delivering high quality products and helping ensure that working conditions throughout our supply chain are safe, workers are treated with respect and dignity and the manufacturing processes of our products are environmentally responsible.
+
+As AMD is a fabless semiconductor company, our manufacturing operations depend on a carefully selected network of suppliers.
+
+The scope of the AMD Supply Chain Responsibility program encompasses the manufacturing of our products by suppliers, located in Asia, Europe and the United States, and the sourcing of raw materials.
+
+We aim to work with our manufacturing suppliers to advance supply chain resilience, respect for human rights and environmental sustainability.
+
+We take a partnership approach with our suppliers to promote continuous improvement and drive positive change across our value chain.
+
+Our wafer foundry suppliers source raw materials and create a silicon wafer.
+
+The wafer is fabricated into chips, assembled into a package, tested and shipped as a semiconductor ready to be used by our customers.
+
+Another 26 percent of our spend is with factories that manufacture a range of inputs needed to create our products.
+
+This concentration of supplier spend allows us to take a long term approach with key suppliers, which is paramount to our success.
+
+In our Supply Chain Responsibility Supplier Guide, we share with our manufacturing suppliers our expectations and available resources.
+
+Our standard contractual terms and conditions for the procurement of goods and services require conformance to applicable laws and regulations, and we reinforce our expectations regarding responsible social, ethical and environmental conduct.
+
+Training is made available to suppliers through the Responsible Business Alliance (RBA)’s e Learning Academy.
+
+Topics cover social and environmental issues and are assigned to suppliers based on identified knowledge gaps.
+
+AMD primary manufacturing suppliers include GlobalFoundries, Micron, Samsung Electronics, SPIL, SK Hynix, TF AMD and TSMC.
+
+We are expanding our work with suppliers to drive a positive impact for the people who work across our value chain and the planet which we all share.
+
+ON TRACK: Between 2020 and 2021, 64 percent of these supplier factories had an RBA audit.
+
+ON TRACK: 61 percent of these suppliers by spend participated in capacity building activities in 2021, including ethical recruitment training.
+
+We believe we can have the most impact on addressing the systemic causes of forced and bonded labor by working with multi stakeholder initiatives and leveraging relationships with our manufacturing suppliers.
+
+Through our membership in the Responsible Labor Initiative (RLI), we share resources and tools with our suppliers to help address the root causes of this complex issue.
+
+Migrant workers can be vulnerable to conditions of forced labor.
+
+Collaboration with our suppliers on responsible recruitment is critical to meeting our requirements and international expectations of addressing forced labor risk.
+
+In 2021, with other RBA members, AMD co sponsored the RLI Supplier Training on Responsible Recruitment Due Diligence.
+
+We nominated select AMD sub suppliers to attend the training.
+
+Aligned with the AMD Supplier Code of Conduct labor standards on freely chosen employment, the training provides practical guidance and tools for companies to implement responsible recruitment due diligence and follows the due diligence process developed by the Organisation for Economic Co operation and Development (OECD).
+
+The training focused on key risk areas in the recruitment of foreign migrant workers, which are: document retention, contract terms and conditions, and recruitment fees and related costs.
+
+As a result of their attendance, two AMD suppliers implemented training at their companies and updated their recruitment policies.
+
+Both companies also chose to train workers on their internal policies, rights and access to factory complaint channels.
+
+Combined, their trainings reached over 1,450 workers in 2021.
+
+We continue to make this workshop available to AMD suppliers.
+
+We hold ourselves to high ethical standards and expect our suppliers to do the same.
+
+AMD is a full member of the Responsible Business Alliance (RBA).
+
+In 2021, AMD was elected to the Board of Directors to help guide the RBA’s strategic direction to achieve its mission and vision.
+
+In addition, we collaborate with other industry groups, peers, suppliers and other stakeholders to make supply chains across the industry ethical and sustainable.
+
+AMD adopts the RBA Code of Conduct as our Supplier Code of Conduct ( The Code ).
+
+The Code is aligned with international norms and standards including the Universal Declaration of Human Rights, ILO International Labour Standards and the OECD Guidelines for Multinational Enterprises.
+
+It outlines our standards for labor, health and safety, environment, ethics and management systems.
+
+The AMD Worldwide Standards of Business Conduct outlines our expectations for our ethical conduct and these standards extend to our business partners.
+
+We further expect that each supplier will, in turn, communicate to their suppliers the same expectations and implement reasonable mechanisms to monitor their compliance.
+
+At AMD, we take a risk based approach to managing our supply chain.
+
+We utilize third party risk analytics to conduct an overall supply chain risk analysis.
+
+Through our annual analysis, we gain deeper insights into inherent geographical risks in our supply chain on labor, health and safety, environment, business ethics and management systems.
+
+We use the results of the analysis to assign risk assessment tools and prioritize suppliers within our audit program.
+
+In 2021, 99 percent of our manufacturing suppliers submitted the RBA supplier self assessment questionnaire (SAQ).
+
+The score is an additional input used to assign a risk level to the supplier.
+
+Based on the results of the risk assessment, AMD decides which tool will be most effective to evaluate the supplier based on its risk profile.
+
+For example, we may require an RBA Validated Assessment Program (VAP) on site audit to learn more.
+
+Suppliers identified as presenting a high risk of forced labor may be required to submit a specialized assessment designed to identify the risk of forced labor at the employment site.
+
+In 2021, 43 audits took place across Germany, Greater China, Japan, Malaysia, the Philippines, Singapore, South Korea, Thailand and the United States.37 The average initial RBA initial Validated Assessment Program (VAP) audit score for AMD suppliers in 2020 2021 was 26 percent better than the overall RBA average over the same time period.
+
+We track audit findings, including nonconformances, from the release of the audit report through closure.
+
+As warranted, suppliers are required to create a Corrective Action Plan (CAP) and submit it to AMD per the deadlines and requirements informed by the RBA VAP Protocol, including onsite third party closure audits.
+
+When priority nonconformances are found, AMD contacts the supplier and requests details on the actions the site is implementing to immediately address the nonconformance (NC) prior to creating the longer term CAP.
+
+Depending on the severity of the issue, discussions may be elevated for a more in depth conversation between company executives.
+
+Regardless, if a supplier is not following the RBA CAP closure timeline, AMD executives will be informed for appropriate action.
+
+We use supplier scorecards to hold suppliers accountable for their performance against AMD supply chain responsibility expectations.
+
+AMD employees from the Procurement and Corporate Responsibility teams participate in supplier business reviews which include a discussion on the scorecard.
+
+RBA audit performance Timely closure of nonconformance, if any Environmental management and performance.
+
+In 2021, 100 percent of AMD Sourcing Managers completed an updated training on supply chain responsibility which included training on forced labor risks in the supply chain and best practices in supplier performance incentives.
+
+At AMD, we respect human rights throughout our company, operations and supply chain.
+
+We work to uphold the relevant fundamental rights and freedoms of all people across the business, aligned with the United Nations Universal Declaration of Human Rights (UDHR), the International Labour Organization’s (ILO’s) Declaration on Fundamental Principles and Rights at Work, the United Nations Guiding Principles on Business and Human Rights (UNGPs) and the OECD Guidelines for Multinational Enterprises.
+
+In 2021, we updated our Human Rights Policy to reflect our commitment to the UNGPs.
+
+This policy extends to our supply chain and the AMD Supplier Code of Conduct further incorporates human rights requirements expressed in international norms and standards.
+
+We are a signatory to the United Nations Global Compact, the world’s largest corporate sustainability initiative, affirming our commitment to aligning our strategy and operations to ten universally accepted principles in the areas of human rights, labor, environment and anti corruption.
+
+As a result, new suppliers are being incorporated into the AMD Supply Chain Responsibility Program, and we continue to take steps to further operationalize our Human Rights Policy.
+
+The AMD Corporate Responsibility and Procurement teams are responsible for establishing and coordinating the policies, programs and processes governing our approach to human rights.
+
+In our most recent materiality assessment, we identified salient human rights risks, including forced labor and child labor in the supply chain.
+
+Our efforts to identify human rights risks and impacts, if they occur, include a thoughtful selection of AMD suppliers and due diligence within our supply chain.
+
+Through assessments of manufacturing suppliers, we have identified working hours and health and safety as salient human rights risks.
+
+Unfortunately, in the electronics supply chain, some workers are at risk of conditions that contribute to forced labor including recruitment fees, unethical recruitment practices and a lack of transparency about their actual working conditions.
+
+Migrants and other vulnerable workers are particularly at risk.
+
+We require suppliers to commit to freely chosen employment and monitor risks that could lead to forced labor conditions.
+
+Our Supplier Code of Conduct includes a standard on freely chosen labor, including prohibiting workers from paying recruitment fees.
+
+We continuously work toward preventing, detecting and remediating forced labor, if found in our supply chain.
+
+Stakeholder expectations related to the supply chain continue to evolve.
+
+One example is the convergence of human rights and product compliance.
+
+We believe collective action drives greater impact than one company acting alone.
+
+For this reason, multi stakeholder partnerships are an important aspect of managing our supply chain responsibility.
+
+AMD is a regular member of the Responsible Labor Initiative (RLI), an initiative of the RBA.
+
+Through our membership, we partner with industry and stakeholders to harmonize a cross industry approach to address the root cause of forced labor and accelerate change.
+
+We also work with our suppliers and our industry through the Responsible Mineral Initiative (RMI) to ensure the responsible sourcing of raw minerals, focusing on those from Conflict Affected and High Risk Areas.
+
+The RMI is a central actor that helps members advance responsible mineral sourcing by promoting common tools, assessments and training for the electronics industry and beyond.
+
+We encourage our suppliers to utilize RMI tools and best practices to ensure industry alignment across the value chain.
+
+We continuously seek opportunities to align with best practices in how we operate and collaborate with our suppliers to respect and uphold human rights through our supply chain.
+
+We are steadfast in our commitment to environmental sustainability, and that includes working with our manufacturing suppliers to evaluate and continuously improve performance.
+
+Given the amount of energy and water needed in the wafer fabricating process, silicon wafer manufacturing represents the bulk of our environmental footprint in our supply chain.
+
+We have set 2025 performance metrics for our wafer foundry suppliers, and track progress each quarter.
+
+In addition, we track water use, energy use, greenhouse gas emissions and waste across 89 percent (by spend) of our manufacturing suppliers.
+
+Advanced silicon wafers are at the core of AMD technology, each with billions of transistors.
+
+These cutting edge wafers are manufactured at world class wafer foundry operations known as fabs.
+
+As semiconductor processes continue to become more complex advancing from 2D structures to a 3D FinFET architecture it is increasingly important to minimize the use of non renewable energy, water and chemicals.
+
+Taiwan Semiconductor Manufacturing Company (TSMC) was the world’s first dedicated semiconductor foundry and is a primary wafer supplier to AMD.
+
+The foundry is the only semiconductor company chosen for the Dow Jones Sustainability Indices for 21 consecutive years.
+
+Its accomplishments and our work together help to advance AMD supply chain goals.
+
+TSMC was the first in the industry to sign up to the RE100 renewable energy initiative, pledging to use 100 percent renewable energy by 2050 as part of its Net Zero goal.
+
+In the near term, the company aims to increase its renewable energy usage to 40 percent by 203038 as well as save 1.1. billion kWh of electricity and 28 million tons of water.39 TSMC has established various water recycling applications through water resource risk management, expansion of diverse water sources and the development of pollution prevention techniques.
+
+TSMC is also committed to advancing social issues, including diversity and inclusion.
+
+TSMC enables its 60,000 employees to thrive through initiatives to diversify communication channels, expand learning resources and promote career development.
+
+In 2021, TSMC launched the TSMC Global Employee Engagement Survey to gauge overall employee sentiment.
+
+We value the health and safety of workers in our supply chain.
+
+With our two primary wafer foundry suppliers, we aim to see a year over year reduction of the cumulative reportable injury and illness case rate.
+
+In 2021, the rate decreased by 50 percent compared to 2020.
+
+Extending to our other manufacturing suppliers, we utilize RBA audits to identify health and safety code violations, which most often relate to emergency preparedness.
+
+AMD is committed to the responsible sourcing of minerals used in our products and expects our suppliers to conduct business in accordance with the AMD Worldwide Standards of Business Conduct and Supplier Code of Conduct.
+
+Tin, tantalum, tungsten and gold (3TG), commonly referred to as conflict minerals, are used in consumer goods and are integral to electronic products.
+
+The mining, sale and use of minerals from Conflict Affected and High Risk Areas (CAHRAs), including the Democratic Republic of the Congo and adjoining countries, have been associated with negative social and environmental impacts.
+
+This includes the funding of violent groups associated with committing human rights abuses.
+
+Our efforts to break the link between the minerals trade and conflict in the Democratic Republic of the Congo began in 2008.
+
+Our view and insight into the minerals supply chain have developed beyond 3TG to include cobalt.
+
+As we learn more about potential social and environmental impacts, we continue to assess our supply chain and have prioritized minerals for additional due diligence.
+
+As part of our approach to responsible sourcing, we support the enablement of ethical, social and environmental sourcing through ongoing multi stakeholder programs and dialogue.
+
+AMD has been a member of the Responsible Minerals Initiative (RMI) since it was founded in 2008.
+
+Through RMI, we connect with industry members, governments, non profits and other stakeholders to contribute to mitigate the salient social and environmental impacts of the extraction and processing of minerals used in supply chains.
+
+The RMI is a central actor that helps members advance responsible mineral sourcing by creating common tools, assessments and training for the electronics industry and beyond.
+
+We encourage our supply chain to utilize RMI tools and best practices to ensure industry alignment across the value chain.
+
+Our approach is based on the five steps of the Organization for Economic Cooperation and Development (OECD) Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict Affected and High Risk Areas (OECD Guidance).
+
+Conduct, Supplier Code of Conduct, Human Rights Policy and Responsible Minerals Policy (previously referred to as Conflict Minerals Policy) govern responsible mineral sourcing initiatives at AMD.
+
+These policies are aligned with international frameworks, such as the Universal Declaration of Human Rights, International Labour Organization standards and OECD Guidelines for Multinational Enterprises.
+
+Identifying and assessing risks: Transparency is critical to a responsible, resilient supply chain.
+
+Each year, AMD works with our suppliers to identify the relevant smelters and refiners within our supply chain utilizing the RMI’s reporting templates, such as the Conflict Minerals Reporting Template (CMRT).
+
+We compare those smelters and refiners to the list of facilities that conform to RMI’s Responsible Minerals Assurance Process (RMAP).
+
+This information is used to identify potential risks associated with our mineral supply chain.
+
+Managing risks: Tracing materials to the point of extraction is a complex challenge.
+
+We leverage our participation in RMI to encourage smelters or refiners to participate in RMAP to ensure responsible parties conduct due diligence on materials purchased from mining companies or mineral traders and implement corrective actions to comply with industry standards.
+
+Disengaging with a supplier can have unintended economic and humanitarian consequences for local communities.
+
+It is our goal to support improvement, not disengagement.
+
+Assessments: Through RMI, AMD supports independent third party assessments of smelters’ and refiners’ management systems and sourcing practices that are validated to conform to industry standards such as RMAP standards.
+
+Reporting: We publish an annual Conflict Minerals Report that details our mineral sourcing due diligence initiative.
+
+In 2021, our progress centered around continuous improvement.
+
+We worked to enhance existing processes to maintain our commitment to AMD customers and promote industry standards for responsible sourcing.
+
+Our program will remain focused on mitigating social and environmental risks associated with the raw materials supply chain of AMD products.
+
+We have expanded our program beyond 3TG and cobalt, and we continue to identify opportunities to work proactively to map our supply chain and prioritize risk mitigation actions.
+
+We have adopted the Responsible Business Alliance (RBA) Code of Conduct as the AMD Supplier Code of Conduct.
+
+The Code of Conduct is a set of social, environmental and ethical industry standards encompassing many frameworks, such as the Universal Declaration of Human Rights, International Labour Organization standards, OECD Guidelines for Multinational Enterprises and ISO and social accountability standards.
+
+We believe this industry wide standard is an efficient and effective way to integrate social, environmental and ethical responsibilities into our supply chain.
+
+The RBA Code is reviewed and updated every three years by RBA members and stakeholders to ensure its applicability to international norms and relevant supply chain issues.
+
+AMD expects our suppliers, as well as ourselves, to operate in accordance with the Code of Conduct and its expectations and requirements, which span labor, health and safety, environment, ethics and management systems.
+
+Young workers Working hours Wages and benefits Humane treatment Non discrimination Non harassment .
+
+Occupational safety Emergency preparedness Occupational injury and illness  Physically demanding work Machine safeguarding Sanitation, food and housing  Health and safety communication.
+
+Environmental permits and reporting Pollution prevention and resource reduction Hazardous substances Solid waste  Air emissions Materials restrictions Water management Energy consumption and greenhouse gas emissions.
+
+Business integrity No improper advantage Disclosure of information Intellectual property  Fair business, advertising and competition  Protection of identity and non retaliation Responsible sourcing of minerals Privacy.
+
+Company commitment Management accountability and responsibility Legal and customer requirements  Risk assessment and risk management  Training Communication Worker feedback, participation and grievance Audits and assessments Corrective action process Documentation and records Supplier responsibility .
+
+AMD manufacturing suppliers and some sub tier suppliers are audited to verify compliance with the AMD Supplier Code of Conduct.
+
+In 2021, we saw an increase in the number of audits compared to 2020.
+
+This increase was due to the easing of COVID 19 pandemic restrictions allowing more in person interaction, making it possible for the audits to take place.
+
+With this increase in audits, there was a proportional increase in the overall identification of nonconformances (NCs) or findings.
+
+We are using this data to inform the types of capacity building initiatives we are offering to our suppliers.
+
+The average initial RBA initial Validated Assessment Program (VAP) audit score for AMD suppliers in 2020 2021 was 26 percent better than the overall RBA average over the same time period.
+
+In 2021, 32 initial VAP audits were conducted at manufacturing supplier and sub tier supplier factories in the AMD supply chain.
+
+The majority of audits took place in the region where we have the highest number of suppliers, Greater China.
+
+AMD wafer suppliers continue to score the highest audit score possible: 200.
+
+Additionally, workers in AMD supply chain score a 60.1 on RBA’s Quality of Life Metric43 compared to the industry average of 49.9.
+
+This metric is based on three indicators: availability of money (having more than is needed to pay their bills), time (to focus on things they enjoy) and good health (in order to enjoy the time and money).
+
+The score is calculated by isolating questions in the VAP audits that measured these three indicators.
+
+The average number of VAP audit findings in the electronics industry is 8.6 per audit.
+
+AMD suppliers’ average number of findings in 2021 was 2.7.
+
+The VAP audit categorizes NCs or findings by severity, as Minor, Major or Priority.
+
+Of all NCs in our supply chain in 2021, six Priority NCs were identified (up from two in 2020), representing 6 percent of all NCs during this time frame.
+
+In 2021, 66 percent of all NCs in our supply chain were classified as Major NCs.
+
+All affected suppliers were required to complete a corrective action plan for the identified issues.
+
+Working hours  Occupational safety Emergency preparedness Wages and benefits  .
+
+Across the five sections of the VAP, labor (specifically working hours) represented the highest number findings.
+
+This corresponds with VAPs across the electronics industry.
+
+In 2020, RBA analyzed the number of working hours comparing RBA member and non member factories.
+
+All three categories have specified periods during which the facility in question must remedy the findings and implement systems to prevent reoccurrences.
+
+As part of the corrective action plan (CAP) process suppliers are provided access to free RBA e learning lessons related to the audit findings.
+
+When priority NCs are found, AMD contacts the supplier requesting details on the actions the site is implementing to immediately address the NC prior to creating the longer term CAP.
+
+Throughout the process, AMD communicates with the supplier to review the CAP and provide support, when necessary.
+
+Suppliers are required to close the CAP and schedule a closure audit in alignment with RBA requirements.
+
+If suppliers are not able to meet AMD requirements, AMD executives are notified for appropriate action.
+
+Working hours violations and the payment of restricted employment related fees continues to be a challenge for our industry and with some AMD suppliers.
+
+Labor represented 39 percent of all NCs in our company’s supply chain in 2021, however only one was a priority NC.
+
+Regardless, all suppliers were required to complete corrective actions for identified issues.
+
+Factories continued to face the challenge of keeping up with demand while implementing COVID 19 safety protocols in 2021.
+
+As such, the highest rate of NCs occurred in working hours.
+
+AMD Code of Conduct and included resources from the ILO and RBA on managing the impact of COVID 19 on migrant workers.
+
+NCs in the category of freely chosen employment were due to workers paying fees prohibited by the Code or suppliers lacking sufficient policies or management practices to prevent the risk of forced labor.
+
+These findings were escalated to senior executives of AMD, and we worked directly with the manufacturing and sub tier suppliers to ensure remediation was provided to the affected workers and systems were put in place to prevent future NCs.
+
+These suppliers were also identified as candidates for additional capacity building initiatives.
+
+Two suppliers attended a virtual workshop on best practices in ethical recruitment and due diligence.
+
+The other suppliers were provided e learning courses on forced labor prevention or ethical recruitment due diligence.
+
+Approximately 35 percent of all NCs in our supply chain in 2021 were in the area of health and safety (down from 43 percent in 2020), with the majority of the issues related to emergency preparedness, occupational safety and injury and illness.
+
+Most of the NCs were in emergency preparedness specifically a lack of adequate fire detection, emergency exits or certification, or identification of all potential emergencies that could affect the site with adequate, established response programs.
+
+Immediate containment action was completed within the RBA timeline, and closure audits were completed where required.
+
+AMD aggregates all nonconformances (NCs) across all audits to determine NCs by RBA category.
+
+Diversity and inclusion are key drivers that contribute to our ability to build great products that accelerate next generation computing experiences.
+
+Research shows that businesses with diverse teams are more innovative, make better decisions and achieve higher performance.
+
+Inclusion initiatives foster a work environment that enables all employees to participate and thrive, which in turn creates a sense of community and purpose what we at AMD call belonging.
+
+As the technology industry and our role in society continue to grow, it is essential that we support the next generation of innovators, whose diverse backgrounds can help create technological solutions for some of the world’s toughest challenges.
+
+In particular, Black and Hispanic workers remain under represented in the science, technology, engineering and math (STEM) workforce.
+
+At AMD, we see it as both a challenge and an opportunity for us to create a diverse workforce and promote a culture of belonging and inclusion.
+
+We are committed to growing diversity, belonging and inclusion (DB I) in our workforce to help embrace different viewpoints and experiences, foster innovation, challenge the status quo when needed and drive business performance.
+
+To achieve our aspirations, we want a strong culture that reaches across all aspects of our business.
+
+Deepening our relationships in the United States with Historically Black Colleges and Universities.
+
+Working to reduce unconscious bias in the workplace by educating our global workforce on the power of multiple voices in driving innovation we educate employees on how a workplace of inclusion positively impacts the products we develop and the day to day experiences of our employees, and we also highlight the strength of diversity in the interviewing and promotions processes.
+
+Evaluating employee compensation programs annually so that colleagues performing similar work in the same geographic area and at the same level have equitable compensation opportunities.
+
+Ensuring that every AMDer around the globe has the opportunity to amplify their unique voice to contribute to our company’s success and.
+
+Offering mentors within our employee resource groups to further drive a sense of community.
+
+By building a diverse talent pipeline, encouraging a culture of respect and belonging and increasing the inclusion of under represented groups, we will make AMD stronger.
+
+We will elevate our talent and improve business outcomes by encouraging employees to bring their whole selves to work.
+
+Our Multi Voice Initiative encourages and supports all AMDers who champion and, when needed, challenge our company culture with their unique perspective.
+
+In our annual AMDer Survey, we ask multiple questions on how our culture and processes support our commitment to DB I.
+
+We invited 100 percent of our employees to participate in our 2021 AMDer Survey, and 96 percent responded.
+
+Their responses to those questions and the overall index score are in the top 10 percent of global companies within the tech industry.
+
+In 2021, we were recognized by the Bloomberg Gender Equality Index and the Human Rights Campaign Corporate Equality Index as a Best Place to Work for LGBTQ Equality.
+
+We have set a public goal and are committed to making meaningful progress to foster DB I at AMD.
+
+ON TRACK: In 2021, 52 percent of AMD employees contributed to activities under this goal due to an increase in ERG membership, employee volunteers and charitable donors.
+
+AMD is also committed to increasing the percentage of global female hires in engineering roles and the percentage of under represented group (URG) hires within our U.S. workforce year over year.
+
+In 2021, we made these efforts a component of our company’s strategic metrics and milestones to inform our annual incentive plan, which is a compensation element of our Total Rewards Program.
+
+We are pleased to share that in 2021 we exceeded the hiring goals we set, leading to a 1 percent increase in the total population of AMD female engineers and a 1.6 percent increase in our URG focus areas overall.
+
+In 2022, we will continue these efforts for inclusion as a component of our company’s strategic metrics and milestones.
+
+Following the close of our acquisition of Xilinx in February 2022 and the creation of a new business unit called Adaptive and Embedded Computing Group (AECG), we are focused on the integration of our new employees and expanding our DB I program and initiatives across our larger company.
+
+As part of this work, we will re set our internal DB I hiring goals in 2022 based on our current company population representation.
+
+AMD publishes workforce diversity statistics as part of our annual corporate responsibility reporting.
+
+Since 2016, AMD has published the gender composition of our engineering and management teams.
+
+In 2018, we began reviewing our Diversity, Belonging and Inclusion strategies and metrics with members of the AMD Board of Directors.
+
+We are constantly striving to improve our gender and diversity hiring through specific programs.
+
+The diversity summary data below is based on calendar year 2021 data for a total of 15,500 AMD employees49.
+
+We want to see more women in the semiconductor industry, and AMD is committed to helping make that happen.
+
+One of the highlights of 2021 was our company’s partnership with AnitaB.org a nonprofit organization dedicated to expanding the number of female engineers in the global workforce and creating diverse and inclusive workplace climates.
+
+Together, we were able to offer 25 selected female students the opportunity to attend a conference and receive an exclusive scholarship to support their technical education.
+
+The AnitaB.org Scholars program is designed to strengthen the community of peer support and access to resources for scholarship recipients, and the Scholar community includes recipients from around the world.
+
+The 25 women who were selected for the program attended the Grace Hopper Celebration.
+
+This flagship event was founded in 1994 to honor Grace Hopper’s legacy and inspire future generations of women in tech.
+
+The event brings the research and career interests of women in computing to the forefront and highlights the contributions of women to the tech world.
+
+The students also attended a virtual networking session with a panel of women technologists at AMD to hear insights about career development and personal experiences.
+
+Additionally, the women undertook coaching, including nine hours of individual sessions.
+
+The program was made possible in 2021 by the money connected to the prestigious Grace Hopper Technical Leadership Abie Award that AMD CEO Dr.
+
+Lisa Su won in 2020, plus an additional donation from Dr. Su.
+
+There is currently intense competition for talent in the semiconductor industry, with companies vying to attract and retain skilled individuals who will help them achieve their long term goals.
+
+Our goal is to be an employer of choice, with passionate, innovative, fully engaged employees.
+
+AMD is proud to be an equal opportunity employer that is committed to creating an inclusive environment for employees around the globe.
+
+We recognize the challenge of increasing the representation of women and other under represented groups in engineering and other roles.
+
+We continue our efforts to recruit diverse talent and foster an inclusive and innovative culture, where the best ideas win regardless of the individual’s identity.
+
+With the immense growth in the student population in 2021, we continued to focus on helping diverse students feel valued and welcomed at AMD.
+
+We built sustainable engagements with organizations like the Society of Women Engineers (SWE), the National Society for Black Engineers (NSBE) and Society of Hispanic Professional Engineers (SHPE) at our top universities, including our top HBCUs and HSIs.
+
+Some of our highlights during the year included Women in Engineering events at the University of Texas (UT) in Austin and Texas State University.
+
+Female AMD engineers, including a former co op who is now a New College Graduate, engaged with female engineering students to share their journeys to becoming an engineer and talk about how to navigate a career that offers so many opportunities for learning, innovation and creativity.
+
+Although we value being on campus and connecting in person, it was interesting to see how the virtual environment during the pandemic helped us reach a larger and broader student audience.
+
+Our partnerships with HBCUs and HSIs continued to grow in 2021 as we were able to engage with faculty, staff and students at a deeper level.
+
+We continued to build on our relationships and looked for creative ways to connect with the students throughout the year.
+
+We held two NSBE Tech Talks at Howard University, supported a Senior Project at North Carolina Agricultural and Technical State University and had successful Tech Talk Panels with SWE at Texas State University and UT Austin.
+
+Building trust with students has been a major focus for us we want the students to know that AMD is invested in their learning and future success.
+
+To support these new hires when they join AMD, we implemented an employee resource group (ERG) Sign Up feature within our New Hire Onboarding platform in 2020.
+
+New hires may view and select ERGs they would like to join.
+
+Employees who help lead an ERG at a given site serve as cultural ambassadors they welcome the new hires, communicate our company’s commitment to belonging and invite the new hires to attend events.
+
+This unique but simple process enables new hires to have access to our ERGs immediately.
+
+Through this connection, ERGs introduce new hires to the benefits of membership, such as building their network outside of their team and finding mentors to grow in their careers.
+
+In addition, we are committed to helping students and graduates expand and apply their theoretical knowledge while building on the job skills.
+
+Interns with our AMD University Relations program are encouraged to display their talents, build professional networks, participate in real life engineering challenges and apply for full time opportunities upon graduation.
+
+Today’s students have the potential to be tomorrow’s top engineers, and AMD has the expertise and technology to help them get there.
+
+To inspire the next generation of engineers, we connect students with AMD experts offering opportunities to learn and discuss career options.
+
+Additionally, we donate equipment to our university partners.
+
+In 2021, for instance, AMD deepened our partnership with Howard University.
+
+We worked with the National Society of Black Engineers (NSBE) at Howard University to reach out to students through Tech Talks and discuss our company’s history, culture and opportunities.
+
+AMDers Precious Effiong, Leyla Yilan, Farzana Haque and Nick Valison covered topics related to AMD technology, industry knowledge, business innovation, growth and success.
+
+Each speaker shared their personal story and students had the chance to ask them questions.
+
+In both settings, students were encouraged to explore AMD job opportunities.
+
+Partnering with faculty at Howard University, AMD also invested US 154,000 of hardware to connect the College of Engineering and Architecture and enable AI research.
+
+The scalable high performance computing (HPC) system, which consists of three servers with one node including eight AMD Instinct accelerators, will enable collaboration between research groups and serve as a platform for teaching and lab activities.
+
+The equipment is being used to enhance the hands on lab activities in undergraduate and graduate courses, such as Machine Learning, Data Science, Cybersecurity and Cloud Computing.
+
+It will also help expand Howard University’s research capabilities in these important areas.
+
+AMD Canada enables an encouraging environment for our current and future women engineers.
+
+For example, we sponsor a variety of diversity events hosted by local universities, including Women in Science and Engineering at University of Toronto, Women in Computing, Stats and Math at University of Toronto Scarborough, National Society of Black Engineers at McMaster University and Women in Engineering at McMaster University.
+
+We also work extensively with universities to provide technology students with internship and mentorship opportunities.
+
+AMD has partnered with Women in Science and Engineering (WISE), the National Society of Black Engineers (NSBE), the Institute of Electrical and Electronics Engineers (IEEE) and LGBTQ STEM Student Groups at top Canadian Post Secondary Institutions.
+
+At any given time over 250 future engineers and computer scientists are busy learning their craft with the help of experienced AMD staff while they develop the next generation of semiconductor hardware and software.
+
+Following graduation, a large proportion of these interns return as full time AMDers, building our next league of technical talent in Canada.
+
+During their placement at AMD, interns are offered several opportunities to develop valuable skills in addition to their technical roles.
+
+We also have a formalized mentorship program between full time staff and interns to promote knowledge sharing and early career support as they begin their careers at AMD.
+
+After completing their internship at AMD, interns can opt into the Campus Ambassador Program, through which they represent the company at university panel discussions, networking sessions and company informational presentations.
+
+Through our various intern specific programs and their day to day technical roles, students and new graduates at AMD get the chance to not only develop technical and professional skills but also apply their education to real world settings in meaningful ways.
+
+Our Total Rewards programs reflect our commitment to having an equitable and inclusive environment that enriches the total well being of our employees.
+
+Comprehensive healthcare coverage Retirement savings plans with company matching Paid holiday, vacation time and other time off programs such as Recharge Days, Pandemic Leave and a generous Bereavement Leave program and Life and disability insurance.
+
+Our benefits packages also include fertility, adoption and surrogacy as well as transgender inclusive benefits.
+
+Additionally, we offer a variety of work life balance programs, including family care, global parental leave and alternative work plans.
+
+And our employees have access to work life services to support them during major life events or with life’s day to day challenges, as well as employee assistance programs to help resolve personal and professional issues.
+
+We promote an environment of continuous learning at AMD.
+
+Employee education and training are provided in different forms and vary by country.
+
+In some countries, we offer tuition assistance programs and other learning programs, such as Leadership Training, Skillsoft Learning, Ted Talks and Microsoft curriculum.
+
+We also have a pay for performance management and assessment process that encourages, recognizes and supports high performing individuals and teams this is reported annually to our Board of Directors.
+
+In a partnership among teams spanning University Relations, DB I and Learning Development, we created the New College Graduate (NCG) Diversity Program.
+
+The content of the program engages emerging professionals and enables them to accelerate their growth and development.
+
+The focus areas of this program are planning for success, understanding the business and building a long term career.
+
+Managers of the NCGs receive training on leading a diverse workforce of people who are starting their careers.
+
+AMD Leadership Essentials (ALE) is a learning experience designed to help newer people managers (with less than one year of management experience at AMD) build their leadership capability and provide the core skills necessary for them to be successful at AMD.
+
+In 2021, 68 percent of new people managers attended, all virtually.
+
+The AMD Virtual Development Series focuses on the topics requested by our employees most frequently and each one is covered in a 45 to 60 minute virtual session.
+
+The series covers interpersonal skills development for individual contributors and people managers, including topics such as communication and presentation skills, career advancement, leading effective meetings, and prioritization and delegation.
+
+Most of the sessions are condensed versions of our full classroom based courses.
+
+We used the ADDIE approach (analyze, design, develop, implement and evaluate) to condense the content and adapt the activities for a virtual audience, and we use a variety of delivery approaches to keep virtual attendees engaged.
+
+All the topics have been recorded and are available on demand, including slides, workbooks, job aids, links to online articles and book summaries to further learning.
+
+All of the topics are also available for instructor led delivery.
+
+AMD e learning resources include huge, constantly growing libraries of more than 10,000 courses from Udemy, Skillsoft Percipio and LinkedIn Learning, as well as over 20,000 book summaries from getAbstract, thousands of articles from Harvard Business Review and more than 50,000 technical and engineering books.
+
+In addition, for global cultural education, our employees have access to profiles from about 100 different countries through GlobeSmart.
+
+Users can access our eLearning resources on their desktop, laptop or, in most cases, a mobile device.
+
+Under our pay for performance philosophy and guiding principles, we reward not only team members who demonstrate the highest level of contribution to the company, but also those who continually improve their capabilities.
+
+This ensures that rewards are differentiated based on the impact the employee’s performance has on the company as well as how they execute their tasks.
+
+Employees are actively engaged in the performance management process.
+
+Our talent management activities support the complex and dynamic nature of our business, but our goal is simple: deliver our strategy by having the right talent in place now and in the future.
+
+An ongoing circular feedback loop with employees in the form of a robust employee voice.
+
+Diversity, Belonging and Inclusion (DB I) programs to promote inclusivity and belonging for all employees, so everyone feels they can bring their whole self to work.
+
+Measurement and insights into talent placement, development and growth and Year round coaching and development to support and enhance goal setting and annual performance reviews.
+
+Throughout the year, our CEO and senior executives hold cross functional discussions about our top talent and the leadership and technology skills our business requires.
+
+We know that AMDers do their best when they are fully engaged and can be themselves at work.
+
+Our YouTube series I Am AMD highlights our employees sharing their stories and why they feel they belong at AMD.
+
+This series features AMDers in various roles across the company bringing together their passion for technology and their unique backgrounds to create an amazing work environment and innovative products.
+
+In 2021, we started a new series called Career Engineered.
+
+In these videos, technical employees share the experiences that have shaped who they are and how they bring their unique voice and perspective to work every day.
+
+Our employee resource groups (ERGs) encourage employee engagement and are an important part of our company’s culture.
+
+While we had affinity groups for years most notably the AMD Women’s Forum we introduced a corporate ERG policy in 2016 to clarify the process and encourage the formation of other groups.
+
+ERGs create a space for employees who share a common identity, along with their allies, to meet and support one another in building their community and sense of belonging in the workplace.
+
+At the same time, our ERGs empower employees by giving each group a collective voice to work with senior leadership and increase understanding of their community.
+
+As most employees have been working remotely since 2020, we have seen ERGs join together virtually across regions to build community and promote their missions.
+
+For example, for International Women’s Day in 2021, the AMD Women’s Forum chapters came together regionally to offer events such as career panels, virtual conferences with presentations by women executives and networking opportunities.
+
+The North America virtual conference drew more than 700 attendees.
+
+Our Pride ERG also hosted multiple panel discussions on Twitch for the LGBTQ , Ally and Drag community during Pride month, attracting more than 1,800 viewers in 2021.
+
+Our Go Green ERG has been actively working to engage and inspire AMD employees to reduce their environmental footprint and adopt sustainable practices at home, during their commutes and in the workplace.
+
+In 2021, our Go Green activities included a webinar about our U.S.
+
+Employee Solar Program and a virtual global Earth Day event.
+
+AMD employees once again participated in our annual campaign the People’s EcoChallenge that encourages individuals to adopt more sustainable practices, such as eating local organic food, riding their bikes, recycling and turning off equipment when not in use.
+
+Employees set goals, tracked actions and shared ideas with others.
+
+Over the last six years, hundreds of AMD employees in several countries have completed more than 8,000 actions.
+
+AccessAbility: Serves AMDers living with disabilities personally and professionally by creating a culture of inclusivity through shared experiences, helpful resources and collaborative activities.
+
+Advancing Black Leadership and Experience: Elevate and strengthen Black employees at AMD through professional and career development, mentoring and community programs to enable retention, growth and meaningful business impact.
+
+Asians Making a Difference: Provides an inclusive environment where members have the chance to develop strong professional relationships, build community and promote education about Asian cultures and topics.
+
+Caregivers: Empowers AMDers with knowledge, means and encouragement to help them make sound decisions concerning the health, happiness and well being of family members.
+
+AMD Emerging Leadership Forum: Develops next generation leaders at AMD and equips them with the resources to develop their careers and drive value for AMD.
+
+Go Green: Connects employees and the environment to educate and inspire AMDers around the globe to conserve resources, save money and improve their quality of life.
+
+Impacto: Empower and elevate the AMD Latino Hispanic community and its advocates to foster inclusion, celebrate diversity, grow professionally and give back to the communities where they live and work.
+
+Incredible India (added in 2022): Advances and fosters a sense of unity and belonging for those who have an affinity with Indian culture and creates an inclusive environment to promote, respect and appreciate cultural diversity.
+
+Pride: Provide a positive and inclusive environment for all employees, regardless of sexual orientation, gender identity or gender expression build a worldwide community of allies and contribute to a shared sense of belonging among employees, partners, customers and in our communities.
+
+Multicultural ERG (added in 2022): Brings people together with broad and different cultural backgrounds and provides opportunities to learn, share and experience each other’s way of life.
+
+Members will discover similarities by exploring cultural differences, gain an appreciation for other cultures and build cultural fluency and collaboration that can support professional and personal growth.
+
+Salute: Provides awareness and support to current and former military, transitioning military, military spouses, dependents and general supporters of the armed forces globally.
+
+U AMD: To inspire learning and encourage collaboration among all members and within our local communities through various activities as well as establish peer connections.
+
+AMD Women's Forum: An AMD women's community fostering connections, providing opportunities for people to lead and promoting engagement within AMD and beyond.
+
+AMD employees are our most important stakeholder group.
+
+We know that employees are increasingly seeking employers with values that match their own.
+
+We survey our employees worldwide each year to understand their overall satisfaction, specifically asking them about their impressions of our corporate responsibility programs.
+
+We invited 100 percent of our employees to participate in our 2021 AMDer Survey, and 96 percent responded.
+
+Clarity of Direction Pride in Company Continuous Improvement Teamwork and Collaboration Recognition and Reward Resources and Support Manager Relationship Performance Management Growth and Development Employee Empowerment.
+
+Engagement Index: An emotional and intellectual commitment to AMD, an AMDer’s team and their job.
+
+Manager Quality Index: Management engaging hearts and minds with day to day interactions and decisions.
+
+Belonging Inclusion Index: A work environment in which all individuals are treated fairly, have equal access to opportunities and resources and can contribute fully to our success.
+
+Personal views and values are respected, allowing employees to be themselves at work.
+
+Our AMDer Survey scores have increased steadily and significantly over the past several years.
+
+Results for every survey dimension and index listed here scored above external benchmarks for high performing companies within the tech industry.
+
+While we are pleased with these results, we strive for continuous improvement in all areas of the AMD employee experience by respecting and leveraging our employees’ voices.
+
+For more than a decade, our Global Environmental, Health and Safety (EHS) Standards have established excellence as the benchmark for AMD sites around the world.
+
+We require all our facilities to meet applicable local, regional and national regulations.
+
+In addition, we set and apply standards that go beyond this: we establish premier practices based on an assessment of risks and hazards across all aspects of the organization to protect employee health and safety.
+
+In general, these EHS Standards are designed to be consistent with internationally recognized management systems such as ISO 14001 (Environmental) and ISO 45001 (Health and Safety).
+
+Health and safety related areas addressed under the Global EHS Standards include operational controls to mitigate risks for example, injury and illness prevention through personal protective equipment and ergonomics, emergency preparedness and response and electrical, equipment and chemical safety training as well as monitoring controls for example, inspections, audits and corrective action review and closure.
+
+As a result of acquiring Xilinx in 2022, two of our new sites in San Jose, California and Singapore are certified to the ISO 45001 standard.
+
+Our company's workforce injury and illness case rate51 remains below the industry average, due in part to our focus on training and early reporting of injury and illnesses.
+
+With zero fatalities and eight total cases in 2021, including pandemic related illnesses, sprains and strains, our worldwide case rate for the year was 0.04 per 200,000 work hours significantly lower than OSHA’s 2020 Private Industry case rate of 2.2, as reported by the U.S. Bureau of Labor Statistics.
+
+We also track health and safety metrics for our wafer foundry suppliers, with the aim of improving safety performance year over year.
+
+Throughout the COVID 19 pandemic, AMD utilized a health team of registered nurses who led contact tracing efforts and implemented quarantine protocols to limit the potential for workplace transmission.
+
+To address potential ergonomic issues encountered by employees working from home, we provided additional work from home training, virtual assessments and an equipment allowance.
+
+AMD has a passion for giving back in the communities in which we live and work.
+
+For over four decades, we have invested in organizations around the globe that meaningfully impact the way we live today and help create better futures for tomorrow.
+
+Our employees have come to expect this spirit of giving back from AMD, but most importantly, so have our communities and neighbors.
+
+Our reporting guidelines are based on OSHA reporting criteria.
+
+Minor (first aid level) injuries are not included.
+
+Lost days are calculated based on scheduled workdays.
+
+Corporate and employee giving we provide charitable grants to nonprofit organizations and promote charitable employee matching programs.
+
+AMD Foundation giving the AMD Foundation provides grants that support global community initiatives consistent with the company’s interests.
+
+Employee volunteerism AMD employees worldwide are encouraged to share their time and talents through community volunteering at AMD sponsored events and individual activities.
+
+AMD HPC Fund investments we provide research institutions with high performance computing (HPC) resources to accelerate research in areas including climate change, health care, transportation, big data and more.
+
+Promoting access to quality education with a special emphasis on science, technology, engineering and math (STEM) and developing the next generation of thinkers and innovators.
+
+Cultivating and preserving our environment for future generations to enjoy Providing basic needs and social services to help care for our neighbors in need and Aiding humanitarian and relief efforts in the face of unforeseen disasters.
+
+Around the globe, AMD volunteers, also known as AMD Community Corps, are easily recognized by the bright green volunteer t shirts they wear.
+
+These shirts have become synonymous with a culture of generous and committed colleagues ready to give their time and talent.
+
+AMD encourages employee engagement through company sponsored volunteering and provides opportunities for teams to connect while giving back.
+
+In 2021, over 2,800 AMDers logged more than 9,000 hours of volunteer time through virtual and in person volunteer activities, such as recording children’s books for the Ronald McDonald House in Central Texas and inspiring youth to learn about engineering through hands on activities with the Chen Su Lan Methodist Children’s Home in Singapore.
+
+In addition to year round volunteering, AMD also hosts an annual AMD Cares Day of Service as a company wide celebration of community volunteerism.
+
+While 2021 looked different to past years due to work from home policies, nearly 2,000 people donated more than 6,200 hours of volunteer time much of it done virtually.
+
+AMD employees helped fulfill a variety of our nonprofit partners’ needs during this sixth annual event.
+
+Public home bound seniors, collected food for the hungry, planted trees and raised funds for local children’s hospitals.
+
+For several years, AMD employees in Markham, Ontario have partnered with Children's Miracle Network Hospitals to host a 24 hour Gaming for Good event through Extra Life.
+
+The purpose is to raise money for The Hospital for Sick Children (SickKids), which is affiliated with the University of Toronto, Canada's most research intensive hospital and the largest center dedicated to improving children's health in the country.
+
+While our workforce worked remotely in 2021 during the pandemic, AMD prepared for our annual AMD Cares (Virtual) Day of Service.
+
+Because volunteering looked so different, we wanted to unite excitement among employees from multiple site communities.
+
+Given our company’s expertise in gaming products, it is no secret that our employees are also gaming enthusiasts.
+
+By combining AMD performance, possibility and passion, we knew we could advance together toward a better world.
+
+Teams from nine cities joined together to host two weekends of gaming and streaming to raise money for their local children’s hospitals.
+
+Employees and streamers from the AMD Red Team learned about the challenges these patients and their families face while they also had fun playing games.
+
+The teams raised over US 28,000 to help provide children with specialized treatment at top notch facilities.
+
+Global Earth Day Kick Off Celebration: The AMD Go Green Employee Resource Group hosted two virtual events for employees to learn about our company’s commitment to a sustainable planet and hear from colleagues whose earth friendly hobbies include beekeeping, gardening and building terrariums out of recycled materials.
+
+Beijing AMD Charity Forest: Since 2017, AMD volunteers have planted more than 1,000 trees and shrubs at the carefully managed Ecological Park for the Elderly at the Ruikangyuan Aging Care Center.
+
+In 2021, more than 40 volunteers planted tree saplings and brought warm clothes and supplies to the elderly residents.
+
+Penang Plantation Diary: Employees planted seeds and watched their gardens grow as a way of encouraging environmental awareness.
+
+Shenzhen Fight with the Green Monsters: AMDers weeded 16kg of invasive plant species and inspired others to pay better attention to public welfare and coastal wetland conservation.
+
+Singapore Coastal Clean Up: Teams gathered for fun and service by clearing trash and debris from the East Coast Park.
+
+Suzhou Green Army: Employees coordinated an outside hiking activity to educate volunteers on environmental preservation while conducting a trail clean up project.
+
+Austin KIPP mentorship: AMD volunteers supported KIPP, a free charter school that boasts a graduation rate three times higher than peers, by offering mentorship to their robotics team and joining elementary students as virtual guest classroom readers.
+
+Mexico City Going back to school: AMD teams, helped the Elizabeth Kenney kindergarten in Mexico get back to school and prepare for their new normal by sanitizing and setting up classrooms.
+
+Markham Information sessions with Big Brothers Big Sisters of Toronto: Employees learned about the agency’s pre eminent mentorship program to help break cycles of violence, drug abuse, poverty and inequality preventing children from reaching their full potential.
+
+Orlando Boys Girls Club STEM Activities: Employee volunteers reached more than 100 children through five different Central Florida clubs by hosting nine STEM events.
+
+They distributed supply kits to each club so students could remotely experience the bug triage process, learn binary and decode a secret message to win a prize.
+
+Milton Keynes Power2 Leadership Program: As part of a young leader’s initiative in the United Kingdom, students joined 20 AMD volunteers for a virtual interactive advertising and marketing workshop.
+
+They kicked off the experience with a speed networking session followed by an innovative pitch to an AMD panel where they presented a full marketing proposal.
+
+North America Gaming for Good: AMD hosted two weekends of gaming and streaming in nine North America site communities.
+
+Through friendly competition, the teams raised awareness and US 28,000 in support of local children's hospitals.
+
+Austin Virtual Games with Seniors: Through our Meals on Wheels nonprofit partner, employees virtually played BINGO and trivia games to help senior citizens stay social, connected and active while senior centers remained closed due to COVID 19.
+
+Fort Collins Corporate Food Fight: The site joined forces to raise more than US 22,330 and 161 pounds of food for the Larimer County Food Bank to help reduce food scarcity in their Colorado community.
+
+Kowloon Fight Against Poverty: AMD teams donated gifts and wrote inspirational cards for students supported by JLife, a nonprofit organization focused on ending child poverty and reducing cross generational poverty throughout Hong Kong.
+
+In addition to time and talent, AMD and our employees fulfill our global commitment as responsible, good neighbors through charitable giving both monetary and in kind contributions.
+
+AMD and the AMD Foundation provide grants to nonprofit organizations based on recommendations from employee led community affairs councils, local needs and strategic fit.
+
+In 2021, through our AMD Community Corps program, employees took advantage of company matching gift programs that supported medical aid during the surging COVID 19 crisis in India and recovery efforts after Winter Storm Uri in Texas.
+
+AMD also donated to the Austin Area Urban League and Central Texas Food Bank as part of this disaster relief.
+
+Additionally, in partnership with HP and the Boys Girls Clubs of the Austin Area, AMD donated more than 325 refurbished AMD powered laptops and desktops to help bridge the technology gap for underserved students and families.
+
+We also contributed funds for a new Learning Lab for Boys Girls Clubs of Silicon Valley to advance STEM education for their members.
+
+In 2021, the combined philanthropic efforts of AMD, our employees and the AMD Foundation, including investments made through the AMD HPC Fund and institutional research grants, resulted in more than US 2 million for nonprofit organizations, universities and research institutes.
+
+Furthermore, in 2022, in response to the conflict in Ukraine, AMD and AMD employees donated over 500,000 through a special employee matching program and corporate donations to support humanitarian and refugee relief.
+
+Breakthrough Central Texas Big Brothers Big Sisters of Toronto Boys Girls Clubs of the Austin Area Boys and Girls Club of Silicon Valley Central Texas Food Bank.
+
+Chen Su Lan Methodist Children’s Home China Environmental Protection Foundation Discovery Museum Family Eldercare Food Bank of Larimer County Food from the Heart Girlstart House of Hope  Loved Twice Markham Stouffville Hospital Power2 Resource Area for Teachers (RAFT) Say Trees Second Harvest Food Bank Shanghai Baby Home  The Tech Interactive United Way India.
+
+In 2022, AMD will launch a year round, global Matching Gift and Volunteer Reward program.
+
+This program reflects our employees’ generosity and dedication to making our communities stronger and providing for others, and AMD is proud to amplify those efforts.
+
+In February 2022, AMD acquired Xilinx, which has a deep history of giving back to communities worldwide.
+
+Students took part in various workshops and activities, increasing their interest in math, discovering careers and exploring STEM subjects as they advance through school.
+
+Students participated in an innovative three part program with a strong mathematical theme, encouraging them to see the practical applications of this vital subject.
+
+Through in classroom workshops, they learned about international trade by simulating the set up of their own companies operating in international markets.
+
+They were challenged to consider a range of business decisions that can potentially impact the profit margin of their emerging enterprises.
+
+As part of the in class sessions, employee volunteers led discussions with students on the daily application of math within their careers and highlighted the value of pursuing further studies in STEM to access a broad range of options in a future job market.
+
+For more than two decades, AMD employees in Singapore have contributed their time, talent and resources to a variety of local improvement projects.
+
+In 2021, through volunteering and charitable giving, AMD Singapore continued to find ways to amplify the impact of our community development efforts.
+
+For example, our Community Service Committee increased employee charitable contributions through two major fundraising events with Food from the Heart, a nonprofit whose mission is to alleviate hunger through its food distribution program, and Make a Wish Singapore that fulfills the wishes of children fighting critical illnesses.
+
+We also held our Virtual Muay Thai event, where we brought together a group of children to conduct a Muay Thai session virtually at the Chen Su Lan Methodist Children’s Home.
+
+For our annual AMD Cares Day of Service in 2021, AMD Singapore organized volunteering activities, such as beach cleaning, tree planting and packing goody bags.
+
+Employees also participated in blood drives and donated books and canned food items 106 employees donated 2,179 cans of food for Willing Hearts, a nonprofit soup kitchen.
+
+Additionally, through our Be a Santa’ program at the end of the year, our employees donated Christmas gifts for the children at Boys Town and Ahuva Good Shepherd Children’s Home.
+
+Every year, AMD launches a month long AMD Cares Day of Service worldwide.
+
+In 2021, AMD Greater China employees actively participated in volunteer activities in local communities, including planting trees, protecting the environment and assisting community neighbors, to convey goodwill through practical actions and benefit their community.
+
+For example, this year, as part of the AMD Charity Forest project, AMD Beijing volunteers planted 224 saplings on the land of the Ruikangyuan Aging Care Center in Yanqing District, Beijing.
+
+We also brought warm clothes and COVID 19 supplies to the Aging Care Center.
+
+The carefully managed Ecological Park for the Elderly replaces the original wastelands littered with stones and weeds, providing a leisure place for the elderly in the community and improving the local ecological environment.
+
+Since 2017, more than 1,000 trees and bushes have been planted by the AMD workforce.
+
+In Shanghai, we organized a series of Earth Day activities, calling on employees to care for the earth.
+
+Over 850 colleagues signed up for the event and more than 1,000 family members joined them.
+
+The staff at AMD Shanghai R D center participated in various environmental activities, such as garbage cleaning and sorting, waste utilization, low carbon travel, home greening, environmental science popularization, clothing recycling and community assistance.
+
+The following tables provide data on our global workforce including employee diversity, new hires, turnover, parental leave, career development, well being and volunteerism.
+
+Values shown in italics represent adjusted data and are different from values shown in previous Corporate Responsibility Reports.
+
+Parental leave can encompass various types of leaves in different countries it provides time off for parents to nurture their families and make necessary life adjustments.
+
+Percentage of total employees58 by gender who received a regular performance review during the reporting period.
+
+Percentage of total employees59 by employee category59 who received a regular performance review during the reporting period.
+
+Our reporting guidelines are based on OSHA reporting criteria.
+
+Minor (first aid level) injuries are not included.
+
+Lost days are calculated based on scheduled workdays.
+
+AMD collects environmental data about AMD locations worldwide and contracts suppliers with wafer fabrication sites or assembly and test operations.
+
+The following table provides data on energy use, electricity consumption, carbon equivalent emissions, water use, waste generation and compliance.
+
+We received external limited level assurance for 2021 data relating to our scope 1 and 2 greenhouse gas (GHG) emissions and related performance to goal, as well as our scope 3 GHG emissions for business air travel.
+
+Two deficiencies were noted, one for the failure of a heat detector and the other for inability to inspect two other detectors.
+
+All corrective actions were completed and the site was back in compliance on May 4, 2021.
+
+The gases include hexafluoroethane (HFE) and hydrofluorocarbons (HFCs).
+
+Emission factors for chemical use are based on the GHG Protocol Calculation Tool (Global Warming Potential Values) and IPCC Assessment Report Table 2.14.
+
+The scope is based on operational control (i.e., AMD occupied facilities).
+
+We follow the GHG Protocol, the internationally recognized standard for the corporate accounting and reporting of GHG emissions.
+
+AMD follows the Greenhouse Gas Protocol, the internationally recognized standard for the corporate accounting and reporting of GHG emissions.
+
+Emission factors for locations in the U.S. are based on eGRID total output emission rates, and for outside the U.S. are based on International Energy Agency (IEA) national electricity emission factors.
+
+If electricity use data is not available, as for small offices, then an average value for U.S. office buildings is used for all AMD locations (16.9 kWh sq ft) based on EIA CBECS results for the average administrative office, and the emission factor for the location is applied.
+
+AMD purchases renewable energy credits from the U.S. (Green E certified wind) and international renewable energy credits from China and India.
+
+AMD applies RECs to market based emissions for AMD sites in the U.S., China and India.
+
+Our value chain emissions are estimated following the guidance from the GHG protocol.
+
+Category 1: Emissions associated with Foundry and OSAT suppliers are calculated using Scope 1 and 2 emissions collected from top suppliers, allocated to AMD, and extrapolated to account for suppliers that do not disclose their emissions.
+
+Emissions upstream of AMD’s Foundry suppliers are then estimated using a manufacturing LCA index specific to AMD’s highest volume products.
+
+Emissions from all other vendors (including marketing, professional services, real estate, software providers, telecom and networking providers and other manufacturing services) are calculated using a spend based method.
+
+Category 3: Emissions are calculated using fuel and electricity consumption data collected from our sites globally, and emission factors from DEFRA and IEA.
+
+Category 4: emissions are estimated using a hybrid methodology combining supplier specific emissions reported by two of our major shipping providers and a mode specific, spend based calculation on all other logistics spend.
+
+Category 5: Data is collected from our sites globally and emissions are calculated using DEFRA factors per waste type and waste disposal method.
+
+Category 6: Emissions are from air travel only and are provided by our travel agency, in accordance with the GHG Protocol.
+
+Category 7: Emissions are based on survey data from our 5 largest campuses are calculated using a distance based method for average distance traveled and mode.
+
+Emissions are adjusted to reflect the proportion of employees working on site during 2021.
+
+Category 11: Emissions are calculated based on total sales volume, average product electricity consumption, and average product lifetime split by product category for all products sold in 2021.
+
+Country specific IEA emission factors are used to calculate emissions resulting from product use.
+
+A given percentage of server related products are assumed to be powered with renewable electricity based on data center customer data.
+
+Category 12: Emissions are calculated based on the average product weight by product category and the total sales volume within 2021.
+
+A weight based calculation is used, with the disposal method estimated using region specific e waste recycling, landfilling, and incineration benchmarks.
+
+Emission factors associated with e waste treatment are obtained from the EPA.
+
+The following tables provide information about our company’s annual financial data, social investments and U.S. political activities.
+
+The program details are available at www.amd.com en corporate covid 19 hpc fund.
+
+The Global Reporting Initiative (GRI) is an international independent organization that helps businesses, governments and other organizations understand and communicate the impact of business on critical sustainability issues such as climate change, human rights, corruption and many others.
+
+GRI’s Sustainability Reporting Standards are the world’s most widely used standards on sustainability reporting and disclosure, enabling businesses, governments, civil society and citizens to make better decisions based on information that matters.
+
+Our 2021 22 Corporate Responsibility Report has been prepared in accordance with the GRI Standards: Core option.
+
+AMD is a global semiconductor company that designs and delivers products for four primary markets: Client, which primarily includes microprocessors, accelerated processing units that integrate microprocessors and graphics, and chipsets for desktop and notebook personal computers.
+
+Gaming, which primarily includes discrete GPUs, semi custom SoC products and development services.
+
+Data Center, which primarily includes server microprocessors, GPUs, FPGAs and adaptive SoC products for data centers and.
+
+Embedded, which primarily includes embedded microprocessors, FPGAs, adaptive.
+
+Periodically, we may also sell or license portions of our intellectual property (IP) portfolio.
+
+AMD cannot, and does not, make any direct or indirect financial contributions to federal political candidates or committees.
+
+Totals of U.S. contributions and receipts associated with the AMD PAC are available on the U.S. Federal Election Commission website.
+
+Additional information on AMD Public Policy Engagement and U.S.
+
+Our global operations span the world in more than 35 locations, including R D facilities, data centers and international sales offices.
+
+Our Locations AMD is incorporated in the United States and is a publicly listed company traded on the NASDAQ Global Select Market.
+
+Our headquarters is located in Santa Clara, California, and we have significant operations in Austin, Texas Shanghai, China Markham, Ontario, Canada and Bangalore and Hyderabad, India.
+
+We also have a number of regional sales offices located in commercial centers near customers, principally in the United States, Europe, Asia and Latin America.
+
+Our Value Chain Supply Chain Responsibility, Why It Matters and Our Approach There were no significant changes to our organization or supply chain in 2021.
+
+AMD estimates that up to 15 percent of employees are covered by national or industry collective bargaining agreements in 2021.
+
+Any figures in italics in the Data Tables are restated from the previous year and are footnoted where necessary.
+
+There were no significant changes from previous reporting periods in our material ESG issues.
+
+Performance data and other relevant information is updated annually.
+
+This report has been prepared in accordance with the GRI Standards: Core option.
+
+Our GRI Standards Index has been prepared in accordance with GRI Disclosure 102 55.
+
+We received external limited level assurance for 2021 data relating to our scope 1 and 2 greenhouse gas (GHG) emissions and related performance to goal, as well as scope 3 GHG emissions for business air travel.
+
+This information is included in our ESG Data Tables, Environmental Performance Indicators.
+
+Bureau Veritas’s full statement, including a summary of the work they performed, is available here.
+
+AMD’s Internal Audit Department performs comprehensive risk analyses (including corruption) of all AMD sites departments.
+
+Worldwide Standards of Business Conduct, pages 19 21 AMD is unaware of any such incidents during 2021 related to corruption.
+
+There were no legal actions for anti competitive behaviors, antitrust or monopoly practices brought against the company in 2021.
+
+We focus on continuously strengthening the protection of our company’s technology infrastructure, intellectual property and other critical information assets against cyber threats.
+
+To safeguard product integrity, AMD has established an extensive set of controls to help ensure parts are securely manufactured, assembled, tested, uniquely tracked, marked, stored and transported from manufacture to authorized distribution.
+
+At AMD, we believe the UN Sustainable Development Goals (SDGs) serve as a useful framework for tackling the world’s toughest challenges.
+
+Our company and the technology sector as a whole have a critical role to play in enabling the future that the SDGs aspire to create.
+
+While not specifically designed around them, our priority areas and initiatives help to advance many of the SDGs.
+
+AMD is pleased to be a member of the UN Global Compact to advance its Ten Principles and to contribute in creating a just, resilient and sustainable world.
+
+The Sustainability Accounting Standards Board (SASB) has developed voluntary industry specific disclosure standards to enable businesses globally to identify, manage and communicate financially material sustainability information to their investors.
+
+These Standards identify the subset of environmental, social and governance (ESG) issues most relevant to financial performance across various industries.
+
+We have outlined below how our existing disclosures as of December 31, 2021, align with the recommended metrics for the SASB Technology and Communications Sector: Semiconductor Standard.
+
+The Financial Stability Board created the Task Force on Climate related Financial Disclosures (TCFD) to improve and increase reporting of climate related financial information.
+
+TCFD’s disclosure recommendations are structured around four thematic areas that represent core elements of how organizations operate: governance, strategy, risk management, and metrics and targets.
+
+These thematic areas are intended to interlink and inform each other.
+
+We have outlined below how our existing disclosures as of December 31, 2021, align with the recommended TCFD metrics.

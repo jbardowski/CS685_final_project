@@ -1,0 +1,113 @@
+Bank o f America is committed to collecting, using and sharing personal information responsibly.
+
+Refer to www.bankofamerica.com privacy for information on how we process personal information and choices customers have to control the use and sharing of their personal information.
+
+Greenhouse Gas (GHG) emissions: For all relevant greenhouse gases (e.g.
+
+Estimate and report material upstream and downstream (GHG Protocol Scope 3) emissions where appropriate.
+
+TCFD implementation: Fully implement the recommendations of the Task Force on Climate related Financial Disclosures (TCFD).
+
+If necessary, disclose a timeline of at most three years for full implementation.
+
+Disclose whether you have set, or have committed to set GHG emissions targets that are in line with the goals of the Paris Agreement to limit global warming to well below 2 C above pre industrial levels and pursue e orts to limit warming to 1.5 C and to achieve net zero emissions before 2050.
+
+Paris aligned GHG emissions targets: De ne and report progress against time bound science based GHG emissions targets that are in line with the goals of the Paris Agreement to limit global warming to well below 2 C above pre industrial levels and pursue e orts to limit warming to 1.5 C. This should include de ning a date before 2050 by which you will achieve net zero greenhouse gas emissions and interim reduction targets based on the methodologies provided by the Science Based Targets initiative if applicable.
+
+Bank of America’s 2021 greenhouse gas emissions (tCO2e) are set forth below.
+
+Since 2010, we have reduced location based emissions 60% globally.
+
+For more information, refer to our ESG Performance Data Summary (2021) available at www.bankofamerica.com ESGData2021.
+
+Scope 1 Direct: 57,076 Location based Scope 2 Indirect: 601,906 Market Based Scope 2 Indirect: 13,886 Total net Scope 1 and Market Based Scope 2: 0 Scope 3 Purchased Goods and Services: 1,436,100 Scope 3 Capital Goods: 46,183 Scope 3 Fuel and Energy Related Activities: 141,748 Scope 3 Upstream Transportation and Distribution: 124,780 Scope 3 Waste (Traditional Disposal): 11,757 Scope 3 Business Travel: 18,822 Scope 3 Net Business Travel: 18,822 Scope 3 Employee Commuting: 144,625 Scope 3 Downstream Transportation and Distribution: 1,000,000 Scope 3 Use of Sold Products: 3,000 Scope 3 End of Life Treatment of Sold Products: 9,000.
+
+In 2022, Bank of America released its second Task Force on Climate related Financial Disclosures (TCFD) Report which included nanced emissions baseline data for three sectors.
+
+More information is available at www.bankofamerica.com TCFD and www.bankofamerica.com NetZero.
+
+Building on our history of climate leadership, we are working towards 2030 targets for our operations and supply chain.
+
+Our Net Zero before 2050 goal includes operations, supply chain and nancing activities (i.e., Scope 1, Scope 2 and material Scope 3).
+
+As a next step in our path to achieve Net Zero, we published our Approach to Zero strategy in 2022, outlining our 2030 science aligned targets for reducing emissions associated with nancing activities for three key sectors: Auto Manufacturing, Energy and Power Generation.
+
+These targets were set using the International Energy Agency’s Net Zero 2050 1.5 aligned scenario.
+
+We published our baseline (2019) and latest available (2020) emissions for these three portfolios in our 2022 TCFD report.
+
+For more information, refer to www.bankofamerica.com NetZero, our Task Force on Climate Related Financial Disclosures Report (www.
+
+Impact of Greenhouse gas emissions: Report wherever material along the value chain (GHG protocol scopes 1,2 3), the valued societal impact of greenhouse gas emissions.
+
+Disclose the estimate of the social societal cost of carbon used and the source or basis for this estimate.
+
+The societal impact of Bank of America’s Scope 1, Scope 2 (location based), and Scope 3 (Categories 1 7, 9, 11 12) emissions in 2021 was estimated to be 183 million.
+
+This gure was calculated using the EPA’s 2020 social cost of carbon of 51 metric ton CO2 (3% discount rate, reported in 2020 USD).
+
+Water consumption and withdrawal in water stressed areas: Report for operations where material, mega litres of water withdrawn, mega litres of water consumed and the percentage of each in regions with high or extremely high baseline water stress according to WRI Aqueduct water risk atlas tool.
+
+Estimate and report the same information for the full value chain (upstream and downstream) where appropriate.
+
+In 2021, Bank of America withdrew 6,325 and consumed 1,492 megaliters of water across our global operations.
+
+Withdrawals include all of the water we use per year, including some reclaimed water.
+
+We consider our irrigation water use as our water consumption.
+
+Land use and ecological sensitivity: Report the number and area (in hectares) of sites owned, leased or managed in or adjacent to protected areas and or key biodiversity areas (KBA).
+
+In 2021, Bank of America had 10 active U.S. sites that intersected with areas protected for biodiversity.
+
+The area of these buildings is approximately 7,120 square meters.
+
+U.S. sites make up over 90% of Bank of America’s real estate footprint.
+
+Sites were overlaid on the U.S. Geological Survey’s Protected Areas Database to understand intersection with protected areas.
+
+Air pollution: Report wherever material along the value chain: Nitrogen oxides (NOx), sulphur oxides (SOx), particulate matter and other signi cant air emissions.
+
+Wherever possible, estimate the proportion of speci ed emissions that occur in or adjacent to urban densely populated areas.
+
+Bank of America’s 2021 air pollution emissions (metric tons) are set forth below.
+
+These air pollution emissions are from all of our sites globally and are not speci c to urban densely populated areas.
+
+For more information, refer to our ESG Performance Data Summary (2021) available at www.bankofamerica.com ESGData2021.
+
+Impact of air pollution: Report wherever material along the value chain, the valued impact of air pollution, including nitrogen oxides (NOx), sulfur oxides (SOx), particulate matter and other signi cant air emissions.
+
+Description of how climate change and other environmental risks are incorporated into mortgage origination and underwriting.
+
+SOx: 1 NOx: 19 Carbon Monoxide (CO): 27 Volatile Organic Compound (VOC): 2 Particulate Matter (PM): 3.
+
+The valued impact of Bank of America’s air pollution (SOx, NOx, CO, VOCs, and PM) in 2021 was estimated to be 134,000.
+
+This gure was calculated using the social cost factors of each pollutant as reported in the World Resources Institute’s Transport Emissions Social Cost Assessment Tool v1.0.
+
+These social cost factors are weighted averages based on a research process that merges the ndings of independent academic studies to calculate an overall or absolute e ect.
+
+As of December 31, 2022, the Corporation had 40,399 loans with a book value of 11.8 billion in 100 year ood zones according to the Federal Emergency Management Agency (FEMA) de nition.
+
+The Corporation currently does not have a process in place to estimate future losses speci c to natural catastrophes.
+
+We have monitored natural disasters in the last few years and given our robust insurance requirements, client selection process and portfolio asset quality (borrower’s equity), we have experienced no material losses.
+
+We understand this may change based on severity and location of future events.
+
+Refer to the Climate Risk Management subsection on page 128 of the 2022 Financial Review for additional information.
+
+See our Task Force on Climate related Financial Disclosures (www.bankofamerica.com TCFD) report for details on scenario analysis and stress testing.
+
+Recognizing that certain sectors are more sensitive to climate related and environmental risks, we undertake enhanced due diligence to analyze lending activities in these sectors to evaluate the associated credit risks.
+
+Evaluation of environmental matters may include land and water use impacts, a remediation reclamation track record (if applicable), climate risk reporting, community and stakeholder engagement and overall transparency.
+
+For acute physical risk, which are event driven extreme weather events such as cyclones, hurricanes, or oods, the Corporation follows Federal ood insurance regulations and the industry’s mortgage hazard insurance (including re wind coverage) during underwriting.
+
+Flood insurance requirements are based on ood zones determined by FEMA.
+
+Insurance coverage amounts require replacement value of property with policy parameters following industry standards for minimum maximum.
+
+Water that is reclaimed from a variety of sources then treated and reused for beneficial purposes such as irrigation and groundwater reclamation.
