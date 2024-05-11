@@ -22,14 +22,14 @@ LINE_COUNT_WEIGHT = 0.7
 GENERIC = 0.3
 SPECIFIC = 0.6
 VAGUE = 0.3
-SPECIFICITY_WEIGHT = 0.3
+SPECIFICITY_WEIGHT = 0.1
 
 CATEGORY_WEIGHT = 0.3
 
 SCOPE_3_WEIGHT = 1.1
-RAW_SCOPE_3 = 0.8
+RAW_SCOPE_3 = 1
 
-SAT_WEIGHT = 15
+SAT_WEIGHT = 1
 
 if __name__ == "__main__":
     FILENAME = 'report_prediction.csv'
@@ -42,7 +42,7 @@ if __name__ == "__main__":
                                   "saturation": [0]*file_count}, 
                                  index=[k for k in df['file'].unique()])
     print(score_map.head())
-    label_map = {"vague": VAGUE, "generic": GENERIC, "specific": SPECIFIC}
+    label_map = {"ambiguous": VAGUE, "generic": GENERIC, "specific": SPECIFIC}
     for fn in df['file'].unique():
         fn_df = df.loc[df['file'] == fn]
         total_scope3 = fn_df.loc[fn_df['predicted_scope3'] == "yes"].size
