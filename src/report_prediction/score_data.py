@@ -22,7 +22,7 @@ LINE_COUNT_WEIGHT = 0.7
 GENERIC = 0.3
 SPECIFIC = 0.6
 VAGUE = 0.3
-SPECIFICITY_WEIGHT = 0.1
+SPECIFICITY_WEIGHT = 0.3
 
 CATEGORY_WEIGHT = 0.3
 
@@ -72,7 +72,7 @@ if __name__ == "__main__":
             saturation = (total_specific_scope3 / total_scope3)    
         
         score_map["saturation"][fn] = saturation
-        # score_map["score"][fn] += saturation * SAT_WEIGHT
+        score_map["score"][fn] *= saturation * SAT_WEIGHT
         
     # normailze data:
     a, b = 0, 100
