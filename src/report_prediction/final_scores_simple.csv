@@ -1,0 +1,94 @@
+index,norm_score
+HSBC,100.0
+Amazon,94.971
+Linde,92.52
+Microsoft,92.4
+Apple,86.836
+Philip Morris,84.817
+Applied Materials,75.534
+General Electric,75.495
+Costco,67.883
+TotalEnergies,65.55
+Abbott Laboratories,63.878
+Pfizer,63.301
+BHP,62.909
+Florida Power Light,62.682
+Thermo Fisher Scientific,61.746
+Intel,60.441
+AB InBev,57.485
+Nvidia,55.247
+Unilever,49.469
+Taiwan Semiconductor,49.122
+Qualcomm,48.57
+IBM,48.241
+Caterpillar,45.888
+Merck,45.481
+Mastercard,43.509
+Google,42.712
+Netflix,42.154
+Cisco,42.049
+Eaton Vance,41.99
+GBT Travel Services,41.387
+Advanced Micro Devices,38.861
+Burger King,38.655
+Shell,37.469
+Home Depot,37.344
+Texas Instruments,37.2
+Broadcom,36.36
+T-Mobile,36.314
+Alibaba,33.769
+Morgan Stanley,32.801
+Verizon,30.763
+Raytheon,28.65
+ConocoPhillips,28.002
+Johnson & Johnson,27.476
+Stryker,26.598
+UnitedHealth Group,26.444
+ServiceNow,26.23
+ASML,25.332
+Novartis,24.285
+Citi,23.869
+AstraZeneca,22.772
+Intuitive,21.282
+HDFC Bank,20.679
+JPMorgan Chase,18.661
+Lowes,17.867
+Honeywell,17.175
+Visa,15.639
+Coca-Cola,14.869
+AT&T,14.593
+Chevron,14.563
+Walmart,14.476
+Abbvie,14.41
+Walt Disney,14.325
+Toyota,14.061
+Lam Research,13.399
+Danaher,13.142
+McDonalds,13.02
+Berkshire Hills Bancorp,12.128
+Blackstone,11.532
+Comcast,10.976
+Amgen,9.893
+Goldman Sachs,9.577
+Accenture,8.694
+Micron,8.508
+Oracle,8.253
+S&P Global,8.226
+Royal Bank of Canada,6.161
+Union Pacific,5.618
+Bank of America,5.262
+Novo Nordisk,5.053
+Procter & Gamble,4.939
+Intuit,3.372
+SAP,2.91
+Pepsi,2.4
+BlackRock,2.128
+Schwab,1.057
+Salesforce,0.215
+United Parcel Service,0.058
+Tesla,0.023
+Wells Fargo,0.0
+Exxon Mobil,0.0
+Progressive,0.0
+Adobe,0.0
+Mitsubishi,0.0

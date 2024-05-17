@@ -59,7 +59,7 @@ def pdftext2sents(lines, parse_overflow=False, debug=False):
     print("Raw Line Count: ", len(lines))
     for i, l in enumerate(lines):            
         if l == "\n":
-            if i+1 < len(lines) and lines[i+1][0].islower():
+            if i+1 < len(lines) and ("." not in lines[i+1].strip()):
                 continue
             if add_period: 
                 buffer += "." if buffer[-1] != "." else ""
@@ -68,12 +68,12 @@ def pdftext2sents(lines, parse_overflow=False, debug=False):
             # res = re.search("(?<=[^A-Z].[.?]) +(?=[A-Z])", buffer)
             # if debug: print("raw", buffer, res)
             # if res:
+            #
             sents = tokenizer.tokenize(buffer)
+            if "Speaker series" in buffer:
+                print(buffer, sents)
             for s in sents:
                 s = s.strip()
-                if len(s) < 50: 
-                    buffer_overflow += " " + s
-                    continue
                 if s[0].isalpha() and s[0].isupper() and s[-1] == ".":
                     final_data.append(s)
                 else: buffer_overflow += " " + s
