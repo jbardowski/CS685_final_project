@@ -1,1 +1,8 @@
-PyPDF2
+nltk
+pdfminer.six
+matplotlib
+seaborn
+pandas
+together
+torch
+"unsloth[colab] @ git+https://github.com/unslothai/unsloth.git"
