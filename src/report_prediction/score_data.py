@@ -32,7 +32,7 @@ RAW_SCOPE_3 = 1
 SAT_WEIGHT = 1
 
 if __name__ == "__main__":
-    FILENAME = 'report_prediction.csv'
+    FILENAME = 'report_predictions.csv'
     df = pandas.read_csv(FILENAME)
     
     file_count = df['file'].unique().size
@@ -78,9 +78,19 @@ if __name__ == "__main__":
     a, b = 0, 100
     x, y = score_map.score.min(), score_map.score.max()
     score_map['norm_score'] = (score_map.score - x) / (y - x) * (b - a) + a
-    print(score_map.head())
+    # print(score_map.head())
     score_map.sort_values(by="norm_score", inplace=True)
     score_map.to_csv("final_scores.csv")
+    
+    
+    score_map = score_map.reset_index()
+    # print(score_map.head())
+    chart = score_map[["index", "norm_score"]]
+    chart = chart.round(3)
+    fn2N = pandas.read_csv("fname_map.csv").set_index("fname").to_dict('dict')["Company name"]
+    chart["index"] = chart["index"].map(fn2N)
+    chart.sort_values(by="norm_score", inplace=True, ascending=False)
+    chart.to_csv("final_scores_simple.csv", index=False)
         
     
     
