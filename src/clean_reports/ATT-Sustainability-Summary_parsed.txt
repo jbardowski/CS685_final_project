@@ -1,0 +1,733 @@
+This report reflects the global operations of AT T, Inc., and relates to the financial year ending December 31, 2022, except where otherwise noted.
+
+Inclusion of information in this report should not be construed as a characterization of the financial materiality or impact of that information.
+
+Please see our corporate Annual Report or Form 10 K for the year ended December 31, 2022 and other publicly filed documents available at investors.att.com.
+
+ESG Issue Briefs TCFD Report CDP Climate Change Disclosure Political Engagement Report Transparency Report 2023 Proxy Statement.
+
+Every year, the internet continues to improve how we live, work and communicate.
+
+Fast and reliable connectivity provides extraordinary access to real time information and better opportunities for education, healthcare, employment and commerce.
+
+At AT T, we take pride in the role we play to connect people to greater possibility.
+
+From helping NASA call a man on the moon in 1969 to our work today helping bridge the digital divide, what we do matters.
+
+This report details how we continue to address our most important environmental, social and governance issues for the long term success of our business and better futures for all of us.
+
+Employees are dedicated to our mission to help close the digital divide.
+
+At AT T Connected Learning Centers across the country, we’re helping underserved students and parents access the internet and get the most out of free AT T resources focused on digital learning, literacy, online safety and career readiness.
+
+It’s all part of the 3 year, 2 billion commitment we made in 2021 to provide greater access to affordable high speed internet and help people use it in a safe and positive way.
+
+Guided by our science based target, we’re taking action to address climate change in ways relevant to our business, and to prepare for its impacts on our operations, customers and communities.
+
+We’ve set meaningful goals by year end 2035, including to be carbon neutral across our global operations and to save our business customers a gigaton of greenhouse gas emissions through AT T connectivity solutions.
+
+We’re also using cutting edge climate projections to build a more climate resilient network, and we’re sharing that data publicly to help communities better prepare for extreme weather events.
+
+We remain committed to building a big tent that fosters a diverse, equitable and inclusive environment for our workforce.
+
+Our Employee Groups are at the forefront of this effort.
+
+We continue to integrate DE I considerations into hiring, engagement and training activities, and I’m proud our efforts have earned AT T recognition as one of the best workplaces for diversity.
+
+We’ve come a long way, but we know there’s more to do.
+
+Our commitment to stewardship ensures we are here for our employees, customers and communities as we continue to deliver on our purpose to connect people to greater possibility.
+
+I invite you to read on and learn more about how our work is creating long term value across our operations and how we’re making a difference in the lives of others and the environment around us.
+
+Our Company purpose is to connect people to greater possibility, and that focus on a better tomorrow is why the sustainability of our company, our communities and our world are so important.
+
+We’re taking bold action to help bridge the digital divide, and we’re innovating with connectivity solutions to address some of society’s greatest challenges such as climate change.
+
+We’re also creating long term value by reducing our environmental footprint, enhancing workforce diversity, and integrating ESG considerations into corporate risk management.
+
+Our commitment starts at the top, with oversight from the AT T Board of Directors and guidance from the Governance and Policy Committee, Audit Committee, and Human Resources Committee.
+
+Our Chief Sustainability Officer leads our CSR Governance Council, comprising more than a dozen officers responsible for business operations aligned to our most important ESG focus areas.
+
+We also convene 5 core issue committees to implement or enhance ESG programs and policies.
+
+Financial Resources and the strength of our balance sheet.
+
+Shareholders Customers We're helping more people connect to greater possibility by investing in network reach, quality and reliability.
+
+We're providing communities with the resources and support needed to bridge the digital divide and enhance their resilience.
+
+Employees We empower our people to deliver on our corporate purpose and advance their careers, while fostering a diverse, equitable and inclusive workforce.
+
+Environment We're reducing our environmental impact and innovating to help customers achieve their environmental goals.
+
+Network The physical infrastructure that supports our world leading communications network.
+
+Brand and Intellectual Capital Our brand, our reputation and our capacity for innovation.
+
+Employees Our 163K employees, located across 7 50 states and more than 55 countries.
+
+Customers Communities Our millions of customers and the local communities where we live and work.
+
+Suppliers Our network of suppliers across the globe.
+
+Environment The energy, water and other natural resources that we use to support our operations.
+
+We partner with responsible suppliers who enhance the resilience of our business and advance industry practice.
+
+Key inputs The resources that we rely upon to create value.
+
+What we do We create connection by bringing the bene ts of high quality connectivity and digital access.
+
+ESG approach We integrate ESG issues into our operations and use our platform to drive positive impact.
+
+Outcomes The stakeholder value that we create through delivering on our purpose.
+
+By 2025, we estimate that broadband and wireless users will consume at least five times more data than they did in 2021.
+
+Through investment in innovation, we’re sharpening our customer focus and transforming our operations to provide connectivity in ways that benefit both shareholders and society at large.
+
+Our solid financial performance in 2022 reflected our renewed focus on being the best connectivity provider through 5G and fiber.
+
+The divestiture of WarnerMedia in April 2022 created a more streamlined AT T and helped enable us to invest at record levels to bring the benefits of our 5G and fiber technologies to even more people (page 7).
+
+Our network investment supports increasing customer demand for reliable, high quality connectivity solutions.
+
+In 2022, we realized a 7.7% increase in mobility subscribers, 3.5% increase in postpaid phone subscribers from the previous year, and 15.6 million mobility net subscriber additions.
+
+We had 1.2 million net additions of AT T Fiber broadband connections, an increase of 17.5% in 2022.
+
+From July 2020 through the end of 2022, we’ve demonstrated sustainable momentum, with 7.5 million postpaid phone net customer additions and 2.9 million AT T Fiber net adds.
+
+This momentum, combined with continued demand for high quality connectivity services, gives us confidence in our trajectory to deliver profitable and durable growth in 2023 and beyond.
+
+Our world is being transformed by the widespread and growing availability of 5G and fiber.
+
+And AT T is leading the charge with our ongoing investments in these technologies across our network.
+
+Fiber network connections support more bandwidth and faster uploads than standard cable in addition to 99.5% proven reliability.
+
+We remain committed to our target of passing more than 30 million fiber locations including 5 million business locations by the end of 2025, having achieved the milestone of passing approximately 24 million fiber locations (including 4 million business locations) at the end of 2022.
+
+Our expanding fiber footprint also helps more people enjoy 5G, as fiber provides critical bandwidth connecting our cell towers back to the internet.
+
+We’ve enhanced 5G reliability and launched our mid band 5G spectrum.
+
+At the end of 2022, our 5G network covered more than 285 million people.
+
+People across the country rely on our fast and secure 5G network, which is critical to our efforts to help close the digital divide (page 10), reimagine healthcare and tackle supply chain challenges.
+
+AT T 5G also supports FirstNet America’s public safety network providing first responders with the critical connectivity they need to save lives (see page 14).
+
+We provide customers with the connectivity they need via a network built for speed, security, reliability and overall performance.
+
+Reliable 5G that covered more than 285 million people in nearly 24,000 cities and towns.
+
+Fiber passed at approximately than 24 million locations across more than 100 U.S. metro areas.
+
+Because network connectivity is central to our lives, we are collecting and analyzing data on our network 24 7 to ensure it’s working correctly, to improve its performance and to deliver the best customer experience.
+
+For example, in the lead up to Hurricane Ian, AT T was able to position disaster response equipment and personnel in strategic areas to respond faster when the storm made landfall (see page 14 for more on our response to Hurricane Ian).
+
+We’ve developed a comprehensive network resilience program to maximize service continuity in the face of extreme weather and other disruptions.
+
+The AT T Weather Operations Center helps us stay prepared by proactively monitoring potential nature related threats to our network, employees and communities.
+
+Our Network Disaster Recovery program helps rapidly restore communications to affected areas.
+
+We have invested more than 650 million in the program, and our employees have dedicated 160,000 working hours to recovery exercises that test the preparedness of our equipment and capabilities.
+
+AT T was awarded most reliable 5G network according to Global Wireless Solutions OneScore for the 2nd year in a row.
+
+Our approach to climate risk recognizes that we must not only transition to a low carbon economy (page 24), but importantly, address the physical impacts of climate change.
+
+Building climate resilience means understanding the threats we face from climate change and taking steps to prepare our infrastructure to withstand more frequent extreme weather.
+
+Fortifying our network helps ensure continuity for the millions of people who depend on our connectivity services every day.
+
+In collaboration with the U.S. Department of Energy’s Argonne National Laboratory (Argonne), we developed AT T’s Climate Change Analysis Tool (CCAT), which helps visualize wind, drought, wildfire and flooding at the neighborhood level up to 30 years in the future.
+
+With CCAT, we can take climate change into account as we plan for network buildouts, maintenance and disaster preparedness.
+
+We also collaborated with Argonne and the Federal Emergency Management Authority to share our climate expertise more widely through the launch of ClimRR, a climate risk and resilience portal that offers CCAT data for community preparedness initiatives across the U.S. (page 15).
+
+In 2022, we continued to enhance our climate risk management by engaging an external vendor to conduct a scenario analysis, building on our existing climate impact assessment work.
+
+Relevant insights will be incorporated into AT T sustainability governance, risk management, and financial and strategic planning processes.
+
+Climate Change Greenhouse Gas Emissions Issue Brief.
+
+Everyone deserves a safe, secure online experience, and AT T is committed to protecting the privacy and security of all our customers.
+
+Our products and services are designed with privacy in mind, and we give customers controls over how their information is shared.
+
+We also invest in customer solutions and trainings to help customers protect themselves from fraud.
+
+A safe customer experience depends on a secure network.
+
+Our experts are always looking for emerging challenges, and we regularly evaluate and deploy new tools and systems that deliver highly effective safeguards against attempted cyberattacks.
+
+We use strong safeguards to keep your data confidential and secure.
+
+The internet is increasingly vital to our everyday lives, whether it be learning in and outside the classroom, accessing healthcare, finding jobs, or socializing and staying close to family.
+
+But many people can’t reliably access the internet, as millions of Americans still don't have broadband internet access at home.
+
+Others also miss out because they don’t have the skills necessary to take full advantage of its potential.
+
+Through our ongoing investment to help close this digital divide, we’re helping more people get online and connected to greater possibilities.
+
+We’ve committed 2 billion to helping close the digital divide by focusing not only on access to affordable high speed internet, but also the skills and community resources that encourage safe and successful adoption.
+
+We’re keeping customers and communities connected through investing in our network (page 7) and working with state and local officials to extend our broadband networks.
+
+We’re also providing access to AT T Fiber, Wi Fi, and computers at AT T Connected Learning Centers in underserved neighborhoods (page 11).
+
+AT T is participating in the FCC’s Affordable Connectivity Program (ACP)12 to help make wired and wireless services more affordable for millions of American households.
+
+By combining the federal ACP benefit with one of the Access from AT T plans, eligible households can take advantage of free high speed internet.
+
+Having a broadband connection and digital resources isn’t enough.
+
+The AT T Connected Learning initiative equips people and communities with digital literacy skills so they can thrive online (page 13).
+
+It also helps communities understand and appreciate the value of their connectivity.
+
+Nearly 1 in 4 rural Americans say that broadband internet access is a major problem in their communities.11 Throughout 2022, AT T continued to partner with state and local authorities in smaller towns and cities to address this issue.
+
+These efforts contribute to our target to pass more than 30 million fiber locations, including business locations, in the United States by the end of 2025.
+
+We began work on a 24 million collaboration between AT T and the city of Amarillo, Texas to bring reliable, high speed internet to more than 22,000 residential and business locations in the city.
+
+One of the areas that will benefit directly is East Amarillo’s Barrio neighborhood, which has been the focus of a revitalization plan since 2018.
+
+In Kentucky, Oldham County selected AT T to build a state of the art fiber network that will connect every home and small business in the county.
+
+In neighboring Indiana, we’ve been working with the City of Martinsville, the City of Boonville and Vanderburgh County on fiber projects that will bring the benefits of broadband to their communities.
+
+All these investments help narrow the digital divide so all Americans have the opportunity to connect to a better future.
+
+Established in 2016, Access from AT T makes low cost internet service available for qualifying low income households.
+
+In 2022, we expanded the program’s eligibility to all households that qualify for ACP and apply the federal benefit to AT T internet service.
+
+We also updated the program to include speeds up to 100 Mbps where available.
+
+We work with grassroots organizations to ensure low income people and families are aware and can take advantage of the offer.
+
+Through AT T Connected Learning(SM), we’re investing in technology, digital literacy and digital learning solutions to help connect today’s learners with success.
+
+We’re guided by our target to reach 1 million people in need with digital resources by year end 2025, and had reached more than 290,000 by the end of 2022.
+
+We’ve established AT T Connected Learning Centers in underserved neighborhoods across the country, working with local community organizations to provide students and families free access to high speed fiber internet, Wi Fi and Dell computing devices.
+
+AT T employees also serve as tutors and mentors at these centers through our AT T Believes(SM) volunteerism initiative (page 21).
+
+We reached our target to open at least 20 AT T Connected Learning Centers by 2023 and have increased our ambition to establish more than 50 centers by the end of 2024.
+
+We’re also providing technology and equipment directly to low income learners who need it most.
+
+We partnered with nonprofit device refurbishers such as Digitunity, Compudopt and Human I T to get more than 40,000 computers into the hands of students and families nationwide.
+
+There are a lot of people like me, who are struggling, and the AT T Connected Learning Center at Esperanza brings us hope.
+
+Ivy Fontanez, Esperanza client Read more about Ivy’s experience at Esperanza.
+
+Cleveland resident Ivy Fontanez came to the AT T Connected Learning Center at Esperanza after her kids left home and she had no idea what to do next.
+
+The Esperanza center offered her free access to high speed broadband, Wi Fi and computers, as well as educational and mentoring resources.
+
+Despite thinking it was too late at age 42 to learn digital skills, Ivy got online at Esperanza and has started taking college classes.
+
+On the other side of Cleveland, the AT T Connected Learning Center within the Ashbury Senior Computer Community Center hosted a block party in 2022 that brought together more than a hundred neighbors.
+
+At the event, attendees learned about how they can access low cost internet through Access from AT T and many parents with school age children took home refurbished laptops.
+
+Our 2 Cleveland AT T Connected Learning Centers and the growing number of others across the country demonstrate one way AT T is committing to closing the digital divide, from school kids to retirees and everyone in between.
+
+Even with access to affordable internet, many lack the skills, tools and resources to navigate the web safely and effectively.
+
+Through AT T Connected Learning, we provide free digital literacy and learning resources for parents, caregivers and families.
+
+In 2022, we made hundreds of educational videos, lessons and learning activities available to students through The Achievery, a free and safe online distance learning platform offering educational content and lesson plans aligned with academic standards.
+
+We also collaborated with organizations including All4Ed, National After School Association, Connected Nation, Digitunity and others to help bring The Achievery to students in and out of school.
+
+In 2022, more than 78,000 students participated in learning with The Achievery.
+
+Our impact is amplified when we equip community members with the tools and expertise necessary to act as digital navigators facilitators that help others in their community develop digital skills necessary to leverage their internet access.
+
+In 2022, we invested 2.5 million to launch our digital navigator program and community based IT helpdesk that will provide training to community members in navigator roles.
+
+Deploying digital navigators within local communities has been proven to drive adoption across underrepresented communities because residents feel more comfortable and safer receiving help through local organizations.
+
+Through our collaboration with the Public Library Association (PLA), we worked to bring bilingual, in person digital literacy workshops to 160 libraries in 2022.
+
+To help us gauge the effectiveness of our workshops, we collaborated with the PLA to survey participants about their experience.
+
+As indicated by the results below, the vast majority felt more confident and knowledgeable about digital resources as a result of their participation in a library workshop and intend to apply what they’ve learned.
+
+When disaster and tragedy strike, it’s crucial that people are able to connect with loved ones and access what they need to get back on their feet.
+
+Recognizing the important role we play as a connectivity provider, we’ve set a target to help 1 million people prepare for and recover from the impacts of disasters by year end 2030.
+
+This commitment focuses on essential support for communities and public safety through strategic partnerships beyond our normal emergency response and network disaster recovery operations.
+
+For example, we have partnered with Information Technology Disaster Resource Center, a volunteer organization that provides connectivity and charging solutions to support survivors in times of crisis.
+
+Since establishing the target in 2021, we have helped more than 500,000 individuals prepare for and recover from natural disasters.
+
+When first responders get the call, a reliable network is essential to coordinate their response.
+
+To address this critical need, the First Responder Network Authority (FirstNet Authority) partnered with AT T to deliver FirstNet, Built with AT T the only network built specifically for America’s first responders and extended public safety community.
+
+FirstNet stands above commercial offerings by providing first responders with truly dedicated coverage and capacity when they need it, unique benefits like always on priority and preemption and innovative mission ready solutions.
+
+Throughout 2022, FirstNet played an important role in supporting community safety, including during and after the Colorado and Yosemite fires, flooding in Kentucky, and Hurricane Ian.
+
+Recognizing that disasters have contributed to a mental health crisis among our nation’s first responder community, we established the FirstNet Health Wellness Coalition to coordinate holistic health and wellness support.
+
+Through the Coalition, we provided health and wellness training to nearly 12,000 first responders.
+
+Hurricane Ian struck Florida in September 2022, bringing record flooding and significant devastation to Gulf Coast communities.
+
+Prior to landfall, the AT T Weather Operations Center (page 7) tracked Ian’s approach to help us set up resources in strategic locations to expedite our response.
+
+As the storm passed, the FirstNet Response Operations Group at AT T responded to more than 110 public safety requests with first responders and deployed more than 85 full scale communications solutions to support response efforts.
+
+In the aftermath, we opened our networks so people from all carriers could connect with loved ones even if their carriers’ services were not available because of the storm.
+
+To ease financial pressures as communities recovered and rebuilt, we waived various service charges and fees for affected residents and businesses.
+
+AT T and the AT T Foundation provided further support by donating 400,000 to local organizations for recovery efforts (page 22).
+
+Our resilience is interconnected with that of our communities that's why we're helping others prepare for the impact of severe weather in the years to come.
+
+As these events become more frequent and intense, community leaders need to understand how they can better protect critical infrastructure and vulnerable populations.
+
+We’re helping communities enhance their resilience through the launch of a climate data platform called the Climate Risk and Resilience Portal (ClimRR) developed in partnership with the Federal Emergency Management Agency and Argonne National Labs.
+
+ClimRR gives local and state leaders free access to localized climate data about potential future climate related risks and how their community could be affected.
+
+Similar to how AT T uses climate data to inform its own investment decisions (page 8), ClimRR can inform where and how communities can make their own infrastructure more resilient.
+
+It can also support community preparation initiatives through an enhanced understanding of how climate hazards may evolve into the future.
+
+Climate Change Greenhouse Gas Emissions Issue Brief.
+
+Across all 50 U.S. states and in more than 55 countries, AT T employees deliver technology and telecommunications services to millions of consumers and businesses every day.
+
+We strive to be an employer of choice and invest in our people through well paying jobs, competitive benefits and skills development programs that open advancement opportunities.
+
+We aim to ensure a workforce that is representative of the communities where we live and work.
+
+Our approach seeks to establish diversity at all levels and instill a sense of belonging across our entire workforce.
+
+Engaged employees are essential to bringing our company’s purpose to life.
+
+We are committed to helping employees to feel connected to and fulfilled by their work.
+
+The annual AT T Employee Survey is a key input to our employee listening program.
+
+Through this survey, we obtain feedback on employee sentiment and gain actionable insights on how to enhance the employee experience at AT T.
+
+The 2022 AT T Employee Survey recorded a strong employee engagement score of 82%.13 The feedback behind this score demonstrates that employees are proud to be associated with AT T and feel a sense of personal accomplishment from their work, among other factors.
+
+Engagement scores and other AT T Employee Survey results are shared throughout the organization, and leaders take responsibility for targeted initiatives based on feedback from their teams.
+
+For example, as part of our ongoing cultural transformation initiative, we’ve been amplifying our most effective corporate behaviors and empowering employees to simplify or discontinue business practices that no longer aid in the success of our company.
+
+Employees who participate in community engagement programs are significantly more likely to stay with the business, recommend AT T as a place to work, and generally feel better about working for the company.
+
+Recognizing the importance of connecting our people to our social and environmental efforts, we’re working to increase employee awareness of our commitments to address the digital divide and climate change.
+
+AT T employees are volunteering to bridge the digital divide in their local communities (page 21), stepping up as Environmental Champions (page 22), and innovating to help our business customers reduce their emissions (page 26).
+
+By building a diverse, equitable and inclusive workforce, we help strengthen and empower the many communities in which we live, work and play.
+
+Our approach to DE I puts our employees and their experiences at the heart of our inclusive culture, valuing and celebrating the diversity of their backgrounds, perspectives and abilities.
+
+We prioritize recruiting and hiring talented people who reflect the world in which we live, with heightened focus on growing our senior leadership pipeline of diverse talent.
+
+We also continue to focus on ensuring diversity in promotions and professional development (see page 20 for more on how we integrate DE I into our training efforts).
+
+Employee Group members are our organization’s cultural lifeblood and at the forefront of our efforts to advance DE I.
+
+In 2022, more than 40,800 employees participated in networking, volunteering and fundraising opportunities sponsored by Employee Groups.
+
+In addition, our Employee Groups awarded more than 300 scholarships totaling more than 565,000.
+
+We’re proud to be recognized by top DE I organizations for our support of diverse communities in 2022.
+
+In 2021, we began our Equality First movement with the launch of the Equality First mobile app, giving employees access to an immersive hub of content and hands on tools.
+
+The content within the app continues to grow, including personal storytelling from employees across the broad spectrum of diversity at AT T, as well as major film festival shorts that bring stories from the communities we serve to employees.
+
+We provide this content at no cost to our employees, all while investing back in the filmmakers who create it to continue their art and connect with greater possibilities.
+
+In 2022, we expanded the Equality First offering to introduce a desktop experience focused on building inclusive leadership practices.
+
+This imperative provides people leaders the tools needed to make small, incremental changes to their behaviors that add up to big cultural changes over time.
+
+The platform offers bite sized learning on our key DE I pillars that can be integrated into daily operations and provides a safe, private forum for discussing the content, asking questions, and sharing challenges.
+
+Improve trust building know how, built on a foundation of psychological safety.
+
+Learn how to communicate to inspire broader audiences.
+
+Sharpen their ability to recognize and counteract how bias impacts their teams’ work and relationships.
+
+Upskill in assessing team members' contributions through the lenses of inclusion and equity.
+
+Gain expertise to more consciously and comfortably build diverse teams.
+
+The annual AT T Employee Group conference is one of the most anticipated employee events of the year.
+
+Under the banner of People, Purpose and Possibility, the 2022 conference brought together 1,000 employees in five locations across the U.S. and Mexico, and another 15,000 online attendees from 21 different countries.
+
+Employees said that the conference showcased how AT T is truly living diversity and inclusion, and more than 90% of attendees said they would recommend the conference to a colleague.
+
+I loved the energy, it really helped to keep me engaged and I would attend this event again.
+
+Great event, it really provided a big picture of the level of diversity at AT T.
+
+When our employees succeed, our company does better.
+
+We invest in skills development programs for our people throughout their careers.
+
+Through these efforts, we help our employees and our business thrive.
+
+In 2022, our employees completed an average of 30 courses per employee1 through AT T Learning Development our award winning internal training organization that engages our team with training, mentoring and career development programs.
+
+We also partner with learning institutions such as Harvard Business and LinkedIn Learning to offer leadership and career courses.
+
+Our training and skills development activities are designed to maximize our employees’ success in their current roles and support their future aspirations.
+
+We focus on creating a positive onboarding experience for all candidates to ensure their job readiness and continued engagement.
+
+In 2022, we delivered 4 million hours of new hire training to help incoming employees learn about the company and their department specific roles and responsibilities.
+
+We help employees develop role specific skills through training optimized to their current position.
+
+Real Time Training method helps employees develop role specific skills by using machine learning to deliver short form training content to the right employees at the right time.
+
+With Real Time Training, we are able to identify who needs training and when, as well as which training solution is most likely to drive the greatest performance improvements for the employee’s respective key performance indicators.
+
+Our advanced learning programs help employees identify the most impactful path to grow their skills.
+
+In 2022, we reimagined our approach to leadership development.
+
+We focused on developing and enhancing leadership skills and capabilities that aim to develop leaders who can play a role in developing others and who can role model key future capabilities for the rest of the organization.
+
+Participants in programs AT T Learning Development facilitates gain strategic exposure and engagement opportunities with their peers and other AT T leaders.
+
+Consistent with our talent strategy to meaningfully improve leadership diversity at AT T, AT T Learning Development facilitates several programs targeted at developing diverse leaders.
+
+Through their jobs and beyond, our employees connect people to greater possibility every day.
+
+Our people are dedicated to amplifying their positive impact through a range of community engagement initiatives.
+
+Throughout the year, AT T employees contribute their time and resources to organizations and causes including bridging the digital divide, disaster relief, and environmental stewardship.
+
+Recognizing the importance of community engagement to our team, we established a target to engage 50% of employees in grassroots volunteering and charitable giving initiatives by year end 2030.
+
+Through AT T Believes(SM), our global employee volunteer program, our people participate in grassroots efforts to create positive change in local communities.
+
+Addressing the digital divide was a major focus for AT T Believes in 2022.
+
+Throughout the year, U.S. employees volunteered to support underserved learners at AT T Connected Learning Centers both virtually and in person (see page 11 for more on AT T Connected Learning Centers).
+
+Our employees helped students reach their full potential by serving as tutors and mentors, teaching digital literacy workshops, and participating in computer distribution events.
+
+Helping close the digital divide was the focus of a company wide employee engagement campaign, Bridge to Possibility: Closing the digital divide, together.
+
+During the campaign, AT T employee volunteers beautified five Connected Learning Centers and our Employee Groups (see page 18) assembled 10,000 connected learning kits for distribution to 18 local communities.
+
+The kits provide tools to support students in completing their schoolwork online.
+
+Our Environmental Champions program engages employees in our work to protect the environment by equipping them with information and skills to help them live and work more sustainably.
+
+The program has grown to include more than 1,800 individuals, who incorporate learnings into their own lives and share information with colleagues and friends.
+
+Our employees also took part in environmental stewardship projects including building bee habitats, planting seed balls, and cleaning up parks and lakes.
+
+We encourage our employees to donate to causes they care about through a year round giving program.
+
+In 2022, more than 40,000 AT T employees generously donated 15.7 million to more than 17,000 charities.19 AT T is committed to helping employees further their philanthropic impact.
+
+We offer a program that matches employee charitable contributions to 501(c)(3) nonprofits and allows employees to earn Volunteer Rewards grants based on time volunteering in the community that can be directed to the 501(c)(3) charity of their choice.
+
+In 2022, more than 45,000 employees earned Matching and Volunteer Rewards.
+
+Our people also supported special fundraisers throughout the year.
+
+Employees donated more than 250,000 to support the citizens of Ukraine, the communities of Uvalde and Buffalo, survivors of Hurricanes Fiona and Ian, and more (see page 14 for additional information on our community resilience efforts).
+
+As one of the world’s largest companies, we can play a role in creating a better, more environmentally sustainable future.
+
+We’re acting to address climate change and prepare for its impacts because it is good for our business, for the stakeholders we serve and for our planet.
+
+We’re on our way to carbon neutrality by the end of 2035 and are actively working with our suppliers and customers to help reduce their environmental impact as well.
+
+Climate change is one of the world’s most pressing challenges.
+
+Guided by our Climate Strategy and Transition Plan, we’re acting to address climate change and prepare for its impacts.
+
+We have set a goal to be carbon neutral, targeting net zero Scope 1 and 2 greenhouse gas (GHG) emissions2 for our operations by the end of 2035, guided by a science based target (SBT) aligned with keeping global temperature increases to below 1.5 degrees Celsius.
+
+Looking beyond AT T’s operations, we’ve achieved our objective for at least 50% of our suppliers22 to set their own science based targets (page 29).
+
+We’ve also committed to supporting a gigaton of customer emissions reductions through our Gigaton Goal (page 26).
+
+Our greatest opportunity for emissions reductions is to reduce electricity consumption and accelerate our energy efficiency efforts.
+
+Being smarter with purchased electricity also brings financial savings as we drive kilowatts out of the business, we remove both emissions and energy related costs.
+
+From 2015 through 2022, we’ve implemented approximately 161,000 energy efficiency projects across the organization.
+
+These projects reduced our Scope 2 emissions and amounted to gross annualized savings of approximately 663 million.23 We will continue to act on opportunities to drive down energy consumption in support of our carbon neutral goal.
+
+Our carbon neutral goal also includes reducing emissions from our global fleet.
+
+We expect to reduce our fleet emissions which currently account for 51% of our Scope 1 emissions at least 76% by 2035.
+
+Our strategy involves optimizing routes, switching to hybrid and electric vehicles and reducing the overall size of the fleet.
+
+We're investing in renewable energy because it is good for the planet and good for our business.
+
+AT T is one of the largest corporate buyers of renewable energy in the U.S.24 Over the past few years, AT T has transitioned from generating only a few megawatt hours of renewable energy to being 6 on the EPA Green Power Partner List.
+
+Going big on renewable energy also benefits local communities.
+
+AT T backed renewable energy projects are creating hundreds of construction jobs and dozens of permanent jobs in the fast growing clean energy sector.
+
+In early 2022, we confirmed 2 virtual power purchase agreements from new solar projects in Maryland and Pennsylvania generating up to 300 construction jobs in each state.
+
+We also administered a national request for proposal in 2022 to procure community solar subscriptions.
+
+This resulted in executed agreements with 38 vetted community solar projects across 4 states totaling a maximum capacity of 55 MW that are projected to save AT T 15 million over a 15 year term.
+
+These agreements will enable the production of over 191,000,000 kWh of clean energy per year, avoiding over 135,000 metric tons of CO2 emissions.
+
+We remain committed to expanding our clean energy efforts and expect to continue to grow our renewable energy portfolio.
+
+This will be an integral part of how we meet our emissions reduction goals.
+
+We are amplifying our climate efforts by developing innovations that help others become more efficient and manage their carbon footprints.
+
+Since 2015, we have been working with business customers and nonprofits to drive adoption of AT T Smart Climate Solutions that reduce GHG emissions.
+
+Recognizing the opportunity for connectivity solutions to support emissions reductions at scale, we established the Gigaton Goal a commitment to help our customers collectively reduce a gigaton of GHG emissions by the end of 2035 (2018 baseline).
+
+Through the Connected Climate Initiative (CCI), we convene the brightest minds from leading technology companies, AT T Business customers, universities and nonprofits to identify best practices, develop new products and scale innovations.
+
+The CCI drives our Gigaton Goal progress through increasing the adoption of Smart Climate Solutions that use AT T connectivity to reduce emissions.
+
+Integrating AT T Internet of Things (IoT) solutions into the Salesforce Net Zero Cloud to make it easier for customers to monitor assets in near real time and quickly identify emissions reduction opportunities.
+
+Climate Change Greenhouse Gas Emissions Issue Brief.
+
+Working with GeoTab to help customers make informed decisions about how to electrify their fleets.
+
+Collaborating with Microsoft and Deloitte to bring the Connected Spaces product to market, which helps facility operators track emissions data with more accuracy.
+
+Monitoring and reducing an organization’s GHG emissions can be complex.
+
+Our IoT solutions enable customers to monitor and manage many different types of equipment, including lighting, heating, cooling and other mechanical equipment to optimize their use.
+
+For example, AT T developed Equipment and Machinery Solutions to better track, monitor, control and optimize heavy machinery and equipment, such as dozers, forklifts and cranes, and help companies manage their performance all in a single view.
+
+This IoT solution helps companies collect and survey vital equipment data, such as engine hours and fuel consumption of machinery, to calculate emissions within the Salesforce Net Zero Cloud enabling businesses to better track their sustainability goals from the job site to the boardroom.
+
+Net Zero Cloud provides AT T’s customers with critical data accessible from virtually any location via a web portal or mobile app.
+
+This AT T capability is available for any of our business customers.
+
+As the scale of human impact on our planet continues to grow, it’s become clear that conventional, linear methods of production and disposal need to be reconsidered.
+
+We must move toward a circular economy, which involves embedding sustainability throughout the life cycle of a product or service.
+
+Many materials that we work with can be reused or repurposed instead of being sent to landfill.
+
+Together with our waste management partners, we’ve progressed closer toward our target to reduce the amount of U.S. waste sent to landfill by 30% by year end 2030 (2019 baseline).
+
+Improving data accuracy in our supply chain through targeted training for mobility and fleet vendors.
+
+Contracting with more vendors located closer to our waste streams, which increases diversion opportunities and reduces waste related emissions.
+
+Continuing to divert fiber optic cable scrap, which can be shredded and milled to serve as components for roofing materials.
+
+All electronic devices should be reused, refurbished or recycled.
+
+Reusing devices contributes to a circular economy and helps create more affordable product options for consumers.
+
+In 2022, we recovered 14.9 million devices including mobile phones, internet gateways and television set top boxes.27 Some of these devices are refurbished and distributed to students affected by the digital divide (page 10).
+
+If a device cannot be reused in its entirety, we extract individual parts that may be reusable and recycle any remaining plastics and metals.
+
+Encouraging customers to return old phones during the upgrade process or by taking advantage of our trade in programs.
+
+Refurbishing or recycling broadband internet devices through in home appointments where an AT T technician will recover used equipment.
+
+Offering options for customers to mail their devices back to us to recycle.
+
+These efforts provide a solid foundation for our circular economy approach, which we expect to expand in 2023.
+
+Whether it’s combatting climate change, enhancing diversity, or upholding human rights, we accomplish more when we work together with our trusted suppliers.
+
+As a global company, we rely on a diverse set of suppliers around the world.29 We partner with suppliers who hold themselves to high ethical standards and who work with us to advance sustainable business practices throughout our supply chain.
+
+We're using our scale and influence to encourage AT T suppliers to reduce their own carbon emissions.
+
+Part of AT T’s science based target (page 24) includes a commitment to ensure 50% of our suppliers4 set their own science based GHG targets by year end 2024.
+
+We’re proud to report that we achieved our goal as of year end 2022, 53% of our suppliers have set science based targets.
+
+Through the year, we also trained suppliers on using environmental reporting to track progress and reduce their environmental impact over time.
+
+Suppliers representing more than 7 billion in annual spend participated in the training.
+
+AT T is proud to be a long standing leader in supplier diversity.
+
+Over the last 54 years, we have spent more than 230 billion with businesses and enterprises owned by minorities, women, veterans, LGBTQ persons, and people with disabilities.
+
+In 2022, we met our annual goal to exceed 21.5% of supplier spend and 10 billion in total procurement expenditures with diverse suppliers, reaching 16.3 billion.5 This represents 26.3% of our overall procurement spend.
+
+As we adopt new and emerging technologies critical to our business initiatives, we’re focused on ensuring diverse businesses are part of our transformation.
+
+We participate in regional and national supplier diversity events and work with several diversity business organizations, such as the National Minority Supplier Development Council, for targeted supplier identification.
+
+In 2022, AT T sponsored or participated in roughly 250 in person and virtual supplier diversity outreach events.
+
+Our supplier financing programs allow small, diverse businesses to leverage the credit power of AT T. In 2022, participants in our supplier financing program included 96 certified women owned business enterprises, 91 certified minority business enterprises and 10 certified disabled veteran enterprises.
+
+We engage our strategic suppliers to integrate sustainability performance metrics into sourcing decisions.
+
+These assessments cover a range of ESG factors such as environmental management, circular economy, stakeholder engagement and a supplier’s management of its own supply chain.
+
+Our objective is for at least 80% of spend to be covered by supplier sustainability assessments through 2025.
+
+As a signatory to the UN Global Compact, we recognize the importance of upholding human rights in our supply chain.
+
+Through our membership in the Joint Alliance for CSR (JAC) we conduct audits annually within our supply chain using a common audit framework that includes facility evaluations, management interviews, confidential worker interviews and supplier documentation reviews.
+
+The JAC audit framework addresses 10 focus areas, including human rights considerations such as the use of child labor and forced bonded labor.
+
+In 2022 JAC audited 79 factory locations,30 including 41 AT T suppliers, impacting over 133,000 individuals.
+
+AT T led a combination of 6 audits and Mobile Worker Surveys of AT T suppliers’ factory locations.
+
+Invest 2 billion to help bridge the digital divide by the end of 2023.
+
+As part of our 3 year 2 billion digital divide commitment, we reached our goal of opening at least 20 AT T Connected Learning Centers across the U.S. With our original goal met, we have set a new goal to open more than 50 AT T Connected Learning Centers by the end of 2024.
+
+Access from AT T helps bridge the digital divide by making low cost internet service available for qualifying low income households.
+
+In 2022, we expanded the program’s eligibility to all households that quality for ACP and apply the Federal benefit to AT T internet service.
+
+We also updated the program to include speeds up to 100 Mbps where available.
+
+Provide 1 million people in need with digital resources through AT T Connected Learning by the end of 2025.
+
+Through AT T Connected Learning, we’re investing in connectivity, technology, digital literacy and digital learning solutions to help connect today’s learners with success.
+
+As of year end 2022, we have reached more than 290,000 people with digital resources through AT T Connected Learning.
+
+Engage 50% of our employees worldwide in communities through grassroots volunteerism and giving initiatives by the end of 2030.
+
+Beyond emergency response and network disaster recovery, help 1 million people prepare for and recover from the impacts of disasters by the end of 2030.
+
+Through a variety of corporate community engagement opportunities and programs, employees donate time and money to their communities.
+
+In 2022, 31% of our workforce engaged in volunteerism and giving through AT T.
+
+In 2022, through strategic partnerships, we supported the delivery of connectivity solutions, humanitarian relief, and resiliency and recovery resources serving more than 290,000 individuals impacted by Hurricanes Fiona and Ian, the historic Eastern Kentucky floods and other disasters around the world.
+
+Deliver connectivity solutions that enable business customers to reduce a gigaton (1 billion metric tons) of GHG emissions between 2018 2035.
+
+Reduce the amount of U.S. waste we send to landfill 30% (2019 base year) by the end of 2030.
+
+This represents more than 45% attainment toward carbon neutrality from our 2015 base year (approximately 8.8 metric tons of CO2e).
+
+Lead our supply chain to improve its social and environmental impacts by integrating sustainability performance metrics into our sourcing decisions for 80% of our spend by the end of 2025.
+
+AT T Global Supply Chain continues to require suppliers to adhere to our Principles of Conduct for Suppliers through our Supplier Portal and contract agreements.
+
+We continue to incorporate sustainability oriented standards and analyses into sourcing decisions, including the addition of sustainability clauses into requests for proposal and agreements, training our sourcing managers on the principles of sustainability, and providing updates to sourcing managers on the sustainability performance of existing suppliers.
+
+Work to ensure 50% of our suppliers (covering purchased goods and services, capital goods, and downstream leased assets as a portion of spend) set their own science based Scope 1 and 2 GHG targets by the end of 2024.
+
+Reach 21.5% of supplier spend and exceed 10 billion in total procurement expenditures with minority , women , veteran , LGBTQ and disability owned business enterprises (annual target).
+
+In 2022 we met our Scope 3 science based target by ensuring that suppliers representing 53% our spend (against our goal of 50%) have set their own science based Scope 1 and 2 targets.
+
+Green Power Partnership National Top 100. https: www.epa.gov greenpower green power partnership national top 100.
+
+Note: In July 2021, we completed a transaction with TPG Capital involving our North America video business including DIRECTV, AT T TV and U verse.
+
+Our Global Supply Chain (GSC) organization manages the supply chain of AT T Communications and AT T International operating companies.
+
+This represents the largest and most complex portion of our supply chain.
+
+Because of the scale of this work, supplier related content in this document reflects the efforts of GSC unless otherwise noted.
+
+Supplier diversity and supplier sustainability metrics represent the effort of our entire U.S. operations.
+
+AT T’s Global Supplier Diversity team administers the Supplier Diversity program on behalf of all AT T affiliates (herein referred to as AT T ).
+
+This report includes results for all affiliates of AT T Corporate.
+
+I nclusive of AT T Corporate and AT T Communications.
+
+Scope 1 emissions include direct emissions from sources owned or controlled by the company (such as our fleet).
+
+Scope 2 emissions include indirect emissions that result from the generation of purchased energy.
+
+Starting in 2022, data does not include DIRECTV, Vrio, Xandr and WarnerMedia.
+
+Note: In July 2021, we completed a transaction with TPG Capital involving our North America video business including DIRECTV, AT T TV and U verse to form a new company called DIRECTV.
+
+In November 2021, we completed the sale of our Latin America video operations, Vrio, to Grupo Werthein.
+
+In April 2022, we completed a transaction to combine our WarnerMedia segment, subject to certain exceptions, with a subsidiary of Discovery Inc.
+
+In June 2022, we completed the sale of the programmatic advertising marketplace of Xandr Inc to Microsoft.
+
+Refers to 50% of our suppliers covering purchased goods and services, capital goods and downstream leased assets as a portion of spend.
+
+Supplier diversity spend excludes content and programming spend, and reflects the activities of the AT T Global Connections and Supply Chain organization within AT T Communications.
+
+GWS conducts paid drive tests for AT T and uses the data in its analysis.
+
+Data inclusive of AT T Communications, AT T Corporate and AT T International does not include DIRECTV or WarnerMedia.
+
+Adjusted diluted EPS from continuing operations includes adjusting items to revenues and costs that we consider non operational in nature, including items arising from asset acquisitions or dispositions.
+
+We adjust for net actuarial gains or losses associated with our pension and postemployment benefit plans due to the often significant impact on our results (we immediately recognize this gain or loss in the income statement, pursuant to our accounting policy for the recognition of actuarial gains and losses).
+
+Consequently, our adjusted results reflect an expected return on plan assets rather than the actual return on plan assets, as included in the GAAP measure of income.
+
+The tax impact of adjusting items is calculated using the effective tax rate during the quarter except for adjustments that, given their magnitude, can drive a change in the effective tax rate, in these cases we use the actual tax expense or combined marginal rate of approximately 25%.
+
+For 2022, Adjusted EPS from continuing operations of 2.57 is Reported EPS from continuing operations of ( 1.10) adjusted for 3.59 impairments, abandonments and restructuring, 0.19 benefit related and other costs, 0.16 proportionate share of intangible amortization at the DIRECTV equity method investment, and 0.06 impact of ASU No.
+
+Further information is included in our Form 8 K dated January 25, 2023. measure that provides an additional view of cash paid for capital investment to provide a comprehensive view of cash used to invest in our networks, product developments and support systems.
+
+In connection with capital improvements, we negotiate with some of our vendors to obtain favorable payment terms of 120 days or more, referred to as vendor financing, which are excluded from capital expenditures and reported in accordance with GAAP as financing activities.
+
+Capital investment from continuing operations includes 19.6 billion of capital expenditures from continuing operations and 4.7 billion of cash paid for vendor financing.
+
+Verifier), managed by the Universal Service Administrative Company.
+
+For more information on eligibility criteria for the ACP, visit https: acpbenefit.org.
+
+These metrics are only tracked in the U.S. Employees in other countries do not have the ability to identify in any of these areas.
+
+This data is voluntarily self reported, which means there may be a discrepancy between employees who are part of these groups and employees willing to report that they are part of these groups.
+
+This number reflects Joint Audit Cooperation (JAC) and Validated Assessment Program (VAP) audits.
+
+The supplier sustainability management approach reflects the activities of the AT T Global Connections and Supply Chain organization within AT T Communications.
+
+AT T follows the GHG Protocol for Scope 1, Scope 2 and Scope 3 reporting.

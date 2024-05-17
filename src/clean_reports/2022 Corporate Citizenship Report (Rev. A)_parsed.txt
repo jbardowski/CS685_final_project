@@ -1,0 +1,2279 @@
+Notice regarding forward looking statements This communication includes forward looking statements intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995.
+
+These forward looking statements generally can be identified by phrases such as TI or its management believes, expects, anticipates, foresees, forecasts, estimates or other words or phrases of similar import.
+
+Similarly, statements herein that describe TI’s business strategy, outlook, objectives, plans, intentions or goals are forward looking statements.
+
+All such forward looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those in forward looking statements.
+
+For a more detailed discussion of these factors, see the risk factors discussion in the first quarter of 2023 form 10 Q, filed with the SEC.
+
+The forward looking statements included in this communication are made only as of the date of this communication.
+
+We undertake no obligation to update the forward looking statements to reflect subsequent events or circumstances.
+
+Industrial and automotive, the markets with the best opportunities for our products, made up 65% of 2022 revenue.
+
+For decades, Texas Instruments has operated with a passion to create a better world by making electronics more affordable through semiconductors.
+
+With each generation, semiconductor technology has become smaller, more efficient and more affordable, and today, our products are helping customers to develop electronics and new applications that are contributing to a more sustainable future.
+
+Our founders had the foresight to know that building a great company required a special culture to thrive for the long term.
+
+First, we will act like owners who will own the company for decades.
+
+Second, we will adapt and succeed in a world that is ever changing.
+
+And third, we will be a company that we are personally proud to be a part of and that we would want as our neighbor.
+
+With these ambitions guiding our decision making for the long term and our products helping to create a better world, we are confident that our collective efforts will be impactful and long lasting.
+
+First, our ambitions guide how we run our business and are foundational to ensuring that we operate in a sustainable, socially thoughtful and environmentally responsible manner.
+
+Central to these ambitions is a belief that in order for all stakeholders to benefit, the company must grow stronger over the long term.
+
+Second, semiconductors will play a critical role in creating a better world and helping to reduce the impact on the environment.
+
+As engineers, we are fortunate to work on exciting technology that helps our customers innovate to create a better world.
+
+Our semiconductor products are powering sustainable technology around the world, such as electric vehicles and renewable energy applications, and helping to make a positive impact in a growing number of ways.
+
+In 2022, despite the ongoing global challenges related to the pandemic and resulting supply chain disruptions, TI maintained a focus on keeping our employees safe, keeping our factories running, adding capacity to support customer demand and giving back to our communities when needs continued to be great.
+
+I am proud of how TIers adapted and performed in 2022.
+
+We have learned through the decades that challenging years are when our ambitions are most critical in guiding our decisions and when TIers rise to the challenge.
+
+You can count on us to stay true to our ambitions: to think like owners for the long term, adapt and succeed in a world that’s ever changing and behave in a way that makes our stakeholders proud.
+
+When we’re successful, our employees, customers, communities and shareholders all win.
+
+Since 2006, TI has published program information, goals, progress on goals and relevant data including a focus on environmental, social and governance (ESG) and sustainability priorities as part of its commitment to being a good corporate citizen.
+
+The Task Force on Climate Related Financial Disclosures (TCFD)3.
+
+The Sustainability Accounting Standards Board (SASB)4.
+
+In addition, we participate in the CDP5 Climate Change and Water Security questionnaires and make both available at TI.com ccr.
+
+To strengthen our reporting, we solicit input from internal and external stakeholders year round, examine third party sustainability assessments and benchmark trends and best practices.
+
+We then compare these inputs to our company priorities to determine what topics and disclosures to include in our annual Corporate Citizenship Report.
+
+First, our ambitions guide how we run our business and are foundational to ensuring that we operate in a sustainable, socially thoughtful and environmentally responsible manner.
+
+Central to these ambitions is a belief that in order for all stakeholders to benefit, the company must grow stronger over the long term.
+
+Second, semiconductors will play a critical role in creating a better world and helping reduce environmental impacts.
+
+We take great pride in being a good corporate citizen with a long standing commitment to responsible, sustainable manufacturing.
+
+In 2022, TI continued to drive efficiencies in its fabrication processes and equipment to reduce energy, material and water consumption, and greenhouse gas (GHG) emissions.
+
+We bring together 33,000 of the world’s smartest people to create a better world by making electronics more affordable through semiconductors.
+
+Our ambition to be a company that we are personally proud to be a part of and want as our neighbor guides our work to build stronger communities.
+
+TI’s goals and commitments can be found in the company’s annual Corporate Citizenship Report.
+
+TI takes great pride in being a good corporate citizen and has a long standing commitment to responsible, sustainable manufacturing.
+
+We produced our first Corporate Citizenship Report in 2006, and we remain committed to our long term environmental sustainability programs of conserving natural resources, reducing greenhouse gas (GHG) emissions and mitigating climate change.
+
+As a semiconductor company that manufactures billions of chips per year, we believe that it is important to drive efficiencies in our fabrication process.
+
+Multi year sustainability goals guide our work (see the next page), and we strive to efficiently manufacture chips to reduce energy use, GHG emissions, water use and the generation of landfill waste.
+
+TI semiconductor products are and will increasingly play a critical role in helping reduce the impact on the environment.
+
+Our semiconductors are helping customers to develop smaller, more efficient and affordable technology that makes electrification, renewable energy and energy storage solutions possible.
+
+For more than a decade, TI has driven efficiencies in its fabrication processes and equipment to reduce environmental impacts.
+
+We measure and track normalized, or per chip data, for GHG emissions, energy, water and material consumption as a way of assessing the overall resource efficiency of our manufacturing process.
+
+By comparing normalized data, we can account for the resources and emissions associated with the production of a single chip and see how that has improved over time.
+
+When comparing our per chip data from 2010 to 2022, we have significantly reduced manufacturing related impacts and resource consumption.
+
+Over the past several years, TI has made progress in conserving energy and water, reducing energy consumption per chip, diverting landfill waste and working toward our long term goal of reducing scope 1 and scope 2 absolute GHG emissions by 25% from a 2015 base year by 2025.
+
+In 2022, we experienced slight year over year increases in consumption and emissions as TI’s production increased.
+
+This was because of continued customer demand throughout the year, and ramping two new 300 millimeter factories in Richardson, Texas, and Lehi, Utah.
+
+Despite our operational growth, we remain committed to reducing our environmental impact.
+
+We invest in hundreds of projects every year aimed at reducing that impact, such as using advanced manufacturing tools and technologies signing multiyear solar and wind power contracts to deliver renewable electricity in Texas and installing a solar roof at our site in Bangalore, India.
+
+TI implements programs to reduce energy, material and water consumption, and greenhouse gas emissions (GHGs).
+
+The following table summarizes the progress we are making toward our reduction goals.
+
+Use alternative gases and chemicals with lower global warming potential.
+
+Purchase electricity from renewable energy sources.
+
+Optimize product manufacturing, shipping and distribution.
+
+Avoid unnecessary business travel and subsidize employee commuting at certain sites.
+
+Design and operate buildings and fabrication sites to optimize efficiency and achieve Leadership in Energy and Environmental Design (LEED) certification7 for all new buildings.
+
+Improve the efficiency of our deionized water plants through actions such as optimizing the recovery rates of our reverse osmosis filters.
+
+Reduce manufacturing tool water use by optimizing flow rates.
+
+Identify additional manufacturing tools where water can be reused in other processes.
+
+Expand the use of microfilters and ultrafilters to recover more wastewater.
+
+TI sets GHG emission and energy reduction goals to reduce environmental impacts and improve efficiencies.
+
+By 2025, TI aims to reduce absolute scope 1 and 2 GHG emissions by 25% from a 20158 base year.
+
+Our organizational boundary includes TI manufacturing sites, larger non manufacturing sites, and support facilities subject to contracts considered embedded leases by us for financial accounting purposes.
+
+Our operational boundary includes scope 1 and scope 2 emissions from these sites and facilities, as applicable.
+
+We have taken steps to reduce GHG emissions in our operations, shipping and distribution, and through our supply chain for years.
+
+TI’s supply chain, employee travel and commuting, and product distribution network generate scope 3 GHG emissions.
+
+Encouraging suppliers to optimize their production and operational efficiencies.
+
+Shipping items in bulk from regional distribution centers to reduce the number of shipments and transportation related emissions.
+
+Limiting business travel and providing videoconferencing.
+
+TI directly emits scope 1 GHG emissions from gases used in the manufacturing process and fuels consumed on site, such as natural gas and diesel9.
+
+TI indirectly emits scope 2 GHG emissions from electricity purchased for manufacturing or other operations.
+
+Providing on site electric vehicle charging stations, shuttles and biking infrastructure.
+
+Subsidizing mass transit and carpooling at select sites.
+
+We continue to estimate and calculate the value chain emissions that are most relevant to TI in line with the Corporate Value Chain (Scope 3) Accounting and Reporting Standard, a supplement to the GHG Protocol Corporate Accounting and Reporting Standard.
+
+Installing newer, more efficient manufacturing tools.
+
+Purchasing and securing renewable energy sources around and technologies.
+
+Eliminating nonessential fluorinated gases and using alternative.
+
+Increasing the energy efficiency of our manufacturing systems, gases and chemicals.
+
+Installing thermal point of use abatement devices on some tools that treat the exhaust gases used in semiconductor manufacturing.
+
+The 2015 baseline has been adjusted from 2,471,357 to 2,832,709 MTCO2e in line with the guidance provided by the WBCSD WRI’s The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard.
+
+Under current World Semiconductor Council (WSC) reporting guidance, the association that tracks semiconductor emissions, there is no requirement to track and report FHTF.
+
+Recently introduced U.S. Environmental Protection Agency (EPA) rules for disclosure to the EPA included FHTF and we comply with this requirement.
+
+Recently, the WSC has aligned on all regions will moving to 2019 Intergovernmental Panel on Climate Change (IPCC) guidance, which includes FHTF.
+
+TI is considering the timing of a transition to the 2019 IPCC guidance and will include FHTF emissions upon adoption.
+
+TI faces potential risks and opportunities associated with climate change, which are described in detail in its TI's 2023 CDP Climate Change response.
+
+Our CDP response, the Emissions section of the GRI Index and our TCFD Index also contain information about our climate change related governance and management strategies.
+
+As of year end 2022, TI’s scope 1 and 2 absolute emissions were down 23% since 2015.
+
+For additional GHG data, see our Performance Data Appendix.
+
+TI's global operations, and design, manufacturing, assembly and test sites focus on lowering energy consumption and associated GHG emissions by setting annual reduction goals and implementing efficiency projects.
+
+TI has a goal to reduce energy use per chip11 by 50% at worldwide manufacturing sites by year end 2025 from a 2015 base year.
+
+We have progressed 28% toward this goal at the end of 202212.
+
+Because of increased production, TI consumed 3.75 TWh of energy in 2022, up from 3.19 TWh in 2021.
+
+For additional energy data, see our Performance Data Appendix.
+
+For more information about how TI manages energy use, see the Energy section of the GRI Index.
+
+TI is committed to increasing renewable energy use in the coming years as part of its GHG emissions reduction goal.
+
+TI secures reliable energy supplies, including renewable resources where available, that are cost effective and align with business needs and objectives.
+
+TI implements more than 200 projects each year to reduce energy throughout its operations.
+
+These have helped us conserve 320 gigawatt hours (GWh) of energy over the last five years, even as our production increased by 25% during the same period.
+
+We focus most of our efforts on our manufacturing operations because they account for over 90% of our total energy use.
+
+Designing and operating buildings and fabrication sites to optimize efficiency and achieve LEED certification.
+
+Improving control and optimizing set points of our chilled water plants.
+
+Installing energy efficient LED lighting, fans and drive mechanisms for our air handling systems.
+
+Receiving 47 megawatts (MW) of solar power for its North Texas operations, backed by a 15 year contract.
+
+In early 2023, we added 18MW of additional wind power through an 11 year contract.
+
+Using its first significant rooftop solar system in Bangalore, India.
+
+While renewable energy procurement and use increased in 2022, the percentage of renewable electricity compared to total electricity decreased due to expanded production with new factories coming online.
+
+TI has a particular focus on using water responsibly and efficiently.
+
+Conserving processed and potable water and treating and recycling wastewater enables us to reduce costs and promote long term availability.
+
+We maintain and optimize our wastewater treatment systems to comply with regulations and permit limits.
+
+In 2022, we implemented water reduction projects that saved an annualized amount of water equal to 3.2% of our 2021 usage versus our goal of 3.4%.
+
+Over the last five years, we conserved nearly 886.1 million gallons of water.
+
+Annually, TI implements projects to reduce overall water use throughout its operations.
+
+Invests in reduction, recycling and reuse projects.
+
+Optimizes the efficiency of deionized water plants, improving the recovery rates of reverse osmosis filters.
+
+TI has internal standards, programs and procedures to ensure that wastewater produced by all sites complies with local, state and national discharge requirements.
+
+Parameters evaluated by each site are standard for the semiconductor industry and typically include biological oxygen demand, total suspended solids, metals, pH and temperature.
+
+Reduces manufacturing tool water use by optimizing flow rates and.
+
+Restrict or remove substances such as metals, toxic organic identifying where to reuse water in other processes.
+
+Uses additional microfilters and ultrafilters to recover more wastewater.
+
+Maximizes the amount of condensate and microfiltration water directed to cooling towers.
+
+Purifies and recycles higher quality production water back to the inputs of ultra pure water plants.
+
+We regularly monitor water withdrawal quality at our manufacturing facilities and conduct regular testing to maintain internal standards.
+
+Our manufacturing facilities also track water discharge quality by standard effluent parameters.
+
+Collect wastewater sludge containing solvents, concentrated metals or acid solutions and dispose of them off site per regulatory requirements.
+
+In some cases, we send these compounds to reclamation facilities for reuse by other industries.
+
+Conduct required wastewater sampling to ensure operation within our permit limits.
+
+While overall water use increased by 19% over 2021 as production increased to support our customers, we conserved more than 174 million gallons and reused 25%, or nearly 2.2 billion gallons, of all water consumed.
+
+For additional water data, see our Performance Data Appendix.
+
+To learn more about our water and effluent management strategies, see TI’s 2022 CDP Water Security response and the Water and Wastewater section of the GRI Index.
+
+TI responsibly manages the use and disposal of materials and chemicals to protect the environment and reduce landfill waste.
+
+TI aims to divert 90% of materials from landfills to reduce environmental impacts.
+
+Manufacturing semiconductors involves using hazardous and nonhazardous chemicals and gases, which is why TI’s product management systems have stringent controls in place.
+
+We give customers documents and tools that outline measures we take to ensure that our products comply with global material restrictions and regulations.
+
+Most of the materials we need are for fabricating semiconductors.
+
+When purchasing materials and chemicals, we consider the resulting waste, and whether an opportunity exists to reuse existing materials, purchase recycled materials or use environmentally friendly items instead.
+
+Recovering metals from solids, liquids, scrap wafers and other materials.
+
+Repurposing and reselling used and surplus chemicals, chemical containers and older manufacturing equipment.
+
+Reusing wafer carriers and food service tableware.
+
+Our recyclable material and chemicals come primarily from our offices and manufacturing sites.
+
+These are managed and regulated differently depending on local requirements.
+
+Identify and use the safest, lowest risk materials in operations to protect TIers, site communities and consumers.
+
+Where possible, we use high pressure water instead of chemicals in certain cleanup applications or replace chemicals with environmentally benign substitutes.
+
+Screen all incoming materials and chemicals before incorporating them into semiconductor manufacturing processes to comply with regulatory and customer requirements.
+
+We also incorporate any chemical restrictions and standards into supplier contracts.
+
+Assess potential environmental, safety and health (ESH) impacts of materials as new scientific information becomes available and new regulations go into effect.
+
+TI’s approach to environmental and product stewardship.
+
+A search tool to find material content download restricted chemical test reports or locate products’ RoHS, REACH and green status.
+
+Follow strict standards and protocols for responsibly purchasing, transporting, tracking and disposing of chemicals safely.
+
+Provide specific procedures and training for the use, labeling, storage and disposal of chemicals or hazardous substances, including the proper use of personal protective equipment.
+
+Use ventilation controls, abatement systems, leak detectors and appropriate treatment technologies.
+
+If concerns about a material or chemical arise during our screening process, we elevate the matter to our review board, comprising internal subject matter experts.
+
+If a material or chemical is necessary for manufacturing but still raises concerns, our manufacturing leaders review the situation and, if necessary, seek a safer alternative or implement more stringent use controls.
+
+We diverted 90% of the 50,673 metric tons of waste and surplus materials generated in 2022 from landfills, meeting our goal.
+
+We achieved this by reusing and recovering chemicals where viable selling surplus chemicals recycling certain waste for use in energy recovery and recycling scrap wood, paper, glass, metals and organic materials.
+
+For additional data, see our Performance Data Appendix.
+
+See the Materials section of the GRI Index for more information about how TI manages materials.
+
+TI’s holistic approach to quality permeates every aspect of the company’s supply chain, from process technology and design through manufacturing, packaging, testing and delivery.
+
+We continuously improve our products and process technologies to deliver high quality, reliable semiconductor solutions that meet our customers’ needs.
+
+To reduce environmental impacts and extend product longevity, we optimize the quality and reliability of our technologies.
+
+We measure customer returns, which assess our performance on both resolution cycle times and return parts per billion.
+
+These measures help maintain high levels of customer service and product quality and reliability.
+
+To drive continuous improvement, we assess, categorize and aggregate the reason for each return to identify systemic improvement opportunities.
+
+More than 85% of TI products have yet to have a single customer return in three years.
+
+Every organization within TI works together to ensure quality and deliver reliable products.
+
+We continuously improve our products and process technologies to build reliable technologies that meet stringent quality standards for industrial (Joint Electron Device Engineering Council) and automotive (Automotive Electronics Council Q100) products.
+
+We use specialized materials and controls to build high quality products, test silicon and package technologies and continuously monitor wafer level reliability.
+
+When we start product qualification, we aim to have high, data backed confidence that the product is fully reliable and will meet our customers’ long term quality needs.
+
+TI leverages various strategies to maintain quality and reliability.
+
+Quality System Manual describes quality management processes and systems.
+
+To maintain product longevity and continuity of supply for our customers, we have life cycle management policies and inventory and manufacturing strategies that enable us to sell and support products for a decade or more.
+
+TI’s product life cycles are typically 10 to 15 years and often extend longer, consistent with many customers’ requirements.
+
+We are committed to product longevity for our customers and have strategies and internal policies to uphold this commitment.
+
+Quality policy and procedures provide a framework to identify and resolve quality issues quickly.
+
+We incorporate industry requirements and standards, along with customer specifications and feedback, to mitigate risks and drive improvement throughout a product’s life cycle.
+
+Internal quality standards help us comply with numerous industry standards and quality specifications, including International Organization for Standardization (ISO) 9001, ISO 14001, ISO 45001, International Standard for Automotive Quality Management Systems 16949 and the Underwriters Laboratories rating.
+
+Reliability testing enhances or accelerates potential failure mechanisms, helps identify the root cause and reveals how to prevent failure modes.
+
+We measure several product and service quality performance indicators to make continuous improvements.
+
+Nosa, a TI product marketing engineer, combines his passion for technology with his work to deliver high quality solutions that meet our customers' needs.
+
+TI strives to pack and ship products efficiently to assure timely distribution to customers, comply with international shipping regulations and reduce environmental impact.
+
+Our product distribution centers (PDCs) are mindful of plastic consumption and are giving plastic dunnage a second life as packaging for outbound shipments when feasible.
+
+We reuse and recycle various materials to cut down on packaging waste.
+
+Pack large quantities of products into each shipment to eliminate multiple deliveries.
+
+We also increase packing density to move actual weights closer to charged dimensional weights.
+
+Use air pillows in packaging that are recyclable, reusable and contain recycled content.
+
+Some of our PDCs use shredded cardboard dunnage made from discarded boxes to protect contents.
+
+Work with our customers to understand their delivery needs and ship in bulk when possible.
+
+This practice enables us to ship mutually agreed upon low priority freight when space becomes available on more affordable shipping options.
+
+Require that suppliers ship all new 300 mm wafers in reusable containers.
+
+When empty, we return these containers to the supplier for reuse or use them internally.
+
+Reuse packing materials that protect products during shipment (such as bubble packs and foam) shipping materials (such as boxes, crates and pallets) cases that ship precious metal reclaimable items to suppliers and plastic reels used in product distribution.
+
+We reuse bubble wrap from our Education Technology business unit as dunnage for TI.com shipments.
+
+Comply with the European Union (EU) Waste Electrical and Electronic Equipment and EU Packaging and Packaging Waste recycling programs for evaluation modules imported into that region.
+
+Place our PDCs in regions close to customers to accelerate delivery times, improve efficiency and facilitate product deliveries in the event of a disaster.
+
+Eliminate heavy and expensive custom cut foam, nonrecyclable foam, and foam and cardboard waste.
+
+Use reusable metal containers instead of shipping boxes at some of our PDCs to eliminate plastic and cardboard waste.
+
+See the Marketing and Labeling section of the GRI Index for more information about how TI manages product content labeling.
+
+PDC team members Danielle, Fernando and John led a pilot project at our Alliance PDC in North Texas to reduce the use of plastic packaging material by replacing it with recycled cardboard shredded into a lattice pattern.
+
+At TI, we believe good corporate governance is important to our long term success.
+
+We’ve had written governance guidelines since 1973, refining them over the years to meet company and shareholders’ needs.
+
+Our ambitions and core values are integral to building TI stronger, and we demonstrate responsible and ethical business practices by adhering to our stated principles.
+
+At year end 2022, TI had a unitary board system with 12 board members, including 10 independent directors, whose leadership and diverse backgrounds bring a vast amount of experience and knowledge to our company.
+
+TI's board of directors is dedicated to responsible and effective corporate governance and oversees the company's global business strategy.
+
+It includes three committees the audit committee, the compensation committee and the governance and stockholder relations committee.
+
+The board discusses its governance practices annually to ensure they truly make sense for TI in today's business climate.
+
+Where ESG related issues may have significance for TI, these matters are reviewed with the relevant committee.
+
+For example, the audit committee reviews the company’s practices with respect to risk assessment and risk management, specifically including environmental related risks.
+
+The governance and stockholder relations committee also oversees ESG matters in connection with its responsibility to review public issues of interest to company stakeholders.
+
+The directors' combined strengths assist them as they oversee the company’s current and future strategy, risks, and performance with the best interests of TI shareholder in mind.
+
+Our founders had the foresight to know that building a great company required a special culture to thrive for the long term.
+
+At TI, we refer to culture as Living Our Values ambitions, values and code of conduct, and it’s how we operate daily.
+
+Every TIer plays a critical role in upholding these principles, which we reinforce through leader involvement, employee engagement and training.
+
+We expect each TI employee to understand our code of conduct, which translates our ambitions and values into the standards we must uphold and provides clarity about the behaviors we will not tolerate.
+
+We provide TIers, managers, and leaders the training and tools they need to help them make the right decisions, do business the right way and build a stronger company for the long term.
+
+When a TIer sees behaviors inconsistent with our ambitions, values, code of conduct or policies, it is their responsibility to speak up.
+
+They can do so by talking to a manager or human resources, or by contacting the TI Ethics department directly or anonymously.
+
+Every employee receives ethics and compliance training.
+
+The topics may vary, but over a multi year cycle, they include TI’s code of conduct, environmental, safety and health (ESH), confidential information protection, information technology security, avoiding workplace and sexual harassment, and other compliance topics.
+
+Additionally, we train employees in specific roles in human rights policies, export compliance, anti corruption, insider trading, global competition law and the Responsible Business Alliance (RBA) Code of Conduct.
+
+We also engage managers on what it means to live our values and uphold our standards of ethical conduct by providing tools to reinforce our culture and ethics and compliance expectations within their organizations.
+
+Our GRI Index contains more information about our compliance with laws and regulations, anti corruption, anti competitive behavior and nondiscrimination practices.
+
+TI has well established policies and practices that facilitate lawful participation by the company and employees in the political process.
+
+These policies and practices define the activities we engage in and the responsibilities and practices of our political action committee (PAC).
+
+We advocate for policies that help us attract talent, drive innovation and promote competitiveness.
+
+Our specific areas of policy interest include tax, trade, talent and racial equity.
+
+To these ends, we collaborate with various U.S. and international industry associations on policy objectives.
+
+We are more active in some organizations than others and may not align on all positions.
+
+TI’s PAC is 100% employee funded, regulated, transparent and nonpartisan.
+
+The TI PAC enables certain employees to voluntarily join together to support federal, state and local political candidates whose positions align with the company’s business objectives.
+
+We provide additional information and disclosures on TI.com about the company’s political activities, TI’s PAC, the political activity of employees, and related policies and expectations.
+
+TI requires suppliers to share its commitment to responsible and fair business practices throughout the supply chain.
+
+We will not knowingly engage with a supplier that violates our values or requirements.
+
+We primarily buy materials for fabrication processes factory equipment and maintenance logistics services and nonproduction supplies and services from approximately 8,600 suppliers of various types and sizes.
+
+We seek suppliers that help us scale as we grow reduce total costs and waste improve efficiencies and deliver innovative services, materials and product support.
+
+Our worldwide procurement team coordinates the buying of goods and services, sets procurement strategies, identifies and vets qualified suppliers, negotiates terms and pricing and determines the best fulfillment methods.
+
+TI invests in driving sustainable and responsible business practices throughout its supply chain to mitigate business, labor and environmental risks.
+
+Collect and carefully consider a supplier’s human rights practices and environmental and safety records before purchasing.
+
+Our supplier website includes TI’s business requirements and standards for safe working conditions, labor and human rights protection, environmentally responsible operations and ethical behavior.
+
+We communicate these standards in our Supplier Code of Conduct, Supplier Ethics Expectations, Supplier Environmental and Social Responsibility Policy, Anti Human Trafficking Statement and other governing documents.
+
+As a member of the Responsible Business Alliance (RBA), an industry coalition dedicated to corporate social responsibility in global supply chains, TI also complies with the standards outlined in the RBA Code of Conduct.
+
+In the U.S., we actively pursue business opportunities with minority and women owned business enterprises (MWBEs) to drive economic equity and provide the company with unique, innovative, cost effective products and services.
+
+Each year, we set spending goals based on the types of projects we have planned and the availability of qualified vendors.
+
+In 2022, we spent more than 325 million with diverse U.S. suppliers.
+
+Specify performance requirements and expectations in our policies,.
+
+Business continuity contracts and purchase orders.
+
+Engage with industry groups such as the Semiconductor Industry.
+
+Association and Semiconductor Equipment and Materials International to discuss supply chain best practices and standards.
+
+TI continually assesses risks to its supply chain, including financial health and concentration in geographic areas, to ensure that procurement and management processes are rigorous enough to prevent or manage reputational issues, order fulfillment problems, shipping delays or increased costs.
+
+For more information about risk factors, see page 9 of our SEC Form 10 K.
+
+We require that suppliers maintain a business continuity plan in the event of a business interruption and make the contents of such plans available to us upon request.
+
+We also require that suppliers communicate with TI and implement their business continuity plan within 24 hours of a triggering incident to maintain supply continuity.
+
+We prioritize the suppliers we examine based on our financial investment, criticality, products and services they provide and their geographic location.
+
+Additionally, independent third party auditors evaluate select TI facilities each year against the RBA’s Validated Assessment Program protocol standards.
+
+We also conduct regular audits to evaluate employment contracts, working hours and dormitory conditions.
+
+For more information about our assessment processes, see our Anti Human Trafficking Statement.
+
+In 2022, we evaluated nearly 230 suppliers, which included 160 production suppliers that support our manufacturing operations with 335 factory locations 98% of all suppliers assessed met our performance expectations.
+
+The remaining 2% required corrective actions, which included additional training or enhanced policies.
+
+Regardless of a supplier’s respective risk rating, we require any supplier with actual or potential risks (such as those related to hiring activity, working hours, and wages and benefits) to take corrective actions.
+
+For more information about supply chain management, see our Supply Chain Responsibility webpage and the Procurement Practices section of the GRI Index.
+
+TI has processes to ensure that its products do not contain minerals derived from sources that finance or benefit armed groups in the Democratic Republic of Congo or adjoining countries.
+
+These minerals include tin, tantalum, tungsten and gold (3TG).
+
+TI has started taking steps to disclose the use of cobalt in its supply chain.
+
+We work diligently with our supply chain, including subcontracted manufacturers, to identify and eliminate non conformant material sources.
+
+Our standard operating procedures for conflict minerals supply chain management conform with the Organization for Economic Cooperation and Development’s Due Diligence Guidance, which requires establishing policies, structures and procedures, risk management and communication mechanisms.
+
+We distribute our Conflict Minerals Policy to our suppliers and expect their full and prompt response to our information requests.
+
+To gain insight into the country of origin, chain of custody and status of conflict minerals in our supply chain, we rely primarily on the findings of the Responsible Minerals Assurance Process (RMAP).
+
+RMAP is a program in which an independent third party evaluates smelters’ management systems and procurement practices and determines whether the smelter has demonstrated that it is conformant with the applicable RMAP standard.
+
+It is overseen by the Responsible Minerals Initiative (RMI), which was established by members of the RBA and the Global e Sustainability Initiative.
+
+TI is a member of the RBA and working groups participating in both the RMI and the Responsible Labor Initiative.
+
+Our research and information gathering show that in 2022, the suppliers in our supply chain for integrated circuits used 3TG minerals originating exclusively from conformant smelters.
+
+For more information and to access our SEC Form SD filing and Conflict Minerals Reporting Template (CMRT), see our Conflict Minerals webpage.
+
+A team of TIers performing routine safety and efficiency assessments at TI’s Richardson manufacturing site.
+
+To ensure that we are adopting and applying best practices and processes to respect human rights within our company, our industry and across our supply chain, we are a member of the RBA, the world’s largest industry coalition dedicated to corporate social responsibility in global supply chains.
+
+We train and encourage employees to speak up, express opinions and raise questions or concerns to any manager in multiple ways.
+
+We will not tolerate threats or retaliation against employees for reporting or speaking up.
+
+When we learn of concerns, we immediately evaluate the situation and work to address it.
+
+For more information about how TI manages human rights, see the Anti Human Trafficking Statement, Supply Chain Responsibility website, and the Non Discrimination, Child Labor, Forced or Compulsory Labor and Procurement Practices sections in the GRI Index.
+
+Respecting and protecting human rights are fundamental to our society's viability and to our business' success.
+
+TI is committed to protecting and upholding human rights and ensuring individual dignity, freedom and respect in its operations and supply chain.
+
+We take steps to ensure that all employment is voluntary, and that work hours and pay are fair and consistent with local labor standards and laws.
+
+We forbid the use of child labor in our operations and throughout our supply chain.
+
+Employees have the freedom to associate, the right to collective bargaining or both, as provided by local statute.
+
+We regularly conduct global employee surveys and virtual and in person roundtable discussions to understand site specific work environments better.
+
+Further, our Supplier Code of Conduct sets the same expectations of our suppliers and their suppliers to commit to the same principles and to uphold human rights, ethical practices and provide a safe work environment.
+
+Conducting periodic risk assessments and due diligence with suppliers using the OECD Guidelines for Multinational Enterprises.
+
+Conducting third party audits, on site interviews and assessments in high risk geographies to ensure the protection of employees’ and contractors’ rights.
+
+Assessing labor standards, delivering training and awareness building practices, and providing incident reporting tools.
+
+Ramping up 300 mm wafer production to better serve our customers.
+
+TI continuously monitors, plans and trains for both unanticipated and emerging operational risks, such as cyberattacks, natural disasters, extreme weather events, pandemics, geopolitical issues, social unrest, terrorism, or supply chain or product distribution delays.
+
+Our internally owned and regionally diverse manufacturing footprint includes 12 wafer fabrication plants, seven assembly and test sites, and multiple bump and probe facilities across 15 sites worldwide.
+
+In addition to our internal capacity, we have strong partnerships with external foundries and subcontractors to offer supply continuity.
+
+Monitoring risks, developing and modifying plans to address those risks, and training employees on crisis response.
+
+Assessing changes to environmental conditions, supply continuity, and the global regulatory and political landscape.
+
+Operating a 24 7 year round security communication center.
+
+Owning much of our manufacturing to provide customers with a greater assurance of supply and geopolitically dependable capacity.
+
+Building and positioning inventory globally at product distribution centers that are strategically located close to customers.
+
+Depending on the nature and severity of an incident, we activate our emergency response system.
+
+Our emergency response team assembles to quickly identify the appropriate resources, services and infrastructure required to mitigate potential losses and coordinate our response and communications.
+
+Critical business processes that make up our operations and the people accountable for ensuring their viability.
+
+Possible threats and risks, and whether controls are in place to manage them.
+
+Process recovery times to ensure that we respond and recover.
+
+As a global corporation, TI faces unexpected global events that occur without warning, from earthquakes and pandemics to severe weather events.
+
+The impact of these types of incidents can be minimal or substantial.
+
+When challenges arise, we aim to prevent human, environmental, financial and reputational effects while maintaining production and distribution.
+
+Our business continuity and emergency response planning include creating realistic scenarios and guiding leadership teams through various exercises to learn, refine and improve our responses to actual incidents.
+
+Our business continuity management framework is modeled after the ISO 22301 business continuity management standard, which helps us plan, implement, monitor and protect against business interruptions.
+
+To engage our leaders in enterprise risk planning, we regularly: efficiently and with the right resources.
+
+Teach them how to assess and prioritize risks based on severity and.
+
+Contingency strategies for all critical business processes that pose a high risk to people, revenue and reputation.
+
+Comprehensive recovery strategies to cover all aspects of response and recovery, prioritizing the continuation of products and services.
+
+Our Readiness 2 Recover program helps us measure the effectiveness of and compliance with our business continuity management requirements.
+
+Every two years (or as needed), we conduct risk assessments to identify and rectify existing controls and gaps.
+
+Ask them to evaluate and update contingency strategies based on lessons learned from either real events or scenario based exercises.
+
+Conduct drills, training, tabletop exercises and site level exercises to prepare for unforeseen events.
+
+TI works continuously to identify and eliminate potential threats to its employees, customers, IT infrastructure, proprietary technologies and confidential information.
+
+This protection is key to business growth and profitability, and maintaining compliance with relevant regulations.
+
+Our cybersecurity risk management process is based on best practice management and governance frameworks, such as the International Organization for Standardization (ISO), the National Institute of Standards and Technology (NIST) and the Center for Internet Security (CIS) Controls.
+
+We leverage foundational cybersecurity principles in our program, such as security by design, defense in depth, least privilege and resilience focused backups to manage risk.
+
+Using guidance from these organizations and information collected from our assessments, we develop cybersecurity plans, policies and protocols to reduce our risks and strengthen our security posture to protect our company, technology and intellectual property (IP).
+
+Our policies include defining the acceptable use of our information assets, access requirements for specific IP or technologies, protecting personal information and privacy, and complying with regulations such as the EU General Data Protection Regulation and the China Cybersecurity Law.
+
+Our global information security team identifies and responds to potential threats and works with our business units and support teams to improve security.
+
+Restrict access to data on our computers, servers,.
+
+Leverage third parties for annual penetration tests networks and other IT systems.
+
+Monitor IT systems and respond to alerts regarding inappropriate activity.
+
+Implement technical measures to protect TI’s web presence from external attacks, including protections for ordering products online at TI.com.
+
+Deploy industry standard protections, such as multifactor authentication, malware defenses and access review processes.
+
+Conduct risk and compliance assessments of third parties that request access to our IT resources and information.
+
+Deliver cybersecurity awareness and confidential information protection training to all TIers and specialized security training to our IT team.
+
+Conduct regular tabletop exercises to practice our response.
+
+Perform regular threat hunting and red team exercises.
+
+Our passion is to create a better world by making electronics more affordable through semiconductors.
+
+We were pioneers in the world’s transition from vacuum tubes to transistors and then to integrated circuits (ICs) and we’ve been advancing IC technology and the ability to reliably produce ICs in high volumes for decades.
+
+Each generation of innovation builds upon the last to make technology smaller, more efficient, more reliable and more affordable.
+
+Our innovations are at work all around you in things you experience every day, from connected cars to intelligent homes, from drones to smartphones.
+
+In 2022, TI was awarded 30 plus honors and recognitions around the world.
+
+These awards recognized our focus on creating a diverse and inclusive workplace, developing TIers, committing to our sustainability progress and building opportunities to launch careers.
+
+Each award represents our commitment to living our values and pride in our company.
+
+At TI, we bring together 33,000 of the world’s smartest people problem solvers known simply as TIers who are committed to shaping the future of electronics.
+
+We will act like owners who will own the company for decades.
+
+We will adapt and succeed in an ever changing world.
+
+We will be a company that we’re personally proud to be a part of and would want as our neighbor.
+
+When we successfully achieve these ambitions, our people, customers, communities and shareholders all win.
+
+Our people, known simply as TIers, are living our values every day to make our company passion a reality to create a better world by making electronics more affordable through semiconductors.
+
+We act with integrity and do the right thing, every time.
+
+Being trustworthy is foundational for us as a company and as individuals.
+
+We create an environment that unlocks everyone’s potential, where we treat one another with respect, value our differences, and are encouraged to put our thoughts and ideas on the table.
+
+We imagine new technologies that produce compelling products, open new markets and improve our competitiveness.
+
+We are curious, persistent and determined to overcome barriers.
+
+We hate to lose, so we continuously challenge ourselves to perform at our best.
+
+We invest in the best opportunities for sustainable growth.
+
+To stay competitive, we attract, develop and retain the best people.
+
+We are results oriented and hold ourselves accountable.
+
+Our customers have choices, and we act with urgency and deliver on our commitments.
+
+We improve our performance every day to help our customers succeed.
+
+Engineering and digital marketing team members discuss ways to bring our new portfolio of products and customer solutions to market.
+
+We are different by design, and believe that our diverse backgrounds and perspectives make TI’s products more innovative and our company stronger.
+
+We work to create an inclusive culture where we respect and encourage ideas, and where our people know that they can succeed and build long term careers.
+
+TI has intentionally designed global inclusion programming around these priorities to reinforce that the company values every voice, and to encourage TIers to bring their full selves to work and share their ideas.
+
+We are focused on reducing bias within our processes when interviewing candidates, reviewing job performance, conducting talent reviews and making compensation and advancement decisions.
+
+We also make unconscious bias content available in performance management workshops and directly to TIers through our learning and development system.
+
+We further train leaders to understand and recognize unconscious bias and use objective criteria and feedback from multiple sources to assess professional growth and to gather independent feedback when assessing job performance.
+
+One of the ways that TI is co creating an inclusive culture is through year long group based dialogue teams.
+
+These dialogue teams aim to build self awareness by learning to identify personal and systemic barriers to inclusion and how to interrupt exclusionary behaviors and challenge stereotypes.
+
+Our ambition calls us to be a company that we’re personally proud to be a part of and would want as our neighbor.
+
+We support employees’ efforts to get involved in our communities by serving on nonprofit boards, participating in ongoing volunteering and giving campaigns to create more inclusive communities, and working to spread awareness and education throughout the year.
+
+For decades, TI has remained committed to diversity and inclusion.
+
+While there is always more work to do, the progress we’ve made regarding diversity and inclusion is encouraging.
+
+We regularly assess our workforce relative to availability across gender, race and ethnic demographics to understand where we have gaps and where we need to place more emphasis to continue our progress toward having diverse representation at all levels.
+
+Women and underrepresented minorities15 are not reflected in engineering majors and careers at the same levels as men and non minorities.
+
+For this reason, we focus on growing the engineering pipeline through partnerships with high schools, universities and nonprofit organizations.
+
+Any totals less than 100% are attributable to a small percentage of undisclosed data.
+
+TI's employee resource groups (ERGs) provide a community that promotes a sense of belonging through open dialogue, education, volunteerism, well being, and professional development and business engagement opportunities.
+
+Each of our employee led ERGs has goals and objectives that align with our company values and business objectives, with support from at least one TI executive sponsor.
+
+In 2022, ERGs advanced our diversity and inclusion strategy through four focus areas career, company, culture and community.
+
+They hosted programs, panels and events that engaged TIers around the world.
+
+The Women’s Employee Network championed various events, including a Women Growth Summit and technical ladder roundtables in India.
+
+These focused on career development, helping prepare, support, mentor and develop women at all levels.
+
+The Indian Employee Network organized sessions focused on improving the quality of life and well being of.
+
+Through dozens of events, members received support throughout the pandemic, resources for parents and new meditation and breathing techniques to promote wellness.
+
+The Christian, Muslim and Jewish Employee Networks held faith based collaborative events, bringing together members from across TI to learn more about similarities across cultures and religions.
+
+The Black Employee Network (BEN) hosted programming such as a Conversations with BEN series to support Black TIers and their career progress, to discuss contemporary issues, and to build a networking community.
+
+Read more about how TI champions diversity and inclusion on TI.com and see Diversity and Equal Opportunity in the GRI Index.
+
+For more than 30 years, the TI Diversity Network has helped educate employees and elevate topics that matter to employees through 15 employee led ERGs that include thousands of members.
+
+Every network is open to all TIers, and our company encourages employees to join a network and get involved.
+
+The Women’s Employee Network hosted programming for all TIers focusing on open dialogue, development and awareness during Women’s History Month.
+
+TI's ability to grow and thrive depends on recruiting and retaining the best talent in the industry.
+
+The company takes a multifaceted approach to hiring employees with diverse experiences and backgrounds to drive innovation and growth.
+
+We actively engage and recruit top engineering and business students for internships and full time positions through career fairs, information sessions, networking and career preparation events, and partnerships with various student associations.
+
+We work closely with local community colleges and high schools to recruit and develop technicians and maintenance mechanics for our current and future manufacturing sites.
+
+The opportunity to collaborate with some of the world's smartest minds in technology.
+
+Competitive pay and benefits packages to help our employees live their best lives.
+
+Career development opportunities where employees feel empowered to own their career paths.
+
+An inclusive and diverse culture where all employees can be themselves and bring their best to work.
+
+Flexible work options to help TIers and their families get the most out of their personal life.
+
+We are focused on growing a diverse talent pipeline through leading industry organizations.
+
+We continue to grow the pipeline of female engineers and business leaders through partnerships with universities and through our women’s ERG and industry organizations, such as the Society of Women Engineers.
+
+We also partner with veteran services offices at U.S. universities and two year technical institutions, military bases, and organizations such as RecruitMilitary to hire skilled veterans.
+
+For more information about how TI manages recruitment, see indicator 401 1 and the Labor Management Relations section in the GRI Index.
+
+TI employees served as talent selectors at an event hosted by Prairie View A M to identify interns and new college graduates for engineering roles at TI.
+
+They are among the 100 TIers who meet with university students on campuses across the U.S. each year.
+
+Global rotation programs that help graduates transition from student to professional and gain experience in various roles.
+
+Early career pivotal learning roles, which expose nominated employees to new roles or skill sets by working closely with leaders, technical experts and talent across TI.
+
+Since 2014, we promoted 26% of this program’s participants to management.
+
+Further, ADTL has helped retain a significant proportion of its participants since 2016, with the number of participants elected to the TI Technical Ladder increasing nearly 60%.
+
+At TI, we are dedicated to providing employees with the tools and resources they need to chart the course for their careers.
+
+We help TIers set aspirational goals and create personal development plans to map the skills they need to succeed.
+
+We encourage all employees to discuss development and performance with their managers at least three times a year to receive feedback, document progress and determine any necessary refinements.
+
+Additionally, we offer formal learning and development opportunities at all levels to help every TIer new and experienced continuously evolve.
+
+Employees can access our internal hiring and learning platforms at any time to explore careers and chart development paths or complete mandatory training and other learning modules.
+
+We also customize learning opportunities to facilitate professional growth from internships to retirement.
+
+Internships at TI provide an opportunity to put education into practice on interesting projects that matter.
+
+From day one, our interns receive hands on, meaningful work that can make a real impact.
+
+Transitioning from individual contributor to manager to manager of managers.
+
+Understanding their leadership impact, how they build relationships with key stakeholders, and how they create and communicate strategies.
+
+Building their technical and behavioral skills to advance careers broader, deeper and higher.
+
+About 60% of managers began their careers at TI and we have promoted 99% of executive level leaders from within.
+
+Our internship program provides access to key leaders and enables each to network and learn from TIers at all company levels.
+
+Make an Impact, a yearlong program that enhances job performance and accelerates career growth using case studies, group projects and assessments, as well as boot camps that provide intensive training on tools, processes and fundamental skills.
+
+TI has tailored development to help engineers sharpen their technical abilities, share best practices and develop soft skills such as leadership, communication and influence.
+
+Technical leaders can pursue election to TI’s prestigious Tech Ladder, which can represent as many as 24% of our technical leaders.
+
+For more information about how TI manages employee development, see the Training and Education, Employment and Labor Management Relations sections in the GRI Index.
+
+We offer competitive compensation and benefits designed to ensure that our talented employees, who will drive future growth, remain at TI.
+
+Our compensation philosophy is based on pay for performance.
+
+Both the employee’s contribution to TI’s success and company performance determine an individual’s compensation.
+
+One of the unique aspects of TI’s compensation strategy is a global profit sharing program that rewards TIers for contributions to the company’s financial success.
+
+TI makes payouts as a percentage of eligible earnings based on profitability each year.
+
+Our profit sharing formula is based on profit from operations (PFO) and begins when TI reaches 10% PFO.
+
+All TIers receive a payout based on the same percentage of eligible earnings.
+
+Our profit sharing plan has paid out at the maximum level possible for the last seven years, equating to a 20% bonus for all eligible employees.
+
+Retaining employees with institutional knowledge, as well as technical and operating expertise, is a top priority for TI.
+
+We have a long standing practice to pay our employees fairly and equitably.
+
+TI maintains competitive and equitable compensation policies.
+
+We designed checks and balances into our compensation system, including conducting regular in depth analyses, to ensure we achieve them.
+
+In 2022, TI retained a third party to conduct a separate compensation analysis examining gender and race pay parity (including base, and bonus pay and equity) that considered job type, job level and country.
+
+Our analysis confirmed that within the U.S. and worldwide, TI pays women as much as men.
+
+In the U.S., TI pays minorities as much as non minorities.
+
+Globally, women make 1.015 for every 1.000 men earn.
+
+In the U.S., women make 1.002 for every 1.000 men earn, and minorities make 1.002 for every 1.000 non minorities earn.
+
+TI’s benefits programs vary by country according to local market practice.
+
+These programs can include medical, dental and vision plans short and long term disability plans and paid time off and retirement plans designed to adhere to local laws and regulations.
+
+Additionally, our expanded benefits support workplace inclusion and equality, and we are committed to creating an environment of respect by providing inclusive benefits that support the unique needs of TIers and their families.
+
+Resources and referrals for childcare and elder care.
+
+Confidential counseling sessions and tools to support well being.
+
+Concierge services for vacation planning, making reservations or other personal transactions.
+
+To refine work life program offerings, we engage employees and audit our programs annually to remain competitive and improve services.
+
+At TI, we believe in supporting our employees in all aspects of their lives, including the transition to parenthood.
+
+We offer parental leave benefits to all new parents, enabling them to take time off to bond with their new child and adjust to new demands in their lives.
+
+We are proud to be a family friendly workplace and remain committed to supporting our employees throughout their parenthood journeys.
+
+Our U.S. parental leave benefits allow employees to take paid time away from work without worrying about financial or job security.
+
+This benefit extends to all employees, regardless of gender, sexual orientation or family structure.
+
+Tailored career development plans, mentoring programs and executive interaction to develop and encourage professional growth.
+
+In 2022, Glassdoor recognized TI in its annual Best Places to Work ranking for the company’s culture, atmosphere and great employees.
+
+For more information about how TI manages compensation and benefits, see the Employment, Economic Performance and Diversity and Equal Opportunity sections in the GRI Index.
+
+TI invests in and incorporates safe and healthy practices and controls into its employees’ daily routines to help prevent workplace injuries and illnesses.
+
+TI’s safety goals include a days away, restricted or job transfer (DART) case rate of 0.08 or less and a recordable case rate of 0.20 or less.
+
+Our safety oriented culture includes implementing safety requirements and best practices globally to provide employees with a safe and healthy work environment.
+
+Maintain proper safety and ergonomic protocols and controls.
+
+Develop and maintain internal standards, which often exceed regulatory requirements.
+
+Design and build inherently safe buildings and engineer out equipment risks.
+
+Continuously audit our processes to assess compliance and performance.
+
+To reduce exposure to health risks, TI applies rigorous industrial hygiene standards that establish the minimum requirements necessary for the safe use and proper storage of hazardous chemicals and other materials.
+
+These standards include hazard communication and training, chemical labeling, and hazardous waste management.
+
+Additionally, we eliminate or limit the use of potentially harmful materials, install ventilation and isolation controls, and conduct general hygiene and individual assessments.
+
+The resources that we offer to TIers to take control of their health vary by country, depending on the extent of government health benefits available.
+
+In the U.S., we provide free on site flu vaccines and preventive screening programs, fitness and nutrition programs, employee assistance programs, and counseling and education services.
+
+Our health management service provides coaching and oversight to improve the well being of TIers who have experienced a significant medical event have extended work absences or are dealing with multiple diagnoses, treatments and providers.
+
+Our benefit advocacy service helps estimate the costs of medical procedures and assists with locating affordable and quality health providers.
+
+Our DART and recordable rates continue to be among the lowest in the U.S. semiconductor industry, according to the U.S. Occupational Health and Safety Administration and the Bureau of Labor Statistics.
+
+In 2022, TI’s DART rate was 0.18 while the 2021 industry average was 0.7 (2022 industry data is not yet available).
+
+For more health and safety data, see the Performance Data Appendix.
+
+See the Occupational Health and Safety section in the GRI Index for more information.
+
+One of our three ambitions is to be a company that we’re personally proud to be a part of and would want as our neighbor.
+
+For decades, TI has worked to build stronger communities where the company operates.
+
+We seek to improve the quality of life and strengthen our site communities across the globe.
+
+TI and the TI Foundation19 make well considered and well measured investments in several areas.
+
+TI targets its largest area of philanthropic giving at improving education.
+
+Since 2010, the TI Foundation has invested more than 73 million in science, technology, engineering and math (STEM) education to improve math and science learning outcomes and opportunities for Black, Latino and female students who historically face economic and educational barriers.
+
+Globally, we aim to improve access to educational resources in TI’s international site communities.
+
+We help sustain the arts that make Dallas culturally inclusive and vibrant through multi year TI Foundation grants to premier organizations that emphasize the diversity of their outreach efforts and programming and through transformative grants to diverse groups that can become larger in scale and impact.
+
+We support programs that dismantle barriers to racial equity, emphasizing police training and practices that reinforce accountability so that all people are policed equitably and our communities are safer places to live and work.
+
+We aim to strengthen programs and services for critical needs among racially and economically marginalized populations.
+
+We also preserve emergency funds for site communities and employees devastated by natural or human caused disasters.
+
+To double the impact of U.S. employee giving, the TI Foundation matches active and retired employee donations of up to 30,000 per year to eligible nonprofit organizations.
+
+In 2022, the TI Foundation provided more than 11 million in matching gifts.
+
+TIers across the globe embody the philanthropic spirit our company founders set for TI.
+
+Their generosity especially during a time when so many are in great need is humbling, inspiring and gives us one more reason to be proud employees of Texas Instruments.
+
+It makes grants primarily in North Texas and the U.S.
+
+Our company’s North Texas headquarters is located in one of the most prosperous regions in the U.S., but hunger is a problem for one in eight residents, driven by inflation.
+
+In response, the TI Foundation made a 300,000 grant to the North Texas Food Bank, helping provide approximately 1 million meals.
+
+The grant supported the food bank’s mission to nourish North Texas, including in Dallas, Collin and Grayson counties, where our company has large operations.
+
+Other notable support included more than 230,000 given by our employees and the TI Foundation including matching gifts to help the American Red Cross and its international affiliates provide humanitarian relief in Ukraine.
+
+TI also donated 150,000 to the China Youth Development Foundation in response to a 6.8 magnitude earthquake that struck the southwestern Chinese province of Sichuan.
+
+The TI Foundation made a two year, 250,000 grant to Project Unity for programs that aim to remove racial divides in North Texas.
+
+Programs focus on dialogue and trust building between area law enforcement, youth and communities.
+
+The grant to Project Unity is the third investment by the TI Foundation as part of its commitment to support programs that dismantle barriers to racial equity.
+
+The TI Foundation awarded 1.3 million in grants to Dallas arts organizations to support their objective of sustaining the arts that make Dallas culturally inclusive.
+
+Recipients ranged from a new, experimental arts organization to long standing partners that present a variety of cultural experiences that reflect the diversity in audiences and programming.
+
+TI and the TI Foundation made 14 million in education grants, which included matching employee and retiree donations.
+
+With the evolving learning landscape and widening disparities in mind, the TI Foundation continued its 10 years of supporting public school districts in southern Dallas County through 4.7 million in funding.
+
+We also furthered our two decades of support for the National Math and Science Initiative’s College Readiness Program, which serves four historically low income public school districts in southern Dallas County and one in Utah that primarily serves Navajo tribal nation students.
+
+A new 1 million grant built on the work that TI began in 2021 with United Way of Metropolitan Dallas and Educate Texas on a Heal, Play, Learn program that addresses social and emotional wellness physical activity and arts engagement for students, teachers and families in southern Dallas County’s Cedar Hill and DeSoto public school districts.
+
+The 2022 grant allowed those two districts to continue programming from 2021, during which 2,500 students, teachers and family members participated.
+
+Funding also enabled the program to expand into the Lancaster Independent School District, also in southern Dallas County.
+
+While not specifically a STEM investment, the active learning components of Heal, Play, Learn align with Texas grade level math and science requirements.
+
+They are also heavily focused on soft skill STEM concepts, such as critical thinking, problem solving, creativity and collaboration.
+
+Districts reported improved teacher and student morale and higher enrollment by 5% for students who were part of the program vs. those who were not.
+
+Our employees are passionate about giving back and improving the quality of life in their communities.
+
+TI has more than 20 global community involvement teams and other civic minded employees who work hard to solve local needs.
+
+Together, they mentor students, coach robotics competitions, volunteer at food banks and homeless shelters, clean up neighborhoods, plant trees and give valuable time to serve their communities in other ways.
+
+Volunteering programs brought TIers back together after the COVID 19 pandemic.
+
+At nearly 257,000 hours of employee and retiree time donated, the number of hours spent volunteering doubled from 2021 at a value20 of 7.7 million.
+
+In the U.S., the TI Foundation matches the value of employees’ volunteer hours up to 1,000 per year, which added almost 400,000 of additional support for their favorite causes.
+
+Food bank donations and other activities by TIers in Dallas, Taiwan, Japan and Maine addressed hunger.
+
+Employee networks in Santa Clara and Dallas helped build bikes for impoverished children.
+
+TIers at our manufacturing site in Lehi, Utah, distributed refurbished computers to area students through an e waste recycling program.
+
+Our community involvement teams in China, Malaysia and the Philippines focused their time on volunteering with children and at schools, painted murals, donated groceries to low income families, and shared the joy of learning math and science.
+
+For more information about how we manage community citizenship, see Local Communities in the GRI Index and Education Engagement.
+
+Nathan a wet process owner at TI’s Lehi, Utah, manufacturing site was recognized with a 2022 TI Founders Community Impact Award, which the company bestows on TIers who have made outstanding contributions to the communities where they live and work.
+
+The biennial award honors our company’s founders and their long history of philanthropy and volunteerism.
+
+Nathan demonstrates a remarkable commitment to working with the unsheltered and hungry in the Salt Lake City area, which like many large U.S. cities is experiencing a rise in homeless populations.
+
+He received a 10,000 grant from TI to direct to a nonprofit organization of his choice.
+
+Five other finalists each received 2,500 in grants to direct to selected nonprofits.
+
+I serve this specific community because I was very close to losing my home and have been on food stamps before, Nathan said.
+
+I know how a safe home and knowing where your next meal will come from has a tremendous effect on the rest of your life.
+
+I believe every human has inherent value, and it is easy to fall into an unsheltered situation and very hard to get back out of it.
+
+TI’s annual United Way campaign raised 9.6 million in 2022 from employees and retirees, company sponsorships and TI Foundation grants and matching gifts.
+
+Education, which opens doors, broadens horizons and sets kids up for success.
+
+Income, which brings financial stability a key ingredient of a steady, successful life.
+
+Health, which affects everything from how well a child can learn to how much an adult can earn.
+
+Volunteer participation during the campaign was high, with 1,700 hours spent supporting more than 50 activities across our U.S. sites to support United Way partner agencies.
+
+The generosity of TIers and their giving and volunteering spirit never ceases to amaze me, said Andy Smith, director of giving and volunteering for TI and executive director of the TI Foundation.
+
+Our company’s United Way campaign proved that when we live and give united to build stronger communities, we can advance the common good and create lasting change for every person.
+
+TI's history with United Way of Metropolitan Dallas dates to the early 1960s, when TI co founder J. Erik Jonsson helped oversee the efforts of the American Red Cross and the Community Chest in Dallas to create what was then called the United Fund.
+
+Since then, our company, the TI Foundation and our employees have worked closely with United Way to build stronger communities.
+
+TI’s unit production increased 25% from 2018 to 2022.
+
+TI’s 2015 GHG emissions baseline was adjusted in the 2021 Corporate Citizenship Report to reflect structural changes to our operations, including the divestiture of a wafer fabrication plant in Scotland and the acquisition of a 300 mm wafer fabrication plant in Utah.
+
+The 2015 baseline has been adjusted from 2,471,357 to 2,832,709 MTCO2e in line with the guidance provided by the WBCSD WRI’s The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard.
+
+Under current World Semiconductor Council (WSC) reporting guidance, the association that tracks semiconductor emissions, there is no requirement to track and report FHTF.
+
+Recently introduced U.S. Environmental Protection Agency (EPA) rules for disclosure to the EPA included FHTF and we comply with this requirement.
+
+Recently, the WSC has aligned on all regions will moving to 2019 Intergovernmental Panel on Climate Change (IPCC) guidance, which includes FHTF.
+
+TI is considering the timing of a transition to the 2019 IPCC guidance and will include FHTF emissions upon adoption.
+
+Nitrogen trifluoride (NF3) TI’s unit production increased 25% from 2018 to 2022.
+
+TI’s unit production increased 25% from 2018 to 2022.
+
+While the North Texas project came online in December 2022, renewable energy generated in that month is not included in the total renewable energy number of 2022.
+
+TI’s unit production increased 25% from 2018 to 2022.
+
+TI’s unit production increased 25% from 2018 to 2022.
+
+We also measure effluent rates and volumes and analyze industrial wastewater and stormwater samples using standard U.S. Environmental Protection Agency methodologies.
+
+This methodology significantly reduced the amounts reported for hazardous waste.
+
+This methodology significantly reduced the amounts reported for hazardous waste.
+
+The 2022 data reflects the corrected shift to the non hazardous category.
+
+This methodology significantly reduced the amounts reported for hazardous waste.
+
+Any totals of less than 100% are attributable to a small percentage of undisclosed data.
+
+Lost time is an indicator of the loss of productivity for an organization as a result of a work related injury it does not necessarily indicate the extent of harm suffered by a worker.
+
+TI employees do not include turnkey or supplemental contractors.
+
+Statement of use Texas Instruments has reported the information cited in this GRI content index for the period Jan. 1, 2022, to Dec. 31, 2022, with reference to the GRI Standards.
+
+Our company name is Texas Instruments Incorporated (NASDAQ: TXN), and our headquarters are located at 12500 TI Blvd., Dallas, TX 75243.
+
+See the global map on the TI at a Glance section of our website for other countries of operation.
+
+For information about TI’s ownership structure, see SEC Form 10 K, Part I.
+
+TI has two reportable segments: analog and embedded processing.
+
+We report the results of our remaining business activities in Other (see SEC Form 10 K, Part I, Item 1, pages 2 4).
+
+TI’s Corporate Citizenship Report covers environmental, social and governance (ESG) topics for all TI owned entities and facilities included in financial statements.
+
+TI has produced its Corporate Citizenship Report annually since 2006, with a reporting period that covers the previous calendar year (2022, unless otherwise stated).
+
+This period aligns with the company’s financial reporting period.
+
+For questions about the information contained within this report, email citizenshipfeedback list.ti.com.
+
+We include restatements of data and information in the footnotes of TI’s 2022 Corporate Citizenship Report and Performance Data Appendix.
+
+TI performs extensive internal due diligence to ensure the accuracy of the information and data presented in this report.
+
+In 2023, ERM Certification and Verification Services conducted limited assurance of scope 1 and scope 2 greenhouse gas emissions (GHG) data for 2022 (see the Assurance Statement).
+
+We currently do not seek independent assurance of any additional nonfinancial data however, Ernst Young audits the TI Foundation’s financial records annually.
+
+For information about the markets TI serves, see SEC Form 10 K, Part I, pages 5 6.
+
+We market and sell our products through direct sales channels, including our website and broad sales and marketing team, and, to a lesser extent, through distributors.
+
+Over the past several years, we have been investing in new capabilities to build closer direct customer relationships.
+
+As a result, in 2022 about 70% of our revenue was direct, which includes TI.com, as customers valued the convenience of purchasing online.
+
+Closer direct relationships with our customers help to strengthen our reach of market channel advantage and give us access to more customers and more of their design projects, leading to opportunities to sell more of our products into each design.
+
+Additionally, broader and deeper access gives us better insight and knowledge of customer needs.
+
+Our investments in new and improved capabilities to directly support our customers include website and e commerce enhancements as well as inventory consignment programs and order fulfillment services.
+
+Our TI.com e commerce channel offers a localized online experience in many countries, with convenience features such as immediate availability, local currency, payment methods, invoicing and importer of record.
+
+Our new application programming interfaces (APIs) give customers the ability to directly access real time inventory information about TI products from their own systems, enabling them to purchase available chips immediately to better support their supply needs, reducing cost and delays.
+
+For more information, see SEC Form 10 K, Part I, Item 1, pages 6 7.
+
+In 2022, TI brought two new 300 mm factories online in Richardson, Texas, and Lehi, Utah.
+
+The company is building additional fabs in Sherman, Texas and Lehi, Utah, which will further expand TI’s production capacity.
+
+We spend roughly 80% of procurement dollars with approximately 300 suppliers, of which about 180 are critical to supporting semiconductor manufacturing.
+
+We define critical suppliers as those essential to the supply strategy of a category procurement team that could cause a major disruption in manufacturing or design output.
+
+When needed, we outsource the manufacturing of wafers or product assembly and testing.
+
+For more information about our supply chain, see the Supply Chain Responsibility section in TI’s 2022 Corporate Citizenship Report.
+
+See the Workforce Representation section in TI’s 2022 Corporate Citizenship Report and the Performance Data Appendix for employee data.
+
+In 2022, TI classified 23 employees as temporary (mostly student workers) and classified about 200 as part time.
+
+Read about TI’s governance structure, roles and responsibilities on the governance webpage and Board Oversight of ESG Matters.
+
+See the governance section of TI’s 2022 Corporate Citizenship Report for board diversity data.
+
+Read about TI’s director nomination and selection process on the Investor Relations FAQs webpage and in TI's 2023 Proxy Statement.
+
+Read about TI’s governance structure, roles and responsibilities on the governance webpage, Investor Relations FAQs and TI's 2023 Proxy Statement.
+
+Read about TI’s governance structure, roles and responsibilities on the governance and Board Oversight of ESG Matters.
+
+Read about TI’s governance structure, roles and responsibilities on the governance webpage and Board Oversight of ESG Matters.
+
+Read about TI's conflict of interest and related person transactions policies in TI's 2023 Proxy Statement.
+
+See the Ethics and Compliance section of TI’s 2022 Corporate Citizenship Report for how employees can report concerns.
+
+The company encourages TIers to raise questions or concerns about conduct that may be inconsistent with Living our values.
+
+TI will not tolerate retaliation against those who have reported an issue in good faith.
+
+Anyone who retaliates against an employee for these activities is subject to disciplinary action, including termination.
+
+TI’s board of directors has established that its Governance and Stockholder Relations committee should maintain the right balance of knowledge, experience, background and capability, which includes key ESG matters.
+
+Read about TI's board evaluation process in TI's 2023 Proxy Statement, page 17.
+
+Read about TI's remuneration policies for directors and named executive officers in TI's 2023 Proxy Statement, pages 22 25.
+
+Read about TI's remuneration policies for directors and named executive officers in TI's 2023 Proxy Statement, pages 22 25.
+
+Read about TI's remuneration policies for directors and named executive officers in TI's 2023 Proxy Statement, pages 22 25.
+
+See the Letter from the CEO in TI’s 2022 Corporate Citizenship Report to read about the company’s commitment to citizenship and sustainability.
+
+TI’s Living our values TI’s ambitions, values and code of conduct addresses responsible business conduct, human rights and the methods for reporting any concerns for all employees globally.
+
+See the Ethics and Compliance section of TI’s 2022 Corporate Citizenship report and the company’s Supplier Code of Conduct.
+
+See the Ethics and Compliance section of TI’s 2022 Corporate Citizenship Report for how employees and others can report concerns.
+
+TIers and others are encouraged to raise questions or concerns about conduct that may be inconsistent with Living our values.
+
+We investigate and work to resolve all inquiries and take appropriate remedial measures.
+
+See the Ethics and Compliance section of TI’s 2022 Corporate Citizenship Report for how employees can report concerns.
+
+We encourage TIers to raise questions or concerns about conduct that may be inconsistent with Living our values.
+
+TI will not tolerate retaliation against those who have reported an issue in good faith.
+
+Anyone who retaliates against an employee for these activities is subject to disciplinary action, including termination.
+
+TI did not receive material fines or nonmonetary sanctions related to social, economic and environmental issues in 2022.
+
+TI belongs to many associations with which it works on various policy objectives.
+
+We are more active in some organizations than others and do not work on all association issues.
+
+We also collaborate with other outside groups and coalitions, such as the Responsible Business Alliance and Semiconductor Industry Association, to advance policies that drive growth promote competitiveness and support our shareholders, customers, employees and the communities in which we operate.
+
+We engage with stakeholders who directly influence or are interested in our operations.
+
+TI’s stakeholders include employees, customers, shareholders, communities where we have operations, academia, public officials, trade associations, regulatory agencies, nongovernmental organizations, analysts, suppliers, contractors, TI retirees and potential employees.
+
+We tailor our engagement strategies and communications to the unique interests of the people and organizations that directly influence or have an interest in our operations.
+
+On ESG matters, we routinely engage investors, customers, suppliers, policymakers and other stakeholders to discuss issues of mutual interest.
+
+Our senior leaders regularly share stakeholder feedback on ESG matters with the executive team and board of directors.
+
+Engagement mechanisms generally include meetings, calls and emails and vary in frequency.
+
+Stakeholders can ask questions or share opinions through our website (TI.com), email (citizenshipfeedback list.
+
+We have an accounting and audit hotline for addressing accounting and audit related topics and relate all inquiries received on the hotline to the Audit Committee chair of our board of directors.
+
+Employees at our global operations have always had the freedom to associate and the right to collective bargaining as provided by local statutes therefore, we do not track the percentage of employees covered by such agreements.
+
+TI solicits input from internal and external stakeholders throughout the year through regular engagement.
+
+We also examine third party sustainability assessments and benchmark disclosure trends and best practices.
+
+We then compare these inputs to our company priorities to determine what topics and disclosures to include in our annual Corporate Citizenship Report.
+
+The input collected in 2021 continues to inform our reporting topics, while incorporating feedback from various stakeholder engagements in 2022.
+
+Business continuity and risk management Environmental impact (greenhouse gas emissions, energy consumption and the use of renewable sources, and water and wastewater) Materials and chemical management Workplace (diversity and inclusion, recruitment and retention, development, compensation and employee health and safety) Supply chain responsibility (including labor and human rights and conflict minerals) Ethics Public policy Giving and volunteering.
+
+Information about how TI manages material topics can be found in indicators 3 3 within this index and our 2022 Corporate Citizenship Report.
+
+Risk Management and Business Continuity in the report and at the end of this index.
+
+Environmental Sustainability in the report and GRI 302 through GRI 306 in this index.
+
+Workplace in the report and GRI 201 3, GRI 202, and GRI 401 through GRI 406 in this index.
+
+Supply Chain Responsibility in the report and GRI 204 in this index.
+
+Ethics and Compliance in the report and GRI 2 16 GRI 2 23 through 2 27 and GRI 205, 206, 402 and 406 in this index.
+
+Public Policy in the report and GRI 415 in this index.
+
+Learn more about TI’s financial oversight in the 2022 Annual Report, Proxy Statement and SEC Form 10 K.
+
+Our 2022 Annual Report provides information about our financial performance.
+
+See the Giving and Volunteering section of TI’s 2022 Corporate Citizenship Report and Performance Data Appendix for philanthropic contributions.
+
+TI evaluates risks related to the changing environment, such as severe weather, water availability, flooding and other threats.
+
+Each site and region evaluates these broader environmental risks.
+
+We invest capital in engineering controls that reduce operational and environmental impacts.
+
+We base each manufacturing site’s financial value on product revenue generated and its assets.
+
+Any potential revenue loss associated with an environmental or severe weather event generates a potential business interruption loss, which we can partially offset by insurance.
+
+TI’s Risk Management and Business Continuity office reports companywide risks, such as those associated with environmental change, to the chief financial officer.
+
+For all U.S. employees who choose to opt into and contribute to a 401(k), we match 100% of their contributions, up to 4% of annual eligible earnings.
+
+We match up to 2% percent for employees who continue to accrue a benefit in our pension plan.
+
+For qualifying employees, we offer deferred compensation arrangements.
+
+TI has various employee retirement plans, including defined contribution, defined benefit and retiree healthcare benefit plans.
+
+Contributions to these plans meet or exceed all minimum funding requirements.
+
+For more information, see SEC Form 10 K, Part II, Item 8, Note 7, pages 43 48: Postretirement benefit plans.
+
+We offer a global profit sharing program that rewards all eligible TIers for contributing to our financial success.
+
+Some countries, such as France and Mexico, have statutory requirements for their local profit sharing programs, which we meet.
+
+TI receives tax benefit incentives from federal, state and local governments worldwide.
+
+These incentives are commonly available to manufacturing companies with investments in equipment and facilities, employment, and R D. See SEC Form 10 K, Part II, Item 8, Note 2, pages 33 34 and Note 4, pages 37 40 for additional details.
+
+See the Compensation and Benefits and Recruitment sections of TI’s 2022 Corporate Citizenship Report and our responses to GRI 401: Employment and GRI 406: Anti Discrimination in this index for more information about how we manage market presence.
+
+TI does not maintain a standard entry wage for every country.
+
+However, we verified that we are paying employees above the local minimum wage in every country in which we operate.
+
+We compensate each employee based on their experience, performance, roles and responsibilities, regardless of gender, race, ethnicity or other protected characteristics.
+
+TI recruits senior management across globe, and promotes a high percentage of leaders from within.
+
+We currently don’t have a tracking system to gather hiring data geographically in this way.
+
+See the Supply Chain Responsibility section of TI’s 2022 Corporate Citizenship Report and TI’s Suppliers website to learn more about how TI manages its supply chain.
+
+Governance TI’s vice president of worldwide procurement and logistics, who reports directly to the chief financial officer, leads supply chain management.
+
+Together, they oversee supply chain policies, performance and risk management.
+
+TI’s director of supply chain responsibility oversees supplier social and environmental responsibility and manages supplier diversity.
+
+Codes of conduct TI suppliers must adhere to TI’s Supplier Code of Conduct, which uses the Responsible Business Alliance’s (RBA) code of conduct as its foundation and includes environmental standards specifically applicable to TI’s suppliers.
+
+Management system Our supply chain management system provides a framework to systematically manage procurement, inventory, manufacturing, quality and distribution processes.
+
+It also helps us comply with operational and regulatory standards, track costs and monitor risks.
+
+Our management system meets the certification requirements of the International Organization for Standardization (ISO) Quality Management System 9001, ISO Technical Specification 16949 and International Automotive Task Force 16949.
+
+The ISO annually evaluates the system as part of its recertification process.
+
+Engagement When initiating relationships with suppliers, we educate them about our standards and expectations for safe, humane and ethical labor practices, as well as human trafficking, forced labor and workers’ rights.
+
+We routinely communicate these guidelines in meetings on our supplier website and in purchase orders, supplier contracts and other related documents.
+
+We also routinely collaborate with industry groups such as the RBA, the Semiconductor Industry Association, and Semiconductor Equipment and Materials International to discuss and create supply chain standards and share best management practices.
+
+Training We deliver online and in person training on our Supplier Code of Conduct, standards and expectations.
+
+We also leverage RBA’s training programs to help suppliers understand the alliance’s code of conduct, labor risks, respecting workers’ rights, hiring migrant workers and more.
+
+Responsible minerals TI is an early member of the Responsible Minerals Initiative, created by RBA and Global E Sustainability Initiative members, which works to advance effective policies that address conflict mineral concerns.
+
+TI works diligently with its supply chain, including subcontracted manufacturers, to identify and eliminate non compliant sources of material.
+
+Grievance mechanisms TI has established grievance mechanisms to ensure that its buyers or procurement representatives meet with suppliers to address any questions or concerns.
+
+If suppliers (or employees or contractors of suppliers) prefer, they can contact our Ethics Office to ask questions or discuss issues anonymously.
+
+Our Supply Chain Management team can also assist with identifying and addressing issues inconsistent with our ethics and values.
+
+Our Supplier Code of Conduct requires our suppliers to establish and maintain programs that ensure the confidentiality, anonymity and protection of supplier and employee whistleblowers unless prohibited by law.
+
+Suppliers must have a communication process for their personnel to raise concerns without fear of retaliation.
+
+Resources TI allocates extensive financial, human, training, information and engagement resources to help suppliers understand its policies and expectations, roles and responsibilities, performance and ethics expectations, and environmental, safety and health (ESH) and labor protections.
+
+TI does not currently report supplier spending by individual markets.
+
+See the Ethics and Compliance section of TI’s 2022 Corporate Citizenship Report and Living our values TI’s ambitions, values and code of conduct to learn more about our management approach to anti corruption.
+
+We assess all manufacturing sites for corruption and ethics risks annually using the RBA’s self assessment tools.
+
+Additionally, we leverage an industry leading anti corruption and third party management system to assess our external engagements.
+
+TI’s anti corruption compliance program assesses its worldwide operations and suppliers for risks related to corruption.
+
+TI does operate in countries that are considered at higher risk for corruption.
+
+However, the semiconductor industry is relatively low risk compared to construction, extractive or other industries where conducting business requires considerable interaction with government officials.
+
+We have policies in place and conduct focused training for certain high risk countries and functions to address and mitigate these risks.
+
+TI provides ethics and compliance awareness training that includes anti corruption topics to all employees, select suppliers and third parties.
+
+Additionally, we make our anti corruption policy and code of conduct available to all employees and translate them into multiple languages.
+
+We periodically assess and revise training programs and related efforts to reflect legal changes and support continuous compliance improvement.
+
+TI investigates all reports for review and action.
+
+If any confirmed incidents occur, we will take appropriate remedial actions.
+
+For confidentiality reasons, we do not publicly report the number or nature of such incidents.
+
+See the Ethics and Compliance section of TI’s 2022 Corporate Citizenship Report and Living our values TI’s ambitions, values and code of conduct to learn more about the company’s management approach to anti competitive behavior.
+
+We follow the laws, rules, and regulations where we operate and require our suppliers to do the same.
+
+We are committed to win, but we’ll never break the rules in order to win.
+
+We promise to respect all regulations and laws that promote fair competition.
+
+See SEC Form 10 K for material legal proceedings involving TI.
+
+We report tax obligations in accordance with country specific requirements.
+
+Note: The following applies to TI’s overall environmental, safety and health (ESH) management, which includes energy, emissions, materials and water.
+
+Management system Our ESH management system facilitates the planning, execution, evaluation and management oversight of activities and strategies.
+
+It meets certification requirements set by the International Organization for Standardization (ISO) 14001 (environmental management system criteria) and ISO 45001 (occupational health and safety management system criteria).
+
+Our management system also contains programs, policies, controls, processes and measurement tools based on industry best practices and international standards.
+
+It helps us mitigate risks, improve our performance, fulfill compliance obligations and achieve our objectives.
+
+Programs include extensive chemical and material screening, material sourcing, waste profiling, emissions management, and responsible recycling and disposal.
+
+We require 100% of our employees and supplemental contractors at all TI manufacturing and assembly test sites to adhere to management system requirements.
+
+Other personnel not managed by TI are responsible for following their companies’ ESH management procedures and applicable regulatory requirements.
+
+To ensure that our internal management system is effective, the Worldwide ESH Compliance Support team and independent third parties perform audits at each facility every three years in interim years, the facilities perform self assessments.
+
+They examine compliance with legal and TI standards and training effectiveness.
+
+Additionally, we: Survey employees and external stakeholders.
+
+Conduct legally required inspections and monitor incident rates.
+
+Benchmark against the RBA’s self assessment disclosure and its code of conduct and against peers and members of the Semiconductor Industry Association.
+
+Have select sites third party audited under the RBA’s Validated Audit Program.
+
+We communicate gaps and best practices to other sites to avoid similar issues.
+
+Each manufacturing site also reports performance using a scorecard that measures energy use, water efficiency and landfill diversion.
+
+We share scorecards internally for transparency and best practice awareness and as an accountability mechanism.
+
+We have not had to make significant adjustments to our corporate level ESH management system because of audit findings.
+
+Goals TI implements programs to reduce energy intensity, material and water consumption, and GHG emissions.
+
+We track and report the effectiveness of these initiatives to senior leaders quarterly.
+
+Policies TI’s ESH policy is available in multiple languages: English, traditional Chinese, Simplified Chinese, Japanese, Malay, Spanish, German and Korean.
+
+TI’s Living our values TI’s ambitions, values and code of conduct also includes sections on protecting human health and the environment.
+
+Engagement We evaluate a proposed project's potential positive and negative impacts on a community by conducting environmental impact assessments before site selection.
+
+Grievance channels We offer several channels through which internal and external stakeholders can submit ESH questions, concerns or grievances.
+
+All employees and supplemental contractors have stop work authority to remove themselves from work situations that they believe could cause injury, illness or environmental harm.
+
+They can also anonymously contact their supervisor, site ESH staff or the TI Ethics Office.
+
+Customers can contact ti.com support or email all other ESH related inquiries to citizenshipfeedback list.ti.com.
+
+Boundaries Our organizational boundary includes TI manufacturing sites, larger non manufacturing sites and support facilities subject to contracts considered embedded leases by TI for financial accounting purposes.
+
+Our operational boundary includes scope 1 and 2 emissions and water and wastewater from these sites and facilities, as applicable.
+
+More information on TI’s approach to GHG emissions reporting can be found in the TI GHG Emissions Inventory and Management Plan.
+
+Resources TI allocates extensive financial, human, training and communication resources to help TIers monitor and control potential ESH impacts, protect employee health and safety, understand specific ESH roles and responsibilities and drive improvements.
+
+We provide our ESH team with extensive training and tools to implement appropriate industry best practices and comply with regulatory requirements.
+
+To guide these efforts, we require employees and supplemental contractors at all manufacturing and assembly test sites to adhere to our ESH Policy and Principles.
+
+See the Energy section of TI’s 2022 Corporate Citizenship Report and GRI: 302 ESH Disclosure of Management Approach in this index to learn more about how we manage energy consumption.
+
+See the Energy section of TI’s 2022 Corporate Citizenship Report and the Performance Data Appendix to learn more about the energy consumed from renewable and non renewable sources.
+
+For details on energy consumed outside of TI, see our CDP Climate Change response.
+
+When calculating energy intensity, we divide the total energy consumption by the number of wafer chips (not including external manufacturing) produced each year.
+
+We then compare this to a 2015 base year to report a ratio based only on internal energy consumption.
+
+The energy types included in the ratio are natural gas, gasoline, diesel, electricity, propane, fuel oil, liquid petroleum gas and district heating.
+
+See the Performance Data Appendix of TI’s 2022 Corporate Citizenship Report for energy reduction data.
+
+TI does not have data collection processes to track, record and report this information exactly this way.
+
+See the Water section of TI’s 2022 Corporate Citizenship Report and TI’s 2023 CDP Water Security response to learn more about water management.
+
+The TI ESH water management standard outlines requirements of wastewater programs, sewage treatment programs, stormwater pollution prevention and water reduction activities at each site.
+
+Additionally, we: Visually inspect our onsite wastewater treatment plants regularly to ensure they operate properly and do not leak.
+
+Periodically clean the plants and inspect the treatment basins for integrity.
+
+We calculate consumption data from water utility bills at sites that we financially control and that are larger than 50,000 square feet.
+
+Each year, we voluntarily report our water footprint to the CDP and in this report.
+
+Water sources Our water sources include surface water from local municipal supplies and groundwater.
+
+Our water footprint comprises three types of water: Nonmanufacturing used in restrooms, irrigation, drinking fountains and cafeterias.
+
+Manufacturing used to rinse wafers after chemical processing or for other fabrication processes.
+
+Manufacturing support used in exhaust abatement and cooling systems.
+
+See the Water section of TI’s 2022 Corporate Citizenship Report and TI’s 2023 CDP Water Security response to learn more about how TI interacts with water and collaborates with stakeholders regarding this shared resource.
+
+There are no water impacts directly attributable to discharges and runoff at any TI site.
+
+We sustain this by maintaining compliance with discharge limits in our permits, following TI standards, and ensuring that sites follow good housekeeping practices while actively collaborating to continuously improve and minimize exposure to water pathways.
+
+All of TI’s main manufacturing and assembly test facilities set annual water conservation goals based on projects they identified as part of the company’s ongoing energy and water reduction strategy.
+
+Sites develop and complete water conservation projects based on various factors, including process system reliability, economic feasibility and sustainability targets.
+
+Public policy and water stress also factor into these decisions, influencing the availability and cost of water, which drive water reduction and reclaim efforts to ensure system reliability and business continuity.
+
+Our internal water management standard includes guidelines that ensure compliance with wastewater, stormwater and sewage discharge permits, along with other requirements.
+
+Sites monitor water quality and have procedures to manage spills or other abnormalities.
+
+We report wastewater discharges and the portion of total water discharged through regulated wastewater treatment points to local, state, federal and international regulatory agencies.
+
+See the Water section of TI’s 2022 Corporate Citizenship Report and TI’s 2023 CDP Water Security response to learn more about wastewater management.
+
+Local regulatory agencies set minimum quality standards for effluents, which all TI sites manage to permissible limits.
+
+Some regulators incorporate sector specific standards to set their requirements.
+
+See the Performance Data Appendix of TI’s 2022 Corporate Citizenship Report for water withdrawal data.
+
+Municipal sources and groundwater supply our water.
+
+We calculate consumption from sites TI fully controls larger than 50,000 square feet.
+
+Federal, state or local regulators create wastewater permits that define and determine priority substances that must meet discharge limits.
+
+We comply with these limits by treating water in onsite treatment plants, separating concentrated metals and solvents from waste streams, and taking other actions.
+
+See the Performance Data Appendix of TI’s 2022 Corporate Citizenship Report for discharge data.
+
+See the Water section of TI’s 2022 Corporate Citizenship Report and Performance Data Appendix for consumption and storage data.
+
+We calculate consumption data from total water usage and site specific factors, such as evaporation, irrigation and boiler or cooling tower use.
+
+We verify this data by examining site water balances and discharge flow rates from our wastewater and sewage treatment systems.
+
+TI reports water usage data to local, state, federal and international regulatory agencies.
+
+See the Greenhouse Gas Emissions section of TI’s 2022 Corporate Citizenship Report, GRI: 302 ESH Disclosure of Management Approach in this index and TI’s 2023 CDP Climate Change response to learn more about how we manage emissions.
+
+We conduct routine monitoring and audits to comply with air quality and GHG emission regulations and reporting requirements that vary by country, state and municipality.
+
+We must report U.S. GHG emissions to the U.S. Environmental Protection Agency (EPA) to comply with its mandatory reporting requirements.
+
+The EPA requires that the semiconductor industry (among other industries) measure and report annual fluorinated GHG emissions (such as sulfur hexafluoride, perfluorocarbons PFCs and hydrochlorofluorocarbons), as well as GHG emissions from combustion sources.
+
+We also voluntarily report our GHG emissions data to the World Semiconductor Council (as part of the U.S. industry report), the CDP and in our annual Corporate Citizenship Report.
+
+TI reports U.S. air emissions data to federal and state regulators.
+
+We also report chemical releases and pollution prevention activities to the EPA’s Toxic Release Inventory.
+
+Boundaries Our organizational boundary includes TI manufacturing sites, larger non manufacturing sites, and support facilities subject to contracts considered embedded leases by TI for financial accounting purposes.
+
+Our operational boundary includes scope 1 and 2 emissions from these sites and facilities, as applicable.
+
+See the Performance Data Appendix for scope 1 data.
+
+The gases included in our data calculations include carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrochlorofluorocarbons (HFCs), PFCs, sulfur hexafluoride (SF6) and nitrogen trifluoride (NF3).
+
+We calculate scope 1 GHG emissions using relevant guidelines from the Intergovernmental Panel on Climate Change (IPCC), the EPA’s Mandatory Reporting Rule and published emission factors.
+
+Our methodology includes accepted quantification methods, emission factors and global warming potential.
+
+For more information, see TI’s 2023 CDP Climate Change response.
+
+See the Performance Data Appendix for scope 2 market and location based data and our response to indicator 305 1.
+
+The gases included in our market and location based data calculations include CO2, CH4 and N2O.
+
+In 2022, we made no significant emissions changes that triggered base year emissions recalculations.
+
+The EPA’s GHG Mandatory Monitoring and Reporting Requirements (MRR) Final Rule is our source of emissions factors and global warming potential rates.
+
+Scope 2 location based electricity emission factors are from the U.S. EPA eGRID for U.S. sites and the International Energy Agency for all international sites.
+
+Scope 2 market based factors are the Green E residual mix for U.S. locations and AIB Residual mix for our Freising, Germany location.
+
+All calculations for scope 2 emissions follow either U.S. EPA MMR or IPCC Tier 2 requirements.
+
+For more information, see TI’s 2023 CDP Climate Change response.
+
+For details on scope 3 GHG emissions, see TI’s CDP Climate Change response.
+
+TI’s normalized GHG market based emissions intensity ratio in 2022 was 0.27.
+
+The ratio equals the emissions intensity in 2022 divided by the emissions intensity in 2005.
+
+We calculate the intensity using both scope 1 and scope 2 emissions, with CO2, CH4, N2O, HFCs, PFCs, SF6 and NF3 as the numerator and the number of chips produced within TI as the denominator.
+
+TI’s scope 1 and 2 absolute emissions were down 23% from 2015 to 2022.
+
+See the Performance Data Appendix and TI’s 2023 CDP Climate Change response for more information about emission reductions.
+
+TI does not allow the use of Class I and II ODSs, except in closed loop refrigeration systems if the refrigeration system equipment was purchased or acquired before the ODS refrigerant’s elimination date.
+
+We do store some refrigerant gases for maintaining refrigeration systems for our chillers.
+
+See the Performance Data Appendix of TI’s 2022 Corporate Citizenship Report for U.S. air emissions data.
+
+See the Waste and Material Management section of TI’s 2022 Corporate Citizenship Report and GRI: 302 ESH Disclosure of Management Approach in this index to learn more about how we manage material use.
+
+See the Waste and Material Management section of TI’s 2022 Corporate Citizenship Report and Performance Data Appendix for information and data on waste stream activities.
+
+See the Waste and Material Management section of TI’s 2022 Corporate Citizenship Report for information on our waste diversion goal and activities.
+
+TI applies a three step approach to waste and material management: examine what we need, reuse what we can and recycle what is allowed.
+
+Most of the materials we need are for fabricating semiconductors.
+
+When purchasing materials and chemicals, we consider the resulting waste and whether an opportunity exists to reuse existing materials, purchase recycled materials or use environmentally friendly items instead.
+
+We also follow strict standards and protocols for responsibly purchasing, transporting, tracking and disposing of chemicals safely.
+
+We have an established process to review, assess and select waste management facilities according to legal requirements.
+
+Each TI site is responsible for monitoring and collecting waste data.
+
+See the Performance Data Appendix of TI’s 2022 Corporate Citizenship Report for waste generated data.
+
+See the Performance Data Appendix of TI’s 2022 Corporate Citizenship Report for waste diverted from disposal data.
+
+See the Performance Data Appendix of TI’s 2022 Corporate Citizenship Report for waste directed to disposal data.
+
+See GRI 302: Management of Material ESH Topics to learn more about TI’s approach to environmental management.
+
+We outline additional expectations and requirements in our Supplier Code of Conduct, Supplier Environmental and Social Responsibility Policy and ESH Handbook for Suppliers.
+
+We do not have a process to track the percentage of new suppliers screened.
+
+However, we screen any new supplier deemed critical or one that provides on site services to our factories.
+
+TI works with thousands of suppliers worldwide and communicates company expectations for responsible environmental performance.
+
+We assess strategic and high risk suppliers against our expectations, policies, standards and the RBA code of conduct.
+
+In 2022, we assessed 160 production suppliers that support our manufacturing operations with 335 factory locations 98% met our expectations.
+
+The remaining 2% required corrective actions, including additional training and enhanced policies.
+
+Our findings revealed no significant negative environmental impacts or concerns.
+
+As a result, we did not terminate any relationship.
+
+See the Workplace section of TI’s 2022 Corporate Citizenship Report to learn more about how we manage employment.
+
+Governance TI's senior vice president (SVP) of Human Resources (HR) establishes and maintains strategic direction, effective communication and reports to the CEO.
+
+Our HR leaders are responsible for developing strategies, programs, protocols and processes essential for effective productivity.
+
+This oversight ensures compliance with relevant regulations.
+
+The SVP of HR and head of diversity and inclusion oversee our diversity and inclusion programs.
+
+The SVP of HR and the head of talent development and acquisition oversee our development programs and workforce recruitment efforts.
+
+The SVP of HR and the head of compensation oversee employee compensation.
+
+The SVP of HR and the head of benefits oversee employee physical, mental and financial well being benefits.
+
+Managers, with the support of HR, are responsible for employee retention.
+
+In addition, site teams are responsible for implementing multifaceted and tailored retention programs and complying with site.
+
+Management of material topics specific employment laws.
+
+The Compensation Committee of TI’s board of directors oversees compensation practices relating to executive personnel.
+
+Policies and commitments TI’s commitment to equal employment opportunity extends to recruiting, hiring, training, promotions, transfers, compensation, benefits, termination, and all other terms and conditions of employment.
+
+We administer employment decisions in a nondiscriminatory manner without regard to race, color, religion, sex, gender, gender identity and expression, sexual orientation, marital status, national origin, ancestry, age, disability, genetic information, protected medical conditions, pregnancy, military and veteran status, or any other characteristic protected by applicable law.
+
+TI does not tolerate any harassment, retaliation, intimidation or violence.
+
+We also have policies on flexible work, conduct, privacy protection, wages, workforce reductions and performance improvement.
+
+Grievance channels We offer several channels through which TIers can submit questions, concerns or grievances without fear of retaliation, including to their supervisor, HR representative or anonymously through the Ethics Office.
+
+We also have multiple avenues to report work related injuries, illnesses, hazards and risks.
+
+Assessment We regularly monitor our employment processes and are focused on reducing bias within them.
+
+This includes conducting in depth analyses of our compensation system to look for any unexplained pay discrepancies and the reasons behind the.
+
+If we find disparities, we explore whether factors such as market pay ranges, performance or experience support the difference and if unjustified, we adjust.
+
+Resources We allocate extensive financial, human, training and communication resources to help employees understand our vision and expectations, their roles and responsibilities, learning opportunities, health and safety protections and other labor related needs.
+
+We aim to ensure that our recruiting efforts and workforce reflect the available talent pool.
+
+TI hired more than 10,200 employees (including exempt, non exempt and interns) in 2022.
+
+Recruiting efforts and programs are unique by country and region, based on local needs.
+
+We recruit from the states and countries where we operate, particularly for entry level and managerial positions, and then train employees for more advanced or senior roles.
+
+We use data analytics to track turnover by region to tailor programs for improvement.
+
+In 2022, total turnover was 12.2%, up from 9.8% in 2021.
+
+As an indication of the longevity of our workforce, in 2022, 23% of our employees had worked at TI for more than 20 years.
+
+Full time U.S. based employees and those who work 20 to 39 hours per week are eligible for all benefits, including medical, pharmacy, dental, vision and income protection.
+
+Temporary or part time employees working less than 20 hours per week are not eligible for benefits.
+
+TI offers 100% paid parental leave to part and full time U.S. employees who are eligible for benefits.
+
+In 2022, 285 U.S. employees utilized parental leave.
+
+We do not track return to work and retention rates after parental leave.
+
+For our employees outside of the U.S., we offer varying programs according to local regulations and market practice.
+
+See the Workplace section of TI’s 2022 Corporate Citizenship Report and GRI 401: Employment to learn more about how we manage employee relationships.
+
+To keep communication channels open and gather and share business information with our teams, we use various communication tools and platforms to facilitate open dialogue, share our expectations and reinforce our values.
+
+Our managers are the first to engage TIers, so we invest in their development and training to help them be stronger, more inclusive and to ensure that we operate in accordance with TI values.
+
+TI complies with all legal and regulatory requirements in this area for the jurisdictions in which it operates.
+
+In the U.S., TI’s policy is to provide a minimum of one week’s notice regarding shift changes.
+
+We provide at least 60 days’ notice (or pay in place of notice) for reductions in force.
+
+See the Safety and Health section of TI’s 2022 Corporate Citizenship Report and GRI 302: Management of Material ESH Topics to learn more about the company’s management approach.
+
+The Audit committee of TI’s board of directors oversees health and safety management for employees, supplemental contractors and workplace visitors.
+
+Our management approach includes several different elements: Formal ESH committees at our manufacturing sites which include managers, ESH specialists and TIers work with site managers to oversee health and safety management systems.
+
+Manufacturing and assembly test safety councils, comprising ESH and ergonomics representatives, drive a safety focused manufacturing culture within our facilities.
+
+Leaders at all levels support and reinforce consistent safety practices, including training and reporting.
+
+Employees must complete applicable training and keep their work environments safe.
+
+Policies TI is committed to giving employees a non threatening work environment and does not tolerate any act or threat of violence or harassment.
+
+Our: Threat Free Work Environment Policy describes our expectations.
+
+Supplier Code of Conduct requires that suppliers ensure that working conditions are safe.
+
+Supplier Environmental and Social Responsibility Policy outlines our expectations for health and safety.
+
+ESH Handbook for Suppliers summarizes TI’s standards, policies, guidelines and general practices.
+
+TI’s health and safety management system is voluntarily third party certified to ISO 45001:2018.
+
+This management system: Comprises interrelated and interacting elements used to establish our ESH policy and principles and objectives.
+
+Drives a reduction of occupational injuries and diseases and promotes and protects the physical and mental health of employees, contractors, customers and visitors.
+
+Records performance data identifies trends, weaknesses and hazards and remedies flaws.
+
+Ensures the quality of and facilitates workers’ access to safety and occupational health services.
+
+We require 100% of our employees and supplemental contractors at all manufacturing and assembly test sites to adhere to the management system requirements.
+
+Other personnel not managed by TI are responsible for following their companies’ ESH management procedures and applicable regulatory requirements.
+
+All TI sites are covered by occupational safety and health standards that help identify, evaluate and control potential workplace hazards.
+
+TI provides resources, training, one on one engagement and other tools to promote mental well being and improve or maintain physical health.
+
+In accordance with internal standards, all workers are responsible for and receive periodic training and communications on how to report unsafe conditions and injuries by calling internally managed emergency response centers.
+
+They also receive training on their responsibility to suspend any operation or deactivate any equipment in the event of imminent risk to life, health or the environment.
+
+Assessments Through routine programs, facility self assessments and audits, work area sampling and health and safety surveys, we assess potential safety and health risks by: Identifying, assessing and documenting potential workplace hazards and risks using qualitative and quantitative methods, and implementing appropriate controls to mitigate risks and ensure a safe workplace.
+
+Using the results of these assessments to identify annual goals to drive risk reduction projects in accordance with ISO 45001:2018 continually.
+
+Performing a thorough investigation after all incidents and near misses to analyze the root cause and take corrective and preventive actions.
+
+Communicating lessons learned and corrective action plans to other sites and groups to avoid similar issues.
+
+Documenting all incidents for review by a central recordkeeping review panel, which ensures the quality and accuracy of each injury investigation and its associated documentation.
+
+Conducting internal and external audits to verify the quality and effectiveness of our processes.
+
+TI’s needs and regulatory requirements determine competency requirements specific to job functions.
+
+See the Safety and Health section of TI’s 2022 Corporate Citizenship Report to learn more about occupational health services.
+
+TI ensures the quality of occupational health services through: Onsite clinics staffed by medical practitioners who hold recognized qualifications.
+
+TI's worldwide medical director , who reviews a statement of work for medical providers and conducts on site reviews as needed.
+
+Medical surveillance oversight and tracking for occupational health examinations.
+
+In addition, all TI sites: Use an industrial hygiene program to identify, evaluate and control potential workplace hazards.
+
+Collect employee health data to design custom health improvement programs, depending on TIers’ unique needs.
+
+Manage all personal health related information as confidential according to all legal requirements and our confidentiality classification expectations.
+
+TI sites have health and safety committees comprising ESH staff, site managers and employees who typically meet monthly to discuss site specific needs.
+
+We consult with employees and supplemental contractors on various management system programs, training courses, and hazard and risk assessments to encourage their feedback on closing gaps, improving performance and proactively managing risks.
+
+For employees not actively engaged in safety meeting discussions, a representative, such as a manufacturing superintendent, will attend and provide a conduit for information sharing.
+
+To reinforce TI’s commitment to its employees’ safety, we: Train employees to prioritize safety and speak up about any potential hazards, how to correct or report unsafe behaviors and conditions, follow procedures and policies and use personal protective equipment.
+
+Deliver occupational health and safety training to 100% of our employees and supplemental contractors.
+
+Tailor training to each role to reinforce our commitment to compliance, resilient ESH standards and customers’ performance expectations.
+
+Reinforce expectations regularly through safety campaigns, articles, meetings, posters and reminder emails.
+
+Our ESH leadership team reviews key outcomes and determines focus areas and opportunities for improvement every year.
+
+We expect our employees to share lessons learned and best practices to prevent future incidents and recognize and reinforce safe behavior.
+
+TI has implemented many programs aimed at improving employees’ health.
+
+See the Safety and Health section of TI’s 2022 Corporate Citizenship Report to learn more about occupational health services.
+
+For ergonomics risk, we: Implement high and medium risk reduction projects that help sites identify and reduce musculoskeletal disorder risks.
+
+Engage workers to assess safety and ergonomics risks and reinforce solutions.
+
+Offer a health care plan that includes a preventive health care provider who works with musculoskeletal discomfort.
+
+Implement a hearing conservation program and controls, which we continuously monitor according to our medical surveillance program.
+
+Created a website to help at home employees conduct ergonomic assessments.
+
+At our manufacturing sites, we provide training on proper stretching to prepare the body for work and reduce fatigue, which is led by contracted health and fitness professionals and reinforced through a training manual and posters.
+
+U.S. employees also have access to on demand stretching breaks and fitness classes.
+
+In the U.S., our Well Being Steering committee increases awareness of TI’s wellness benefits and programs.
+
+TI’s Safety Panel reviews all reported injury illness cases.
+
+We share lessons learned with employees to increase risk awareness and deliver monthly safety topics to reinforce safe practices.
+
+Our Supplier Code of Conduct requires that our suppliers ensure that working conditions are safe our Supplier Environmental and Social Responsibility Policy outlines our expectations for ESH protection.
+
+See TI’s response to indicators 403 1 and 403 3 for more information about mitigating health and safety impacts.
+
+TI’s occupational health and safety management system is third party certified to ISO 45001 requirements and covers 100% of employees and supplemental contractors (its parameters exclude turnkey suppliers and non TI managed workers as they are expected to follow their companies’ procedures and applicable regulatory requirements).
+
+To ensure the effectiveness of our management system, the Worldwide ESH Compliance support team and independent third parties audit each facility every three years in interim years, the facilities perform self assessments.
+
+See the Performance Data Appendix of TI’s 2022 Corporate Citizenship Report for injury data.
+
+The calculation is based on 200,000 hours worked and excludes temporary labor provided by turnkey suppliers or non TI managed workers.
+
+The main employee and worker injuries include overexertion awkward posture or ergonomics issues contact with an object (struck by or against) and falls, slips, trips and losses of balance.
+
+See the Performance Data Appendix of TI’s 2022 Corporate Citizenship Report for ill health data (the calculation excludes temporary labor provided by turnkey suppliers or non TI managed workers).
+
+The main types of employee ailments include overexertion and awkward posture or ergonomics issues.
+
+See the Talent Development section of TI’s 2022 Corporate Citizenship Report and GRI 401: Employment to learn more about how TI manages employee development.
+
+Assessment To strengthen our programs, we: Track attendance in mandatory training programs to ensure compliance.
+
+Assess training content to ensure that it is accurate and relevant.
+
+We work with facilitators and subject matter experts to improve program content where needed.
+
+Benchmark with training providers and other companies to ensure the effectiveness of our learning modalities.
+
+Conduct internal and external audits to verify the quality and effectiveness of our processes.
+
+TI’s needs and regulatory requirements determine competency requirements specific to job functions.
+
+Employees globally received, on average, approximately 50.7 hours of training in 2022.
+
+Employees take part in various development opportunities throughout their careers, which are summarized in the Talent Development section of TI’s 2022 Corporate Citizenship Report.
+
+If workforce reductions occur, we make every effort to transfer impacted employees to other open positions within TI.
+
+When transfers are not possible, we provide severance packages that include r sum and job search assistance.
+
+TI supports employees owning their careers, which includes three main components: performing in your current role, developing your capability and planning your career.
+
+We encourage goal setting at the beginning of each year, including performance and development goals and formal performance reviews twice a year to confirm that employees understand their own goals and manager expectations.
+
+We do not track the number of employees receiving performance reviews.
+
+We have seen greater success in employee engagement, goal setting and alignment with our priorities by encouraging better conversations between supervisors and employees.
+
+We provide access to online resources to guide these conversations.
+
+We also host workshops on setting goals, reviewing performance, development planning, engaging and retaining talent, and career planning.
+
+See the Diversity and Inclusion section of TI’s 2022 Corporate Citizenship Report and Employment management of material topics in this index to learn more about the company’s management approach.
+
+To assess our diversity strategy’s effectiveness, we evaluate the outcomes of our various diversity, equity and inclusion efforts to determine any necessary adjustments.
+
+We also benchmark our strategy, programs and outcomes against our peers, and monitor reported concerns or grievances.
+
+See the Workforce Representation section and Performance Data Appendix in TI’s 2022 Corporate Citizenship Report for diversity data.
+
+In 2022, TI retained a third party to conduct a separate compensation analysis examining gender and race pay parity (including base, and bonus pay and equity) that considered job type, job level and country.
+
+Our analysis confirmed that within the U.S. and worldwide, TI pays women as much as men.
+
+In the U.S., TI pays minorities as much as non minorities.
+
+Globally, women make 1.015 for every 1.000 men earn.
+
+In the U.S., women make 1.002 for every 1.000 men earn, and minorities make 1.002 for every 1.000 non minorities earn.
+
+We have a long standing practice to pay our employees fairly and equitably.
+
+TI maintains competitive and equitable compensation policies.
+
+We designed checks and balances into our compensation system, including conducting regular in depth analyses, to ensure we achieve them.
+
+See GRI 401: Employment, Living our values TI’s ambitions, values and code of conduct and our Equal Employment Opportunity Policy in this index to learn more about our nondiscrimination standards.
+
+We: Take measures to ensure that our recruiting efforts and workforce reflect the available talent pool.
+
+Measure participation in our diversity initiatives.
+
+Benchmark our programs and strategies against our peers.
+
+We investigate and work to resolve all discrimination inquiries and take appropriate remedial measures.
+
+TI does not publicly report the number or nature of any such incidents for confidentiality reasons.
+
+We periodically review and reassess this information to ensure adequate and effective preventive measures.
+
+TI forbids the use of child labor in any area of our business and our Supplier Code of Conduct forbids child labor in any stage of manufacturing.
+
+See the Labor and Human Rights and Supply Chain Management sections of TI’s 2022 Corporate Citizenship Report to learn more about our policies, reporting and assessment mechanisms.
+
+We use our Living our values, TI's ambitions, values and code of conduct Business Practices Statement and our membership in organizations such as the RBA as reference points for our approach to managing human rights issues.
+
+Governance The Audit committee of our board of directors oversees human and labor rights related efforts and receives annual updates.
+
+If a serious violation occurs, we promptly notify the committee chair.
+
+Assessment We require all worldwide manufacturing sites to complete third party self assessment questionnaires annually, focusing on human rights practices.
+
+TI and third party auditors also assess select sites for human rights risks.
+
+Policies and practices TI has: Nondiscrimination, workplace safety, anti human trafficking, working hours, minimum wages, and data privacy policies.
+
+Additional policies guide our actions in specific areas, such as supply chain, environmental protection, health and safety and privacy.
+
+Several operating procedures to safeguard employees and suppliers’ and contractors’ rights, including labor standards, training and awareness building practices, freedom to associate and incident reporting tools.
+
+TI’s Ethics Office is responsible for investigating all child labor allegations and taking corrective actions if needed.
+
+TI assessed nearly 230 suppliers for child labor and other human rights risks findings revealed no significant negative impacts or concerns.
+
+TI forbids forced or compulsory labor in any area of its business and the Supplier Code of Conduct also forbids forced or compulsory labor.
+
+See GRI 408: Child Labor for more information on how TI manages human and labor rights.
+
+TI’s Ethics Office is responsible for investigating all forced or compulsory labor allegations and taking corrective actions if needed.
+
+TI assessed nearly 230 suppliers for forced or compulsory labor and other human rights risks findings revealed no significant negative impacts or concerns.
+
+Our Worldwide Protective Services organization has a standard protocol for maintaining a globally safe and respectful working environment.
+
+TI delivers targeted training that includes ethics, compliance and human rights components to 100% of its security personnel, including third party security contractors.
+
+TI positively impacts the global communities in which it operates through employment, wages, taxes, supplier contracts, indirect jobs, giving and volunteerism.
+
+Worldwide, our devices are used in technologies that improve education, enhance automotive safety and efficiency, reduce energy consumption, optimize health and well being, and enable other social and environmental benefits.
+
+At each site, we engage government, business and community leaders to build mutually beneficial relationships, identify local needs, responsibly manage shared resources, and prioritize capital and philanthropic investments.
+
+We solicit feedback to help us assess our impact and make refinements.
+
+TI has stringent standards, policies and processes to ensure that our local operations are safe, and that human rights and biodiversity are protected, diversity is valued, employees are compensated fairly and equitably, and all stakeholders are treated with dignity and respect.
+
+We strive to be good corporate citizens and enrich the communities where our teams live and play to ensure our collective long term sustainability.
+
+When doing business in new communities, we engage local government, business and community leaders to establish mutually beneficial relationships, understand the availability of infrastructure and shared resources, and the extent of qualified workers to hire.
+
+We maintain these relationships and discussions, and monitor our collective needs.
+
+TI also conducts formal environmental impact assessments to determine water, power and infrastructure availability, the location of sensitive ecosystems and other potential risks.
+
+Our sites currently are in industrial areas and do not negatively impact biodiversity or vulnerable populations directly.
+
+Additionally, we engage with community leaders and nonprofits that align with our giving priorities so that we may support them through corporate, TI Foundation and employee retiree donations, disaster relief funding or through volunteerism.
+
+Stakeholders with questions or concerns about our community, philanthropy and volunteering programs can email citizenshipfeedback list.ti.com or contact the TI Ethics Office anonymously.
+
+TI broke ground on a new 300 mm semiconductor wafer fabrication plant in Sherman, Texas.
+
+The potential 30 billion investment includes plans for four fabs to meet demand over time, supporting as many as 3,000 direct jobs.
+
+We also began production at our new 300 mm fabs in Richardson, Texas and Lehi, Utah, a site that TI acquired in 2021.
+
+These sites will also create new jobs and generate billions in economic growth.
+
+Conversely, none of TI’s sites experienced negative impacts in 2022.
+
+See the Supply Chain Responsibility section of TI’s 2022 Corporate Citizenship Report, Anti Human Trafficking Statement and Suppliers website to learn more about how we manage suppliers’ social risks.
+
+We do not have a process to track the percentage of new suppliers screened.
+
+However, we screen any new supplier deemed critical or one that provides on site services to our factories.
+
+In 2022, TI assessed nearly 230 suppliers and the findings revealed no significant negative impacts or concerns.
+
+As a result, we did not terminate any relationships.
+
+TI’s innovations facilitate economic growth in the global communities where we operate.
+
+Our affordable technologies make homes and automobiles safer reduce energy consumption and expand access to light, power and electronics.
+
+To protect our ability to engineer progress, we advocate for government policies that help us attract talent, drive innovation and promote competitiveness.
+
+We conduct public policy activities transparently, ethically and in compliance with relevant laws.
+
+We are forthright in how we govern our actions, and disclose our membership in lobbying associations and political expenditures.
+
+We openly describe the role and limitations of TI’s political action committee and our employees’ rights in the political process.
+
+We regularly perform extensive due diligence and provide reports and training to maintain compliance with our standards and requirements.
+
+The Governance and Shareholder Relations committee of TI’s board of directors review these actions annually to confirm their consistency with company policies.
+
+Across the globe, we engage with policymakers, government authorities, industry organizations and our peers to discuss and identify solutions to shared challenges.
+
+We assess the effectiveness of this collaboration by our ability to compete fairly and transparently.
+
+If concerns arise, stakeholders can contact our vice president of Worldwide Government Relations or the TI Ethics Office.
+
+For more information, see the Public Policy section of TI’s 2022 Corporate Citizenship Report and TI’s Public Policy website.
+
+TI’s political activities and contributions reflect U.S. activity only.
+
+We do not make political contributions outside the U.S.
+
+TI meets regulatory and customer requirements for material content contained in its labels and packing materials.
+
+We have published information about how we manage restricted chemicals and product labeling on TI.com.
+
+Our ongoing objective is to comply with ever changing regulations and import and export laws while delivering products on time.
+
+Label requirements vary by material type, customer agreements and country specific laws and regulations.
+
+We: Use TI standard labels and create semi custom labels if customers require them.
+
+Share information about our products’ possible environmental and social impacts on our Eco Info page and material content search tool.
+
+Provide applicable safety information in product literature.
+
+Assess and indicate the compliance status of all regulatory and industry requirements for integrated circuit components on our labels and website.
+
+Our Restricted Chemicals and Materials program requires material suppliers and external manufacturing to provide appropriate information for TI to assess compliance with restricted chemicals and materials requirements at least annually.
+
+TI complies with information and labeling requirements across the globe, such as the European Union (EU) Restriction of Hazardous Substances, the United Kingdom Conformity Assessed Marking and the EU Directive for Waste Electrical and Electronic Equipment.
+
+We also adhere to voluntary codes, such as Underwriters Laboratories, the Canadian Standards Association (North American certification), the China Quality Certification Center (Chinese certification marking) and Verband Deutscher Elektrotechniker (European test certification marking).
+
+In 2022, TI had zero noncompliance incidents with regulated and voluntary codes.
+
+TI had zero incidents of non compliance related to product marketing communications in 2022.
+
+See the Information Protection section of TI’s 2022 Corporate Citizenship Report to learn more about the company’s management approach.
+
+To protect our company, technology, and intellectual property from potential cybersecurity threats, we employ various defensive and monitoring techniques based on industry frameworks and cybersecurity standards (which may include personal information).
+
+We also collaborate with experts and industry partners to exchange information about threats, best practices and trends.
+
+Governance Our chief information officer oversees information protection, and we have governance and compliance structures in place to address or elevate issues if needed.
+
+Senior leaders from major business units and support entities review cybersecurity threats, prioritize security actions, and help build awareness and support within their organizations.
+
+Our Confidential Information Protection Council ensures that we appropriately classify and protect confidential information and trade secrets.
+
+Our Privacy committee, comprising cross organizational representatives, helps protect TIers’, customers’ and business partners’ personally identifiable information.
+
+Assessment We: Regularly review and test controls to ensure that protections function as they should.
+
+Conduct external penetration tests, internal vulnerability assessments, and audits at the site and business level.
+
+Evaluate our practices against industry standards and vet with external experts.
+
+Grievance channels If employees identify potential threats or have questions or concerns about IT security, we have internal channels to assist them.
+
+Customers and suppliers can also contact us directly through their account managers and other channels.
+
+Resources TI allocates extensive financial, human and information protection resources to protect intellectual property and employee and customer information.
+
+TI investigates and evaluates all potential breaches or privacy concerns that are brought to its attention.
+
+While the company does not report or publish information about individual concerns or allegations, we would report or disclose any material breach or data concern as required by applicable legal or regulatory requirements.
+
+See the Risk Management and Business Continuity section of TI’s 2022 Corporate Citizenship Report to learn more about how TI manages these programs.
+
+TI is a member of the business continuity planning (BCP) Conference Board, a consortium of business stakeholders who discuss and share best practices on ways to anticipate, mitigate and avoid risks.
+
+The Financial Stability Board created the Task Force on Climate related Financial Disclosures (TCFD) to improve and increase reporting of climate related financial information.
+
+This index includes information that is not material to TI, but may be considered important to TI and our stakeholders.
+
+Describe the board’s oversight of climate related risks and opportunities.
+
+See Board Oversight of Environmental, Social and Governance (ESG) Matters and TI’s 2023 CDP Climate Change response.
+
+Describe management’s role in assessing and managing climate related risks and opportunities.
+
+See Board Oversight of ESG Matters and TI’s 2023 CDP Climate Change response.
+
+Describe the climate related risks and opportunities the organization has identified over the short, medium and long term.
+
+Describe the impact of climate related risks and opportunities on the organization’s business, strategy and financial planning.
+
+Describe the resilience of the organization’s strategy, taking into consideration different climate related scenarios, including a 2 C or lower scenario.
+
+Describe the organization’s processes for identifying and assessing climate related risks.
+
+Describe the organization’s processes for managing climate related risks.
+
+Describe the resilience of the organization’s strategy, taking into consideration different climate related scenarios, including a 2 C or lower scenario.
+
+Describe how processes for identifying, assessing and managing climate related risks are integrated into the organization’s overall risk management.
+
+Disclose the metrics used by the organization to assess climate related risks and opportunities in line with its strategy and risk management process.
+
+TI has not defined metrics to assess climate related risks at this time.
+
+Disclose scope 1, scope 2, and if appropriate, scope 3 GHG emissions and the related risks.
+
+See the Greenhouse Gas Emissions section of TI’s 2022 Corporate Citizenship Report and TI’s 2023 CDP Climate Change response.
+
+Describe the targets used by the organization to manage climate related risks and opportunities and performance against targets.
+
+See the Greenhouse Gas Emissions section of TI’s 2022 Corporate Citizenship Report and TI’s 2023 CDP Climate Change response.
+
+TI uses the Sustainability Accounting Standards Board (SASB) Standards on topics deemed significant to semiconductor companies.
+
+This index includes information that is not material to TI, but may be considered important to TI and our stakeholders.
+
+See the Greenhouse Gas Emissions section of TI’s 2021 Corporate Citizenship Report or TI’s 2023 CDP Climate Change response for GHG data.
+
+Total energy consumed, percentage grid electricity and percentage renewable energy.
+
+In 2022, TI consumed 13,488,318 gigajoules of energy.
+
+See the Performance Data Appendix of TI’s 2022 Corporate Citizenship Report for additional energy data.
+
+Total water withdrawn, total water consumed, and percentage of each in regions with high or extremely high baseline water stress.
+
+In 2022, TI consumed 5,393 thousand cubic meters of water and withdrew 24,217 thousand cubic meters.
+
+See the Performance Data Appendix of TI’s 2022 Corporate Citizenship Report and TI’s 2032 CDP Water Security response for additional water data.
+
+Amount of hazardous waste from manufacturing, percentage recycled.
+
+See the Performance Data Appendix of TI’s 2022 Corporate Citizenship Report for waste data.
+
+Description of efforts to assess, monitor and reduce employees’ exposure to human health hazards.
+
+See the Safety and Health section of TI’s 2022 Corporate Citizenship Report and the Occupational Health and Safety section of the GRI Index.
+
+TI had no legal proceedings associated with employee health and safety that resulted in monetary losses in 2022.
+
+Percentage of employees who are foreign nationals and located offshore.
+
+TI does not track the percentage of employees who are foreign nationals.
+
+See the Performance Data Appendix of TI’s 2022 Corporate Citizenship Report for the percentage of offshore employees.
+
+TI does not track the percentage of products by revenue that contain IEC 62474 declarable substances.
+
+Processor energy efficiency at a system level for servers, desktops and laptops.
+
+Processor energy efficiency is not relevant to our business.
+
+Description of the management of risks associated with the use of critical materials.
+
+See the Responsible Minerals section of TI’s 2022 Corporate Citizenship Report and TI’s Conflict Minerals Policy.
+
+Total amount of monetary losses as a result of legal proceedings associated with anticompetitive behavior regulations.
+
+TI was not subject to any monetary losses from legal proceedings associated with anti competitive behavior regulations in 2022.
+
+Notice regarding forward looking statements This communication includes forward looking statements intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995.
+
+These forward looking statements generally can be identified by phrases such as TI or its management believes, expects, anticipates, foresees, forecasts, estimates or other words or phrases of similar import.
+
+Similarly, statements herein that describe TI’s business strategy, outlook, objectives, plans, intentions or goals are forward looking statements.
+
+All such forward looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those in forward looking statements.
+
+For a more detailed discussion of these factors, see the risk factors discussion in the first quarter of 2023 form 10 Q, filed with the SEC.
+
+The forward looking statements included in this communication are made only as of the date of this communication.
+
+We undertake no obligation to update the forward looking statements to reflect subsequent events or circumstances.
+
+ERM Certification Verification Services Incorporated ( ERM CVS ) was engaged by Texas Instruments Incorporated ( TI ) to provide limited assurance in relation to the selected information set out below and presented in the 2022 TI Corporate Citizenship Report (the Report ).
+
+Whether the fiscal year 2022 GHG emissions and energy data for the following selected indicators are fairly presented in the Report, in all material respects, in accordance with the reporting criteria.
+
+We performed a limited assurance engagement, in accordance with the International Standard on Assurance Engagements ISAE 3000 (Revised) Assurance Engagements other than Audits or Reviews of Historical Financial Information’ issued by the International Auditing and Standards Board.
+
+The procedures performed in a limited assurance engagement vary in nature and timing from and are less in extent than for a reasonable assurance engagement and consequently, the level of assurance obtained in a limited assurance engagement is substantially lower than the assurance that would have been obtained had a reasonable assurance engagement been performed.
+
+Texas Instruments is responsible for preparing the Report and for the collection and presentation of the information within it, and for the designing, implementing, and maintaining of internal controls relevant to the preparation and presentation of the Report.
+
+ERM CVS’ responsibility is to provide conclusions to Texas Instruments on the agreed scope based on our engagement terms with Texas Instruments, the assurance activities performed and exercising our professional judgement.
+
+We accept no responsibility, and deny any liability, to any party other than Texas Instruments for the conclusions we have reached.
+
+Our conclusion Based on our activities, as described below, nothing has come to our attention to indicate that the 2022 data and information for the disclosures listed under Scope’ above are not fairly presented in the Report, in all material respects, in accordance with the reporting criteria.
+
+Emphasis of matter Without affecting our conclusion, we draw attention to the explanatory notes provided by Texas Instruments relating to the data on page 10 and page 42 of the Report, in particular the limitations relating to additional sources of Scope 1 GHG data on page 10 and page 42 of the Report, which should be read in conjunction with the data.
+
+Assessing the appropriateness of the reporting criteria for the Report.
+
+Interviews with management representatives responsible for managing the selected issues.
+
+Interviews with relevant staff to understand and evaluate the relevant management systems and processes (including internal review and control processes) used for collecting and reporting the selected disclosures.
+
+A review at corporate level of a sample of qualitative and quantitative evidence supporting the reported information.
+
+An analytical review of the year end data submitted by all locations included in the consolidated 2022 group data for the selected disclosures which included testing the completeness and mathematical accuracy of conversions and calculations, and consolidation in line with the stated reporting boundary.
+
+In person site visit to Texas Instruments’ North Dallas Campus (USA) and Miho (Japan) facilities production sites to review source data and local reporting systems and controls.
+
+As well as a virtual site to Portland (Maine, USA) facility to review source data and local reporting systems and controls.
+
+Confirming conversion and emission factors and assumptions used.
+
+Reviewing the presentation of information relevant to the scope of our work in the Report to ensure consistency with our findings.
+
+The limitations of our engagement The reliability of the assured information is subject to inherent uncertainties, given the available methods for determining, calculating, or estimating the underlying information.
+
+It is important to understand our assurance conclusions in this context.
+
+Our independence, integrity and quality control ERM CVS is an independent certification and verification body accredited by UKAS to ISO 17021:2015.
+
+Accordingly, we maintain a comprehensive system of quality control, including documented policies and procedures regarding compliance with ethical requirements, professional standards, and applicable legal and regulatory requirements.
+
+Our quality management system is at least as demanding as the relevant sections of ISQM 1 and ISQM 2 (2022).
+
+ERM CVS applies a Code of Conduct and related policies to ensure that its employees maintain integrity, objectivity, professional competence, and high ethical standards in their work.
+
+Our processes are designed and implemented to ensure that the work we undertake is objective, impartial and free from bias and conflict of interest.
+
+Our certified management system covers independence and ethical requirements that are at least as demanding as the relevant sections of Parts A B of the IESBA Code relating to assurance engagements.
+
+The team that has undertaken this assurance engagement has extensive experience in conducting assurance on environmental, social, ethical and health and safety information, systems and processes, and provides no consultancy related services to Texas Instruments in any respect.
+
+Other Matters observations We have provided Texas Instruments with a separate management report.
+
+We recommend attention is given during 2023 to: Develop and refine Fluorinated Heat Transfer Fluids (FHTFs) data collection and reporting to align with IPCC 2019 across all international sites to align with industry peers, and include FHTFs from the US and international sites within the 2023 GHG inventory.
